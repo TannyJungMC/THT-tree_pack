@@ -1,1 +1,1 @@
-# test_txt
+This project is for [Tan's Huge Trees](https://legacy.curseforge.com/minecraft/mc-mods/tan-huge-trees) mod, it's separate pack from main mod. Contains generated tree files, their presets and default settings. When the mod loaded in the game, it will auto download this project and install in config folder.
