@@ -1,0 +1,3 @@
+Merge All Lines = FALSE
+
+execute unless block ~ ~ ~ snow run setblock ~ ~1 ~ snow keep
