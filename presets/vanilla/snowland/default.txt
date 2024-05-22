@@ -1,7 +1,0 @@
-rarity : 10
-biome : minecraft:snowy_taiga
-ground_block : #tht:general_ground_blocks
-min_distance : 50
-
-dead_tree_chance : 0.01
-rotation : 360
