@@ -1,7 +1,0 @@
-merge_all : true
-
-
-
-
-
-execute if block ~ ~ ~ #minecraft:leaves run setblock ~ ~1 ~ snow keep
