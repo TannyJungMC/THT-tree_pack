@@ -1,0 +1,19 @@
+Lock File = FALSE
+Merge All Lines = FALSE
+
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"3"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"4"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"5"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"6"}'}
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at @e[tag=THT-select,name=1] run place feature minecraft:flower_default
+execute at @e[tag=THT-select,name=2] run place feature minecraft:flower_flower_forest
+execute at @e[tag=THT-select,name=3] run place feature minecraft:flower_meadow
+execute at @e[tag=THT-select,name=4] run place feature minecraft:flower_plains
+execute at @e[tag=THT-select,name=5] run place feature minecraft:flower_swamp
+execute at @e[tag=THT-select,name=6] run place feature minecraft:forest_flowers
+
+kill @e[tag=THT-random]

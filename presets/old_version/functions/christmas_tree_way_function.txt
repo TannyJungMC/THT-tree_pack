@@ -1,0 +1,40 @@
+Lock File = FALSE
+Merge All Lines = FALSE
+
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"0"}'}
+
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"3"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"4"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"5"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"6"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"7"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"8"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"9"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"10"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"11"}'}
+
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at @e[tag=THT-select,name=1] run setblock ~ ~-1 ~ coal_block keep
+execute at @e[tag=THT-select,name=2] run setblock ~ ~-1 ~ iron_block keep
+execute at @e[tag=THT-select,name=3] run setblock ~ ~-1 ~ gold_block keep
+execute at @e[tag=THT-select,name=4] run setblock ~ ~-1 ~ emerald_block keep
+execute at @e[tag=THT-select,name=5] run setblock ~ ~-1 ~ redstone_block keep
+execute at @e[tag=THT-select,name=6] run setblock ~ ~-1 ~ lapis_block keep
+execute at @e[tag=THT-select,name=7] run setblock ~ ~-1 ~ diamond_block keep
+execute at @e[tag=THT-select,name=8] run setblock ~ ~-1 ~ netherite_block keep
+execute at @e[tag=THT-select,name=9] run setblock ~ ~-1 ~ glowstone keep
+execute at @e[tag=THT-select,name=10] run setblock ~ ~-1 ~ sea_lantern keep
+execute at @e[tag=THT-select,name=11] run setblock ~ ~-1 ~ shroomlight keep
+
+kill @e[tag=THT-random]

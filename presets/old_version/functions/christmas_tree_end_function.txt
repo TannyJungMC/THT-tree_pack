@@ -1,0 +1,24 @@
+Lock File = FALSE
+Merge All Lines = FALSE
+
+THT event txt_function end_function random_trees
+
+execute at @e[name=THT-tree_trunk_<ID>] run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
+execute at @e[name=THT-tree_trunk_<ID>] run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at @e[tag=THT-select,name=1] run fill ~ ~1 ~ ~ ~4 ~ gold_block
+execute at @e[tag=THT-select,name=1] run fill ~3 ~2 ~ ~-3 ~2 ~ gold_block
+execute at @e[tag=THT-select,name=1] run fill ~1 ~ ~ ~1 ~1 ~ gold_block
+execute at @e[tag=THT-select,name=1] run fill ~-1 ~ ~ ~-1 ~1 ~ gold_block
+execute at @e[tag=THT-select,name=1] run setblock ~2 ~-1 ~ gold_block
+execute at @e[tag=THT-select,name=1] run setblock ~-2 ~-1 ~ gold_block
+
+execute at @e[tag=THT-select,name=2] run fill ~ ~1 ~ ~ ~4 ~ gold_block
+execute at @e[tag=THT-select,name=2] run fill ~ ~2 ~3 ~ ~2 ~-3 gold_block
+execute at @e[tag=THT-select,name=2] run fill ~ ~ ~1 ~ ~1 ~1 gold_block
+execute at @e[tag=THT-select,name=2] run fill ~ ~ ~-1 ~ ~1 ~-1 gold_block
+execute at @e[tag=THT-select,name=2] run setblock ~ ~-1 ~2 gold_block
+execute at @e[tag=THT-select,name=2] run setblock ~ ~-1 ~-2 gold_block
+
+kill @e[tag=THT-random]

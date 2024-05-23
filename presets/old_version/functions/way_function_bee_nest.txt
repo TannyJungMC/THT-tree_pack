@@ -1,0 +1,19 @@
+Lock File = FALSE
+Merge All Lines = FALSE
+
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"3"}'}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"4"}'}
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at @e[tag=THT-select,name=1] if block ~ ~-1 ~ #tht:air_blocks if block ~ ~-2 ~ #tht:air_blocks run setblock ~ ~-1 ~ bee_nest[facing=north]
+execute at @e[tag=THT-select,name=2] if block ~ ~-1 ~ #tht:air_blocks if block ~ ~-2 ~ #tht:air_blocks run setblock ~ ~-1 ~ bee_nest[facing=west]
+execute at @e[tag=THT-select,name=3] if block ~ ~-1 ~ #tht:air_blocks if block ~ ~-2 ~ #tht:air_blocks run setblock ~ ~-1 ~ bee_nest[facing=east]
+execute at @e[tag=THT-select,name=4] if block ~ ~-1 ~ #tht:air_blocks if block ~ ~-2 ~ #tht:air_blocks run setblock ~ ~-1 ~ bee_nest[facing=south]
+
+execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tht:air_blocks run summon bee ~ ~-2 ~
+execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tht:air_blocks run summon bee ~ ~-2 ~
+execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tht:air_blocks run summon bee ~ ~-2 ~
+
+kill @e[tag=THT-random]
