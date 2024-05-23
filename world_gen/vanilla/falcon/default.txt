@@ -1,0 +1,9 @@
+rarity : 25
+biome : minecraft:forest
+ground_block : #tht:general_ground_blocks
+
+min_distance : 25
+group_chance : 0.5
+
+dead_tree_chance : 0.01
+rotation : 360

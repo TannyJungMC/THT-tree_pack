@@ -1,0 +1,9 @@
+rarity : 50
+biome : minecraft:sparse_jungle
+ground_block : minecraft:grass_block
+
+min_distance : 0
+group_chance : 0.5
+
+dead_tree_chance : 0.01
+rotation : 360
