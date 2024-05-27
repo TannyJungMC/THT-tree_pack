@@ -235,7 +235,7 @@ tannyjung-alpha_oak
 ,trunk_generator_type:"square"
 ,trunk_outer:"oak_wood"
 ,trunk_outer_level:3
-,trunk_inner:"stripped_oak_wood"
+,trunk_inner:"oak_wood"
 ,trunk_inner_level:3
 ,trunk_core:"stripped_oak_wood"
 ,trunk_replace:true
@@ -274,7 +274,7 @@ tannyjung-alpha_oak
 ,branch_generator_type:"square"
 ,branch_outer:"oak_wood"
 ,branch_outer_level:3
-,branch_inner:"stripped_oak_wood"
+,branch_inner:"oak_wood"
 ,branch_inner_level:3
 ,branch_core:"stripped_oak_wood"
 ,branch_replace:true
@@ -334,7 +334,7 @@ tannyjung-alpha_oak
 ,twig_generator_type:"square"
 ,twig_outer:"oak_wood"
 ,twig_outer_level:3
-,twig_inner:"stripped_oak_wood"
+,twig_inner:"oak_wood"
 ,twig_inner_level:3
 ,twig_core:"stripped_oak_wood"
 ,twig_replace:true
@@ -394,7 +394,7 @@ tannyjung-alpha_oak
 ,leaves_generator_type:"square"
 ,leaves_outer:"oak_wood"
 ,leaves_outer_level:3
-,leaves_inner:"stripped_oak_wood"
+,leaves_inner:"oak_wood"
 ,leaves_inner_level:3
 ,leaves_core:"stripped_oak_wood"
 ,leaves_replace:true

@@ -235,7 +235,7 @@ tannyjung-bush
 ,trunk_generator_type:"sphere"
 ,trunk_outer:"oak_wood"
 ,trunk_outer_level:1
-,trunk_inner:"stripped_oak_wood"
+,trunk_inner:"oak_wood"
 ,trunk_inner_level:0
 ,trunk_core:"stripped_oak_wood"
 ,trunk_replace:true
@@ -274,7 +274,7 @@ tannyjung-bush
 ,branch_generator_type:"sphere"
 ,branch_outer:"oak_wood"
 ,branch_outer_level:1
-,branch_inner:"stripped_oak_wood"
+,branch_inner:"oak_wood"
 ,branch_inner_level:0
 ,branch_core:"stripped_oak_wood"
 ,branch_replace:true
@@ -334,7 +334,7 @@ tannyjung-bush
 ,twig_generator_type:"sphere"
 ,twig_outer:"oak_wood"
 ,twig_outer_level:1
-,twig_inner:"stripped_oak_wood"
+,twig_inner:"oak_wood"
 ,twig_inner_level:0
 ,twig_core:"stripped_oak_wood"
 ,twig_replace:true
@@ -394,7 +394,7 @@ tannyjung-bush
 ,leaves_generator_type:"sphere"
 ,leaves_outer:"oak_wood"
 ,leaves_outer_level:1
-,leaves_inner:"stripped_oak_wood"
+,leaves_inner:"oak_wood"
 ,leaves_inner_level:0
 ,leaves_core:"stripped_oak_wood"
 ,leaves_replace:true
