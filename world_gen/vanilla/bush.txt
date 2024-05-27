@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bush/storage
 
-biome : minecraft:sparse_jungle
+biome : minecraft:sparse_jungle, minecraft:savanna
 ground_block : minecraft:grass_block
 
 rarity : 50
