@@ -460,8 +460,8 @@ tannyjung-halcyon
 ,leaves2_random:0
 ,leaves_create_replace:false
 ,leaves_size_min:0
-,leaves_size_max:4
-,leaves_density:10
+,leaves_size_max:5
+,leaves_density:5
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
