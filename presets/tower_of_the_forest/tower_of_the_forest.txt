@@ -26,7 +26,7 @@ tannyjung-tower_of_the_forest
 ,taproot_length_min:20
 ,taproot_length_max:50
 ,taproot_thickness_min:1
-,taproot_thickness_max:5.5
+,taproot_thickness_max:7.5
 
 ,taproot_curvature_vertical:15
 ,taproot_curvature_horizontal:15
@@ -245,11 +245,11 @@ tannyjung-tower_of_the_forest
 ,trunk_length_min:100
 ,trunk_length_max:200
 ,trunk_thickness_min:3
-,trunk_thickness_max:5
+,trunk_thickness_max:7
 
 ,trunk_curvature_vertical:15
 ,trunk_curvature_horizontal:15
-,trunk_gravity_min:-45
+,trunk_gravity_min:-75
 ,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:15
 
@@ -288,7 +288,7 @@ tannyjung-tower_of_the_forest
 
 ,branch_random_auto:false
 ,branch_random:10
-,branch_random_percent:50
+,branch_random_percent:10
 ,branch_distance_min:0
 
 ,branch_center_percent:0
