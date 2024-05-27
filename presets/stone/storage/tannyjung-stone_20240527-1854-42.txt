@@ -1,0 +1,52 @@
+Started Generate : 27/05/2024 at 18:54:42
+
+@tao = stone
+@tai = stone
+@tac = stone
+@seo = stone
+@sei = stone
+@sec = stone
+@teo = stone
+@tei = stone
+@tec = stone
+@fio = stone
+@fii = stone
+@fic = stone
+@tro = stone
+@tri = stone
+@trc = stone
+@bro = stone
+@bri = stone
+@brc = stone
+@two = stone
+@twi = stone
+@twc = stone
+@leo = stone
+@lei = stone
+@lec = stone
+@lc1 = stone
+@lc2 = 
+
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
+
+--------------------------------------------------
+
+tp ~ ~0 ~
++s^^^@tro
++s^0^-1^0@lc1
++s^-1^-1^-1@lc1
++s^0^-1^-1@lc1
++s^0^0^0@lc1
++s^-1^-1^0@lc1
++s^-1^0^0@lc1
++s^-1^0^-1@lc1
++s^0^0^-1@lc1
++s^0^-2^-1@lc1
+
+--------------------------------------------------
+
+Time Used : 00h 00m 11s
