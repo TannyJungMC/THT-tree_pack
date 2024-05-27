@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/terr
 biome : minecraft:badlands
 ground_block : minecraft:grass_block
 
-rarity : 75
+rarity : 50
 min_distance : 25
 group_chance : 0
 

@@ -5,7 +5,7 @@ ground_block : biomesoplenty:origin_grass_block
 
 rarity : 100
 min_distance : 0
-group_chance : 0.5
+group_chance : 0
 
 dead_tree_chance : 0.01
 rotation : 360

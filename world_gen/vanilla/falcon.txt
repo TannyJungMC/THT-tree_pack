@@ -3,9 +3,9 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falc
 biome : minecraft:forest
 ground_block : minecraft:grass_block
 
-rarity : 25
+rarity : 50
 min_distance : 25
-group_chance : 0.5
+group_chance : 0
 
 dead_tree_chance : 0.01
 rotation : 360
