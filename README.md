@@ -1,8 +1,8 @@
 This is an addon for [Tan's Huge Trees](https://legacy.curseforge.com/minecraft/mc-mods/tan-huge-trees) mod, it's separate pack from main mod. Contains generated tree files, their presets and default settings. You can manual install the pack by download ZIP from the **[<> Code]** green button, extract the ZIP to `config/THT/custom/tree_packs` and use command "/THT config repair" or restart the world. By the way, you can use command "/THT tanny_pack update" to auto download and install to config folder. Full guide with images below.
 
-This project also be an example pack for people who want to create own tree pack. But will not supported to auto download-install system, since it looks not safe if they put unreliable link to the system or may contain a virus.
-
 For wiki such as biomes and tree species (and other nature stuffs), visit on [wiki page](https://github.com/TannyJungMC/THT-tree_pack/wiki).
+
+This project also be an example pack for people who want to create own tree pack. But will not supported to auto download-install system, since it looks not safe if they put unreliable link to the system or may contain a virus.
 
 
 
