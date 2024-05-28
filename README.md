@@ -11,7 +11,7 @@ This project also be an example pack for people who want to create own tree pack
 
 
 
-# How To Auto Install (Not Auto Update)
+# How To Auto Download-Install (Not Auto Update)
 
 <details><summary> Click To Expand </summary>
 <pre>
@@ -20,13 +20,13 @@ This project also be an example pack for people who want to create own tree pack
 
 > If it not detected the pack in config folder or there's a new version of the pack.
 > It will auto send you a chat message like this below every time you rstart the world.
-> You can just click **[here]** in the message and wait for it to auto download and install.
+> You can just click **[here]** in the message and wait for it to auto download-install.
 > 
 > ![2024-05-28_14 20 44](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/100fed3e-e0d9-4129-97c5-e946ee7894a7)
 
 ### Using Command
 
-> If you can't find the message or don't want to restart the wprld.
+> If you can't find the message or don't want to restart the world.
 > Just use command **/THT tanny_pack check_update**.
 >
 > ![2024-05-28_14 08 27](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/9e26ce6b-0d75-40a0-b204-656bc4fdff23)
