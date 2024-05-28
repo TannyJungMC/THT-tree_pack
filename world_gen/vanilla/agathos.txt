@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/agathos/storage
 
-biome : minecraft:birch_forest
+biome : minecraft:old_growth_birch_forest
 ground_block : minecraft:grass_block
 
 rarity : 50
