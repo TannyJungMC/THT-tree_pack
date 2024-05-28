@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/towe
 biome : minecraft:dark_forest
 ground_block : minecraft:grass_block
 
-rarity : 1
+rarity : 10
 min_distance : 50
 group_chance : 0
 
