@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/halc
 biome : minecraft:plains
 ground_block : minecraft:grass_block
 
-rarity : 1
+rarity : 0.5
 min_distance : 20
 group_chance : 0.1
 
