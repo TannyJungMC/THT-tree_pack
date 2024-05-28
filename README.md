@@ -19,7 +19,7 @@ This project also be an example pack for people who want to create own tree pack
 ### Looking For Notification
 
 > If it not detected the pack in config folder or there's a new version of the pack.
-> It will auto send you a chat message like this below every time you rstart the world.
+> It will auto send you a chat message like this below every time you restart the world.
 > You can just click **[here]** in the message and wait for it to auto download-install.
 > 
 > ![2024-05-28_14 20 44](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/100fed3e-e0d9-4129-97c5-e946ee7894a7)
