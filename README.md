@@ -18,15 +18,15 @@ This project also be an example pack for people who want to create own tree pack
 
 ### Looking For Notification
 
-> If it not detected the pack in config folder or there's a new version of the pack.
-> It will auto send you a chat message like this below every time you restart the world.
-> You can just click **[here]** in the message and wait for it to auto download-install.
+> If it not detected the pack in config folder or there's a new version of the pack
+> It will auto send you a chat message like this below every time you restart the world
+> You can just click **[here]** in the message and wait for it to auto download-install
 > 
 > ![2024-05-28_14 20 44](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/100fed3e-e0d9-4129-97c5-e946ee7894a7)
 
 ### Using Command
 
-> If you can't find the message or don't want to restart the world.
+> If you can't find the message or don't want to restart the world
 > Just use command **/THT tanny_pack check_update**
 >
 > ![2024-05-28_14 08 27](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/9e26ce6b-0d75-40a0-b204-656bc4fdff23)
@@ -61,8 +61,8 @@ Open **tree_packs** folder and follow the guide below, the folder can be found i
 > 
 > ### Using Windows Explorer (Window 11)
 > 
-> You can use Windows Explorer that come with Window 11 (maybe also available on older window?).
-> Use it to open ZIP and drag the folder inside to **tree_packs** folder.
+> You can use Windows Explorer that come with Window 11 (maybe also available on older window?)
+> Use it to open ZIP and drag the folder inside to **tree_packs** folder
 > 
 > ![Downloads 28_5_2567 13_31_04](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/2d09a0b3-1dd1-4e65-bff8-3ef97d66bc69)
 > 
@@ -76,5 +76,9 @@ Open **tree_packs** folder and follow the guide below, the folder can be found i
 
 </pre>
 </details>
+
+
+
+
 
 ![image](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/8ba3dea9-890c-4121-bacc-49f936ad4140)
