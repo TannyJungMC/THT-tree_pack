@@ -242,7 +242,7 @@ tannyjung-aider
 
 ,trunk_count_min:1
 ,trunk_count_max:3
-,trunk_length_min:10
+,trunk_length_min:5
 ,trunk_length_max:20
 ,trunk_thickness_min:1
 ,trunk_thickness_max:1
@@ -279,8 +279,8 @@ tannyjung-aider
 ,branch_core:"stripped_birch_wood"
 ,branch_replace:true
 
-,branch_count_min:2
-,branch_count_max:3
+,branch_count_min:1
+,branch_count_max:2
 ,branch_length_min:10
 ,branch_length_max:20
 ,branch_thickness_min:1
