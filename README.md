@@ -11,7 +11,7 @@ This project also be an example pack for people who want to create own tree pack
 
 
 
-# How To Auto Install (Not Auto Update)
+# How To Auto Install
 
 <details><summary> Click To Expand </summary>
 <pre>
