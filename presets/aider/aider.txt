@@ -399,8 +399,8 @@ tannyjung-aider
 ,leaves_core:"stripped_birch_wood"
 ,leaves_replace:true
 
-,leaves_count_min:2
-,leaves_count_max:3
+,leaves_count_min:3
+,leaves_count_max:5
 ,leaves_length_min:5
 ,leaves_length_max:10
 ,leaves_thickness_min:1
