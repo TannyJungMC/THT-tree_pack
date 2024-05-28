@@ -24,7 +24,7 @@ This project also be an example pack for people who want to create own tree pack
 ### Using Command
 
 > If you can't find the message or don't want to restart the wprld.
-> Just use command `/THT tanny_pack check_update`.
+> Just use command **/THT tanny_pack check_update**.
 >
 > ![2024-05-28_14 08 27](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/9e26ce6b-0d75-40a0-b204-656bc4fdff23)
 
@@ -42,24 +42,24 @@ This project also be an example pack for people who want to create own tree pack
   
 ## Step 1 : Download ZIP
 
-> Click on green button **[<> Code]** and click "Download ZIP"
+> Click on green button **[<> Code]** and click **Download ZIP**
 > 
 > ![Screenshot 2024-05-28 132457](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/2919bcb8-cb54-48eb-862a-de990e42e94d)
 
 ## Step 2 : Installation
 
-Open `tree_packs` folder, can be found in `config > THT > custom`.
+Open **tree_packs** folder and follow the guide below, the folder can be found in **config > THT > custom**.
 
-### Using WinRAR
-
-> If you have WinRAR, you can use it to open ZIP and drag the folder inside to `tree_packs` folder.
+> ### Using WinRAR
+> 
+> If you have WinRAR, you can use it to open ZIP and drag the folder inside to **tree_packs** folder.
 > 
 > ![Screenshot 2024-05-28 132758](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/0b554742-0706-4544-8c07-b2c58c1d69be)
-
-### Using Windows Explorer (Window 11)
-
+> 
+> ### Using Windows Explorer (Window 11)
+> 
 > If you don't have WinRAR, you can use Windows Explorer that come with Window 11 (maybe also on older version?).
-> Use it to open ZIP and drag the folder inside to `tree_packs` folder.
+> Use it to open ZIP and drag the folder inside to **tree_packs** folder.
 > 
 > ![Downloads 28_5_2567 13_31_04](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/2d09a0b3-1dd1-4e65-bff8-3ef97d66bc69)
 > 
@@ -67,8 +67,7 @@ Open `tree_packs` folder, can be found in `config > THT > custom`.
 
 ## Step 3 : Repair Config
 
-> You can just restart the world and repair config folder.
-> But you can also repair them in-game using command `/THT config repair`.
+> Restart the world or just use command **/THT config repair**.
 >
 > ![2024-05-28_14 13 15](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/14682267-b5e7-43ea-b303-a26d986c51a4)
 
