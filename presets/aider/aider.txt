@@ -26,7 +26,7 @@ tannyjung-aider
 ,taproot_length_min:5
 ,taproot_length_max:10
 ,taproot_thickness_min:1
-,taproot_thickness_max:3
+,taproot_thickness_max:1
 
 ,taproot_curvature_vertical:15
 ,taproot_curvature_horizontal:15
@@ -65,7 +65,7 @@ tannyjung-aider
 ,secondary_root_length_min:5
 ,secondary_root_length_max:10
 ,secondary_root_thickness_min:1
-,secondary_root_thickness_max:2
+,secondary_root_thickness_max:1
 
 ,secondary_root_random_auto:false
 ,secondary_root_random:75
@@ -399,8 +399,8 @@ tannyjung-aider
 ,leaves_core:"stripped_birch_wood"
 ,leaves_replace:true
 
-,leaves_count_min:3
-,leaves_count_max:5
+,leaves_count_min:2
+,leaves_count_max:3
 ,leaves_length_min:5
 ,leaves_length_max:10
 ,leaves_thickness_min:1
