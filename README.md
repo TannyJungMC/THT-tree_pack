@@ -61,7 +61,7 @@ Open **tree_packs** folder and follow the guide below, the folder can be found i
 > 
 > ### Using Windows Explorer (Window 11)
 > 
-> If you don't have WinRAR, you can use Windows Explorer that come with Window 11 (maybe older version too?).
+> You can use Windows Explorer that come with Window 11 (maybe also available on older window?).
 > Use it to open ZIP and drag the folder inside to **tree_packs** folder.
 > 
 > ![Downloads 28_5_2567 13_31_04](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/2d09a0b3-1dd1-4e65-bff8-3ef97d66bc69)
