@@ -78,9 +78,3 @@ Old files maybe still there if you don't delete the old folder
 
 </pre>
 </details>
-
-
-
-
-
-![image](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/8ba3dea9-890c-4121-bacc-49f936ad4140)
