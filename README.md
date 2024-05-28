@@ -27,7 +27,7 @@ This project also be an example pack for people who want to create own tree pack
 ### Using Command
 
 > If you can't find the message or don't want to restart the world.
-> Just use command **/THT tanny_pack check_update**.
+> Just use command **/THT tanny_pack check_update**
 >
 > ![2024-05-28_14 08 27](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/9e26ce6b-0d75-40a0-b204-656bc4fdff23)
 
@@ -70,7 +70,7 @@ Open **tree_packs** folder and follow the guide below, the folder can be found i
 
 ## Step 3 : Repair Config
 
-> Restart the world or just use command **/THT config repair**.
+> Restart the world or just use command **/THT config repair**
 >
 > ![2024-05-28_14 13 15](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/14682267-b5e7-43ea-b303-a26d986c51a4)
 
