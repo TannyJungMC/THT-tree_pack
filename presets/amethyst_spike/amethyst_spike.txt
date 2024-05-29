@@ -14,11 +14,11 @@ tannyjung-amathyst_spike
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"purple_stained_glass"
+,taproot_outer:"minecraft:purple_stained_glass"
 ,taproot_outer_level:1
 ,taproot_inner:""
 ,taproot_inner_level:0
-,taproot_core:"amethyst_block"
+,taproot_core:"minecraft:amethyst_block"
 ,taproot_replace:true
 
 ,taproot_count_min:1
@@ -233,11 +233,11 @@ tannyjung-amathyst_spike
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"purple_stained_glass"
+,trunk_outer:"minecraft:purple_stained_glass"
 ,trunk_outer_level:1
 ,trunk_inner:""
 ,trunk_inner_level:0
-,trunk_core:"amethyst_block"
+,trunk_core:"minecraft:amethyst_block"
 ,trunk_replace:true
 
 ,trunk_count_min:1
@@ -272,7 +272,7 @@ tannyjung-amathyst_spike
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"purple_stained_glass"
+,branch_outer:"minecraft:purple_stained_glass"
 ,branch_outer_level:1
 ,branch_inner:""
 ,branch_inner_level:0
@@ -332,7 +332,7 @@ tannyjung-amathyst_spike
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"purple_stained_glass"
+,twig_outer:"minecraft:purple_stained_glass"
 ,twig_outer_level:1
 ,twig_inner:""
 ,twig_inner_level:0
@@ -392,7 +392,7 @@ tannyjung-amathyst_spike
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"purple_stained_glass"
+,leaves_outer:"minecraft:purple_stained_glass"
 ,leaves_outer_level:1
 ,leaves_inner:""
 ,leaves_inner_level:0

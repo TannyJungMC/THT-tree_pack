@@ -19,7 +19,7 @@ Bad Omen (Small)
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"stone"
+,taproot_outer:"minecraft:stone"
 ,taproot_outer_level:1
 ,taproot_inner:""
 ,taproot_inner_level:0
@@ -238,7 +238,7 @@ Bad Omen (Small)
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"stone"
+,trunk_outer:"minecraft:stone"
 ,trunk_outer_level:1
 ,trunk_inner:""
 ,trunk_inner_level:0
@@ -277,7 +277,7 @@ Bad Omen (Small)
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"stone"
+,branch_outer:"minecraft:stone"
 ,branch_outer_level:1
 ,branch_inner:""
 ,branch_inner_level:0
@@ -337,7 +337,7 @@ Bad Omen (Small)
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"stone"
+,twig_outer:"minecraft:stone"
 ,twig_outer_level:1
 ,twig_inner:""
 ,twig_inner_level:0
@@ -397,7 +397,7 @@ Bad Omen (Small)
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"stone"
+,leaves_outer:"minecraft:stone"
 ,leaves_outer_level:1
 ,leaves_inner:""
 ,leaves_inner_level:0

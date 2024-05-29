@@ -1,37 +1,37 @@
 Started Generate : 19/05/2024 at 03:47:42
 
-@tao = orange_terracotta
-@tai = 
-@tac = 
-@seo = 
-@sei = 
-@sec = 
-@teo = 
-@tei = 
-@tec = 
-@fio = 
-@fii = 
-@fic = 
-@tro = orange_terracotta
-@tri = 
-@trc = 
-@bro = orange_terracotta
-@bri = 
-@brc = 
-@two = orange_terracotta
-@twi = 
-@twc = 
-@leo = orange_terracotta
-@lei = 
-@lec = 
-@lc1 = 
-@lc2 = 
+@tao = minecraft:orange_terracotta
+@tai = minecraft:
+@tac = minecraft:
+@seo = minecraft:
+@sei = minecraft:
+@sec = minecraft:
+@teo = minecraft:
+@tei = minecraft:
+@tec = minecraft:
+@fio = minecraft:
+@fii = minecraft:
+@fic = minecraft:
+@tro = minecraft:orange_terracotta
+@tri = minecraft:
+@trc = minecraft:
+@bro = minecraft:orange_terracotta
+@bri = minecraft:
+@brc = minecraft:
+@two = minecraft:orange_terracotta
+@twi = minecraft:
+@twc = minecraft:
+@leo = minecraft:orange_terracotta
+@lei = minecraft:
+@lec = minecraft:
+@lc1 = minecraft:
+@lc2 = minecraft:
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

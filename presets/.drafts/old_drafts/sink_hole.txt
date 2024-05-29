@@ -397,11 +397,11 @@ Sink Hole (Small)
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"oak_leaves[persistent=true]"
+,leaves_outer:"minecraft:oak_leaves[persistent=true]"
 ,leaves_outer_level:1
-,leaves_inner:"oak_leaves[persistent=true]"
+,leaves_inner:"minecraft:oak_leaves[persistent=true]"
 ,leaves_inner_level:0
-,leaves_core:"oak_leaves[persistent=true]"
+,leaves_core:"minecraft:oak_leaves[persistent=true]"
 ,leaves_replace:false
 
 ,leaves_count_min:0

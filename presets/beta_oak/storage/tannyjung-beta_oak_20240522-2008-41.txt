@@ -1,37 +1,37 @@
 Started Generate : 22/05/2024 at 20:08:41
 
-@tao = oak_wood
-@tai = oak_wood
-@tac = stripped_oak_wood
-@seo = oak_wood
-@sei = oak_wood
-@sec = stripped_oak_wood
-@teo = oak_wood
-@tei = oak_wood
-@tec = stripped_oak_wood
-@fio = oak_wood
-@fii = oak_wood
-@fic = stripped_oak_wood
-@tro = oak_wood
-@tri = stripped_oak_wood
-@trc = stripped_oak_wood
-@bro = oak_wood
-@bri = stripped_oak_wood
-@brc = stripped_oak_wood
-@two = oak_wood
-@twi = stripped_oak_wood
-@twc = stripped_oak_wood
-@leo = oak_wood
-@lei = stripped_oak_wood
-@lec = stripped_oak_wood
-@lc1 = biomesoplenty:origin_leaves[persistent=true] keep
-@lc2 =  keep
+@tao = minecraft:oak_wood
+@tai = minecraft:oak_wood
+@tac = minecraft:stripped_oak_wood
+@seo = minecraft:oak_wood
+@sei = minecraft:oak_wood
+@sec = minecraft:stripped_oak_wood
+@teo = minecraft:oak_wood
+@tei = minecraft:oak_wood
+@tec = minecraft:stripped_oak_wood
+@fio = minecraft:oak_wood
+@fii = minecraft:oak_wood
+@fic = minecraft:stripped_oak_wood
+@tro = minecraft:oak_wood
+@tri = minecraft:stripped_oak_wood
+@trc = minecraft:stripped_oak_wood
+@bro = minecraft:oak_wood
+@bri = minecraft:stripped_oak_wood
+@brc = minecraft:stripped_oak_wood
+@two = minecraft:oak_wood
+@twi = minecraft:stripped_oak_wood
+@twc = minecraft:stripped_oak_wood
+@leo = minecraft:oak_wood
+@lei = minecraft:stripped_oak_wood
+@lec = minecraft:stripped_oak_wood
+@lc1 = minecraft:biomesoplenty:origin_leaves[persistent=true] keep
+@lc2 = minecraft: keep
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

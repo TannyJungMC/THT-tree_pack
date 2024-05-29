@@ -1,4 +1,4 @@
-Price = Biggest File Size / 5 (round down)
+Price = minecraft:Biggest File Size / 5 (round down)
 ----------------------------------------------------------------------------------------------------
 merge_all : true
 

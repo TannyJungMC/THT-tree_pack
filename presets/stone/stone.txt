@@ -14,11 +14,11 @@ tannyjung-stone
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"stone"
+,taproot_outer:"minecraft:stone"
 ,taproot_outer_level:1
-,taproot_inner:"stone"
+,taproot_inner:"minecraft:stone"
 ,taproot_inner_level:0
-,taproot_core:"stone"
+,taproot_core:"minecraft:stone"
 ,taproot_replace:true
 
 ,taproot_count_min:0
@@ -53,11 +53,11 @@ tannyjung-stone
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"stone"
+,secondary_root_outer:"minecraft:stone"
 ,secondary_root_outer_level:1
-,secondary_root_inner:"stone"
+,secondary_root_inner:"minecraft:stone"
 ,secondary_root_inner_level:0
-,secondary_root_core:"stone"
+,secondary_root_core:"minecraft:stone"
 ,secondary_root_replace:true
 
 ,secondary_root_count_min:3
@@ -113,11 +113,11 @@ tannyjung-stone
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"stone"
+,tertiary_root_outer:"minecraft:stone"
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"stone"
+,tertiary_root_inner:"minecraft:stone"
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"stone"
+,tertiary_root_core:"minecraft:stone"
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:1
@@ -173,11 +173,11 @@ tannyjung-stone
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"stone"
+,fine_root_outer:"minecraft:stone"
 ,fine_root_outer_level:1
-,fine_root_inner:"stone"
+,fine_root_inner:"minecraft:stone"
 ,fine_root_inner_level:0
-,fine_root_core:"stone"
+,fine_root_core:"minecraft:stone"
 ,fine_root_replace:true
 
 ,fine_root_count_min:1
@@ -233,11 +233,11 @@ tannyjung-stone
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"stone"
+,trunk_outer:"minecraft:stone"
 ,trunk_outer_level:1
-,trunk_inner:"stone"
+,trunk_inner:"minecraft:stone"
 ,trunk_inner_level:0
-,trunk_core:"stone"
+,trunk_core:"minecraft:stone"
 ,trunk_replace:true
 
 ,trunk_count_min:1
@@ -272,11 +272,11 @@ tannyjung-stone
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"stone"
+,branch_outer:"minecraft:stone"
 ,branch_outer_level:1
-,branch_inner:"stone"
+,branch_inner:"minecraft:stone"
 ,branch_inner_level:0
-,branch_core:"stone"
+,branch_core:"minecraft:stone"
 ,branch_replace:true
 
 ,branch_count_min:1
@@ -332,11 +332,11 @@ tannyjung-stone
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"stone"
+,twig_outer:"minecraft:stone"
 ,twig_outer_level:1
-,twig_inner:"stone"
+,twig_inner:"minecraft:stone"
 ,twig_inner_level:0
-,twig_core:"stone"
+,twig_core:"minecraft:stone"
 ,twig_replace:true
 
 ,twig_count_min:1
@@ -392,11 +392,11 @@ tannyjung-stone
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"stone"
+,leaves_outer:"minecraft:stone"
 ,leaves_outer_level:1
-,leaves_inner:"stone"
+,leaves_inner:"minecraft:stone"
 ,leaves_inner_level:0
-,leaves_core:"stone"
+,leaves_core:"minecraft:stone"
 ,leaves_replace:true
 
 ,leaves_count_min:1
@@ -455,8 +455,8 @@ tannyjung-stone
 
 
 ,leaves_create_generator_type:"sphere"
-,leaves:"stone"
-,leaves2:"mossy_cobblestone"
+,leaves:"minecraft:stone"
+,leaves2:"minecraft:mossy_cobblestone"
 ,leaves2_random:25
 ,leaves_create_replace:true
 

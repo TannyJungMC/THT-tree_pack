@@ -1,37 +1,37 @@
 Started Generate : 25/05/2024 at 14:14:31
 
-@tao = purple_stained_glass
-@tai = 
-@tac = amethyst_block
-@seo = 
-@sei = 
-@sec = 
-@teo = 
-@tei = 
-@tec = 
-@fio = 
-@fii = 
-@fic = 
-@tro = purple_stained_glass
-@tri = 
-@trc = amethyst_block
-@bro = purple_stained_glass
-@bri = 
-@brc = 
-@two = purple_stained_glass
-@twi = 
-@twc = 
-@leo = purple_stained_glass
-@lei = 
-@lec = 
-@lc1 = 
-@lc2 = 
+@tao = minecraft:purple_stained_glass
+@tai = minecraft:
+@tac = minecraft:amethyst_block
+@seo = minecraft:
+@sei = minecraft:
+@sec = minecraft:
+@teo = minecraft:
+@tei = minecraft:
+@tec = minecraft:
+@fio = minecraft:
+@fii = minecraft:
+@fic = minecraft:
+@tro = minecraft:purple_stained_glass
+@tri = minecraft:
+@trc = minecraft:amethyst_block
+@bro = minecraft:purple_stained_glass
+@bri = minecraft:
+@brc = minecraft:
+@two = minecraft:purple_stained_glass
+@twi = minecraft:
+@twc = minecraft:
+@leo = minecraft:purple_stained_glass
+@lei = minecraft:
+@lec = minecraft:
+@lc1 = minecraft:
+@lc2 = minecraft:
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

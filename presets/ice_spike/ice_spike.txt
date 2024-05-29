@@ -14,7 +14,7 @@ tannyjung-ice_spike
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"packed_ice"
+,taproot_outer:"minecraft:packed_ice"
 ,taproot_outer_level:1
 ,taproot_inner:""
 ,taproot_inner_level:0
@@ -233,7 +233,7 @@ tannyjung-ice_spike
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"packed_ice"
+,trunk_outer:"minecraft:packed_ice"
 ,trunk_outer_level:1
 ,trunk_inner:""
 ,trunk_inner_level:0
@@ -272,7 +272,7 @@ tannyjung-ice_spike
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"packed_ice"
+,branch_outer:"minecraft:packed_ice"
 ,branch_outer_level:1
 ,branch_inner:""
 ,branch_inner_level:0
@@ -332,7 +332,7 @@ tannyjung-ice_spike
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"packed_ice"
+,twig_outer:"minecraft:packed_ice"
 ,twig_outer_level:1
 ,twig_inner:""
 ,twig_inner_level:0
@@ -392,7 +392,7 @@ tannyjung-ice_spike
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"packed_ice"
+,leaves_outer:"minecraft:packed_ice"
 ,leaves_outer_level:1
 ,leaves_inner:""
 ,leaves_inner_level:0

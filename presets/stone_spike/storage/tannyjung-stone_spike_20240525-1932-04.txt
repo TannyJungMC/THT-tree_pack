@@ -1,37 +1,37 @@
 Started Generate : 25/05/2024 at 19:32:04
 
-@tao = stone
-@tai = 
-@tac = 
-@seo = 
-@sei = 
-@sec = 
-@teo = 
-@tei = 
-@tec = 
-@fio = 
-@fii = 
-@fic = 
-@tro = stone
-@tri = 
-@trc = 
-@bro = stone
-@bri = 
-@brc = 
-@two = stone
-@twi = 
-@twc = 
-@leo = stone
-@lei = 
-@lec = 
-@lc1 = 
-@lc2 = 
+@tao = minecraft:stone
+@tai = minecraft:
+@tac = minecraft:
+@seo = minecraft:
+@sei = minecraft:
+@sec = minecraft:
+@teo = minecraft:
+@tei = minecraft:
+@tec = minecraft:
+@fio = minecraft:
+@fii = minecraft:
+@fic = minecraft:
+@tro = minecraft:stone
+@tri = minecraft:
+@trc = minecraft:
+@bro = minecraft:stone
+@bri = minecraft:
+@brc = minecraft:
+@two = minecraft:stone
+@twi = minecraft:
+@twc = minecraft:
+@leo = minecraft:stone
+@lei = minecraft:
+@lec = minecraft:
+@lc1 = minecraft:
+@lc2 = minecraft:
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

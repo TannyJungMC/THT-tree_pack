@@ -1,37 +1,37 @@
 Started Generate : 26/05/2024 at 23:18:46
 
-@tao = dark_oak_wood
-@tai = dark_oak_wood
-@tac = stripped_dark_oak_wood
-@seo = dark_oak_wood
-@sei = dark_oak_wood
-@sec = stripped_dark_oak_wood
-@teo = dark_oak_wood
-@tei = dark_oak_wood
-@tec = stripped_dark_oak_wood
-@fio = dark_oak_wood
-@fii = dark_oak_wood
-@fic = stripped_dark_oak_wood
-@tro = dark_oak_wood
-@tri = stripped_dark_oak_wood
-@trc = stripped_dark_oak_wood
-@bro = dark_oak_wood
-@bri = stripped_dark_oak_wood
-@brc = stripped_dark_oak_wood
-@two = dark_oak_wood
-@twi = stripped_dark_oak_wood
-@twc = stripped_dark_oak_wood
-@leo = dark_oak_wood
-@lei = stripped_dark_oak_wood
-@lec = stripped_dark_oak_wood
-@lc1 = azalea_leaves[persistent=true] keep
-@lc2 = flowering_azalea_leaves[persistent=true] keep
+@tao = minecraft:dark_oak_wood
+@tai = minecraft:dark_oak_wood
+@tac = minecraft:stripped_dark_oak_wood
+@seo = minecraft:dark_oak_wood
+@sei = minecraft:dark_oak_wood
+@sec = minecraft:stripped_dark_oak_wood
+@teo = minecraft:dark_oak_wood
+@tei = minecraft:dark_oak_wood
+@tec = minecraft:stripped_dark_oak_wood
+@fio = minecraft:dark_oak_wood
+@fii = minecraft:dark_oak_wood
+@fic = minecraft:stripped_dark_oak_wood
+@tro = minecraft:dark_oak_wood
+@tri = minecraft:stripped_dark_oak_wood
+@trc = minecraft:stripped_dark_oak_wood
+@bro = minecraft:dark_oak_wood
+@bri = minecraft:stripped_dark_oak_wood
+@brc = minecraft:stripped_dark_oak_wood
+@two = minecraft:dark_oak_wood
+@twi = minecraft:stripped_dark_oak_wood
+@twc = minecraft:stripped_dark_oak_wood
+@leo = minecraft:dark_oak_wood
+@lei = minecraft:stripped_dark_oak_wood
+@lec = minecraft:stripped_dark_oak_wood
+@lc1 = minecraft:azalea_leaves[persistent=true] keep
+@lc2 = minecraft:flowering_azalea_leaves[persistent=true] keep
 
-+fs = 
-+fe = 
-+fw1 = THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = minecraft:THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw3 = minecraft:
 
 --------------------------------------------------
 

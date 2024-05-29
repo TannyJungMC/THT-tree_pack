@@ -14,9 +14,9 @@ tannyjung-christmas_tree
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"spruce_wood"
+,taproot_outer:"minecraft:spruce_wood"
 ,taproot_outer_level:1
-,taproot_inner:"spruce_wood"
+,taproot_inner:"minecraft:spruce_wood"
 ,taproot_inner_level:0
 ,taproot_core:"stripped_spruce_wood"
 ,taproot_replace:true
@@ -53,9 +53,9 @@ tannyjung-christmas_tree
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"spruce_wood"
+,secondary_root_outer:"minecraft:spruce_wood"
 ,secondary_root_outer_level:1
-,secondary_root_inner:"spruce_wood"
+,secondary_root_inner:"minecraft:spruce_wood"
 ,secondary_root_inner_level:0
 ,secondary_root_core:"stripped_spruce_wood"
 ,secondary_root_replace:true
@@ -113,9 +113,9 @@ tannyjung-christmas_tree
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"spruce_wood"
+,tertiary_root_outer:"minecraft:spruce_wood"
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"spruce_wood"
+,tertiary_root_inner:"minecraft:spruce_wood"
 ,tertiary_root_inner_level:0
 ,tertiary_root_core:"stripped_spruce_wood"
 ,tertiary_root_replace:true
@@ -173,9 +173,9 @@ tannyjung-christmas_tree
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"spruce_wood"
+,fine_root_outer:"minecraft:spruce_wood"
 ,fine_root_outer_level:1
-,fine_root_inner:"spruce_wood"
+,fine_root_inner:"minecraft:spruce_wood"
 ,fine_root_inner_level:0
 ,fine_root_core:"stripped_spruce_wood"
 ,fine_root_replace:true
@@ -233,7 +233,7 @@ tannyjung-christmas_tree
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"spruce_wood"
+,trunk_outer:"minecraft:spruce_wood"
 ,trunk_outer_level:1
 ,trunk_inner:"stripped_spruce_wood"
 ,trunk_inner_level:0
@@ -272,7 +272,7 @@ tannyjung-christmas_tree
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"spruce_wood"
+,branch_outer:"minecraft:spruce_wood"
 ,branch_outer_level:1
 ,branch_inner:"stripped_spruce_wood"
 ,branch_inner_level:0
@@ -332,7 +332,7 @@ tannyjung-christmas_tree
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"spruce_wood"
+,twig_outer:"minecraft:spruce_wood"
 ,twig_outer_level:1
 ,twig_inner:"stripped_spruce_wood"
 ,twig_inner_level:0
@@ -392,7 +392,7 @@ tannyjung-christmas_tree
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"spruce_wood"
+,leaves_outer:"minecraft:spruce_wood"
 ,leaves_outer_level:1
 ,leaves_inner:"stripped_spruce_wood"
 ,leaves_inner_level:0
@@ -455,7 +455,7 @@ tannyjung-christmas_tree
 
 
 ,leaves_create_generator_type:"sphere"
-,leaves:"spruce_leaves[persistent=true]"
+,leaves:"minecraft:spruce_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_random:0
 ,leaves_create_replace:false

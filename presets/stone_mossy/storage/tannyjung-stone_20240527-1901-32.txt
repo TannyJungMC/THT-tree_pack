@@ -1,37 +1,37 @@
 Started Generate : 27/05/2024 at 19:01:32
 
-@tao = stone
-@tai = stone
-@tac = stone
-@seo = stone
-@sei = stone
-@sec = stone
-@teo = stone
-@tei = stone
-@tec = stone
-@fio = stone
-@fii = stone
-@fic = stone
-@tro = stone
-@tri = stone
-@trc = stone
-@bro = stone
-@bri = stone
-@brc = stone
-@two = stone
-@twi = stone
-@twc = stone
-@leo = stone
-@lei = stone
-@lec = stone
-@lc1 = stone
-@lc2 = mossy_cobblestone
+@tao = minecraft:stone
+@tai = minecraft:stone
+@tac = minecraft:stone
+@seo = minecraft:stone
+@sei = minecraft:stone
+@sec = minecraft:stone
+@teo = minecraft:stone
+@tei = minecraft:stone
+@tec = minecraft:stone
+@fio = minecraft:stone
+@fii = minecraft:stone
+@fic = minecraft:stone
+@tro = minecraft:stone
+@tri = minecraft:stone
+@trc = minecraft:stone
+@bro = minecraft:stone
+@bri = minecraft:stone
+@brc = minecraft:stone
+@two = minecraft:stone
+@twi = minecraft:stone
+@twc = minecraft:stone
+@leo = minecraft:stone
+@lei = minecraft:stone
+@lec = minecraft:stone
+@lc1 = minecraft:stone
+@lc2 = minecraft:mossy_cobblestone
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

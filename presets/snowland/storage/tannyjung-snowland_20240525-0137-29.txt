@@ -1,37 +1,37 @@
 Started Generate : 25/05/2024 at 01:37:29
 
-@tao = spruce_wood
-@tai = spruce_wood
-@tac = stripped_spruce_wood
-@seo = spruce_wood
-@sei = spruce_wood
-@sec = stripped_spruce_wood
-@teo = spruce_wood
-@tei = spruce_wood
-@tec = stripped_spruce_wood
-@fio = spruce_wood
-@fii = spruce_wood
-@fic = stripped_spruce_wood
-@tro = spruce_wood
-@tri = spruce_wood
-@trc = stripped_spruce_wood
-@bro = spruce_wood
-@bri = spruce_wood
-@brc = stripped_spruce_wood
-@two = spruce_wood
-@twi = spruce_wood
-@twc = stripped_spruce_wood
-@leo = spruce_wood
-@lei = spruce_wood
-@lec = stripped_spruce_wood
-@lc1 = spruce_leaves[persistent=true] keep
-@lc2 =  keep
+@tao = minecraft:spruce_wood
+@tai = minecraft:spruce_wood
+@tac = minecraft:stripped_spruce_wood
+@seo = minecraft:spruce_wood
+@sei = minecraft:spruce_wood
+@sec = minecraft:stripped_spruce_wood
+@teo = minecraft:spruce_wood
+@tei = minecraft:spruce_wood
+@tec = minecraft:stripped_spruce_wood
+@fio = minecraft:spruce_wood
+@fii = minecraft:spruce_wood
+@fic = minecraft:stripped_spruce_wood
+@tro = minecraft:spruce_wood
+@tri = minecraft:spruce_wood
+@trc = minecraft:stripped_spruce_wood
+@bro = minecraft:spruce_wood
+@bri = minecraft:spruce_wood
+@brc = minecraft:stripped_spruce_wood
+@two = minecraft:spruce_wood
+@twi = minecraft:spruce_wood
+@twc = minecraft:stripped_spruce_wood
+@leo = minecraft:spruce_wood
+@lei = minecraft:spruce_wood
+@lec = minecraft:stripped_spruce_wood
+@lc1 = minecraft:spruce_leaves[persistent=true] keep
+@lc2 = minecraft: keep
 
-+fs = 
-+fe = 
-+fw1 = THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

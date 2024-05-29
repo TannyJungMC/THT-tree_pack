@@ -14,7 +14,7 @@ tannyjung-pumpkin
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"moss_block"
+,taproot_outer:"minecraft:moss_block"
 ,taproot_outer_level:1
 ,taproot_inner:""
 ,taproot_inner_level:0
@@ -53,7 +53,7 @@ tannyjung-pumpkin
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"moss_block"
+,secondary_root_outer:"minecraft:moss_block"
 ,secondary_root_outer_level:1
 ,secondary_root_inner:""
 ,secondary_root_inner_level:0
@@ -113,7 +113,7 @@ tannyjung-pumpkin
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"moss_block"
+,tertiary_root_outer:"minecraft:moss_block"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner:""
 ,tertiary_root_inner_level:0
@@ -173,7 +173,7 @@ tannyjung-pumpkin
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"moss_block"
+,fine_root_outer:"minecraft:moss_block"
 ,fine_root_outer_level:1
 ,fine_root_inner:""
 ,fine_root_inner_level:0
@@ -233,11 +233,11 @@ tannyjung-pumpkin
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"pumpkin"
+,trunk_outer:"minecraft:pumpkin"
 ,trunk_outer_level:1
-,trunk_inner:"pumpkin"
+,trunk_inner:"minecraft:pumpkin"
 ,trunk_inner_level:0
-,trunk_core:"pumpkin"
+,trunk_core:"minecraft:pumpkin"
 ,trunk_replace:true
 
 ,trunk_count_min:1
@@ -272,7 +272,7 @@ tannyjung-pumpkin
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"moss_block"
+,branch_outer:"minecraft:moss_block"
 ,branch_outer_level:1
 ,branch_inner:""
 ,branch_inner_level:0
@@ -332,7 +332,7 @@ tannyjung-pumpkin
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"moss_block"
+,twig_outer:"minecraft:moss_block"
 ,twig_outer_level:1
 ,twig_inner:""
 ,twig_inner_level:0
@@ -392,7 +392,7 @@ tannyjung-pumpkin
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"moss_block"
+,leaves_outer:"minecraft:moss_block"
 ,leaves_outer_level:1
 ,leaves_inner:""
 ,leaves_inner_level:0
@@ -455,7 +455,7 @@ tannyjung-pumpkin
 
 
 ,leaves_create_generator_type:"sphere"
-,leaves:"oak_leaves[persistent=true]"
+,leaves:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_random:0
 ,leaves_create_replace:false

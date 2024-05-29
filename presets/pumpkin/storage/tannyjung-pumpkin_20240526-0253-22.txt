@@ -1,37 +1,37 @@
 Started Generate : 26/05/2024 at 02:53:22
 
-@tao = moss_block
-@tai = 
-@tac = 
-@seo = moss_block
-@sei = 
-@sec = 
-@teo = moss_block
-@tei = 
-@tec = 
-@fio = moss_block
-@fii = 
-@fic = 
-@tro = pumpkin
-@tri = pumpkin
-@trc = pumpkin
-@bro = moss_block
-@bri = 
-@brc = 
-@two = moss_block
-@twi = 
-@twc = 
-@leo = moss_block
-@lei = 
-@lec = 
-@lc1 = oak_leaves[persistent=true] keep
-@lc2 =  keep
+@tao = minecraft:moss_block
+@tai = minecraft:
+@tac = minecraft:
+@seo = minecraft:moss_block
+@sei = minecraft:
+@sec = minecraft:
+@teo = minecraft:moss_block
+@tei = minecraft:
+@tec = minecraft:
+@fio = minecraft:moss_block
+@fii = minecraft:
+@fic = minecraft:
+@tro = minecraft:pumpkin
+@tri = minecraft:pumpkin
+@trc = minecraft:pumpkin
+@bro = minecraft:moss_block
+@bri = minecraft:
+@brc = minecraft:
+@two = minecraft:moss_block
+@twi = minecraft:
+@twc = minecraft:
+@leo = minecraft:moss_block
+@lei = minecraft:
+@lec = minecraft:
+@lc1 = minecraft:oak_leaves[persistent=true] keep
+@lc2 = minecraft: keep
 
-+fs = 
-+fe = 
-+fw1 = THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = minecraft:THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw3 = minecraft:
 
 --------------------------------------------------
 

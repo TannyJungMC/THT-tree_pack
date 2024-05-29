@@ -19,11 +19,11 @@ Testy (Huge)
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"oak_log"
+,taproot_outer:"minecraft:oak_log"
 ,taproot_outer_level:1
-,taproot_inner:"stripped_oak_log"
+,taproot_inner:"minecraft:stripped_oak_log"
 ,taproot_inner_level:0
-,taproot_core:"stripped_oak_log"
+,taproot_core:"minecraft:stripped_oak_log"
 ,taproot_replace:true
 
 ,taproot_count_min:0
@@ -58,11 +58,11 @@ Testy (Huge)
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"oak_log"
+,secondary_root_outer:"minecraft:oak_log"
 ,secondary_root_outer_level:1
-,secondary_root_inner:"stripped_oak_log"
+,secondary_root_inner:"minecraft:stripped_oak_log"
 ,secondary_root_inner_level:0
-,secondary_root_core:"stripped_oak_log"
+,secondary_root_core:"minecraft:stripped_oak_log"
 ,secondary_root_replace:true
 
 ,secondary_root_count_min:5
@@ -118,11 +118,11 @@ Testy (Huge)
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"oak_log"
+,tertiary_root_outer:"minecraft:oak_log"
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"stripped_oak_log"
+,tertiary_root_inner:"minecraft:stripped_oak_log"
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"stripped_oak_log"
+,tertiary_root_core:"minecraft:stripped_oak_log"
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:5
@@ -178,11 +178,11 @@ Testy (Huge)
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"oak_log"
+,fine_root_outer:"minecraft:oak_log"
 ,fine_root_outer_level:1
-,fine_root_inner:"stripped_oak_log"
+,fine_root_inner:"minecraft:stripped_oak_log"
 ,fine_root_inner_level:0
-,fine_root_core:"stripped_oak_log"
+,fine_root_core:"minecraft:stripped_oak_log"
 ,fine_root_replace:true
 
 ,fine_root_count_min:5
@@ -238,11 +238,11 @@ Testy (Huge)
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"oak_log"
+,trunk_outer:"minecraft:oak_log"
 ,trunk_outer_level:1
-,trunk_inner:"stripped_oak_log"
+,trunk_inner:"minecraft:stripped_oak_log"
 ,trunk_inner_level:0
-,trunk_core:"stripped_oak_log"
+,trunk_core:"minecraft:stripped_oak_log"
 ,trunk_replace:true
 
 ,trunk_count_min:1
@@ -277,11 +277,11 @@ Testy (Huge)
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"oak_log"
+,branch_outer:"minecraft:oak_log"
 ,branch_outer_level:1
-,branch_inner:"stripped_oak_log"
+,branch_inner:"minecraft:stripped_oak_log"
 ,branch_inner_level:0
-,branch_core:"stripped_oak_log"
+,branch_core:"minecraft:stripped_oak_log"
 ,branch_replace:true
 
 ,branch_count_min:5
@@ -337,11 +337,11 @@ Testy (Huge)
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"oak_log"
+,twig_outer:"minecraft:oak_log"
 ,twig_outer_level:1
-,twig_inner:"stripped_oak_log"
+,twig_inner:"minecraft:stripped_oak_log"
 ,twig_inner_level:0
-,twig_core:"stripped_oak_log"
+,twig_core:"minecraft:stripped_oak_log"
 ,twig_replace:true
 
 ,twig_count_min:5
@@ -397,11 +397,11 @@ Testy (Huge)
 
 
 ,leaves_generator_type:"sphere"
-,leaves_outer:"oak_log"
+,leaves_outer:"minecraft:oak_log"
 ,leaves_outer_level:1
-,leaves_inner:"stripped_oak_log"
+,leaves_inner:"minecraft:stripped_oak_log"
 ,leaves_inner_level:0
-,leaves_core:"stripped_oak_log"
+,leaves_core:"minecraft:stripped_oak_log"
 ,leaves_replace:true
 
 ,leaves_count_min:100
@@ -460,7 +460,7 @@ Testy (Huge)
 
 
 ,leaves_create_generator_type:"sphere"
-,leaves:"oak_leaves[persistent=true]"
+,leaves:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_random:0
 ,leaves_create_replace:false

@@ -1,37 +1,37 @@
 Started Generate : 29/05/2024 at 02:38:44
 
-@tao = birch_wood
-@tai = birch_wood
-@tac = stripped_birch_wood
-@seo = birch_wood
-@sei = birch_wood
-@sec = stripped_birch_wood
-@teo = birch_wood
-@tei = birch_wood
-@tec = stripped_birch_wood
-@fio = birch_wood
-@fii = birch_wood
-@fic = stripped_birch_wood
-@tro = birch_wood
-@tri = birch_wood
-@trc = stripped_birch_wood
-@bro = birch_wood
-@bri = birch_wood
-@brc = stripped_birch_wood
-@two = birch_wood
-@twi = birch_wood
-@twc = stripped_birch_wood
-@leo = birch_wood
-@lei = birch_wood
-@lec = stripped_birch_wood
-@lc1 = birch_leaves[persistent=true] keep
-@lc2 =  keep
+@tao = minecraft:birch_wood
+@tai = minecraft:birch_wood
+@tac = minecraft:stripped_birch_wood
+@seo = minecraft:birch_wood
+@sei = minecraft:birch_wood
+@sec = minecraft:stripped_birch_wood
+@teo = minecraft:birch_wood
+@tei = minecraft:birch_wood
+@tec = minecraft:stripped_birch_wood
+@fio = minecraft:birch_wood
+@fii = minecraft:birch_wood
+@fic = minecraft:stripped_birch_wood
+@tro = minecraft:birch_wood
+@tri = minecraft:birch_wood
+@trc = minecraft:stripped_birch_wood
+@bro = minecraft:birch_wood
+@bri = minecraft:birch_wood
+@brc = minecraft:stripped_birch_wood
+@two = minecraft:birch_wood
+@twi = minecraft:birch_wood
+@twc = minecraft:stripped_birch_wood
+@leo = minecraft:birch_wood
+@lei = minecraft:birch_wood
+@lec = minecraft:stripped_birch_wood
+@lc1 = minecraft:birch_leaves[persistent=true] keep
+@lc2 = minecraft: keep
 
-+fs = 
-+fe = 
-+fw1 = 
-+fw2 = 
-+fw3 = 
++fs = minecraft:
++fe = minecraft:
++fw1 = minecraft:
++fw2 = minecraft:
++fw3 = minecraft:
 
 --------------------------------------------------
 

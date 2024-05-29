@@ -233,7 +233,7 @@ tannyjung-art_of_vines
 
 
 ,trunk_generator_type:"square"
-,trunk_outer:"oak_leaves[persistent=true]"
+,trunk_outer:"minecraft:oak_leaves[persistent=true]"
 ,trunk_outer_level:1
 ,trunk_inner:""
 ,trunk_inner_level:0
@@ -272,7 +272,7 @@ tannyjung-art_of_vines
 
 
 ,branch_generator_type:"square"
-,branch_outer:"oak_leaves[persistent=true]"
+,branch_outer:"minecraft:oak_leaves[persistent=true]"
 ,branch_outer_level:1
 ,branch_inner:""
 ,branch_inner_level:0
@@ -332,7 +332,7 @@ tannyjung-art_of_vines
 
 
 ,twig_generator_type:"square"
-,twig_outer:"oak_leaves[persistent=true]"
+,twig_outer:"minecraft:oak_leaves[persistent=true]"
 ,twig_outer_level:1
 ,twig_inner:""
 ,twig_inner_level:0
@@ -392,7 +392,7 @@ tannyjung-art_of_vines
 
 
 ,leaves_generator_type:"square"
-,leaves_outer:"oak_leaves[persistent=true]"
+,leaves_outer:"minecraft:oak_leaves[persistent=true]"
 ,leaves_outer_level:1
 ,leaves_inner:""
 ,leaves_inner_level:0
