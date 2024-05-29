@@ -4,7 +4,7 @@ tannyjung-bush
 
 ",debug_mode:false,debug_mode_output:"none"
 ,countdown:10
-,start_height:0
+,start_height:-1
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
