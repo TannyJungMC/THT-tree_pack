@@ -9,7 +9,7 @@ Bad Omen (Small)
 "}',ForgeData:{debug_mode:false,debug_mode_output:"none"
 ,global_countdown:true
 ,countdown:0
-,start_height:-10
+,start_height:-30
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
