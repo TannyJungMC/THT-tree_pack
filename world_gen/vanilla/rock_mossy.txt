@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/stone_mossy/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/rock_mossy/storage
 
 biome : minecraft:river
 ground_block : minecraft:grass_block, minecraft:dirt, minecraft:sand, minecraft:gravel, minecraft:stone
