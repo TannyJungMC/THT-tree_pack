@@ -27,11 +27,11 @@ Started Generate : 25/05/2024 at 14:49:31
 @lc1 = minecraft:pink_wool keep
 @lc2 = minecraft:pink_stained_glass keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 

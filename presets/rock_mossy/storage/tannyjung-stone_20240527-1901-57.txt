@@ -27,11 +27,11 @@ Started Generate : 27/05/2024 at 19:01:57
 @lc1 = minecraft:stone
 @lc2 = minecraft:mossy_cobblestone
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 

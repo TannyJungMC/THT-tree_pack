@@ -27,11 +27,11 @@ Started Generate : 26/05/2024 at 19:24:05
 @lc1 = minecraft:oak_leaves[persistent=true] keep
 @lc2 = minecraft: keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 

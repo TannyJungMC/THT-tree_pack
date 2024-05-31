@@ -27,11 +27,11 @@ Started Generate : 22/05/2024 at 02:52:37
 @lc1 = minecraft:spruce_leaves[persistent=true] keep
 @lc2 = minecraft: keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 

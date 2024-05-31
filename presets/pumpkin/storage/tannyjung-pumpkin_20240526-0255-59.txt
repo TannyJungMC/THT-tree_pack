@@ -27,11 +27,11 @@ Started Generate : 26/05/2024 at 02:55:59
 @lc1 = minecraft:oak_leaves[persistent=true] keep
 @lc2 = minecraft: keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = minecraft:THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw3 = 
 
 --------------------------------------------------
 

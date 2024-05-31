@@ -27,11 +27,11 @@ Started Generate : 26/05/2024 at 00:08:08
 @lc1 = minecraft:spruce_leaves[persistent=true] keep
 @lc2 = minecraft: keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 

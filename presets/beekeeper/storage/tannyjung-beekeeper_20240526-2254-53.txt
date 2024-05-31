@@ -27,11 +27,11 @@ Started Generate : 26/05/2024 at 22:54:53
 @lc1 = minecraft:azalea_leaves[persistent=true] keep
 @lc2 = minecraft:flowering_azalea_leaves[persistent=true] keep
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = minecraft:THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw3 = 
 
 --------------------------------------------------
 

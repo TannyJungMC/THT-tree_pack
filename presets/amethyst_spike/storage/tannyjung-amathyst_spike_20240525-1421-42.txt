@@ -27,11 +27,11 @@ Started Generate : 25/05/2024 at 14:21:42
 @lc1 = minecraft:
 @lc2 = minecraft:
 
-+fs = minecraft:
-+fe = minecraft:
-+fw1 = minecraft:
-+fw2 = minecraft:
-+fw3 = minecraft:
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
 
 --------------------------------------------------
 
