@@ -3,11 +3,10 @@ This is an addon for [Tan's Huge Trees](https://legacy.curseforge.com/minecraft/
 The pack may have updates frequent than the mod, so I decided to separate it. Also to make it support cross version of mod, this allow people to play up to date tree pack on any mod version that support this system. Just hopefully there aren't any big changes that make them incompatible. But anyway, I probably go update older mod versions if that imcompate things happened.
 
 * For wiki such as biomes and tree species (and other nature stuffs), visit on [wiki page](https://github.com/TannyJungMC/THT-tree_pack/wiki).
-* My other mods can find on [CurseForge](https://legacy.curseforge.com/members/tannyjung/projects)
 * My discord community [here](https://discord.gg/SPPc2J7Unx), mostly I active on this. You can also visit upcoming updates there.
 * My Patreon page for who wants to support me [here](https://www.patreon.com/tannyjung). Khob Khun Krub! 💚
 
-This project also be an example pack for people who want to create own tree pack. But will not supported to auto download-install system, since it looks not safe if they put unreliable link to the system or may contain a virus.
+This project also an example pack for people who want to create own tree pack. But will not supported to auto download-install system, since it looks not safe if they put unreliable link to the system or may contain a virus.
 
 
 
