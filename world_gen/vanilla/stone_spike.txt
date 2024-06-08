@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/ston
 biome : minecraft:deep_ocean
 ground_block : minecraft:gravel
 
-rarity : 25
+rarity : 20
 min_distance : 50
 group_chance : 0
 
