@@ -1,14 +1,9 @@
-give @p tht:random_tree_block{display:{Name:"{\"text\":\"
-The Aspirant (Medium)
-\",\"color\":\"
-gold
-\"}"},BlockEntityTag:{Tags:["THT-random_trees"],NoAI:1b,Invulnerable:1b,CustomName:'{"text":"
+give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{name:"
 
-The Aspirant (Medium)
+tannyjung-the_aspirant
 
-"}',ForgeData:{debug_mode:false,debug_mode_output:"none"
-,global_countdown:true
-,countdown:0
+",debug_mode:false,debug_mode_output:"none"
+,countdown:10
 ,start_height:-3
 ,global_generate_speed:true
 ,generate_speed:1
@@ -101,8 +96,8 @@ The Aspirant (Medium)
 ,secondary_root_curvature_vertical:30
 ,secondary_root_curvature_horizontal:15
 ,secondary_root_gravity_min:90
-,secondary_root_gravity_max:90
-,secondary_root_gravity_weightiness:15
+,secondary_root_gravity_max:-45
+,secondary_root_gravity_weightiness:45
 
 ,secondary_root_crawling:-30
 ,secondary_root_crawling_forward:1
@@ -158,11 +153,11 @@ The Aspirant (Medium)
 ,tertiary_root_center_direction_horizontal_above:0.1
 ,tertiary_root_center_direction_horizontal_below:0.1
 
-,tertiary_root_curvature_vertical:15
+,tertiary_root_curvature_vertical:30
 ,tertiary_root_curvature_horizontal:15
 ,tertiary_root_gravity_min:90
-,tertiary_root_gravity_max:90
-,tertiary_root_gravity_weightiness:15
+,tertiary_root_gravity_max:-45
+,tertiary_root_gravity_weightiness:45
 
 ,tertiary_root_crawling:-30
 ,tertiary_root_crawling_forward:5
@@ -218,11 +213,11 @@ The Aspirant (Medium)
 ,fine_root_center_direction_horizontal_above:0.1
 ,fine_root_center_direction_horizontal_below:0.1
 
-,fine_root_curvature_vertical:15
+,fine_root_curvature_vertical:30
 ,fine_root_curvature_horizontal:15
 ,fine_root_gravity_min:90
-,fine_root_gravity_max:90
-,fine_root_gravity_weightiness:15
+,fine_root_gravity_max:-45
+,fine_root_gravity_weightiness:45
 
 ,fine_root_crawling:-30
 ,fine_root_crawling_forward:5
@@ -464,6 +459,7 @@ The Aspirant (Medium)
 ,leaves2:""
 ,leaves2_random:0
 ,leaves_create_replace:false
+
 ,leaves_size_min:0
 ,leaves_size_max:4
 ,leaves_density:10
@@ -475,17 +471,31 @@ The Aspirant (Medium)
 
 
 
-,start_function:"THT event txt_function start_function random_trees"
-,start_function_chance:100
-,end_function:"THT event txt_function end_function random_trees"
-,end_function_chance:100
+,start_function:""
+,start_function_chance:0
+,end_function:""
+,end_function_chance:0
 
-,way_function:0
 ,way1_function:""
 ,way1_function_type:""
-,way1_function_pos:down
 ,way1_function_chance:0
 ,way1_function_max:0
+,way1_function_range_min:0
+,way1_function_range_max:100
+
+,way2_function:""
+,way2_function_type:""
+,way2_function_chance:0
+,way2_function_max:0
+,way2_function_range_min:0
+,way2_function_range_max:100
+
+,way3_function:""
+,way3_function_type:""
+,way3_function_chance:0
+,way3_function_max:0
+,way3_function_range_min:0
+,way3_function_range_max:100
 
 
 
