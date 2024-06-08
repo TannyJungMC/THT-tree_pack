@@ -97,7 +97,7 @@ tannyjung-beekeeper
 ,secondary_root_curvature_horizontal:15
 ,secondary_root_gravity_min:90
 ,secondary_root_gravity_max:-45
-,secondary_root_gravity_weightiness:15
+,secondary_root_gravity_weightiness:45
 
 ,secondary_root_crawling:-30
 ,secondary_root_crawling_forward:1
@@ -157,7 +157,7 @@ tannyjung-beekeeper
 ,tertiary_root_curvature_horizontal:15
 ,tertiary_root_gravity_min:90
 ,tertiary_root_gravity_max:-45
-,tertiary_root_gravity_weightiness:15
+,tertiary_root_gravity_weightiness:45
 
 ,tertiary_root_crawling:-30
 ,tertiary_root_crawling_forward:5
@@ -217,7 +217,7 @@ tannyjung-beekeeper
 ,fine_root_curvature_horizontal:15
 ,fine_root_gravity_min:90
 ,fine_root_gravity_max:-45
-,fine_root_gravity_weightiness:15
+,fine_root_gravity_weightiness:45
 
 ,fine_root_crawling:-30
 ,fine_root_crawling_forward:5
