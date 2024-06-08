@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/rust
 biome : biomesoplenty:woodland, biomesoplenty:old_growth_woodland
 ground_block : minecraft:grass_block
 
-rarity : 25
+rarity : 20
 min_distance : 50
 group_chance : 0
 
