@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/beek
 biome : minecraft:flower_forest
 ground_block : minecraft:grass_block
 
-rarity : 25
+rarity : 5
 min_distance : 50
 group_chance : 0
 
