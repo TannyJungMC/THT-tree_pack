@@ -464,8 +464,8 @@ tannyjung-snowland
 ,leaves_size_max:2
 ,leaves_density:5
 ,leaves_straighten_percent:0
-,leaves_straighten_min:10
-,leaves_straighten_max:5
+,leaves_straighten_min:5
+,leaves_straighten_max:10
 
 
 

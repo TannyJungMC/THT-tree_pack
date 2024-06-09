@@ -464,8 +464,8 @@ tannyjung-alpha_oak
 ,leaves_size_max:3
 ,leaves_density:100
 ,leaves_straighten_percent:0
-,leaves_straighten_min:10
-,leaves_straighten_max:5
+,leaves_straighten_min:5
+,leaves_straighten_max:10
 
 
 

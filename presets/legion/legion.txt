@@ -235,7 +235,7 @@ tannyjung-legion
 ,trunk_generator_type:"sphere"
 ,trunk_outer:"minecraft:spruce_wood"
 ,trunk_outer_level:1
-,trunk_inner:"minecraft:stripped_spruce_wood"
+,trunk_inner:"minecraft:spruce_wood"
 ,trunk_inner_level:0
 ,trunk_core:"minecraft:stripped_spruce_wood"
 ,trunk_replace:true
@@ -274,7 +274,7 @@ tannyjung-legion
 ,branch_generator_type:"sphere"
 ,branch_outer:"minecraft:spruce_wood"
 ,branch_outer_level:1
-,branch_inner:"minecraft:stripped_spruce_wood"
+,branch_inner:"minecraft:spruce_wood"
 ,branch_inner_level:0
 ,branch_core:"minecraft:stripped_spruce_wood"
 ,branch_replace:true
@@ -334,7 +334,7 @@ tannyjung-legion
 ,twig_generator_type:"sphere"
 ,twig_outer:"minecraft:spruce_wood"
 ,twig_outer_level:1
-,twig_inner:"minecraft:stripped_spruce_wood"
+,twig_inner:"minecraft:spruce_wood"
 ,twig_inner_level:0
 ,twig_core:"minecraft:stripped_spruce_wood"
 ,twig_replace:true
@@ -359,7 +359,7 @@ tannyjung-legion
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
 ,twig_length_reduce_from:"trunk"
-,twig_thickness_reduce_from:"branch"
+,twig_thickness_reduce_from:"trunk"
 ,twig_length_reduce_above:0
 ,twig_length_reduce_below:0
 ,twig_thickness_reduce_above:0
@@ -394,7 +394,7 @@ tannyjung-legion
 ,leaves_generator_type:"sphere"
 ,leaves_outer:"minecraft:spruce_wood"
 ,leaves_outer_level:1
-,leaves_inner:"minecraft:stripped_spruce_wood"
+,leaves_inner:"minecraft:spruce_wood"
 ,leaves_inner_level:0
 ,leaves_core:"minecraft:stripped_spruce_wood"
 ,leaves_replace:true
@@ -419,7 +419,7 @@ tannyjung-legion
 ,leaves_start_forward_min:0
 ,leaves_start_forward_max:0.1
 ,leaves_length_reduce_from:"trunk"
-,leaves_thickness_reduce_from:"twig"
+,leaves_thickness_reduce_from:"trunk"
 ,leaves_size_reduce_from:"trunk"
 ,leaves_length_reduce_above:0
 ,leaves_length_reduce_below:0
@@ -464,8 +464,8 @@ tannyjung-legion
 ,leaves_size_max:5
 ,leaves_density:10
 ,leaves_straighten_percent:0
-,leaves_straighten_min:0
-,leaves_straighten_max:20
+,leaves_straighten_min:5
+,leaves_straighten_max:10
 
 
 
