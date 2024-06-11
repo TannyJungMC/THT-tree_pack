@@ -8,4 +8,6 @@ min_distance : 25
 group_chance : 0
 
 dead_tree_chance : 0
-rotation : 360
+
+rotation : random
+mirrored : random
