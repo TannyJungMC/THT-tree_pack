@@ -264,8 +264,8 @@ tannyjung-the_walking_tree
 
 ,trunk_start_gravity_min:-90
 ,trunk_start_gravity_max:-90
-,trunk_start_direction_min:270
-,trunk_start_direction_max:270
+,trunk_start_direction_min:0
+,trunk_start_direction_max:0
 
 
 
