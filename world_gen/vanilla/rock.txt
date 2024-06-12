@@ -9,5 +9,5 @@ group_chance : 0.25
 
 dead_tree_chance : 0
 
-rotation : random
-mirrored : random
+rotation : 361
+mirrored : 0
