@@ -24,8 +24,8 @@ Started Generate : 14/06/2024 at 19:51:51
 @leo = minecraft:stone
 @lei = minecraft:stone
 @lec = minecraft:stone
-@lc1 = minecraft:oak_leaves[persistent=true] keep
-@lc2 =  keep
+@lc1 = minecraft:oak_leaves[persistent=true] replace #tht:passable_blocks
+@lc2 =  replace #tht:passable_blocks
 
 +fs = 
 +fe = 
