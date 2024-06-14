@@ -33,6 +33,8 @@ Started Generate : 26/05/2024 at 02:53:40
 +fw2 = THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack/functions
 +fw3 = 
 
+rt_dynamic : false
+
 --------------------------------------------------
 
 tp ~ ~2 ~
