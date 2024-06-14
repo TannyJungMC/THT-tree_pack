@@ -1,0 +1,5 @@
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',ForgeData:{pre_select:"
+
+config/THT/custom/tree_packs/THT-tree_pack/world_gen/vanilla/agathos
+
+"}}}
