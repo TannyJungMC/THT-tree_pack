@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/yokai/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/yokai/storage
 
 biome : minecraft:meadow
 ground_block : minecraft:grass_block

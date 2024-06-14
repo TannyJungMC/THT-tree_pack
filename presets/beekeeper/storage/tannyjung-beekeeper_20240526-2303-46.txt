@@ -29,8 +29,8 @@ Started Generate : 26/05/2024 at 23:03:46
 
 +fs = 
 +fe = 
-+fw1 = THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions
-+fw2 = THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw1 = THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack/functions
++fw2 = THT txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack/functions
 +fw3 = 
 
 --------------------------------------------------

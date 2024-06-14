@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/pumpkin/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/pumpkin/storage
 
 biome : biomesoplenty:pumpkin_patch
 ground_block : minecraft:grass_block

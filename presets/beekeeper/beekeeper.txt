@@ -476,7 +476,7 @@ tannyjung-beekeeper
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack-main/functions"
+,way1_function:"THT txt_function way_function_bee_nest config/THT/custom/tree_packs/THT-tree_pack/functions"
 ,way1_function_type:"twig"
 ,way1_function_chance:0.01
 ,way1_function_max:3
