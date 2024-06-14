@@ -1,13 +1,19 @@
 give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{name:"
 
-tannyjung-rock
+tannyjung-rock_mossy
 
 ",debug_mode:false,debug_mode_output:"none"
-,countdown:10
-,start_height:0
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
+,countdown:10
+
+
+
+
+
+,start_height:0
+,rt_dynamic:false
 
 
 
