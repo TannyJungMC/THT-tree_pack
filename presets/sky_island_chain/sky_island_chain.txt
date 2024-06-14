@@ -469,7 +469,7 @@ tannyjung-sky_island_chain
 ,leaves_size_min:2
 ,leaves_size_max:5
 ,leaves_density:10
-,leaves_straighten_percent:5
+,leaves_straighten_percent:2
 ,leaves_straighten_min:1
 ,leaves_straighten_max:50
 
