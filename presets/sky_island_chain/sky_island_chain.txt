@@ -455,7 +455,7 @@ tannyjung-sky_island_chain
 
 
 ,leaves_create_generator_type:"sphere"
-,leaves:"minecraft:azalea_leaves[persistent=true]"
+,leaves:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_random:0
 ,leaves_create_replace:false
