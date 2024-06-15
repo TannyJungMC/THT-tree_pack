@@ -14,6 +14,7 @@ tannyjung-beanstalk
 
 ,start_height:-3
 ,rt_dynamic:false
+,can_disable_roots:false
 
 
 

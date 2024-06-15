@@ -14,6 +14,7 @@ tannyjung-pumpkin
 
 ,start_height:2
 ,rt_dynamic:false
+,can_disable_roots:false
 
 
 

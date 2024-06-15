@@ -14,6 +14,7 @@ tannyjung-sky_island_chain
 
 ,start_height:100
 ,rt_dynamic:false
+,can_disable_roots:false
 
 
 

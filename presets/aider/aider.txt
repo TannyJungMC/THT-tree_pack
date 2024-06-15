@@ -13,6 +13,7 @@ tannyjung-aider
 
 ,start_height:-3
 ,rt_dynamic:true
+,can_disable_roots:true
 
 
 
