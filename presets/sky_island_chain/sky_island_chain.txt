@@ -250,7 +250,7 @@ tannyjung-sky_island_chain
 ,trunk_count_min:1
 ,trunk_count_max:5
 ,trunk_length_min:10
-,trunk_length_max:100
+,trunk_length_max:50
 ,trunk_thickness_min:1
 ,trunk_thickness_max:1
 
