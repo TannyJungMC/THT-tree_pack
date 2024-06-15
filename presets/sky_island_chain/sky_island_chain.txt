@@ -295,7 +295,7 @@ tannyjung-sky_island_chain
 
 ,branch_random_auto:false
 ,branch_random:10
-,branch_random_percent:0
+,branch_random_percent:100
 ,branch_distance_min:0
 
 ,branch_center_percent:0
@@ -415,7 +415,7 @@ tannyjung-sky_island_chain
 
 ,leaves_random_auto:false
 ,leaves_random:10
-,leaves_random_percent:0
+,leaves_random_percent:100
 ,leaves_distance_min:0
 
 ,leaves_center_percent:0
