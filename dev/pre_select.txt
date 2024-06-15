@@ -1,5 +1,5 @@
 give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,ForgeData:{pre_select:"
 
-config/THT/custom/tree_packs/THT-tree_pack/world_gen/vanilla/halcyon
+config/THT/custom/generated
 
 "}}}
