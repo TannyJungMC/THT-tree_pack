@@ -33,12 +33,12 @@ Started Generate : 27/05/2024 at 19:01:32
 +fw2 = 
 +fw3 = 
 
+start_height : 0
 rt_dynamic : false
 can_disable_roots : false
 
 --------------------------------------------------
 
-tp ~ ~0 ~
 +s^^^@tro
 +s^-1^0^0@lc1
 +s^-1^0^-1@lc1
