@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/tannyjung/presets/falcon/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
 
 biome : minecraft:forest
 ground_block : minecraft:grass_block

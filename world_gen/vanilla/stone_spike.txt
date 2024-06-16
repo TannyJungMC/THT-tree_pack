@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/tannyjung/presets/stone_spike/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/stone_spike/storage
 
 biome : minecraft:deep_ocean
 ground_block : minecraft:gravel

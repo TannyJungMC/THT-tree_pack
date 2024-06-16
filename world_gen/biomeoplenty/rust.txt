@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/tannyjung/presets/rust/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/rust/storage
 
 biome : biomesoplenty:woodland, biomesoplenty:old_growth_woodland
 ground_block : minecraft:grass_block

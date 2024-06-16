@@ -482,14 +482,14 @@ tannyjung-christmas_tree
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"THT txt_function way_function_christmas_tree_ores config/THT/custom/tree_packs/tannyjung/functions"
+,way1_function:"THT txt_function way_function_christmas_tree_ores config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way1_function_type:"leaves_create"
 ,way1_function_chance:0.1
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100
 
-,way2_function:"THT txt_function way_function_christmas_tree_star config/THT/custom/tree_packs/tannyjung/functions"
+,way2_function:"THT txt_function way_function_christmas_tree_star config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way2_function_type:"trunk"
 ,way2_function_chance:1
 ,way2_function_max:0

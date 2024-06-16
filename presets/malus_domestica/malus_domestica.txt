@@ -483,7 +483,7 @@ tannyjung-malus_domestica
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"THT txt_function way_function_apple config/THT/custom/tree_packs/tannyjung/functions"
+,way1_function:"THT txt_function way_function_apple config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way1_function_type:"leaves_create"
 ,way1_function_chance:0.5
 ,way1_function_max:0

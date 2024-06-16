@@ -483,12 +483,12 @@ tannyjung-pumpkin
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/tannyjung/functions"
+,way1_function:"THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way1_function_type:"branch"
 ,way1_function_chance:0.25
 ,way1_function_max:0
 
-,way2_function:"THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/tannyjung/functions"
+,way2_function:"THT txt_function way_function_pumpkin_leaves config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way2_function_type:"twig"
 ,way2_function_chance:0.25
 ,way2_function_max:0
