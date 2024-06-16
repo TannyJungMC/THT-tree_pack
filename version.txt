@@ -1,2 +1,2 @@
-mod_version : 20240616
+mod_version : 20240616-1
 pack_version : 20240616-1
