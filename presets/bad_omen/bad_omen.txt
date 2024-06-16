@@ -286,12 +286,12 @@ tannyjung-bad_omen
 ,branch_core:""
 ,branch_replace:true
 
-,branch_count_min:10
+,branch_count_min:5
 ,branch_count_max:20
 ,branch_length_min:1
 ,branch_length_max:50
 ,branch_thickness_min:1
-,branch_thickness_max:3
+,branch_thickness_max:2
 
 ,branch_random_auto:true
 ,branch_random:10
