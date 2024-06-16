@@ -1,4 +1,2 @@
 mod_version : 20240616
 pack_version : 20240615-2
-
-message : tellraw @a [{"text":"THT : Testing","color":"gold"}]
