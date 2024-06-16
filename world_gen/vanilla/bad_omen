@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bad_
 biome : minecraft:stony_shore
 ground_block : minecraft:stone
 
-rarity : 50
+rarity : 10
 min_distance : 0
 group_chance : 0
 
