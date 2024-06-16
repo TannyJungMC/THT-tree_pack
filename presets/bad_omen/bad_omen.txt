@@ -257,7 +257,7 @@ tannyjung-bad_omen
 ,trunk_curvature_vertical:30
 ,trunk_curvature_horizontal:30
 ,trunk_gravity_min:45
-,trunk_gravity_max:-75
+,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:5
 
 ,trunk_crawling:0
@@ -323,7 +323,7 @@ tannyjung-bad_omen
 ,branch_curvature_horizontal:0
 ,branch_gravity_min:90
 ,branch_gravity_max:90
-,branch_gravity_weightiness:15
+,branch_gravity_weightiness:0
 
 ,branch_crawling:0
 ,branch_crawling_forward:3
