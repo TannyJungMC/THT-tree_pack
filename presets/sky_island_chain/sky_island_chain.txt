@@ -50,7 +50,7 @@ tannyjung-sky_island_chain
 ,taproot_dodging_forward:5
 ,taproot_dodging_sideward:5
 
-,taproot_start_gravity_min:0
+,taproot_start_gravity_min:45
 ,taproot_start_gravity_max:0
 ,taproot_start_direction_min:0
 ,taproot_start_direction_max:360
