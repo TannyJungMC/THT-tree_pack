@@ -249,8 +249,8 @@ tannyjung-halcyon
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,trunk_length_min:10
-,trunk_length_max:20
+,trunk_length_min:5
+,trunk_length_max:10
 ,trunk_thickness_min:1.75
 ,trunk_thickness_max:2
 
@@ -467,8 +467,8 @@ tannyjung-halcyon
 ,leaves2_random:0
 ,leaves_create_replace:false
 ,leaves_size_min:0
-,leaves_size_max:5
-,leaves_density:5
+,leaves_size_max:4
+,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
