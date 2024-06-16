@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/beekeeper/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/beekeeper/storage
 
 biome : minecraft:flower_forest
 ground_block : minecraft:grass_block

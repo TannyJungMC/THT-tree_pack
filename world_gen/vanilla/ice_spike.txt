@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/ice_spike/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/ice_spike/storage
 
 biome : minecraft:ice_spikes
 ground_block : minecraft:snow_block

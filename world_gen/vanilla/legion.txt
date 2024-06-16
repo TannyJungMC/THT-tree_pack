@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/legion/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/legion/storage
 
 biome : minecraft:old_growth_pine_taiga
 ground_block : minecraft:grass_block, minecraft:podzol, minecraft:coarse_dirt

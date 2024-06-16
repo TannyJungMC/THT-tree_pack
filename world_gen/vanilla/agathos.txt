@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/agathos/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/agathos/storage
 
 biome : minecraft:birch_forest
 ground_block : minecraft:grass_block

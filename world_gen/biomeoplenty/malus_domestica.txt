@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/malus_domestica/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/malus_domestica/storage
 
 biome : biomesoplenty:pasture
 ground_block : minecraft:grass_block

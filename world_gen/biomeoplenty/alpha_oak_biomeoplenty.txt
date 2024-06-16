@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/alpha_oak_biomeoplenty/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/alpha_oak_biomeoplenty/storage
 
 biome : biomesoplenty:origin_valley
 ground_block : biomesoplenty:origin_grass_block

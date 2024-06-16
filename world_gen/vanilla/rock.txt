@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/rock/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/rock/storage
 
 biome : minecraft:beach
 ground_block : minecraft:grass_block, minecraft:dirt, minecraft:sand, minecraft:gravel, minecraft:stone

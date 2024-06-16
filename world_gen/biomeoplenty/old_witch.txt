@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack/presets/old_witch/storage
+storage_directory : config/THT/custom/tree_packs/tannyjung/presets/old_witch/storage
 
 biome : biomesoplenty:marsh
 ground_block : minecraft:grass_block, minecraft:dirt
