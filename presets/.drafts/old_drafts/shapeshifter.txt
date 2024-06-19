@@ -60,7 +60,7 @@ tannyjung-catalyst
 ,secondary_root_core:"minecraft:stripped_oak_wood"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:3
+,secondary_root_count_min:2
 ,secondary_root_count_max:5
 ,secondary_root_length_min:10
 ,secondary_root_length_max:20
@@ -120,7 +120,7 @@ tannyjung-catalyst
 ,tertiary_root_core:"minecraft:stripped_oak_wood"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:3
+,tertiary_root_count_min:2
 ,tertiary_root_count_max:5
 ,tertiary_root_length_min:20
 ,tertiary_root_length_max:50
@@ -339,8 +339,8 @@ tannyjung-catalyst
 ,twig_core:"minecraft:stripped_oak_wood"
 ,twig_replace:true
 
-,twig_count_min:3
-,twig_count_max:5
+,twig_count_min:1
+,twig_count_max:3
 ,twig_length_min:5
 ,twig_length_max:10
 ,twig_thickness_min:1
@@ -399,7 +399,7 @@ tannyjung-catalyst
 ,leaves_core:"minecraft:stripped_oak_wood"
 ,leaves_replace:true
 
-,leaves_count_min:3
+,leaves_count_min:2
 ,leaves_count_max:5
 ,leaves_length_min:5
 ,leaves_length_max:10

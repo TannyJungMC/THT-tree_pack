@@ -67,7 +67,7 @@ tannyjung-pumpkin
 ,secondary_root_core:""
 ,secondary_root_replace:true
 
-,secondary_root_count_min:3
+,secondary_root_count_min:2
 ,secondary_root_count_max:5
 ,secondary_root_length_min:5
 ,secondary_root_length_max:10

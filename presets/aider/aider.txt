@@ -66,7 +66,7 @@ tannyjung-aider
 ,secondary_root_core:"minecraft:stripped_birch_wood"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:3
+,secondary_root_count_min:2
 ,secondary_root_count_max:5
 ,secondary_root_length_min:5
 ,secondary_root_length_max:10
@@ -126,7 +126,7 @@ tannyjung-aider
 ,tertiary_root_core:"minecraft:stripped_birch_wood"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:3
+,tertiary_root_count_min:2
 ,tertiary_root_count_max:5
 ,tertiary_root_length_min:10
 ,tertiary_root_length_max:20
@@ -405,7 +405,7 @@ tannyjung-aider
 ,leaves_core:"minecraft:stripped_birch_wood"
 ,leaves_replace:true
 
-,leaves_count_min:3
+,leaves_count_min:2
 ,leaves_count_max:5
 ,leaves_length_min:5
 ,leaves_length_max:10

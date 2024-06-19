@@ -247,7 +247,7 @@ tannyjung-beekeeper
 ,trunk_core:"minecraft:stripped_dark_oak_wood"
 ,trunk_replace:true
 
-,trunk_count_min:3
+,trunk_count_min:2
 ,trunk_count_max:5
 ,trunk_length_min:20
 ,trunk_length_max:50
@@ -286,7 +286,7 @@ tannyjung-beekeeper
 ,branch_core:"minecraft:stripped_dark_oak_wood"
 ,branch_replace:true
 
-,branch_count_min:3
+,branch_count_min:2
 ,branch_count_max:5
 ,branch_length_min:10
 ,branch_length_max:20

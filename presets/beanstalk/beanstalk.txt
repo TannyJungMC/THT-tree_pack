@@ -67,7 +67,7 @@ tannyjung-beanstalk
 ,secondary_root_core:"minecraft:green_terracotta"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:3
+,secondary_root_count_min:2
 ,secondary_root_count_max:5
 ,secondary_root_length_min:20
 ,secondary_root_length_max:50
@@ -127,7 +127,7 @@ tannyjung-beanstalk
 ,tertiary_root_core:"minecraft:green_terracotta"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:3
+,tertiary_root_count_min:2
 ,tertiary_root_count_max:5
 ,tertiary_root_length_min:20
 ,tertiary_root_length_max:50
