@@ -345,7 +345,7 @@ tannyjung-agathos
 ,twig_core:"minecraft:stripped_birch_wood"
 ,twig_replace:true
 
-,twig_count_min:1
+,twig_count_min:2
 ,twig_count_max:3
 ,twig_length_min:5
 ,twig_length_max:10
@@ -405,7 +405,7 @@ tannyjung-agathos
 ,leaves_core:"minecraft:stripped_birch_wood"
 ,leaves_replace:true
 
-,leaves_count_min:2
+,leaves_count_min:3
 ,leaves_count_max:5
 ,leaves_length_min:5
 ,leaves_length_max:10
