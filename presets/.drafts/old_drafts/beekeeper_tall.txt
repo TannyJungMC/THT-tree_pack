@@ -81,7 +81,7 @@ Beekeeper (Small)
 ,secondary_root_start_vertical:0.1
 ,secondary_root_start_horizontal:0.1
 ,secondary_root_start_height_min:0
-,secondary_root_start_height_max:0.1
+,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
 ,secondary_root_start_forward_max:0
 ,secondary_root_length_reduce_from:"taproot"
@@ -141,7 +141,7 @@ Beekeeper (Small)
 ,tertiary_root_start_vertical:0.1
 ,tertiary_root_start_horizontal:0.1
 ,tertiary_root_start_height_min:0
-,tertiary_root_start_height_max:0.1
+,tertiary_root_start_height_max:0
 ,tertiary_root_start_forward_min:0
 ,tertiary_root_start_forward_max:0.1
 ,tertiary_root_length_reduce_from:"taproot"
@@ -201,7 +201,7 @@ Beekeeper (Small)
 ,fine_root_start_vertical:0.1
 ,fine_root_start_horizontal:0.1
 ,fine_root_start_height_min:0
-,fine_root_start_height_max:0.1
+,fine_root_start_height_max:0
 ,fine_root_start_forward_min:0
 ,fine_root_start_forward_max:0.1
 ,fine_root_length_reduce_from:"taproot"
@@ -300,7 +300,7 @@ Beekeeper (Small)
 ,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
 ,branch_start_height_min:0.1
-,branch_start_height_max:0.1
+,branch_start_height_max:0
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0.1
 ,branch_length_reduce_from:"trunk"
@@ -360,7 +360,7 @@ Beekeeper (Small)
 ,twig_start_vertical:0.1
 ,twig_start_horizontal:0.1
 ,twig_start_height_min:0.1
-,twig_start_height_max:0.1
+,twig_start_height_max:0
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
 ,twig_length_reduce_from:"trunk"
@@ -420,7 +420,7 @@ Beekeeper (Small)
 ,leaves_start_vertical:0.1
 ,leaves_start_horizontal:0.1
 ,leaves_start_height_min:0.1
-,leaves_start_height_max:0.1
+,leaves_start_height_max:0
 ,leaves_start_forward_min:0
 ,leaves_start_forward_max:0.1
 ,leaves_length_reduce_from:"trunk"
