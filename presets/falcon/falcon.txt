@@ -321,7 +321,7 @@ tannyjung-falcon
 
 ,branch_curvature_vertical:15
 ,branch_curvature_horizontal:15
-,branch_gravity_min:0
+,branch_gravity_min:-45
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
@@ -381,7 +381,7 @@ tannyjung-falcon
 
 ,twig_curvature_vertical:15
 ,twig_curvature_horizontal:15
-,twig_gravity_min:45
+,twig_gravity_min:0
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:15
 
