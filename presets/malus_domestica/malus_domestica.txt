@@ -346,8 +346,8 @@ tannyjung-malus_domestica
 ,twig_core:"minecraft:stripped_oak_wood"
 ,twig_replace:true
 
-,twig_count_min:1
-,twig_count_max:3
+,twig_count_min:2
+,twig_count_max:5
 ,twig_length_min:5
 ,twig_length_max:10
 ,twig_thickness_min:1
