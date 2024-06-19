@@ -406,7 +406,7 @@ tannyjung-falcon
 ,leaves_core:"minecraft:stripped_oak_wood"
 ,leaves_replace:true
 
-,leaves_count_min:2
+,leaves_count_min:3
 ,leaves_count_max:5
 ,leaves_length_min:5
 ,leaves_length_max:10
