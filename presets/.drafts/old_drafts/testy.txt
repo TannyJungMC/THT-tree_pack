@@ -299,7 +299,7 @@ Testy (Huge)
 ,branch_center_percent:50
 ,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
-,branch_start_height_min:0.1
+,branch_start_height_min:0
 ,branch_start_height_max:0
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0.1
@@ -359,7 +359,7 @@ Testy (Huge)
 ,twig_center_percent:100
 ,twig_start_vertical:0.1
 ,twig_start_horizontal:0.1
-,twig_start_height_min:0.1
+,twig_start_height_min:0
 ,twig_start_height_max:0
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
@@ -419,7 +419,7 @@ Testy (Huge)
 ,leaves_center_percent:0
 ,leaves_start_vertical:0.1
 ,leaves_start_horizontal:0.1
-,leaves_start_height_min:0.1
+,leaves_start_height_min:0
 ,leaves_start_height_max:0
 ,leaves_start_forward_min:0
 ,leaves_start_forward_max:0.1

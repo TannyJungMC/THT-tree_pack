@@ -82,7 +82,7 @@ tannyjung-the_walking_tree
 ,secondary_root_center_percent:100
 ,secondary_root_start_vertical:0.1
 ,secondary_root_start_horizontal:0.1
-,secondary_root_start_height_min:0.1
+,secondary_root_start_height_min:0
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
 ,secondary_root_start_forward_max:0
@@ -361,7 +361,7 @@ tannyjung-the_walking_tree
 ,twig_center_percent:100
 ,twig_start_vertical:0
 ,twig_start_horizontal:0.1
-,twig_start_height_min:0.1
+,twig_start_height_min:0
 ,twig_start_height_max:0
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
@@ -421,7 +421,7 @@ tannyjung-the_walking_tree
 ,leaves_center_percent:100
 ,leaves_start_vertical:0.1
 ,leaves_start_horizontal:0.1
-,leaves_start_height_min:0.1
+,leaves_start_height_min:0
 ,leaves_start_height_max:0
 ,leaves_start_forward_min:0
 ,leaves_start_forward_max:0.1
