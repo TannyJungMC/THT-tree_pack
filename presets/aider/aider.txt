@@ -206,7 +206,7 @@ tannyjung-aider
 ,fine_root_start_forward_min:0
 ,fine_root_start_forward_max:0.1
 ,fine_root_length_reduce_from:"taproot"
-,fine_root_thickness_reduce_from:"tertiary_root"
+,fine_root_thickness_reduce_from:"secondary_root"
 ,fine_root_length_reduce_above:100
 ,fine_root_length_reduce_below:100
 ,fine_root_thickness_reduce_above:0
