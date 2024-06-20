@@ -279,11 +279,11 @@ tannyjung-palm
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"minecraft:jungle_wood"
+,branch_outer:"minecraft:moss_block"
 ,branch_outer_level:1
-,branch_inner:"minecraft:jungle_wood"
+,branch_inner:"minecraft:moss_block"
 ,branch_inner_level:0
-,branch_core:"minecraft:stripped_jungle_wood"
+,branch_core:"minecraft:moss_block"
 ,branch_replace:true
 
 ,branch_count_min:15
@@ -301,7 +301,7 @@ tannyjung-palm
 ,branch_center_percent:0
 ,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
-,branch_start_height_min:-0.075
+,branch_start_height_min:-0.05
 ,branch_start_height_max:0.1
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0
@@ -339,17 +339,17 @@ tannyjung-palm
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"minecraft:jungle_wood"
-,twig_outer_level:1
-,twig_inner:"minecraft:jungle_wood"
-,twig_inner_level:0
-,twig_core:"minecraft:stripped_jungle_wood"
-,twig_replace:true
+,twig_outer:"minecraft:jungle_leaves[persistent=true]"
+,twig_outer_level:0
+,twig_inner:"minecraft:jungle_leaves[persistent=true]"
+,twig_inner_level:1
+,twig_core:"minecraft:jungle_leaves[persistent=true]"
+,twig_replace:false
 
-,twig_count_min:40
-,twig_count_max:50
-,twig_length_min:10
-,twig_length_max:10
+,twig_count_min:50
+,twig_count_max:75
+,twig_length_min:15
+,twig_length_max:15
 ,twig_thickness_min:1
 ,twig_thickness_max:1
 
@@ -406,8 +406,8 @@ tannyjung-palm
 ,leaves_core:"minecraft:stripped_jungle_wood"
 ,leaves_replace:true
 
-,leaves_count_min:5
-,leaves_count_max:10
+,leaves_count_min:0
+,leaves_count_max:0
 ,leaves_length_min:0
 ,leaves_length_max:0
 ,leaves_thickness_min:1
