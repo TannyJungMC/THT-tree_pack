@@ -1,0 +1,21 @@
+kill @e[type=!player,name=!THT-random_tree]
+
+
+
+
+
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
+
+config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
+
+"}}}
+
+
+
+
+
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,ForgeData:{pre_select:"
+
+config/THT/custom/generated
+
+"}}}
