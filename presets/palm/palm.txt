@@ -258,7 +258,7 @@ tannyjung-palm
 ,trunk_curvature_horizontal:5
 ,trunk_gravity_min:-75
 ,trunk_gravity_max:-90
-,trunk_gravity_weightiness:2
+,trunk_gravity_weightiness:1
 
 ,trunk_crawling:0
 ,trunk_crawling_forward:3
