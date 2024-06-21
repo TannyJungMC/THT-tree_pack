@@ -258,7 +258,7 @@ tannyjung-coconut_tree
 ,trunk_curvature_horizontal:5
 ,trunk_gravity_min:-75
 ,trunk_gravity_max:-90
-,trunk_gravity_weightiness:1
+,trunk_gravity_weightiness:2
 
 ,trunk_crawling:0
 ,trunk_crawling_forward:3
@@ -286,10 +286,10 @@ tannyjung-coconut_tree
 ,branch_core:""
 ,branch_replace:false
 
-,branch_count_min:10
+,branch_count_min:15
 ,branch_count_max:20
 ,branch_length_min:10
-,branch_length_max:20
+,branch_length_max:15
 ,branch_thickness_min:1
 ,branch_thickness_max:1
 
