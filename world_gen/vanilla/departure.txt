@@ -1,7 +1,7 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/departure/storage
 
-biome : minecraft:beach
-ground_block : minecraft:grass_block, minecraft:sand
+biome : minecraft:bamboo_jungle
+ground_block : minecraft:grass_block
 
 rarity : 10
 min_distance : 100
