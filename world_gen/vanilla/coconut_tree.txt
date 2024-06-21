@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/coco
 biome : minecraft:beach
 ground_block : minecraft:grass_block, minecraft:sand
 
-rarity : 25
+rarity : 75
 min_distance : 0
 group_chance : 0
 
