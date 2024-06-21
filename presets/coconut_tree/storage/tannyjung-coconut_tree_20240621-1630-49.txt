@@ -1,0 +1,341 @@
+Started Generate : 21/06/2024 at 16:30:49
+
+@tao = minecraft:jungle_wood
+@tai = minecraft:jungle_wood
+@tac = minecraft:stripped_jungle_wood
+@seo = minecraft:jungle_wood
+@sei = minecraft:jungle_wood
+@sec = minecraft:stripped_jungle_wood
+@teo = minecraft:jungle_wood
+@tei = minecraft:jungle_wood
+@tec = minecraft:stripped_jungle_wood
+@fio = minecraft:jungle_wood
+@fii = minecraft:jungle_wood
+@fic = minecraft:stripped_jungle_wood
+@tro = minecraft:jungle_wood
+@tri = minecraft:jungle_wood
+@trc = minecraft:stripped_jungle_wood
+@bro = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@bri =  replace #tht:passable_blocks
+@brc =  replace #tht:passable_blocks
+@two = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@twi = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@twc = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@leo = minecraft:jungle_wood
+@lei = minecraft:jungle_wood
+@lec = minecraft:stripped_jungle_wood
+@lc1 = minecraft:jungle_leaves[persistent=true] keep
+@lc2 =  keep
+
++fs = 
++fe = 
++fw1 = THT txt_function way_function_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = 
++fw3 = 
+
+start_height : -3
+rt_dynamic : true
+can_disable_roots : true
+
+--------------------------------------------------
+
++s^0^0^0@tro
++s^-1^-7^-1@seo
++s^0^-5^0@tao
++s^-2^-6^0@seo
++s^-2^-10^0@seo
++s^0^-4^0@tao
++s^0^-5^-1@tao
++s^0^-2^0@tao
++s^-1^-2^-1@tao
++s^-1^-2^0@tao
++s^0^-2^-1@tao
++s^-1^-3^-1@tao
++s^-2^-8^-1@seo
++s^-2^-9^-1@seo
++s^-2^-10^-1@seo
++s^-2^-11^-1@seo
++s^-4^-17^-1@seo
++s^-5^-18^0@seo
++s^-1^-7^0@seo
++s^-1^-8^0@seo
++s^-2^-9^0@seo
++s^-3^-12^1@seo
++s^-3^-13^1@seo
++s^-2^-7^0@seo
++s^-2^-8^0@seo
++s^-1^-3^0@tao
++s^0^-3^-1@tao
++s^-1^-4^-1@tao
++s^0^-3^0@tao
++s^-1^-4^0@tao
++s^0^-4^-1@tao
++s^-1^-5^0@tao
++s^0^-1^0@tro
++s^-1^-1^-1@tro
++s^0^-1^-1@tro
++s^-1^0^-1@tao
++s^0^0^-1@tao
++s^-2^-12^-1@seo
++s^-2^-13^-1@seo
++s^-3^-14^-1@seo
++s^-3^-15^-1@seo
++s^-4^-15^-1@seo
++s^-4^-16^-1@seo
++s^-3^-12^-1@seo
++s^-3^-13^-1@seo
++s^-3^-16^-1@seo
++s^-3^-17^-1@seo
++s^-1^-8^-1@seo
++s^-1^-9^-1@seo
++s^-1^-10^-1@seo
++s^-3^-18^-1@seo
++s^-3^-19^-1@seo
++s^-3^-20^-1@seo
++s^-4^-21^-1@seo
++s^-4^-22^0@seo
++s^-1^-9^1@seo
++s^0^-10^1@seo
++s^1^-11^2@seo
++s^1^-12^2@seo
++s^1^-13^2@seo
++s^1^-14^2@seo
++s^1^-15^3@seo
++s^1^-16^3@seo
++s^2^-17^3@seo
++s^2^-18^3@seo
++s^2^-19^3@seo
++s^3^-20^4@seo
++s^-2^-11^0@seo
++s^-2^-7^1@seo
++s^-2^-8^2@seo
++s^-2^-9^2@seo
++s^-3^-10^3@seo
++s^-3^-11^3@seo
++s^-3^-12^3@seo
++s^-3^-13^4@seo
++s^-3^-14^4@seo
++s^-3^-14^5@seo
++s^-4^-15^5@seo
++s^-4^-16^5@seo
++s^-4^-17^6@seo
++s^-4^-18^6@seo
++s^-5^-19^7@seo
++s^-5^-20^7@seo
++s^-1^-5^-1@tao
++s^0^-5^-2@tao
++s^0^-4^-2@tao
++s^0^-6^0@tao
++s^-1^-6^-1@tao
++s^-1^-6^0@tao
++s^0^-6^-2@tao
++s^1^-6^-1@tao
++s^1^-5^-1@tao
++s^1^-6^0@tao
++s^1^-5^0@tao
++s^0^-6^-1@seo
++s^0^-7^-1@seo
++s^0^-8^-1@seo
++s^0^-9^-1@seo
++s^0^-10^-1@seo
++s^0^-11^-1@seo
++s^0^-12^-2@seo
++s^1^-13^-2@seo
++s^1^-14^-2@seo
++s^1^-15^-2@seo
++s^1^-16^-2@seo
++s^1^-17^-2@seo
++s^1^-18^-2@seo
++s^-1^0^0@tro
++s^-1^-1^0@tro
++s^0^0^0@tro
++s^-1^1^0@tro
++s^-1^2^0@tro
++s^-1^2^1@tro
++s^-2^2^0@tro
++s^-2^3^0@tro
++s^-2^3^1@tro
++s^-1^3^0@tro
++s^-2^4^1@tro
++s^-2^4^0@tro
++s^-2^5^1@tro
++s^-2^6^1@tro
++s^-3^6^1@tro
++s^-3^7^1@tro
++s^-3^8^1@tro
++s^-3^9^2@tro
++s^-3^9^1@tro
++s^-3^10^2@tro
++s^-3^10^1@tro
++s^-3^11^2@tro
++s^-4^11^2@tro
++s^-4^12^2@tro
++s^-4^13^2@tro
++s^-4^14^2@tro
++s^-4^15^3@tro
++s^-5^16^3@tro
++s^-5^17^3@tro
++s^-5^18^3@tro
++s^-5^19^3@tro
++s^-6^20^3@tro
++s^-6^21^3@tro
++s^-6^22^4@tro
++s^-6^23^4@tro
++s^-6^24^4@tro
++s^-7^25^4@tro
++s^-7^26^4@tro
++s^-7^27^4@tro
++s^-7^28^4@tro
++s^-7^29^5@tro
++s^-8^30^5@tro
++s^-8^31^5@tro
++s^-8^32^5@tro
++s^-8^33^5@tro
++s^-8^34^5@tro
++s^-9^35^6@tro
++s^-9^36^6@tro
++s^-9^37^6@tro
++ep^-9^37^6+fw1
++s^-9^38^6@tro
++s^-9^38^5@bro
++s^-9^38^4@bro
++s^-9^38^3@bro
++s^-9^38^2@bro
++s^-9^37^1@bro
++s^-8^37^0@bro
++s^-8^36^-1@bro
++s^-8^35^-2@bro
++s^-8^34^-3@bro
++s^-9^38^7@bro
++s^-9^37^7@bro
++s^-9^36^8@bro
++s^-9^35^8@bro
++s^-9^34^8@bro
++s^-8^33^8@bro
++s^-8^32^8@bro
++s^-8^31^8@bro
++s^-8^30^8@bro
++s^-8^29^8@bro
++s^-9^39^6@bro
++s^-8^40^6@bro
++s^-7^41^6@bro
++s^-7^42^6@bro
++s^-6^42^6@bro
++s^-5^43^6@bro
++s^-4^43^6@bro
++s^-3^44^6@bro
++s^-2^44^6@bro
++s^-9^39^7@bro
++s^-9^39^8@bro
++s^-10^39^9@bro
++s^-10^40^10@bro
++s^-10^40^11@bro
++s^-10^40^12@bro
++s^-10^40^13@bro
++s^-10^39^14@bro
++s^-10^39^15@bro
++s^-10^39^16@bro
++s^-8^38^6@bro
++s^-7^38^6@bro
++s^-6^38^7@bro
++s^-5^38^7@bro
++s^-4^37^7@bro
++s^-3^36^7@bro
++s^-8^37^5@bro
++s^-8^36^5@bro
++s^-8^35^4@bro
++s^-8^34^4@bro
++s^-7^33^4@bro
++s^-7^32^3@bro
++s^-7^31^3@bro
++s^-7^30^3@bro
++s^-8^39^6@bro
++s^-7^39^6@bro
++s^-7^40^6@bro
++s^-6^40^6@bro
++s^-5^40^6@bro
++s^-4^40^6@bro
++s^-3^40^6@bro
++s^-2^40^6@bro
++s^-1^40^6@bro
++s^0^40^6@bro
++s^-9^37^4@bro
++s^-9^36^3@bro
++s^-9^35^2@bro
++s^-9^34^2@bro
++s^-10^34^1@bro
++s^-10^33^1@bro
++s^-10^32^0@bro
++s^-10^31^0@bro
++s^-10^38^6@bro
++s^-11^37^7@bro
++s^-11^36^7@bro
++s^-11^35^7@bro
++s^-12^34^7@bro
++s^-12^33^7@bro
++s^-12^32^7@bro
++s^-12^31^8@bro
++s^-9^38^8@bro
++s^-9^37^9@bro
++s^-8^36^10@bro
++s^-8^35^11@bro
++s^-8^34^11@bro
++s^-8^33^12@bro
++s^-7^33^12@bro
++s^-8^40^5@bro
++s^-7^40^4@bro
++s^-6^41^3@bro
++s^-5^41^3@bro
++s^-4^41^2@bro
++s^-9^39^5@bro
++s^-9^39^4@bro
++s^-10^39^3@bro
++s^-10^38^2@bro
++s^-10^38^1@bro
++s^-10^38^0@bro
++s^-10^38^-1@bro
++s^-6^41^6@bro
++s^-5^41^6@bro
++s^-4^42^6@bro
++s^-4^42^5@bro
++s^-3^42^5@bro
++s^-2^42^5@bro
++s^-6^38^6@bro
++s^-5^38^6@bro
++s^-4^38^6@bro
++s^-3^37^6@bro
++s^-2^37^6@bro
++s^-11^37^6@bro
++s^-11^36^5@bro
++s^-12^35^5@bro
++s^-13^34^5@bro
++s^-13^33^5@bro
++s^-13^32^5@bro
++s^-12^31^7@bro
++s^-12^30^7@bro
++s^-9^40^5@bro
++s^-9^41^5@bro
++s^-9^42^4@bro
++s^-9^43^4@bro
++s^-8^43^3@bro
++s^-8^44^2@bro
++s^-8^45^1@bro
++s^-8^45^0@bro
++s^-10^38^7@bro
++s^-10^37^8@bro
++s^-10^37^9@bro
++s^-10^36^9@bro
++s^-11^35^10@bro
++s^-11^35^11@bro
++s^-11^34^11@bro
++s^-9^39^3@bro
++s^-9^39^2@bro
++s^-9^38^1@bro
++s^-9^38^0@bro
++s^-9^38^-1@bro
++s^-9^37^-2@bro
++s^-9^37^-3@bro
+
+--------------------------------------------------
+
+Time Used : 00h 00m 11s
