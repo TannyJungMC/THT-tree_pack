@@ -1,8 +1,6 @@
 This is an addon for [Tan's Huge Trees](https://legacy.curseforge.com/minecraft/mc-mods/tan-huge-trees) mod (only for versions after the "RT World Gen" update). It's separate pack from main mod, contains a lot of generated tree files, their presets and default settings.
 
-The pack may have updates frequent than the mod, so I decided to separate it. Also to make it support cross version of the mod, this allow people to play up to date tree pack on any mod version that support this system. Just hopefully there aren't any big changes that make them incompatible. But anyway, I probably go update older mod versions if that imcompate things happened.
-
-Then why not putting it on CurseForge? The answer is you will need to manual install it to config folder and no update checker. Manual install is a bit annoying if I update the pack every week. And it not support update checker which an important system, even I can make it detect a new update, it still need to manual install.
+The pack may have updates frequent than the mod, so I decided to separate it. Also to make it support cross versions of the mod, this allow people to play one tree pack on multiple mod versions. Then why not putting it on CurseForge? The answer is you will need to manual install it to config folder and no update checker. Manual install is a bit annoying if I update the pack every week and it not support update checker which one of important system. Even it can detect a new update, it still need to manual install.
 
 * For wiki such as biomes and tree species (and other nature stuffs), visit on [wiki page](https://github.com/TannyJungMC/THT-tree_pack/wiki).
 * My discord community [here](https://discord.gg/SPPc2J7Unx), mostly I active on this. You can also visit upcoming updates there.
