@@ -4,7 +4,19 @@ merge_all : false
 
 
 
-setblock ~ ~ ~1 minecraft:cocoa[age=2,facing=north] keep
-setblock ~ ~ ~-1 minecraft:cocoa[age=2,facing=south] keep
-setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
-setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
+execute unless block ~ ~ ~ #tht:passable_blocks run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
+execute unless block ~ ~ ~ #tht:passable_blocks run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
+execute unless block ~ ~ ~ #tht:passable_blocks run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"3"}'}
+execute unless block ~ ~ ~ #tht:passable_blocks run summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"4"}'}
+
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at @e[tag=THT-select,name=1] run setblock ~ ~ ~1 minecraft:cocoa[age=2,facing=north] keep
+execute at @e[tag=THT-select,name=2] run setblock ~ ~ ~-1 minecraft:cocoa[age=2,facing=south] keep
+execute at @e[tag=THT-select,name=3] run setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
+execute at @e[tag=THT-select,name=4] run setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
+
+kill @e[tag=THT-random]
