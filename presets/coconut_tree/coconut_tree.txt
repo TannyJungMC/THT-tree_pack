@@ -12,8 +12,8 @@ tannyjung-coconut_tree
 
 
 
-,start_height:-3
-,rt_dynamic:true
+,start_height:-1
+,rt_dynamic:false
 ,can_disable_roots:true
 
 
