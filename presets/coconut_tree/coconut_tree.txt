@@ -288,8 +288,8 @@ tannyjung-coconut_tree
 
 ,branch_count_min:15
 ,branch_count_max:20
-,branch_length_min:10
-,branch_length_max:15
+,branch_length_min:7
+,branch_length_max:10
 ,branch_thickness_min:1
 ,branch_thickness_max:1
 
