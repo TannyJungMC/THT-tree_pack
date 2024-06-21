@@ -6,5 +6,5 @@ merge_all : false
 
 setblock ~ ~ ~1 minecraft:cocoa[age=2,facing=north] keep
 setblock ~ ~ ~-1 minecraft:cocoa[age=2,facing=south] keep
-setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
-setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
+setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
+setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
