@@ -29,7 +29,7 @@ Started Generate : 26/05/2024 at 00:13:09
 
 +fs = 
 +fe = 
-+fw1 = THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw1 = THT command txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
 +fw2 = 
 +fw3 = 
 

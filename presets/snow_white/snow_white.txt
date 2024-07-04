@@ -483,7 +483,7 @@ tannyjung-snow_white
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"THT txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions"
+,way1_function:"THT command txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions"
 ,way1_function_type:"leaves_create"
 ,way1_function_chance:0.75
 ,way1_function_max:0
