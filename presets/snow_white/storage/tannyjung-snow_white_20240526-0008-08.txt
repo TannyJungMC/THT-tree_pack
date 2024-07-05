@@ -29,7 +29,7 @@ Started Generate : 26/05/2024 at 00:08:08
 
 +fs = 
 +fe = 
-+fw1 = THT command txt_function way_function_snow config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw1 = execute unless block ~ ~ ~ snow run setblock ~ ~1 ~ snow keep
 +fw2 = 
 +fw3 = 
 
