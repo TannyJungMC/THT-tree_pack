@@ -29,7 +29,7 @@ Started Generate : 26/05/2024 at 01:22:21
 
 +fs = 
 +fe = 
-+fw1 = execute unless block ~ ~ ~ snow run setblock ~ ~1 ~ snow keep
++fw1 = execute if block ~ ~ ~ #minecraft:leaves run setblock ~ ~1 ~ snow keep
 +fw2 = 
 +fw3 = 
 

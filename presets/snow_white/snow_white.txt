@@ -483,7 +483,7 @@ tannyjung-snow_white
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"execute unless block ~ ~ ~ snow run setblock ~ ~1 ~ snow keep"
+,way1_function:"execute if block ~ ~ ~ #minecraft:leaves run setblock ~ ~1 ~ snow keep"
 ,way1_function_type:"leaves_create"
 ,way1_function_chance:0.75
 ,way1_function_max:0
