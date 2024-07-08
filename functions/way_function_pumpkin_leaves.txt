@@ -1,9 +1,6 @@
 merge_all : false
-<<<<<<< Updated upstream
-=======
 
 --------------------------------------------------
->>>>>>> Stashed changes
 
 
 
