@@ -298,7 +298,7 @@ tannyjung-yokai
 ,branch_random_percent:50
 ,branch_distance_min:0
 
-,branch_center_percent:0
+,branch_center_percent:75
 ,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
 ,branch_start_height_min:0
@@ -312,7 +312,7 @@ tannyjung-yokai
 ,branch_thickness_reduce_above:100
 ,branch_thickness_reduce_below:100
 
-,branch_center_direction:false
+,branch_center_direction:true
 ,branch_center_direction_from:"trunk"
 ,branch_center_direction_vertical_above:0.1
 ,branch_center_direction_vertical_below:-0.1
@@ -464,15 +464,15 @@ tannyjung-yokai
 ,leaves_create_generator_type:"sphere"
 ,leaves:"minecraft:pink_wool"
 ,leaves2:"minecraft:pink_stained_glass"
-,leaves2_random:25
+,leaves2_random:100
 ,leaves_create_replace:false
 
 ,leaves_size_min:0
 ,leaves_size_max:5
 ,leaves_density:10
-,leaves_straighten_percent:0
+,leaves_straighten_percent:5
 ,leaves_straighten_min:0
-,leaves_straighten_max:100
+,leaves_straighten_max:50
 
 
 
