@@ -286,10 +286,10 @@ tannyjung-yokai
 ,branch_core:"minecraft:stripped_dark_oak_wood"
 ,branch_replace:true
 
-,branch_count_min:5
-,branch_count_max:6
+,branch_count_min:4
+,branch_count_max:5
 ,branch_length_min:50
-,branch_length_max:75
+,branch_length_max:100
 ,branch_thickness_min:3
 ,branch_thickness_max:4
 
@@ -321,7 +321,7 @@ tannyjung-yokai
 
 ,branch_curvature_vertical:30
 ,branch_curvature_horizontal:5
-,branch_gravity_min:0
+,branch_gravity_min:45
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
