@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/yoka
 biome : minecraft:meadow
 ground_block : minecraft:grass_block
 
-rarity : 10
+rarity : 5
 min_distance : 100
 group_chance : 0
 
