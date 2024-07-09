@@ -15,6 +15,7 @@ tannyjung-bad_omen
 ,start_height:-10
 ,rt_dynamic:false
 ,can_disable_roots:false
+,is_water_plant:false
 
 
 

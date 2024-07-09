@@ -36,6 +36,7 @@ Started Generate : 10/06/2024 at 14:45:27
 start_height : -3
 rt_dynamic : false
 can_disable_roots : false
+is_water_plant : false
 
 --------------------------------------------------
 
