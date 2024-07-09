@@ -33,7 +33,7 @@ Started Generate : 22/05/2024 at 02:56:55
 +fw2 = 
 +fw3 = 
 
-start_height : -3
+start_height : 0
 rt_dynamic : true
 can_disable_roots : true
 is_water_plant : false
