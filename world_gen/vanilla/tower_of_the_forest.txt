@@ -1,7 +1,7 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/tower_of_the_forest/storage
 
 biome : minecraft:dark_forest
-ground_block : minecraft:grass_block
+ground_block : minecraft:grass_block, minecraft:dirt
 
 rarity : 10
 min_distance : 50
