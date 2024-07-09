@@ -14,7 +14,7 @@ tannyjung-alpha_oak
 ,start_height:-3
 ,rt_dynamic:true
 ,can_disable_roots:true
-,is_water_plant:false
+,type:"non_water"
 
 
 

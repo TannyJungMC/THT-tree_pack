@@ -15,7 +15,7 @@ tannyjung-coconut_tree
 ,start_height:-1
 ,rt_dynamic:false
 ,can_disable_roots:true
-,is_water_plant:false
+,type:"non_water"
 
 
 
