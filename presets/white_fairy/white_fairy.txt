@@ -30,8 +30,8 @@ tannyjung-white_fairy
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:5
-,taproot_length_max:10
+,taproot_length_min:10
+,taproot_length_max:20
 ,taproot_thickness_min:1
 ,taproot_thickness_max:4.5
 
@@ -67,15 +67,15 @@ tannyjung-white_fairy
 ,secondary_root_core:"minecraft:stripped_birch_wood"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:2
+,secondary_root_count_min:3
 ,secondary_root_count_max:5
 ,secondary_root_length_min:10
 ,secondary_root_length_max:20
 ,secondary_root_thickness_min:1
-,secondary_root_thickness_max:2
+,secondary_root_thickness_max:3
 
 ,secondary_root_random_auto:false
-,secondary_root_random:75
+,secondary_root_random:100
 ,secondary_root_random_percent:100
 ,secondary_root_distance_min:0
 
@@ -249,8 +249,8 @@ tannyjung-white_fairy
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,trunk_length_min:50
-,trunk_length_max:150
+,trunk_length_min:100
+,trunk_length_max:200
 ,trunk_thickness_min:3
 ,trunk_thickness_max:4
 
