@@ -33,10 +33,11 @@ Started Generate : 25/05/2024 at 14:18:17
 +fw2 = 
 +fw3 = 
 
+type : adapt
 start_height : -10
 rt_dynamic : false
 can_disable_roots : false
-type : non_water
+
 
 --------------------------------------------------
 

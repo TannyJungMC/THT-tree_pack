@@ -33,10 +33,11 @@ Started Generate : 23/05/2024 at 18:50:35
 +fw2 = 
 +fw3 = 
 
+type : non_water
 start_height : -3
 rt_dynamic : true
 can_disable_roots : true
-type : non_water
+
 
 --------------------------------------------------
 
