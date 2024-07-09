@@ -33,7 +33,7 @@ Started Generate : 26/05/2024 at 22:59:09
 +fw2 = THT command txt_function way_function_flowers config/THT/custom/tree_packs/THT-tree_pack-main/functions
 +fw3 = 
 
-start_height : 0
+start_height : -3
 rt_dynamic : true
 can_disable_roots : true
 is_water_plant : false

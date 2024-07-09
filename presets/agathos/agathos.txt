@@ -11,7 +11,7 @@ tannyjung-agathos
 
 
 
-,start_height:0
+,start_height:-3
 ,rt_dynamic:true
 ,can_disable_roots:true
 ,is_water_plant:false
