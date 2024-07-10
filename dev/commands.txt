@@ -18,4 +18,4 @@ give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1
 
 config/THT/custom/generated
 
-"}}}
+",dead_tree_level:0}}}
