@@ -95,10 +95,13 @@ tannyjung-aider
 
 ,secondary_root_center_direction:true
 ,secondary_root_center_direction_from:"taproot"
+,secondary_root_center_direction_forward_above:0.1
+,secondary_root_center_direction_forward_below:-0.1
+,secondary_root_center_direction_horizontal_above:0.1
+,secondary_root_center_direction_horizontal_below:0.1
 ,secondary_root_center_direction_vertical_above:0.1
-,secondary_root_center_direction_vertical_below:-0.1
-,secondary_root_center_direction__horizontal_above:0.1
-,secondary_root_center_direction__horizontal_below:0.1
+,secondary_root_center_direction_vertical_below:0.1
+
 
 ,secondary_root_curvature_vertical:15
 ,secondary_root_curvature_horizontal:15
@@ -155,10 +158,13 @@ tannyjung-aider
 
 ,tertiary_root_center_direction:false
 ,tertiary_root_center_direction_from:"secondary_root"
+,tertiary_root_center_direction_forward_above:0.1
+,tertiary_root_center_direction_forward_below:-0.1
+,tertiary_root_center_direction_horizontal_above:0.1
+,tertiary_root_center_direction_horizontal_below:0.1
 ,tertiary_root_center_direction_vertical_above:0.1
-,tertiary_root_center_direction_vertical_below:-0.1
-,tertiary_root_center_direction__horizontal_above:0.1
-,tertiary_root_center_direction__horizontal_below:0.1
+,tertiary_root_center_direction_vertical_below:0.1
+
 
 ,tertiary_root_curvature_vertical:15
 ,tertiary_root_curvature_horizontal:15
@@ -215,10 +221,12 @@ tannyjung-aider
 
 ,fine_root_center_direction:false
 ,fine_root_center_direction_from:"tertiary_root"
+,fine_root_center_direction_forward_above:0.1
+,fine_root_center_direction_forward_below:-0.1
+,fine_root_center_direction_horizontal_above:0.1
+,fine_root_center_direction_horizontal_below:0.1
 ,fine_root_center_direction_vertical_above:0.1
-,fine_root_center_direction_vertical_below:-0.1
-,fine_root_center_direction__horizontal_above:0.1
-,fine_root_center_direction__horizontal_below:0.1
+,fine_root_center_direction_vertical_below:0.1
 
 ,fine_root_curvature_vertical:15
 ,fine_root_curvature_horizontal:15
@@ -314,10 +322,10 @@ tannyjung-aider
 
 ,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
-,branch_center_direction_vertical_above:0.1
-,branch_center_direction_vertical_below:-0.1
-,branch_center_direction__horizontal_above:0.1
-,branch_center_direction__horizontal_below:0.1
+,branch_center_direction_forward_above:0.1
+,branch_center_direction_forward_below:-0.1
+,branch_center_direction_horizontal_above:0.1
+,branch_center_direction_horizontal_below:0.1
 
 ,branch_curvature_vertical:15
 ,branch_curvature_horizontal:15
@@ -374,10 +382,10 @@ tannyjung-aider
 
 ,twig_center_direction:false
 ,twig_center_direction_from:"branch"
-,twig_center_direction_vertical_above:0.1
-,twig_center_direction_vertical_below:-0.1
-,twig_center_direction__horizontal_above:0.1
-,twig_center_direction__horizontal_below:0.1
+,twig_center_direction_forward_above:0.1
+,twig_center_direction_forward_below:-0.1
+,twig_center_direction_horizontal_above:0.1
+,twig_center_direction_horizontal_below:0.1
 
 ,twig_curvature_vertical:15
 ,twig_curvature_horizontal:15
@@ -437,10 +445,10 @@ tannyjung-aider
 
 ,leaves_center_direction:false
 ,leaves_center_direction_from:"twig"
-,leaves_center_direction_vertical_above:0.1
-,leaves_center_direction_vertical_below:-0.1
-,leaves_center_direction__horizontal_above:0.1
-,leaves_center_direction__horizontal_below:0.1
+,leaves_center_direction_forward_above:0.1
+,leaves_center_direction_forward_below:-0.1
+,leaves_center_direction_horizontal_above:0.1
+,leaves_center_direction_horizontal_below:0.1
 
 ,leaves_curvature_vertical:15
 ,leaves_curvature_horizontal:15
