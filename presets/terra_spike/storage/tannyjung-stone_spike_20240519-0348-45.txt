@@ -33,7 +33,6 @@ Started Generate : 19/05/2024 at 03:48:45
 +fw2 = 
 +fw3 = 
 
-tree_type : non_water
 tree_type : adapt
 start_height : -20
 rt_dynamic : false
