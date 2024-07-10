@@ -315,10 +315,10 @@ tannyjung-malus_domestica
 
 ,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
-,branch_center_vertical_above:0.1
-,branch_center_vertical_below:-0.1
-,branch_center_horizontal_above:0.1
-,branch_center_horizontal_below:0.1
+,branch_center_direction_vertical_above:0.1
+,branch_center_direction_vertical_below:-0.1
+,branch_center_direction_horizontal_above:0.1
+,branch_center_direction_horizontal_below:0.1
 
 ,branch_curvature_vertical:30
 ,branch_curvature_horizontal:15
@@ -375,10 +375,10 @@ tannyjung-malus_domestica
 
 ,twig_center_direction:false
 ,twig_center_direction_from:"branch"
-,twig_center_vertical_above:0.1
-,twig_center_vertical_below:-0.1
-,twig_center_horizontal_above:0.1
-,twig_center_horizontal_below:0.1
+,twig_center_direction_vertical_above:0.1
+,twig_center_direction_vertical_below:-0.1
+,twig_center_direction_horizontal_above:0.1
+,twig_center_direction_horizontal_below:0.1
 
 ,twig_curvature_vertical:30
 ,twig_curvature_horizontal:15
@@ -438,10 +438,10 @@ tannyjung-malus_domestica
 
 ,leaves_center_direction:false
 ,leaves_center_direction_from:"twig"
-,leaves_center_vertical_above:0.1
-,leaves_center_vertical_below:-0.1
-,leaves_center_horizontal_above:0.1
-,leaves_center_horizontal_below:0.1
+,leaves_center_direction_vertical_above:0.1
+,leaves_center_direction_vertical_below:-0.1
+,leaves_center_direction_horizontal_above:0.1
+,leaves_center_direction_horizontal_below:0.1
 
 ,leaves_curvature_vertical:30
 ,leaves_curvature_horizontal:15

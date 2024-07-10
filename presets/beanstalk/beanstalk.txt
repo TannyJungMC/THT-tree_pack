@@ -15,7 +15,7 @@ tannyjung-beanstalk
 ,start_height:-3
 ,rt_dynamic:false
 ,can_disable_roots:false
-,tree_type:"non_water"
+,tree_type:"adapt"
 
 
 
