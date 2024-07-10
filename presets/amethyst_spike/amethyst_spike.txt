@@ -15,7 +15,7 @@ tannyjung-amathyst_spike
 ,start_height:-30
 ,rt_dynamic:false
 ,can_disable_roots:false
-,type:"non_water"
+,tree_type:"non_water"
 
 
 

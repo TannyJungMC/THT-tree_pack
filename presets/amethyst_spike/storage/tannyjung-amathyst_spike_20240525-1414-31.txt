@@ -33,7 +33,7 @@ Started Generate : 25/05/2024 at 14:14:31
 +fw2 = 
 +fw3 = 
 
-type : adapt
+tree_type : adapt
 start_height : -10
 rt_dynamic : false
 can_disable_roots : false

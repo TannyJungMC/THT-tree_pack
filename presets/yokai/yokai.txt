@@ -15,7 +15,7 @@ tannyjung-yokai
 ,start_height:-3
 ,rt_dynamic:true
 ,can_disable_roots:true
-,type:"non_water"
+,tree_type:"non_water"
 
 
 

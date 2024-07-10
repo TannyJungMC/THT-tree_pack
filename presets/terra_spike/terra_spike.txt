@@ -15,7 +15,7 @@ tannyjung-terra_spike
 ,start_height:-20
 ,rt_dynamic:false
 ,can_disable_roots:false
-,type:"adapt"
+,tree_type:"adapt"
 
 
 

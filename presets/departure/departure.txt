@@ -15,7 +15,7 @@ tannyjung-departure
 ,start_height:-3
 ,rt_dynamic:true
 ,can_disable_roots:true
-,type:"adapt"
+,tree_type:"adapt"
 
 
 

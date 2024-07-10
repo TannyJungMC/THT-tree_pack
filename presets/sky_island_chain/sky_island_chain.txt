@@ -15,7 +15,7 @@ tannyjung-sky_island_chain
 ,start_height:75
 ,rt_dynamic:false
 ,can_disable_roots:false
-,type:"non_water"
+,tree_type:"non_water"
 
 
 

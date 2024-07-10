@@ -33,7 +33,7 @@ Started Generate : 17/06/2024 at 16:38:15
 +fw2 = place feature minecraft:moss_patch
 +fw3 = place feature minecraft:moss_patch
 
-type : non_water
+tree_type : non_water
 start_height : 75
 rt_dynamic : false
 can_disable_roots : false
