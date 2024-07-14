@@ -2,7 +2,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 tannyjung-falcon
 
-",debug_mode:true,debug_mode_output:"none"
+",debug_mode:false,debug_mode_output:"none"
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
