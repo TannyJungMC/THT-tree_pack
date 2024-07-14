@@ -30,8 +30,8 @@ tannyjung-aider
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:3
-,taproot_length_max:5
+,taproot_length_min:5
+,taproot_length_max:10
 ,taproot_thickness_min:1
 ,taproot_thickness_max:1
 
