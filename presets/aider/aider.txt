@@ -261,8 +261,8 @@ tannyjung-aider
 ,trunk_core:"minecraft:stripped_birch_wood"
 ,trunk_replace:true
 
-,trunk_count_min:3
-,trunk_count_max:4
+,trunk_count_min:2
+,trunk_count_max:5
 ,trunk_length_min:20
 ,trunk_length_max:50
 ,trunk_thickness_min:1
