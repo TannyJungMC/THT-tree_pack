@@ -34,7 +34,7 @@ Started Generate : 26/05/2024 at 23:30:37
 +fw3 = 
 
 tree_type : non_water
-start_height : -3
+start_height : 0
 rt_dynamic : true
 can_disable_roots : true
 
