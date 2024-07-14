@@ -491,7 +491,7 @@ tannyjung-beanstalk
 ,leaves_replace:false
 
 ,leaves_size_min:0
-,leaves_size_max:2
+,leaves_size_max:1
 ,leaves_density:100
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
