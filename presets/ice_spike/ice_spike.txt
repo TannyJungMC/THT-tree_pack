@@ -76,7 +76,7 @@ tannyjung-ice_spike
 ,secondary_root_thickness_max:2
 
 ,secondary_root_random_auto:false
-,secondary_root_random:75
+,secondary_root_random:100
 ,secondary_root_random_percent:100
 ,secondary_root_distance_min:0
 ,secondary_root_center_percent:100
