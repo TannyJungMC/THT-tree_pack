@@ -261,16 +261,16 @@ tannyjung-aider
 ,trunk_core:"minecraft:stripped_birch_wood"
 ,trunk_replace:true
 
-,trunk_count_min:1
-,trunk_count_max:3
-,trunk_length_min:5
-,trunk_length_max:20
+,trunk_count_min:3
+,trunk_count_max:4
+,trunk_length_min:20
+,trunk_length_max:50
 ,trunk_thickness_min:1
 ,trunk_thickness_max:1
 
 ,trunk_curvature_vertical:15
-,trunk_curvature_horizontal:15
-,trunk_gravity_min:-75
+,trunk_curvature_horizontal:5
+,trunk_gravity_min:-45
 ,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:15
 
@@ -336,8 +336,8 @@ tannyjung-aider
 ,branch_center_direction_height_below:0
 
 ,branch_curvature_vertical:15
-,branch_curvature_horizontal:15
-,branch_gravity_min:-45
+,branch_curvature_horizontal:5
+,branch_gravity_min:-15
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
@@ -362,10 +362,10 @@ tannyjung-aider
 ,twig_core:"minecraft:stripped_birch_wood"
 ,twig_replace:true
 
-,twig_count_min:2
-,twig_count_max:3
-,twig_length_min:5
-,twig_length_max:10
+,twig_count_min:3
+,twig_count_max:5
+,twig_length_min:10
+,twig_length_max:20
 ,twig_thickness_min:1
 ,twig_thickness_max:1
 
@@ -400,8 +400,8 @@ tannyjung-aider
 ,twig_center_direction_height_below:0
 
 ,twig_curvature_vertical:15
-,twig_curvature_horizontal:15
-,twig_gravity_min:-45
+,twig_curvature_horizontal:5
+,twig_gravity_min:0
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:15
 
@@ -426,7 +426,7 @@ tannyjung-aider
 ,leaves_twig_core:"minecraft:stripped_birch_wood"
 ,leaves_twig_replace:true
 
-,leaves_twig_count_min:2
+,leaves_twig_count_min:3
 ,leaves_twig_count_max:5
 ,leaves_twig_length_min:5
 ,leaves_twig_length_max:10
@@ -464,8 +464,8 @@ tannyjung-aider
 ,leaves_twig_center_direction_horizontal_below:0.1
 
 ,leaves_twig_curvature_vertical:15
-,leaves_twig_curvature_horizontal:15
-,leaves_twig_gravity_min:45
+,leaves_twig_curvature_horizontal:5
+,leaves_twig_gravity_min:0
 ,leaves_twig_gravity_max:-90
 ,leaves_twig_gravity_weightiness:15
 
