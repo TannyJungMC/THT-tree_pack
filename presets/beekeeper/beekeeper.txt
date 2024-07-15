@@ -517,12 +517,12 @@ tannyjung-beekeeper
 ,way1_function_range_min:0
 ,way1_function_range_max:100
 
-,way2_function:""
-,way2_function_type:""
-,way2_function_chance:0
+,way2_function:"execute positioned ~ ~-20 ~ run place feature minecraft:flower_flower_forest"
+,way2_function_type:"branch"
+,way2_function_chance:10
 ,way2_function_max:0
-,way2_function_range_min:0
-,way2_function_range_max:100
+,way2_function_range_min:25
+,way2_function_range_max:75
 
 ,way3_function:""
 ,way3_function_type:""
