@@ -85,8 +85,8 @@ tannyjung-beekeeper
 ,secondary_root_start_forward_max:0
 ,secondary_root_start_vertical:0.1
 ,secondary_root_start_horizontal:0.1
-,secondary_root_start_height_min:0.1
-,secondary_root_start_height_max:0.1
+,secondary_root_start_height_min:0
+,secondary_root_start_height_max:0
 ,secondary_root_length_reduce_from:"taproot"
 ,secondary_root_thickness_reduce_from:"taproot"
 ,secondary_root_length_reduce_above:0
@@ -176,8 +176,8 @@ tannyjung-beekeeper
 ,tertiary_root_gravity_weightiness:45
 
 ,tertiary_root_crawling:-30
-,tertiary_root_crawling_forward:5
-,tertiary_root_crawling_height:5
+,tertiary_root_crawling_forward:1
+,tertiary_root_crawling_height:0
 ,tertiary_root_crawling_air_forward:0
 ,tertiary_root_crawling_air_height:10
 ,tertiary_root_dodging:15
@@ -308,11 +308,11 @@ tannyjung-beekeeper
 ,branch_thickness_min:1
 ,branch_thickness_max:1.5
 
-,branch_random_auto:false
+,branch_random_auto:true
 ,branch_random:10
 ,branch_random_percent:50
 ,branch_distance_min:0
-,branch_center_percent:75
+,branch_center_percent:50
 
 ,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
@@ -330,7 +330,7 @@ tannyjung-beekeeper
 ,branch_center_direction:true
 ,branch_center_direction_from:"trunk"
 ,branch_center_direction_forward_above:0.1
-,branch_center_direction_forward_below:0.1
+,branch_center_direction_forward_below:-0.1
 ,branch_center_direction_vertical_above:0
 ,branch_center_direction_vertical_below:0
 ,branch_center_direction_horizontal_above:0.1
