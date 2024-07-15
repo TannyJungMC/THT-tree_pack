@@ -146,7 +146,7 @@ tannyjung-bush
 ,tertiary_root_distance_min:0
 ,tertiary_root_center_percent:100
 
-,tertiary_root_start_vertical:0.1
+,tertiary_root_start_vertical:0
 ,tertiary_root_start_horizontal:0.1
 ,tertiary_root_start_height_min:0
 ,tertiary_root_start_height_max:0
@@ -211,7 +211,7 @@ tannyjung-bush
 ,fine_root_distance_min:0
 ,fine_root_center_percent:100
 
-,fine_root_start_vertical:0.1
+,fine_root_start_vertical:0
 ,fine_root_start_horizontal:0.1
 ,fine_root_start_height_min:0
 ,fine_root_start_height_max:0
