@@ -94,7 +94,7 @@ tannyjung-amathyst_spike
 ,secondary_root_thickness_reduce_above:0
 ,secondary_root_thickness_reduce_below:0
 
-,secondary_root_center_direction:true
+,secondary_root_center_direction:false
 ,secondary_root_center_direction_from:"taproot"
 ,secondary_root_center_direction_forward_above:0.1
 ,secondary_root_center_direction_forward_below:-0.1
