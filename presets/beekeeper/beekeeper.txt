@@ -68,8 +68,8 @@ tannyjung-beekeeper
 ,secondary_root_core:"minecraft:stripped_dark_oak_wood"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:3
-,secondary_root_count_max:5
+,secondary_root_count_min:4
+,secondary_root_count_max:6
 ,secondary_root_length_min:50
 ,secondary_root_length_max:100
 ,secondary_root_thickness_min:1
@@ -108,12 +108,12 @@ tannyjung-beekeeper
 ,secondary_root_curvature_vertical:30
 ,secondary_root_curvature_horizontal:15
 ,secondary_root_gravity_min:90
-,secondary_root_gravity_max:0
+,secondary_root_gravity_max:-15
 ,secondary_root_gravity_weightiness:45
 
 ,secondary_root_crawling:-30
 ,secondary_root_crawling_forward:1
-,secondary_root_crawling_height:1
+,secondary_root_crawling_height:0
 ,secondary_root_crawling_air_forward:0
 ,secondary_root_crawling_air_height:10
 ,secondary_root_dodging:15
@@ -172,7 +172,7 @@ tannyjung-beekeeper
 ,tertiary_root_curvature_vertical:15
 ,tertiary_root_curvature_horizontal:15
 ,tertiary_root_gravity_min:90
-,tertiary_root_gravity_max:0
+,tertiary_root_gravity_max:-15
 ,tertiary_root_gravity_weightiness:45
 
 ,tertiary_root_crawling:-30
@@ -238,7 +238,7 @@ tannyjung-beekeeper
 ,fine_root_curvature_vertical:15
 ,fine_root_curvature_horizontal:15
 ,fine_root_gravity_min:90
-,fine_root_gravity_max:0
+,fine_root_gravity_max:-15
 ,fine_root_gravity_weightiness:45
 
 ,fine_root_crawling:-30
@@ -262,8 +262,8 @@ tannyjung-beekeeper
 ,trunk_core:"minecraft:stripped_dark_oak_wood"
 ,trunk_replace:true
 
-,trunk_count_min:3
-,trunk_count_max:5
+,trunk_count_min:4
+,trunk_count_max:6
 ,trunk_length_min:20
 ,trunk_length_max:50
 ,trunk_thickness_min:1.75
@@ -271,9 +271,9 @@ tannyjung-beekeeper
 
 ,trunk_curvature_vertical:5
 ,trunk_curvature_horizontal:5
-,trunk_gravity_min:-45
+,trunk_gravity_min:-15
 ,trunk_gravity_max:-45
-,trunk_gravity_weightiness:15
+,trunk_gravity_weightiness:5
 
 ,trunk_crawling:-15
 ,trunk_crawling_forward:3
@@ -301,7 +301,7 @@ tannyjung-beekeeper
 ,branch_core:"minecraft:stripped_dark_oak_wood"
 ,branch_replace:true
 
-,branch_count_min:2
+,branch_count_min:3
 ,branch_count_max:5
 ,branch_length_min:10
 ,branch_length_max:20
@@ -310,7 +310,7 @@ tannyjung-beekeeper
 
 ,branch_random_auto:false
 ,branch_random:10
-,branch_random_percent:75
+,branch_random_percent:50
 ,branch_distance_min:0
 ,branch_center_percent:75
 
@@ -496,7 +496,7 @@ tannyjung-beekeeper
 ,leaves_density:10
 ,leaves_straighten_percent:5
 ,leaves_straighten_min:0
-,leaves_straighten_max:10
+,leaves_straighten_max:20
 ,leaves_size_reduce_from:"trunk"
 ,leaves_size_reduce_above:100
 ,leaves_size_reduce_below:100
