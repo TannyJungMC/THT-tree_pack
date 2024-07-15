@@ -341,7 +341,7 @@ tannyjung-beekeeper
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:5
 ,branch_gravity_min:0
-,branch_gravity_max:-45
+,branch_gravity_max:-75
 ,branch_gravity_weightiness:15
 
 ,branch_crawling:-15
@@ -405,7 +405,7 @@ tannyjung-beekeeper
 ,twig_curvature_vertical:5
 ,twig_curvature_horizontal:5
 ,twig_gravity_min:45
-,twig_gravity_max:-45
+,twig_gravity_max:-75
 ,twig_gravity_weightiness:15
 
 ,twig_crawling:-15
@@ -522,7 +522,7 @@ tannyjung-beekeeper
 ,way2_function_chance:10
 ,way2_function_max:0
 ,way2_function_range_min:25
-,way2_function_range_max:75
+,way2_function_range_max:50
 
 ,way3_function:""
 ,way3_function_type:""
