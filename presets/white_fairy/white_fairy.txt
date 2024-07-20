@@ -87,8 +87,11 @@ tannyjung-white_fairy
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
 ,secondary_root_start_forward_max:0
+,secondary_root_count_reduce_from:"taproot"
 ,secondary_root_length_reduce_from:"taproot"
 ,secondary_root_thickness_reduce_from:"taproot"
+,secondary_root_count_reduce_above:100
+,secondary_root_count_reduce_below:100
 ,secondary_root_length_reduce_above:0
 ,secondary_root_length_reduce_below:0
 ,secondary_root_thickness_reduce_above:0
@@ -152,8 +155,11 @@ tannyjung-white_fairy
 ,tertiary_root_start_height_max:0
 ,tertiary_root_start_forward_min:0
 ,tertiary_root_start_forward_max:0.1
+,tertiary_root_count_reduce_from:"taproot"
 ,tertiary_root_length_reduce_from:"taproot"
 ,tertiary_root_thickness_reduce_from:"secondary_root"
+,tertiary_root_count_reduce_above:100
+,tertiary_root_count_reduce_below:100
 ,tertiary_root_length_reduce_above:0
 ,tertiary_root_length_reduce_below:0
 ,tertiary_root_thickness_reduce_above:0
@@ -217,8 +223,11 @@ tannyjung-white_fairy
 ,fine_root_start_height_max:0
 ,fine_root_start_forward_min:0
 ,fine_root_start_forward_max:0.1
+,fine_root_count_reduce_from:"taproot"
 ,fine_root_length_reduce_from:"taproot"
-,fine_root_thickness_reduce_from:"secondary_root"
+,fine_root_thickness_reduce_from:"tertiary_root"
+,fine_root_count_reduce_above:100
+,fine_root_count_reduce_below:100
 ,fine_root_length_reduce_above:0
 ,fine_root_length_reduce_below:0
 ,fine_root_thickness_reduce_above:0
@@ -314,14 +323,17 @@ tannyjung-white_fairy
 ,branch_distance_min:0
 ,branch_center_percent:0
 
-,branch_start_vertical:0.1
+,branch_start_vertical:0
 ,branch_start_horizontal:0.1
 ,branch_start_height_min:0
 ,branch_start_height_max:0
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0.1
+,branch_count_reduce_from:"trunk"
 ,branch_length_reduce_from:"trunk"
 ,branch_thickness_reduce_from:"trunk"
+,branch_count_reduce_above:100
+,branch_count_reduce_below:100
 ,branch_length_reduce_above:100
 ,branch_length_reduce_below:100
 ,branch_thickness_reduce_above:100
@@ -376,14 +388,17 @@ tannyjung-white_fairy
 ,twig_distance_min:0
 ,twig_center_percent:0
 
-,twig_start_vertical:0.1
+,twig_start_vertical:0
 ,twig_start_horizontal:0.1
 ,twig_start_height_min:0
 ,twig_start_height_max:0
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
+,twig_count_reduce_from:"trunk"
 ,twig_length_reduce_from:"trunk"
 ,twig_thickness_reduce_from:"branch"
+,twig_count_reduce_above:100
+,twig_count_reduce_below:100
 ,twig_length_reduce_above:100
 ,twig_length_reduce_below:100
 ,twig_thickness_reduce_above:100
@@ -440,14 +455,17 @@ tannyjung-white_fairy
 ,leaves_twig_distance_min:0
 ,leaves_twig_center_percent:0
 
-,leaves_twig_start_vertical:0.1
+,leaves_twig_start_vertical:0
 ,leaves_twig_start_horizontal:0.1
 ,leaves_twig_start_height_min:0
 ,leaves_twig_start_height_max:0
 ,leaves_twig_start_forward_min:0
 ,leaves_twig_start_forward_max:0.1
+,leaves_twig_count_reduce_from:"trunk"
 ,leaves_twig_length_reduce_from:"trunk"
 ,leaves_twig_thickness_reduce_from:"twig"
+,leaves_twig_count_reduce_above:100
+,leaves_twig_count_reduce_below:100
 ,leaves_twig_length_reduce_above:100
 ,leaves_twig_length_reduce_below:100
 ,leaves_twig_thickness_reduce_above:100
