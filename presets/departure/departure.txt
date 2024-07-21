@@ -87,11 +87,8 @@ tannyjung-departure
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
 ,secondary_root_start_forward_max:0
-,secondary_root_count_reduce_from:"taproot"
 ,secondary_root_length_reduce_from:"taproot"
 ,secondary_root_thickness_reduce_from:"taproot"
-,secondary_root_count_reduce_above:100
-,secondary_root_count_reduce_below:100
 ,secondary_root_length_reduce_above:0
 ,secondary_root_length_reduce_below:0
 ,secondary_root_thickness_reduce_above:0
@@ -329,11 +326,8 @@ tannyjung-departure
 ,branch_start_height_max:0.1
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0
-,branch_count_reduce_from:"trunk"
 ,branch_length_reduce_from:"trunk"
 ,branch_thickness_reduce_from:"trunk"
-,branch_count_reduce_above:100
-,branch_count_reduce_below:100
 ,branch_length_reduce_above:100
 ,branch_length_reduce_below:100
 ,branch_thickness_reduce_above:100

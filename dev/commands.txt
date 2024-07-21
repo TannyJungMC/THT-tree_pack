@@ -19,3 +19,9 @@ give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1
 config/THT/custom/generated
 
 ",dead_tree_level:0}}}
+
+
+
+
+
+THT command preset_fixer test config/THT/custom/tree_packs/THT-tree_pack-main/presets
