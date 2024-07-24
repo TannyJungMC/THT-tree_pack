@@ -1,8 +1,5 @@
-give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{name:"
-
-tannyjung-art_of_vines
-
-",debug_mode:false,debug_mode_output:"none"
+give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{
+,name:"tannyjung-art_of_vines",debug_mode:false,debug_mode_output:"none"
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1

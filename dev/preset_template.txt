@@ -345,7 +345,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_start_forward_min:-0.01
 ,branch_start_forward_max:0
 
-,branch_center_direction:true
+,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
 ,branch_center_direction_center:50
 ,branch_center_direction_forward_above:0.025

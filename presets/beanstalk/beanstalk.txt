@@ -1,8 +1,5 @@
-give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{name:"
+give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
 
-tannyjung-beanstalk
-
-",debug_mode:false,debug_mode_output:"none"
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
@@ -11,6 +8,8 @@ tannyjung-beanstalk
 
 
 
+
+,name:"tannyjung-beanstalk"
 
 ,start_height:0
 ,rt_dynamic:false
@@ -36,6 +35,11 @@ tannyjung-beanstalk
 ,taproot_thickness_min:5.5
 ,taproot_thickness_max:5.5
 
+,taproot_start_gravity_min:90
+,taproot_start_gravity_max:90
+,taproot_start_direction_min:0
+,taproot_start_direction_max:360
+
 ,taproot_curvature_vertical:15
 ,taproot_curvature_horizontal:15
 ,taproot_gravity_min:90
@@ -50,11 +54,6 @@ tannyjung-beanstalk
 ,taproot_dodging:15
 ,taproot_dodging_forward:5
 ,taproot_dodging_sideward:5
-
-,taproot_start_gravity_min:90
-,taproot_start_gravity_max:90
-,taproot_start_direction_min:0
-,taproot_start_direction_max:360
 
 
 
@@ -75,11 +74,19 @@ tannyjung-beanstalk
 ,secondary_root_thickness_min:1
 ,secondary_root_thickness_max:1
 
+,secondary_root_length_reduce_from:"taproot"
+,secondary_root_length_reduce_center:100
+,secondary_root_length_reduce_above:0
+,secondary_root_length_reduce_below:0
+,secondary_root_thickness_reduce_from:"taproot"
+,secondary_root_thickness_reduce_center:100
+,secondary_root_thickness_reduce_above:0
+,secondary_root_thickness_reduce_below:0
+
 ,secondary_root_random_auto:false
 ,secondary_root_random:100
 ,secondary_root_random_percent:100
 ,secondary_root_distance_min:0
-,secondary_root_center_percent:100
 
 ,secondary_root_start_vertical:0.1
 ,secondary_root_start_horizontal:0.1
@@ -87,15 +94,10 @@ tannyjung-beanstalk
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0.1
 ,secondary_root_start_forward_max:0.1
-,secondary_root_length_reduce_from:"taproot"
-,secondary_root_thickness_reduce_from:"taproot"
-,secondary_root_length_reduce_above:0
-,secondary_root_length_reduce_below:0
-,secondary_root_thickness_reduce_above:0
-,secondary_root_thickness_reduce_below:0
 
 ,secondary_root_center_direction:false
 ,secondary_root_center_direction_from:"taproot"
+,secondary_root_center_direction_center:0
 ,secondary_root_center_direction_forward_above:0.1
 ,secondary_root_center_direction_forward_below:-0.1
 ,secondary_root_center_direction_vertical_above:0.1
@@ -140,11 +142,23 @@ tannyjung-beanstalk
 ,tertiary_root_thickness_min:1
 ,tertiary_root_thickness_max:2
 
+,tertiary_root_count_reduce_from:"taproot"
+,tertiary_root_count_reduce_center:100
+,tertiary_root_count_reduce_above:100
+,tertiary_root_count_reduce_below:100
+,tertiary_root_length_reduce_from:"taproot"
+,tertiary_root_length_reduce_center:100
+,tertiary_root_length_reduce_above:0
+,tertiary_root_length_reduce_below:0
+,tertiary_root_thickness_reduce_from:"secondary_root"
+,tertiary_root_thickness_reduce_center:100
+,tertiary_root_thickness_reduce_above:0
+,tertiary_root_thickness_reduce_below:0
+
 ,tertiary_root_random_auto:true
 ,tertiary_root_random:100
 ,tertiary_root_random_percent:100
 ,tertiary_root_distance_min:0
-,tertiary_root_center_percent:100
 
 ,tertiary_root_start_vertical:0
 ,tertiary_root_start_horizontal:0.1
@@ -152,18 +166,10 @@ tannyjung-beanstalk
 ,tertiary_root_start_height_max:0
 ,tertiary_root_start_forward_min:0
 ,tertiary_root_start_forward_max:0.1
-,tertiary_root_count_reduce_from:"taproot"
-,tertiary_root_length_reduce_from:"taproot"
-,tertiary_root_thickness_reduce_from:"secondary_root"
-,tertiary_root_count_reduce_above:100
-,tertiary_root_count_reduce_below:100
-,tertiary_root_length_reduce_above:0
-,tertiary_root_length_reduce_below:0
-,tertiary_root_thickness_reduce_above:0
-,tertiary_root_thickness_reduce_below:0
 
 ,tertiary_root_center_direction:false
 ,tertiary_root_center_direction_from:"secondary_root"
+,tertiary_root_center_direction_center:0
 ,tertiary_root_center_direction_forward_above:0.1
 ,tertiary_root_center_direction_forward_below:-0.1
 ,tertiary_root_center_direction_vertical_above:0.1
@@ -208,11 +214,23 @@ tannyjung-beanstalk
 ,fine_root_thickness_min:1
 ,fine_root_thickness_max:1
 
+,fine_root_count_reduce_from:"taproot"
+,fine_root_count_reduce_center:100
+,fine_root_count_reduce_above:100
+,fine_root_count_reduce_below:100
+,fine_root_length_reduce_from:"taproot"
+,fine_root_length_reduce_center:100
+,fine_root_length_reduce_above:0
+,fine_root_length_reduce_below:0
+,fine_root_thickness_reduce_from:"tertiary_root"
+,fine_root_thickness_reduce_center:100
+,fine_root_thickness_reduce_above:0
+,fine_root_thickness_reduce_below:0
+
 ,fine_root_random_auto:true
 ,fine_root_random:100
 ,fine_root_random_percent:100
 ,fine_root_distance_min:0
-,fine_root_center_percent:100
 
 ,fine_root_start_vertical:0
 ,fine_root_start_horizontal:0.1
@@ -220,18 +238,10 @@ tannyjung-beanstalk
 ,fine_root_start_height_max:0
 ,fine_root_start_forward_min:0
 ,fine_root_start_forward_max:0.1
-,fine_root_count_reduce_from:"taproot"
-,fine_root_length_reduce_from:"taproot"
-,fine_root_thickness_reduce_from:"tertiary_root"
-,fine_root_count_reduce_above:100
-,fine_root_count_reduce_below:100
-,fine_root_length_reduce_above:0
-,fine_root_length_reduce_below:0
-,fine_root_thickness_reduce_above:0
-,fine_root_thickness_reduce_below:0
 
 ,fine_root_center_direction:false
 ,fine_root_center_direction_from:"tertiary_root"
+,fine_root_center_direction_center:0
 ,fine_root_center_direction_forward_above:0.1
 ,fine_root_center_direction_forward_below:-0.1
 ,fine_root_center_direction_vertical_above:0.1
@@ -275,6 +285,11 @@ tannyjung-beanstalk
 ,trunk_thickness_min:1
 ,trunk_thickness_max:5
 
+,trunk_start_gravity_min:-45
+,trunk_start_gravity_max:-90
+,trunk_start_direction_min:0
+,trunk_start_direction_max:360
+
 ,trunk_curvature_vertical:15
 ,trunk_curvature_horizontal:45
 ,trunk_gravity_min:-45
@@ -289,11 +304,6 @@ tannyjung-beanstalk
 ,trunk_dodging:15
 ,trunk_dodging_forward:3
 ,trunk_dodging_sideward:3
-
-,trunk_start_gravity_min:-45
-,trunk_start_gravity_max:-90
-,trunk_start_direction_min:0
-,trunk_start_direction_max:360
 
 
 
@@ -314,11 +324,19 @@ tannyjung-beanstalk
 ,branch_thickness_min:1
 ,branch_thickness_max:3
 
+,branch_length_reduce_from:"trunk"
+,branch_length_reduce_center:25
+,branch_length_reduce_above:0
+,branch_length_reduce_below:0
+,branch_thickness_reduce_from:"trunk"
+,branch_thickness_reduce_center:25
+,branch_thickness_reduce_above:0
+,branch_thickness_reduce_below:0
+
 ,branch_random_auto:true
 ,branch_random:5
 ,branch_random_percent:100
 ,branch_distance_min:0
-,branch_center_percent:100
 
 ,branch_start_vertical:0
 ,branch_start_horizontal:0.1
@@ -326,17 +344,14 @@ tannyjung-beanstalk
 ,branch_start_height_max:0
 ,branch_start_forward_min:0
 ,branch_start_forward_max:0.1
-,branch_length_reduce_from:"trunk"
-,branch_thickness_reduce_from:"trunk"
-,branch_length_reduce_above:0
-,branch_length_reduce_below:0
-,branch_thickness_reduce_above:0
-,branch_thickness_reduce_below:0
 
 ,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
+,branch_center_direction_center:50
 ,branch_center_direction_forward_above:0.1
 ,branch_center_direction_forward_below:-0.1
+,branch_center_direction_vertical_above:0.1
+,branch_center_direction_vertical_below:0.1
 ,branch_center_direction_horizontal_above:0.1
 ,branch_center_direction_horizontal_below:0.1
 ,branch_center_direction_height_above:0
@@ -376,30 +391,34 @@ tannyjung-beanstalk
 ,twig_thickness_min:1
 ,twig_thickness_max:2
 
+,twig_count_reduce_from:"trunk"
+,twig_count_reduce_center:25
+,twig_count_reduce_above:100
+,twig_count_reduce_below:100
+,twig_length_reduce_from:"trunk"
+,twig_length_reduce_center:25
+,twig_length_reduce_above:0
+,twig_length_reduce_below:0
+,twig_thickness_reduce_from:"branch"
+,twig_thickness_reduce_center:25
+,twig_thickness_reduce_above:0
+,twig_thickness_reduce_below:0
+
 ,twig_random_auto:true
 ,twig_random:10
 ,twig_random_percent:50
 ,twig_distance_min:0
-,twig_center_percent:10
-0
+
 ,twig_start_vertical:0
 ,twig_start_horizontal:0.1
 ,twig_start_height_min:0
 ,twig_start_height_max:0
 ,twig_start_forward_min:0
 ,twig_start_forward_max:0.1
-,twig_count_reduce_from:"trunk"
-,twig_length_reduce_from:"trunk"
-,twig_thickness_reduce_from:"branch"
-,twig_count_reduce_above:100
-,twig_count_reduce_below:100
-,twig_length_reduce_above:0
-,twig_length_reduce_below:0
-,twig_thickness_reduce_above:0
-,twig_thickness_reduce_below:0
 
 ,twig_center_direction:false
 ,twig_center_direction_from:"branch"
+,twig_center_direction_center:0
 ,twig_center_direction_forward_above:0.1
 ,twig_center_direction_forward_below:-0.1
 ,twig_center_direction_vertical_above:0.1
@@ -443,11 +462,23 @@ tannyjung-beanstalk
 ,leaves_twig_thickness_min:1
 ,leaves_twig_thickness_max:1
 
+,leaves_twig_count_reduce_from:"trunk"
+,leaves_twig_count_reduce_center:25
+,leaves_twig_count_reduce_above:100
+,leaves_twig_count_reduce_below:100
+,leaves_twig_length_reduce_from:"trunk"
+,leaves_twig_length_reduce_center:25
+,leaves_twig_length_reduce_above:0
+,leaves_twig_length_reduce_below:0
+,leaves_twig_thickness_reduce_from:"twig"
+,leaves_twig_thickness_reduce_center:25
+,leaves_twig_thickness_reduce_above:0
+,leaves_twig_thickness_reduce_below:0
+
 ,leaves_twig_random_auto:false
 ,leaves_twig_random:10
 ,leaves_twig_random_percent:50
 ,leaves_twig_distance_min:0
-,leaves_twig_center_percent:100
 
 ,leaves_twig_start_vertical:0
 ,leaves_twig_start_horizontal:0.1
@@ -455,19 +486,10 @@ tannyjung-beanstalk
 ,leaves_twig_start_height_max:0
 ,leaves_twig_start_forward_min:0
 ,leaves_twig_start_forward_max:0.1
-,leaves_twig_count_reduce_from:"trunk"
-,leaves_twig_length_reduce_from:"trunk"
-,leaves_twig_thickness_reduce_from:"twig"
-,leaves_twig_count_reduce_above:100
-,leaves_twig_count_reduce_below:100
-,leaves_twig_length_reduce_above:0
-,leaves_twig_length_reduce_below:0
-,leaves_twig_thickness_reduce_above:0
-,leaves_twig_thickness_reduce_below:0
-
 
 ,leaves_twig_center_direction:false
 ,leaves_twig_center_direction_from:"twig"
+,leaves_twig_center_direction_center:0
 ,leaves_twig_center_direction_forward_above:0.1
 ,leaves_twig_center_direction_forward_below:-0.1
 ,leaves_twig_center_direction_vertical_above:0.1
@@ -508,7 +530,9 @@ tannyjung-beanstalk
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
+
 ,leaves_size_reduce_from:"trunk"
+,leaves_size_reduce_center:25
 ,leaves_size_reduce_above:100
 ,leaves_size_reduce_below:100
 
