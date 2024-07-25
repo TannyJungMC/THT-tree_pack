@@ -143,15 +143,15 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_thickness_max:1
 
 ,tertiary_root_count_reduce_from:"taproot"
-,tertiary_root_count_reduce_center:100
+,tertiary_root_count_reduce_center:0
 ,tertiary_root_count_reduce_above:1
 ,tertiary_root_count_reduce_below:100
 ,tertiary_root_length_reduce_from:"taproot"
-,tertiary_root_length_reduce_center:100
+,tertiary_root_length_reduce_center:0
 ,tertiary_root_length_reduce_above:1
 ,tertiary_root_length_reduce_below:100
 ,tertiary_root_thickness_reduce_from:"secondary_root"
-,tertiary_root_thickness_reduce_center:100
+,tertiary_root_thickness_reduce_center:0
 ,tertiary_root_thickness_reduce_above:1
 ,tertiary_root_thickness_reduce_below:100
 
@@ -215,15 +215,15 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_thickness_max:1
 
 ,fine_root_count_reduce_from:"taproot"
-,fine_root_count_reduce_center:100
+,fine_root_count_reduce_center:0
 ,fine_root_count_reduce_above:1
 ,fine_root_count_reduce_below:100
 ,fine_root_length_reduce_from:"taproot"
-,fine_root_length_reduce_center:100
+,fine_root_length_reduce_center:0
 ,fine_root_length_reduce_above:1
 ,fine_root_length_reduce_below:100
 ,fine_root_thickness_reduce_from:"tertiary_root"
-,fine_root_thickness_reduce_center:100
+,fine_root_thickness_reduce_center:0
 ,fine_root_thickness_reduce_above:1
 ,fine_root_thickness_reduce_below:100
 
