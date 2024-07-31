@@ -1,2 +1,2 @@
 mod_version : 20240616
-pack_version : 20240724
+pack_version : 20240731
