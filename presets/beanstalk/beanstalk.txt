@@ -521,7 +521,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_generator_type:"sphere"
 ,leaves:"lime_terracotta"
 ,leaves2:""
-,leaves2_random:0
+,leaves2_chance:0
 ,leaves_replace:false
 
 ,leaves_size_min:0

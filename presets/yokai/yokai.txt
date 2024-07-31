@@ -497,7 +497,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_generator_type:"sphere"
 ,leaves:"minecraft:pink_wool"
 ,leaves2:"minecraft:pink_stained_glass"
-,leaves2_random:100
+,leaves2_chance:100
 ,leaves_replace:false
 
 ,leaves_size_min:0

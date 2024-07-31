@@ -52,6 +52,7 @@ This project also an example pack for people who want to create own tree pack. B
 
 ## Step 2 : Installation
 
+Run the world one time to allow the mod to create config folders
 Open **tree_packs** folder and follow the guide below, the folder can be found in **config > THT > custom**.
 Don't forget to delete old **THT-tree_pack** folder, just in case I remove some old files.
 Old files maybe still there if you don't delete the old folder
