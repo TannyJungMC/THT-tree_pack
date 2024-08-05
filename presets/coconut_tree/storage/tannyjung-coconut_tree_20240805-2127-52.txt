@@ -1,0 +1,326 @@
+Started Generate : 05/08/2024 at 21:27:52
+
+tree_type : non_water
+start_height : -1
+rt_dynamic : false
+can_disable_roots : true
+
+@tao = minecraft:jungle_wood
+@tai = minecraft:jungle_wood
+@tac = minecraft:stripped_jungle_wood
+@seo = minecraft:jungle_wood
+@sei = minecraft:jungle_wood
+@sec = minecraft:stripped_jungle_wood
+@teo = minecraft:jungle_wood
+@tei = minecraft:jungle_wood
+@tec = minecraft:stripped_jungle_wood
+@fio = minecraft:jungle_wood
+@fii = minecraft:jungle_wood
+@fic = minecraft:stripped_jungle_wood
+@tro = minecraft:jungle_wood
+@tri = minecraft:jungle_wood
+@trc = minecraft:stripped_jungle_wood
+@bro = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@bri =  replace #tht:passable_blocks
+@brc =  replace #tht:passable_blocks
+@two = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@twi = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@twc = minecraft:jungle_leaves[persistent=true] replace #tht:passable_blocks
+@lto = minecraft:jungle_wood
+@lti = minecraft:jungle_wood
+@ltc = minecraft:stripped_jungle_wood
+@le1 = minecraft:jungle_leaves[persistent=true] keep
+@le2 =  keep
+
++fs = 
++fe = 
++fw1 = THT command txt_function way_function_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw2 = 
++fw3 = 
+
+--------------------------------------------------
+
++s^0^0^0@tro
++s^-1^-4^0@tao
++s^-1^-5^-1@tao
++s^-1^-5^0@tao
++s^-1^-3^-1@tao
++s^0^-3^-1@tao
++s^0^-5^-1@tao
++s^0^-6^0@tao
++s^0^-1^0@tro
++s^-1^-1^-1@tro
++s^0^-1^-1@tro
++s^1^-3^-2@seo
++s^-4^-4^-1@seo
++s^-1^-4^-1@tao
++s^0^-2^0@tao
++s^-1^-2^0@tao
++s^-1^-2^-1@tao
++s^0^-2^-1@tao
++s^-3^-3^-2@seo
++s^1^-2^-1@seo
++s^1^-3^2@seo
++s^-1^-3^-2@seo
++s^-1^-3^-3@seo
++s^2^-3^0@seo
++s^3^-3^-1@seo
++s^-2^-3^-2@seo
++s^-3^-3^-3@seo
++s^-2^-2^-1@seo
++s^0^-3^0@tao
++s^0^-5^0@tao
++s^-1^-7^0@tao
++s^-1^-6^-1@tao
++s^0^-6^-1@tao
++s^-1^-6^0@seo
++s^-1^-1^0@tao
++s^-1^-3^0@tao
++s^2^-4^-3@seo
++s^-2^-2^0@seo
++s^-3^-2^0@seo
++s^-3^-3^0@seo
++s^-4^-3^-1@seo
++s^-5^-4^-1@seo
++s^-6^-4^-1@seo
++s^1^-2^1@seo
++s^2^-3^3@seo
++s^2^-4^3@seo
++s^2^-4^4@seo
++s^-4^-3^1@seo
++s^-5^-4^1@seo
++s^-2^-2^1@seo
++s^-2^-3^2@seo
++s^-3^-3^3@seo
++s^-3^-4^-3@seo
++s^-4^-5^-3@seo
++s^-4^-6^-3@seo
++s^-5^-6^-4@seo
++s^-5^-7^-4@seo
++s^2^-3^-1@seo
++s^4^-3^-1@seo
++s^5^-4^-1@seo
++s^-1^-3^1@seo
++s^-1^-4^2@seo
++s^-2^-4^3@seo
++s^-2^-4^4@seo
++s^-2^-4^5@seo
++s^0^-3^-3@seo
++s^0^-4^-4@seo
++s^0^-4^-5@seo
++s^0^-4^-6@seo
++s^0^-3^-2@seo
++s^0^-5^-5@seo
++s^0^-3^-4@seo
++s^0^-5^-6@seo
++s^2^-3^2@seo
++s^3^-3^2@seo
++s^1^-3^-3@seo
++s^2^-5^-4@seo
++s^-2^-2^-2@seo
++s^-3^-2^-2@seo
++s^-4^-3^-4@seo
++s^-2^-3^-1@seo
++s^-3^-3^-1@seo
++s^1^-3^-1@seo
++s^3^-4^0@seo
++s^4^-4^0@seo
++s^5^-5^1@seo
++s^-2^-4^-4@seo
++s^-2^-4^-5@seo
++s^-2^-4^-6@seo
++s^0^-4^-1@tao
++s^0^-4^0@tao
++s^0^0^0@tro
++s^0^1^0@tro
++s^1^1^0@tro
++s^1^2^0@tro
++s^1^2^1@tro
++s^0^2^0@tro
++s^1^3^1@tro
++s^1^3^0@tro
++s^1^4^1@tro
++s^2^4^1@tro
++s^2^5^1@tro
++s^2^6^1@tro
++s^2^7^1@tro
++s^3^7^1@tro
++s^3^8^1@tro
++s^3^9^2@tro
++s^3^10^2@tro
++s^3^11^2@tro
++s^4^12^2@tro
++s^4^13^2@tro
++s^4^14^2@tro
++s^4^15^2@tro
++s^4^16^2@tro
++s^5^17^2@tro
++s^5^18^2@tro
++s^5^19^2@tro
++s^5^20^2@tro
++s^6^21^2@tro
++s^6^22^2@tro
++s^6^23^2@tro
++s^6^24^2@tro
++ep^6^24^2+fw1
++s^6^25^2@tro
++s^7^23^1@bro
++s^7^23^0@bro
++s^7^22^0@bro
++s^7^21^-1@bro
++s^7^20^-1@bro
++s^7^19^-2@bro
++s^7^18^-2@bro
++s^7^17^-2@bro
++s^7^16^-2@bro
++s^6^25^1@bro
++s^6^24^1@bro
++s^5^24^0@bro
++s^5^24^-1@bro
++s^4^23^-2@bro
++s^4^23^-3@bro
++s^4^22^-3@bro
++s^3^22^-4@bro
++s^3^21^-5@bro
++s^6^25^3@bro
++s^7^25^3@bro
++s^8^26^4@bro
++s^9^26^4@bro
++s^9^26^5@bro
++s^10^26^5@bro
++s^11^26^6@bro
++s^12^26^7@bro
++s^13^26^7@bro
++s^13^26^8@bro
++s^14^26^8@bro
++s^5^24^3@bro
++s^4^23^3@bro
++s^3^23^3@bro
++s^2^22^4@bro
++s^2^21^4@bro
++s^1^20^4@bro
++s^7^24^2@bro
++s^7^23^2@bro
++s^7^22^2@bro
++s^7^21^2@bro
++s^7^20^2@bro
++s^7^19^2@bro
++s^7^18^2@bro
++s^7^17^2@bro
++s^7^16^2@bro
++s^7^15^2@bro
++s^5^26^4@bro
++s^4^26^4@bro
++s^3^26^5@bro
++s^3^26^6@bro
++s^2^26^6@bro
++s^1^26^7@bro
++s^7^25^2@bro
++s^8^25^2@bro
++s^9^25^1@bro
++s^10^24^1@bro
++s^11^24^0@bro
++s^12^24^0@bro
++s^12^23^-1@bro
++s^7^25^1@bro
++s^7^26^0@bro
++s^7^26^-1@bro
++s^8^26^-2@bro
++s^8^25^-3@bro
++s^8^25^-4@bro
++s^6^26^3@bro
++s^5^26^3@bro
++s^4^27^3@bro
++s^4^27^4@bro
++s^3^28^4@bro
++s^2^28^4@bro
++s^1^29^5@bro
++s^0^29^5@bro
++s^-1^29^6@bro
++s^5^25^3@bro
++s^4^25^3@bro
++s^3^25^3@bro
++s^2^24^3@bro
++s^1^24^3@bro
++s^0^23^3@bro
++s^-1^22^3@bro
++s^-2^22^3@bro
++s^6^24^3@bro
++s^6^23^4@bro
++s^6^22^5@bro
++s^6^21^6@bro
++s^6^20^6@bro
++s^6^19^6@bro
++s^8^24^1@bro
++s^9^23^1@bro
++s^9^23^0@bro
++s^10^22^0@bro
++s^11^21^0@bro
++s^11^21^-1@bro
++s^11^20^-1@bro
++s^5^25^4@bro
++s^4^25^4@bro
++s^3^25^5@bro
++s^2^24^5@bro
++s^1^24^6@bro
++s^0^23^6@bro
++s^6^25^0@bro
++s^6^25^-1@bro
++s^6^25^-2@bro
++s^6^25^-3@bro
++s^6^25^-4@bro
++s^6^24^-4@bro
++s^6^24^-5@bro
++s^6^24^-6@bro
++s^5^24^4@bro
++s^5^23^5@bro
++s^5^22^5@bro
++s^4^21^6@bro
++s^4^20^7@bro
++s^4^19^7@bro
++s^3^18^7@bro
++s^3^17^7@bro
++s^7^24^1@bro
++s^7^24^0@bro
++s^7^23^-1@bro
++s^7^22^-2@bro
++s^8^22^-3@bro
++s^8^21^-3@bro
++s^7^26^1@bro
++s^7^26^-2@bro
++s^7^26^-3@bro
++s^7^26^-4@bro
++s^7^26^-5@bro
++s^7^25^-6@bro
++s^5^27^4@bro
++s^4^27^5@bro
++s^3^28^5@bro
++s^2^28^6@bro
++s^1^28^7@bro
++s^0^28^8@bro
++s^8^26^5@bro
++s^10^26^6@bro
++s^10^27^7@bro
++s^11^26^8@bro
++s^12^26^9@bro
++s^8^26^3@bro
++s^9^26^3@bro
++s^10^26^3@bro
++s^11^27^4@bro
++s^12^27^4@bro
++s^13^27^4@bro
++s^14^27^4@bro
++s^15^27^4@bro
++s^8^23^3@bro
++s^8^22^3@bro
++s^8^21^3@bro
++s^9^20^3@bro
++s^9^19^3@bro
++s^9^18^3@bro
++s^9^17^3@bro
++s^9^16^3@bro
++s^9^15^3@bro
+
+--------------------------------------------------
+
+Time Used : 00h 00m 11s
