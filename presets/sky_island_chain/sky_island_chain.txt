@@ -338,7 +338,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_random_percent:50
 ,branch_distance_min:0
 
-,branch_start_vertical:0
+,branch_start_vertical:0.1
 ,branch_start_horizontal:0.1
 ,branch_start_height_min:0
 ,branch_start_height_max:0
@@ -409,7 +409,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,twig_random_percent:50
 ,twig_distance_min:0
 
-,twig_start_vertical:0
+,twig_start_vertical:0.1
 ,twig_start_horizontal:0.1
 ,twig_start_height_min:0
 ,twig_start_height_max:0
@@ -480,7 +480,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_random_percent:50
 ,leaves_twig_distance_min:0
 
-,leaves_twig_start_vertical:0
+,leaves_twig_start_vertical:0.1
 ,leaves_twig_start_horizontal:0.1
 ,leaves_twig_start_height_min:0
 ,leaves_twig_start_height_max:0
