@@ -1,7 +1,7 @@
 kill @e[type=!player,tag=!THT-random_tree]
 
-execute in tht:dimension run tp 0 100 0
 execute in minecraft:overworld run tp 0 100 0
+execute in tht:dimension run tp 0 100 0
 
 
 
