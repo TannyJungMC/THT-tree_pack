@@ -1,5 +1,5 @@
-give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{
-,name:"tannyjung-tower_of_the_forest",debug_mode:false,debug_mode_output:"none"
+give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
+
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1
@@ -8,6 +8,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
+
+,name:"tannyjung-tower_of_the_forest"
 
 ,start_height:-3
 ,rt_dynamic:true
@@ -28,10 +30,15 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:20
-,taproot_length_max:50
+,taproot_length_min:40
+,taproot_length_max:60
 ,taproot_thickness_min:1
 ,taproot_thickness_max:7.5
+
+,taproot_start_gravity_min:90
+,taproot_start_gravity_max:90
+,taproot_start_direction_min:0
+,taproot_start_direction_max:360
 
 ,taproot_curvature_vertical:15
 ,taproot_curvature_horizontal:15
@@ -48,11 +55,6 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,taproot_dodging_forward:5
 ,taproot_dodging_sideward:5
 
-,taproot_start_gravity_min:90
-,taproot_start_gravity_max:90
-,taproot_start_direction_min:0
-,taproot_start_direction_max:360
-
 
 
 
@@ -65,18 +67,26 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_core:"minecraft:stripped_oak_wood"
 ,secondary_root_replace:true
 
-,secondary_root_count_min:5
-,secondary_root_count_max:10
+,secondary_root_count_min:4
+,secondary_root_count_max:6
 ,secondary_root_length_min:50
-,secondary_root_length_max:100
-,secondary_root_thickness_min:1
+,secondary_root_length_max:75
+,secondary_root_thickness_min:3.5
 ,secondary_root_thickness_max:5
+
+,secondary_root_length_reduce_from:"taproot"
+,secondary_root_length_reduce_center:99
+,secondary_root_length_reduce_above:0
+,secondary_root_length_reduce_below:100
+,secondary_root_thickness_reduce_from:"taproot"
+,secondary_root_thickness_reduce_center:99
+,secondary_root_thickness_reduce_above:0
+,secondary_root_thickness_reduce_below:100
 
 ,secondary_root_random_auto:false
 ,secondary_root_random:100
 ,secondary_root_random_percent:0
 ,secondary_root_distance_min:0
-,secondary_root_center_percent:100
 
 ,secondary_root_start_vertical:0.1
 ,secondary_root_start_horizontal:0.1
@@ -84,15 +94,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
 ,secondary_root_start_forward_max:0
-,secondary_root_length_reduce_from:"taproot"
-,secondary_root_thickness_reduce_from:"taproot"
-,secondary_root_length_reduce_above:0
-,secondary_root_length_reduce_below:0
-,secondary_root_thickness_reduce_above:0
-,secondary_root_thickness_reduce_below:0
 
 ,secondary_root_center_direction:false
 ,secondary_root_center_direction_from:"taproot"
+,secondary_root_center_direction_center:0
 ,secondary_root_center_direction_forward_above:0.1
 ,secondary_root_center_direction_forward_below:-0.1
 ,secondary_root_center_direction_vertical_above:0.1
@@ -130,18 +135,30 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_core:"minecraft:stripped_oak_wood"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:2
+,tertiary_root_count_min:3
 ,tertiary_root_count_max:5
-,tertiary_root_length_min:50
-,tertiary_root_length_max:100
+,tertiary_root_length_min:40
+,tertiary_root_length_max:60
 ,tertiary_root_thickness_min:1
 ,tertiary_root_thickness_max:3
 
+,tertiary_root_count_reduce_from:"taproot"
+,tertiary_root_count_reduce_center:99
+,tertiary_root_count_reduce_above:0
+,tertiary_root_count_reduce_below:100
+,tertiary_root_length_reduce_from:"taproot"
+,tertiary_root_length_reduce_center:0
+,tertiary_root_length_reduce_above:0
+,tertiary_root_length_reduce_below:100
+,tertiary_root_thickness_reduce_from:"taproot"
+,tertiary_root_thickness_reduce_center:0
+,tertiary_root_thickness_reduce_above:0
+,tertiary_root_thickness_reduce_below:100
+
 ,tertiary_root_random_auto:true
 ,tertiary_root_random:100
-,tertiary_root_random_percent:0
+,tertiary_root_random_percent:25
 ,tertiary_root_distance_min:0
-,tertiary_root_center_percent:100
 
 ,tertiary_root_start_vertical:0
 ,tertiary_root_start_horizontal:0.1
@@ -149,18 +166,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_start_height_max:0
 ,tertiary_root_start_forward_min:0
 ,tertiary_root_start_forward_max:0.1
-,tertiary_root_count_reduce_from:"taproot"
-,tertiary_root_length_reduce_from:"taproot"
-,tertiary_root_thickness_reduce_from:"secondary_root"
-,tertiary_root_count_reduce_above:100
-,tertiary_root_count_reduce_below:100
-,tertiary_root_length_reduce_above:0
-,tertiary_root_length_reduce_below:0
-,tertiary_root_thickness_reduce_above:0
-,tertiary_root_thickness_reduce_below:0
 
 ,tertiary_root_center_direction:false
 ,tertiary_root_center_direction_from:"secondary_root"
+,tertiary_root_center_direction_center:0
 ,tertiary_root_center_direction_forward_above:0.1
 ,tertiary_root_center_direction_forward_below:-0.1
 ,tertiary_root_center_direction_vertical_above:0.1
@@ -198,18 +207,30 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_core:"minecraft:stripped_oak_wood"
 ,fine_root_replace:true
 
-,fine_root_count_min:20
-,fine_root_count_max:50
+,fine_root_count_min:10
+,fine_root_count_max:20
 ,fine_root_length_min:1
 ,fine_root_length_max:20
 ,fine_root_thickness_min:1
 ,fine_root_thickness_max:1
 
+,fine_root_count_reduce_from:"taproot"
+,fine_root_count_reduce_center:99
+,fine_root_count_reduce_above:0
+,fine_root_count_reduce_below:100
+,fine_root_length_reduce_from:"taproot"
+,fine_root_length_reduce_center:0
+,fine_root_length_reduce_above:0
+,fine_root_length_reduce_below:100
+,fine_root_thickness_reduce_from:"taproot"
+,fine_root_thickness_reduce_center:0
+,fine_root_thickness_reduce_above:0
+,fine_root_thickness_reduce_below:100
+
 ,fine_root_random_auto:true
 ,fine_root_random:100
-,fine_root_random_percent:0
+,fine_root_random_percent:25
 ,fine_root_distance_min:0
-,fine_root_center_percent:100
 
 ,fine_root_start_vertical:0
 ,fine_root_start_horizontal:0.1
@@ -217,18 +238,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_start_height_max:0
 ,fine_root_start_forward_min:0
 ,fine_root_start_forward_max:0.1
-,fine_root_count_reduce_from:"taproot"
-,fine_root_length_reduce_from:"taproot"
-,fine_root_thickness_reduce_from:"tertiary_root"
-,fine_root_count_reduce_above:100
-,fine_root_count_reduce_below:100
-,fine_root_length_reduce_above:0
-,fine_root_length_reduce_below:0
-,fine_root_thickness_reduce_above:0
-,fine_root_thickness_reduce_below:0
 
 ,fine_root_center_direction:false
 ,fine_root_center_direction_from:"tertiary_root"
+,fine_root_center_direction_center:0
 ,fine_root_center_direction_forward_above:0.1
 ,fine_root_center_direction_forward_below:-0.1
 ,fine_root_center_direction_vertical_above:0.1
@@ -269,8 +282,13 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_count_max:1
 ,trunk_length_min:100
 ,trunk_length_max:200
-,trunk_thickness_min:3
+,trunk_thickness_min:5
 ,trunk_thickness_max:7
+
+,trunk_start_gravity_min:-75
+,trunk_start_gravity_max:-90
+,trunk_start_direction_min:0
+,trunk_start_direction_max:360
 
 ,trunk_curvature_vertical:15
 ,trunk_curvature_horizontal:15
@@ -287,11 +305,6 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_dodging_forward:3
 ,trunk_dodging_sideward:3
 
-,trunk_start_gravity_min:-75
-,trunk_start_gravity_max:-90
-,trunk_start_direction_min:0
-,trunk_start_direction_max:360
-
 
 
 
@@ -304,44 +317,49 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_core:"minecraft:stripped_oak_wood"
 ,branch_replace:true
 
-,branch_count_min:5
-,branch_count_max:10
-,branch_length_min:20
+,branch_count_min:10
+,branch_count_max:15
+,branch_length_min:40
 ,branch_length_max:50
 ,branch_thickness_min:1.5
-,branch_thickness_max:2
+,branch_thickness_max:2.5
 
-,branch_random_auto:false
-,branch_random:5
-,branch_random_percent:5
-,branch_distance_min:0
-,branch_center_percent:0
-
-,branch_start_vertical:0
-,branch_start_horizontal:0.1
-,branch_start_height_min:0
-,branch_start_height_max:0
-,branch_start_forward_min:0
-,branch_start_forward_max:0.1
 ,branch_length_reduce_from:"trunk"
-,branch_thickness_reduce_from:"trunk"
+,branch_length_reduce_center:0
 ,branch_length_reduce_above:100
 ,branch_length_reduce_below:100
+,branch_thickness_reduce_from:"trunk"
+,branch_thickness_reduce_center:0
 ,branch_thickness_reduce_above:100
 ,branch_thickness_reduce_below:100
 
+,branch_random_auto:false
+,branch_random:10
+,branch_random_percent:100
+,branch_distance_min:0
+
+,branch_start_vertical:0.1
+,branch_start_horizontal:0.1
+,branch_start_height_min:-0.025
+,branch_start_height_max:0.025
+,branch_start_forward_min:0.025
+,branch_start_forward_max:0.1
+
 ,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
+,branch_center_direction_center:50
 ,branch_center_direction_forward_above:0.1
 ,branch_center_direction_forward_below:-0.1
+,branch_center_direction_vertical_above:0.1
+,branch_center_direction_vertical_below:0.1
 ,branch_center_direction_horizontal_above:0.1
 ,branch_center_direction_horizontal_below:0.1
 ,branch_center_direction_height_above:0
 ,branch_center_direction_height_below:0
 
-,branch_curvature_vertical:30
+,branch_curvature_vertical:15
 ,branch_curvature_horizontal:15
-,branch_gravity_min:0
+,branch_gravity_min:15
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
@@ -366,37 +384,41 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,twig_core:"minecraft:stripped_oak_wood"
 ,twig_replace:true
 
-,twig_count_min:2
+,twig_count_min:3
 ,twig_count_max:5
 ,twig_length_min:10
-,twig_length_max:20
+,twig_length_max:15
 ,twig_thickness_min:1
 ,twig_thickness_max:1.25
+
+,twig_count_reduce_from:"trunk"
+,twig_count_reduce_center:0
+,twig_count_reduce_above:100
+,twig_count_reduce_below:100
+,twig_length_reduce_from:"trunk"
+,twig_length_reduce_center:0
+,twig_length_reduce_above:100
+,twig_length_reduce_below:100
+,twig_thickness_reduce_from:"branch"
+,twig_thickness_reduce_center:0
+,twig_thickness_reduce_above:100
+,twig_thickness_reduce_below:100
 
 ,twig_random_auto:false
 ,twig_random:10
 ,twig_random_percent:50
 ,twig_distance_min:0
-,twig_center_percent:0
 
-,twig_start_vertical:0
+,twig_start_vertical:0.1
 ,twig_start_horizontal:0.1
-,twig_start_height_min:0
-,twig_start_height_max:0
-,twig_start_forward_min:0
+,twig_start_height_min:-0.025
+,twig_start_height_max:0.025
+,twig_start_forward_min:0.025
 ,twig_start_forward_max:0.1
-,twig_count_reduce_from:"trunk"
-,twig_length_reduce_from:"trunk"
-,twig_thickness_reduce_from:"branch"
-,twig_count_reduce_above:100
-,twig_count_reduce_below:100
-,twig_length_reduce_above:100
-,twig_length_reduce_below:100
-,twig_thickness_reduce_above:100
-,twig_thickness_reduce_below:100
 
 ,twig_center_direction:false
 ,twig_center_direction_from:"branch"
+,twig_center_direction_center:0
 ,twig_center_direction_forward_above:0.1
 ,twig_center_direction_forward_below:-0.1
 ,twig_center_direction_vertical_above:0.1
@@ -406,7 +428,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,twig_center_direction_height_above:0
 ,twig_center_direction_height_below:0
 
-,twig_curvature_vertical:30
+,twig_curvature_vertical:15
 ,twig_curvature_horizontal:15
 ,twig_gravity_min:45
 ,twig_gravity_max:-90
@@ -433,37 +455,41 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_core:"minecraft:stripped_oak_wood"
 ,leaves_twig_replace:true
 
-,leaves_twig_count_min:5
-,leaves_twig_count_max:10
-,leaves_twig_length_min:10
-,leaves_twig_length_max:20
+,leaves_twig_count_min:4
+,leaves_twig_count_max:6
+,leaves_twig_length_min:7
+,leaves_twig_length_max:10
 ,leaves_twig_thickness_min:1
 ,leaves_twig_thickness_max:1
+
+,leaves_twig_count_reduce_from:"trunk"
+,leaves_twig_count_reduce_center:0
+,leaves_twig_count_reduce_above:100
+,leaves_twig_count_reduce_below:100
+,leaves_twig_length_reduce_from:"trunk"
+,leaves_twig_length_reduce_center:0
+,leaves_twig_length_reduce_above:100
+,leaves_twig_length_reduce_below:100
+,leaves_twig_thickness_reduce_from:"twig"
+,leaves_twig_thickness_reduce_center:0
+,leaves_twig_thickness_reduce_above:100
+,leaves_twig_thickness_reduce_below:100
 
 ,leaves_twig_random_auto:false
 ,leaves_twig_random:10
 ,leaves_twig_random_percent:50
 ,leaves_twig_distance_min:0
-,leaves_twig_center_percent:0
 
 ,leaves_twig_start_vertical:0
 ,leaves_twig_start_horizontal:0.1
-,leaves_twig_start_height_min:0
-,leaves_twig_start_height_max:0
-,leaves_twig_start_forward_min:0
+,leaves_twig_start_height_min:-0.025
+,leaves_twig_start_height_max:0.025
+,leaves_twig_start_forward_min:0.025
 ,leaves_twig_start_forward_max:0.1
-,leaves_twig_count_reduce_from:"trunk"
-,leaves_twig_length_reduce_from:"trunk"
-,leaves_twig_thickness_reduce_from:"twig"
-,leaves_twig_count_reduce_above:100
-,leaves_twig_count_reduce_below:100
-,leaves_twig_length_reduce_above:100
-,leaves_twig_length_reduce_below:100
-,leaves_twig_thickness_reduce_above:100
-,leaves_twig_thickness_reduce_below:100
 
 ,leaves_twig_center_direction:false
 ,leaves_twig_center_direction_from:"twig"
+,leaves_twig_center_direction_center:0
 ,leaves_twig_center_direction_forward_above:0.1
 ,leaves_twig_center_direction_forward_below:-0.1
 ,leaves_twig_center_direction_vertical_above:0.1
@@ -473,7 +499,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_center_direction_horizontal_above:0.1
 ,leaves_twig_center_direction_horizontal_below:0.1
 
-,leaves_twig_curvature_vertical:30
+,leaves_twig_curvature_vertical:15
 ,leaves_twig_curvature_horizontal:15
 ,leaves_twig_gravity_min:45
 ,leaves_twig_gravity_max:-90
@@ -498,14 +524,15 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves2_chance:0
 ,leaves_replace:false
 
-,leaves_size_min:0
-,leaves_size_max:5
+,leaves_size_min:2
+,leaves_size_max:4
 ,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
 
 ,leaves_size_reduce_from:"trunk"
+,leaves_size_reduce_center:0
 ,leaves_size_reduce_above:100
 ,leaves_size_reduce_below:100
 

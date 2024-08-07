@@ -75,11 +75,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_thickness_max:1
 
 ,secondary_root_length_reduce_from:"taproot"
-,secondary_root_length_reduce_center:0
+,secondary_root_length_reduce_center:99
 ,secondary_root_length_reduce_above:0
 ,secondary_root_length_reduce_below:100
 ,secondary_root_thickness_reduce_from:"taproot"
-,secondary_root_thickness_reduce_center:0
+,secondary_root_thickness_reduce_center:99
 ,secondary_root_thickness_reduce_above:0
 ,secondary_root_thickness_reduce_below:100
 
@@ -143,21 +143,21 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_thickness_max:1
 
 ,tertiary_root_count_reduce_from:"taproot"
-,tertiary_root_count_reduce_center:0
-,tertiary_root_count_reduce_above:100
+,tertiary_root_count_reduce_center:99
+,tertiary_root_count_reduce_above:0
 ,tertiary_root_count_reduce_below:100
 ,tertiary_root_length_reduce_from:"taproot"
 ,tertiary_root_length_reduce_center:0
-,tertiary_root_length_reduce_above:0
+,tertiary_root_length_reduce_above:100
 ,tertiary_root_length_reduce_below:100
-,tertiary_root_thickness_reduce_from:"secondary_root"
+,tertiary_root_thickness_reduce_from:"taproot"
 ,tertiary_root_thickness_reduce_center:0
-,tertiary_root_thickness_reduce_above:0
+,tertiary_root_thickness_reduce_above:100
 ,tertiary_root_thickness_reduce_below:100
 
 ,tertiary_root_random_auto:true
 ,tertiary_root_random:100
-,tertiary_root_random_percent:0
+,tertiary_root_random_percent:25
 ,tertiary_root_distance_min:0
 
 ,tertiary_root_start_vertical:0
@@ -215,21 +215,21 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_thickness_max:1
 
 ,fine_root_count_reduce_from:"taproot"
-,fine_root_count_reduce_center:0
-,fine_root_count_reduce_above:100
+,fine_root_count_reduce_center:99
+,fine_root_count_reduce_above:0
 ,fine_root_count_reduce_below:100
 ,fine_root_length_reduce_from:"taproot"
 ,fine_root_length_reduce_center:0
-,fine_root_length_reduce_above:0
+,fine_root_length_reduce_above:100
 ,fine_root_length_reduce_below:100
-,fine_root_thickness_reduce_from:"tertiary_root"
+,fine_root_thickness_reduce_from:"taproot"
 ,fine_root_thickness_reduce_center:0
-,fine_root_thickness_reduce_above:0
+,fine_root_thickness_reduce_above:100
 ,fine_root_thickness_reduce_below:100
 
 ,fine_root_random_auto:true
 ,fine_root_random:100
-,fine_root_random_percent:0
+,fine_root_random_percent:25
 ,fine_root_distance_min:0
 
 ,fine_root_start_vertical:0
