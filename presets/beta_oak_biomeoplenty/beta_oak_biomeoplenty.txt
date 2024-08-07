@@ -9,7 +9,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,name:"tannyjung-beta_oak"
+,name:"tannyjung-beta_oak_biomeoplenty"
 
 ,start_height:-3
 ,rt_dynamic:true
