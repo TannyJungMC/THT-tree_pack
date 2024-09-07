@@ -1,0 +1,48 @@
+Started Generate : 07/09/2024 at 20:02:52
+
+tree_type : adapt
+start_height : -3
+rt_dynamic : false
+can_disable_roots : false
+
+@tao = minecraft:stone
+@tai = minecraft:stone
+@tac = minecraft:stone
+@seo = minecraft:stone
+@sei = minecraft:stone
+@sec = minecraft:stone
+@teo = minecraft:stone
+@tei = minecraft:stone
+@tec = minecraft:stone
+@fio = minecraft:stone
+@fii = minecraft:stone
+@fic = minecraft:stone
+@tro = minecraft:stone
+@tri = minecraft:stone
+@trc = minecraft:stone
+@bro = minecraft:stone
+@bri = minecraft:stone
+@brc = minecraft:stone
+@two = minecraft:stone
+@twi = minecraft:stone
+@twc = minecraft:stone
+@lto = minecraft:stone
+@lti = minecraft:stone
+@ltc = minecraft:stone
+@le1 = minecraft:stone
+@le2 = minecraft:mossy_cobblestone
+
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
+
+--------------------------------------------------
+
++s^0^0^0@tro
++s^0^-1^0@tro
+
+--------------------------------------------------
+
+Completed Generate : 07/09/2024 at 20:03:03
