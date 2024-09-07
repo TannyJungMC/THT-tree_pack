@@ -524,7 +524,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves2_chance:0
 ,leaves_replace:false
 
-,leaves_size_min:2
+,leaves_size_min:0
 ,leaves_size_max:5
 ,leaves_density:10
 ,leaves_straighten_percent:5

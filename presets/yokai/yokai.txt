@@ -14,7 +14,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,start_height:-3
 ,rt_dynamic:false
 ,can_disable_roots:true
-,tree_type:"non_water"
+,tree_type:"land"
 
 
 

@@ -1,6 +1,6 @@
 Started Generate : 07/08/2024 at 23:39:12
 
-tree_type : non_water
+tree_type : land
 start_height : -1
 rt_dynamic : false
 can_disable_roots : true
