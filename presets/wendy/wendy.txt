@@ -317,8 +317,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_core:"minecraft:stripped_spruce_wood"
 ,branch_replace:true
 
-,branch_count_min:40
-,branch_count_max:50
+,branch_count_min:60
+,branch_count_max:80
 ,branch_length_min:15
 ,branch_length_max:15
 ,branch_thickness_min:1
