@@ -9,7 +9,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,name:"tannyjung-snow_white"
+,name:"tannyjung-wendy"
 
 ,start_height:-3
 ,rt_dynamic:true
@@ -525,29 +525,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_replace:false
 
 ,leaves_size_min:1
-,leaves_size_max:2
-,leaves_density:10
-,leaves_straighten_percent:0
-,leaves_straighten_min:5
-,leaves_straighten_max:10
-
-,leaves_size_reduce_from:"trunk"
-,leaves_size_reduce_center:25
-,leaves_size_reduce_above:0
-,leaves_size_reduce_below:100
-
-
-
-
-
-,leaves_generator_type:"sphere"
-,leaves:"minecraft:spruce_leaves[persistent=true]"
-,leaves2:""
-,leaves2_chance:0
-,leaves_replace:false
-
-,leaves_size_min:1
-,leaves_size_max:2
+,leaves_size_max:3
 ,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
@@ -567,9 +545,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"execute if block ~ ~ ~ #minecraft:leaves run setblock ~ ~1 ~ snow keep"
-,way1_function_type:"leaves"
-,way1_function_chance:0.5
+,way1_function:""
+,way1_function_type:""
+,way1_function_chance:0
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100

@@ -280,8 +280,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,trunk_length_min:50
-,trunk_length_max:75
+,trunk_length_min:75
+,trunk_length_max:100
 ,trunk_thickness_min:1
 ,trunk_thickness_max:2
 
@@ -319,8 +319,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,branch_count_min:40
 ,branch_count_max:50
-,branch_length_min:15
-,branch_length_max:15
+,branch_length_min:10
+,branch_length_max:10
 ,branch_thickness_min:1
 ,branch_thickness_max:1
 
