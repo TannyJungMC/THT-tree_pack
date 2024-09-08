@@ -281,7 +281,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_count_min:1
 ,trunk_count_max:1
 ,trunk_length_min:50
-,trunk_length_max:75
+,trunk_length_max:100
 ,trunk_thickness_min:1
 ,trunk_thickness_max:2
 
@@ -525,7 +525,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_replace:false
 
 ,leaves_size_min:1
-,leaves_size_max:3
+,leaves_size_max:2
 ,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
