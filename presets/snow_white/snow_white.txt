@@ -281,7 +281,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_count_min:1
 ,trunk_count_max:1
 ,trunk_length_min:50
-,trunk_length_max:75
+,trunk_length_max:100
 ,trunk_thickness_min:1
 ,trunk_thickness_max:2
 
