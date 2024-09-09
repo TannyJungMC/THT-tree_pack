@@ -335,7 +335,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,branch_random_auto:true
 ,branch_random:0
-,branch_random_percent:50
+,branch_random_percent:40
 ,branch_distance_min:0
 
 ,branch_start_vertical:0
