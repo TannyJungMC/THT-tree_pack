@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/redw
 biome : minecraft:old_growth_pine_taiga
 ground_block : minecraft:grass_block, minecraft:dirt
 
-rarity : 50
+rarity : 100
 min_distance : 25
 group_chance : 0
 
