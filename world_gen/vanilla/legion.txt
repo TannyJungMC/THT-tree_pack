@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/legi
 biome : minecraft:old_growth_spruce_taiga
 ground_block : minecraft:grass_block, minecraft:dirt
 
-rarity : 10
+rarity : 25
 min_distance : 100
 group_chance : 0
 
