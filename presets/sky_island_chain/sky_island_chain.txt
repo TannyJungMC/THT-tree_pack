@@ -561,7 +561,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,way3_function:"place feature minecraft:moss_patch"
 ,way3_function_type:"leaves"
-,way3_function_chance:5
+,way3_function_chance:1
 ,way3_function_max:0
 ,way3_function_range_min:100
 ,way3_function_range_max:100
