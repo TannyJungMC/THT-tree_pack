@@ -547,21 +547,21 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,way1_function:"place feature minecraft:moss_patch"
 ,way1_function_type:"taproot"
-,way1_function_chance:100
+,way1_function_chance:5
 ,way1_function_max:0
 ,way1_function_range_min:100
 ,way1_function_range_max:100
 
 ,way2_function:"place feature minecraft:moss_patch"
 ,way2_function_type:"branch"
-,way2_function_chance:100
+,way2_function_chance:5
 ,way2_function_max:0
 ,way2_function_range_min:100
 ,way2_function_range_max:100
 
 ,way3_function:"place feature minecraft:moss_patch"
 ,way3_function_type:"leaves"
-,way3_function_chance:100
+,way3_function_chance:5
 ,way3_function_max:0
 ,way3_function_range_min:100
 ,way3_function_range_max:100
