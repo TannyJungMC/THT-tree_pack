@@ -18,19 +18,19 @@ can_disable_roots : false
 @fii = minecraft:stone
 @fic = minecraft:stone
 @tro = minecraft:oak_leaves[persistent=true] replace #tht:passable_blocks
-@tri =  replace #tht:passable_blocks
-@trc =  replace #tht:passable_blocks
+@tri = 
+@trc = 
 @bro = minecraft:stone
 @bri = minecraft:stone
 @brc = minecraft:stone
 @two = minecraft:oak_leaves[persistent=true] replace #tht:passable_blocks
-@twi =  replace #tht:passable_blocks
-@twc =  replace #tht:passable_blocks
+@twi = 
+@twc = 
 @lto = minecraft:stone
 @lti = minecraft:stone
 @ltc = minecraft:stone
 @le1 = minecraft:oak_leaves[persistent=true] keep
-@le2 =  keep
+@le2 = 
 
 +fs = 
 +fe = 

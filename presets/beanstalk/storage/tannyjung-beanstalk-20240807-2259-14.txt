@@ -30,7 +30,7 @@ can_disable_roots : false
 @lti = minecraft:green_terracotta
 @ltc = minecraft:green_terracotta
 @le1 = lime_terracotta keep
-@le2 =  keep
+@le2 = 
 
 +fs = 
 +fe = 

@@ -30,7 +30,7 @@ can_disable_roots : true
 @lti = minecraft:birch_wood
 @ltc = minecraft:stripped_birch_wood
 @le1 = minecraft:birch_leaves[persistent=true] keep
-@le2 =  keep
+@le2 = 
 
 +fs = 
 +fe = 
