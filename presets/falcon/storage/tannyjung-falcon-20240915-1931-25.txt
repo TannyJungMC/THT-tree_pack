@@ -29,7 +29,7 @@ can_disable_roots : true
 @lto = minecraft:oak_wood
 @lti = minecraft:oak_wood
 @ltc = minecraft:stripped_oak_wood
-@le1 = minecraft:oak_leaves[persistent=true] replace #tht:passable_blocks
+@le1 = minecraft:oak_leaves[persistent=true] keep
 @le2 = 
 
 --------------------------------------------------
