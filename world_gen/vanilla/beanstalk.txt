@@ -1,7 +1,7 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/beanstalk/storage
 
 biome : minecraft:flower_forest
-ground_block : minecraft:grass_block, minecraft:dirt
+ground_block : #tht:general_ground_blocks
 
 rarity : 5
 min_distance : 20
