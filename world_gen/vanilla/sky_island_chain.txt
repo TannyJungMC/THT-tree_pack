@@ -1,9 +1,9 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/sky_island_chain/storage
 
 biome : minecraft:jungle
-ground_block : minecraft:grass_block, minecraft:dirt
+ground_block : #minecraft:dirt
 
-rarity : 100
+rarity : 50
 min_distance : 50
 group_chance : 0
 

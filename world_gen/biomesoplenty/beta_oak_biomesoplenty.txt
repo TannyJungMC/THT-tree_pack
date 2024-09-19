@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/beta
 biome : biomesoplenty:origin_valley
 ground_block : biomesoplenty:origin_grass_block
 
-rarity : 100
+rarity : 50
 min_distance : 10
 group_chance : 0
 
