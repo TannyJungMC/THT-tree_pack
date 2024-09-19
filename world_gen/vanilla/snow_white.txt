@@ -1,7 +1,7 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/snow_white/storage
 
 biome : minecraft:snowy_taiga
-ground_block : #tht:general_ground_blocks, minecraft:dirt
+ground_block : minecraft:grass_block, minecraft:dirt, minecraft:dirt
 
 rarity : 100
 min_distance : 10
