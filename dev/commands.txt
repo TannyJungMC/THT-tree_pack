@@ -7,7 +7,7 @@ execute in tht:dimension run tp 0 100 0
 
 
 
-give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-worldgen"}',NoGravity:1b,ForgeData:{pre_select:"
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,ForgeData:{pre_select:"
 
 config/THT/custom/generated
 
@@ -17,7 +17,7 @@ config/THT/custom/generated
 
 
 
-give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-worldgen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
 
 config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
 
@@ -27,8 +27,8 @@ config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
 
 
 
-give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-worldgen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
 
-config/THT/custom/tree_packs/THT-tree_pack-main/worldgen/vanilla/falcon.txt
+config/THT/custom/tree_packs/THT-tree_pack-main/world_gen/vanilla/falcon.txt
 
 ",dead_tree_level:0,rotation:360,mirrored:0}}}
