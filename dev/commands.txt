@@ -7,6 +7,12 @@ execute in tht:dimension run tp 0 100 0
 
 
 
+give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b}}
+
+
+
+
+
 give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,ForgeData:{pre_select:"
 
 config/THT/custom/generated
