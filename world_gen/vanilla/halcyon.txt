@@ -5,7 +5,7 @@ ground_block : #minecraft:dirt
 
 rarity : 0.5
 min_distance : 20
-group_chance : 0.1
+group_chance : 0.25
 
 dead_tree_chance : 0.01
 dead_tree_level_min : 1
