@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20240924
 
-message : tellraw @a [{\"text\":\"Helloooooooooooooo from GitHub!\",\"color\":\"aqua\"}]
+message : Helloooooooooooooo from GitHub!
