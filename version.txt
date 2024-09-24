@@ -1,2 +1,4 @@
 mod_version : 20240915
 pack_version : 20240915
+
+message : say Hello from GitHub!
