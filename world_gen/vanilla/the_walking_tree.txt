@@ -3,9 +3,9 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/the_
 biome : minecraft:savanna
 ground_block : #minecraft:dirt
 
-rarity : 5
+rarity : 0.01
 min_distance : 100
-group_chance : 0
+group_chance : 0.1
 
 dead_tree_chance : 0.01
 dead_tree_level_min : 1
