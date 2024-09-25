@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bush
 biome : minecraft:savanna
 ground_block : #minecraft:dirt
 
-rarity : 5
+rarity : 1
 min_distance : 0
 group_chance : 0.1
 
