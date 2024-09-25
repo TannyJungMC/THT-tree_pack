@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/baob
 biome : minecraft:savanna
 ground_block : #minecraft:dirt
 
-rarity : 0.5
+rarity : 0.1
 min_distance : 50
 group_chance : 0
 
