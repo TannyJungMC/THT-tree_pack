@@ -1,0 +1,14 @@
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bush/storage
+
+biome : biomesoplenty:lush_desert
+ground_block : biomesoplenty:orange_sand
+
+rarity : 50
+min_distance : 0
+group_chance : 0.5
+
+dead_tree_chance : 0.01
+dead_tree_level_min : 1
+
+rotation : 360
+mirrored : 0
