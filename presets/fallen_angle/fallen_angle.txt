@@ -294,7 +294,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_curvature_vertical:30
 ,trunk_curvature_horizontal:15
 ,trunk_gravity_min:-45
-,trunk_gravity_max:-60
+,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:15
 
 ,trunk_crawling:-15
