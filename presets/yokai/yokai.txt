@@ -520,9 +520,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,leaves_generator_type:"sphere"
-,leaves:"minecraft:pink_wool"
-,leaves2:"minecraft:pink_stained_glass"
-,leaves2_chance:100
+,leaves:"minecraft:pink_stained_glass"
+,leaves2:""
+,leaves2_chance:0
 ,leaves_replace:false
 
 ,leaves_size_min:2
