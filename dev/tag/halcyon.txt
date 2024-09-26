@@ -1,0 +1,14 @@
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/halcyon/storage
+
+biome : &!@vanilla, &!#forge:is_snowy, &!#forge:is_cold, &!#forge:is_hot, &!#forge:is_dense, &!#forge:is_sparse, &!#forge:is_lush, &#minecraft:is_plains
+ground_block : #minecraft:dirt
+
+rarity : 0.5
+min_distance : 20
+group_chance : 0.1
+
+dead_tree_chance : 0.01
+dead_tree_level_min : 1
+
+rotation : 360
+mirrored : 0
