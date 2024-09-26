@@ -1,0 +1,332 @@
+Started Generate : 07/08/2024 at 22:28:02
+
+tree_type : land
+start_height : -3
+rt_dynamic : true
+can_disable_roots : true
+
+@tao = minecraft:oak_wood
+@tai = minecraft:oak_wood
+@tac = minecraft:stripped_oak_wood
+@seo = minecraft:oak_wood
+@sei = minecraft:oak_wood
+@sec = minecraft:stripped_oak_wood
+@teo = minecraft:oak_wood
+@tei = minecraft:oak_wood
+@tec = minecraft:stripped_oak_wood
+@fio = minecraft:oak_wood
+@fii = minecraft:oak_wood
+@fic = minecraft:stripped_oak_wood
+@tro = minecraft:oak_wood
+@tri = minecraft:oak_wood
+@trc = minecraft:stripped_oak_wood
+@bro = minecraft:oak_wood
+@bri = minecraft:oak_wood
+@brc = minecraft:stripped_oak_wood
+@two = minecraft:oak_wood
+@twi = minecraft:oak_wood
+@twc = minecraft:stripped_oak_wood
+@lto = minecraft:oak_wood
+@lti = minecraft:oak_wood
+@ltc = minecraft:stripped_oak_wood
+@le1 = biomesoplenty:origin_leaves[persistent=true] keep
+@le2 = 
+
++fs = 
++fe = 
++fw1 = 
++fw2 = 
++fw3 = 
+
+--------------------------------------------------
+
++s^0^0^0@tro
++s^0^-2^0@teo
++s^1^-3^0@teo
++s^2^-4^0@fio
++s^2^-5^-1@fio
++s^1^-2^1@seo
++s^2^-3^1@teo
++s^3^-3^1@teo
++s^3^-4^1@fio
++s^4^-4^0@fio
++s^5^-4^-1@fio
++s^5^-5^-2@fio
++s^-1^-2^-1@seo
++s^-2^-3^-2@teo
++s^-1^-3^-2@fio
++s^-2^-4^-3@fio
++s^-2^-4^-4@fio
++s^-1^-4^-3@teo
++s^-1^-4^-4@fio
++s^-2^-5^-5@fio
++s^0^-3^0@tao
++s^0^-4^0@tao
++s^0^-5^0@tao
++s^0^-6^0@teo
++s^0^-7^-2@fio
++s^1^-7^-2@fio
++s^0^-6^-1@fio
++s^2^-7^-2@fio
++s^1^-7^-1@teo
++s^2^-7^-1@teo
++s^2^-8^-1@fio
++s^3^-8^-1@fio
++s^0^-1^0@tro
++s^-1^0^0@tro
++s^-1^1^0@tro
++s^-1^2^0@tro
++s^-1^3^0@tro
++s^-1^4^0@tro
++s^-1^5^0@tro
++s^-1^6^0@tro
++s^-1^7^0@tro
++s^-1^8^0@tro
++s^0^8^0@bro
++s^0^9^0@two
++s^-1^10^1@lto
++s^-2^11^2@lto
++s^-2^11^3@lto
++s^-3^12^3@lto
++s^-3^11^3@le1
++s^-3^12^4@le1
++s^-3^13^4@le1
++s^-4^12^3@le1
++s^-4^13^3@le1
++s^-3^12^2@le1
++s^-3^13^2@le1
++s^-2^12^3@le1
++s^-2^13^3@le1
++s^-3^11^2@lto
++s^-3^10^2@le1
++s^-4^11^3@le1
++s^-4^11^2@le1
++s^-4^12^2@le1
++s^-3^11^1@le1
++s^-3^12^1@le1
++s^-2^12^2@le1
++s^-1^9^0@tro
++s^-1^10^0@tro
++s^0^10^0@bro
++s^0^11^0@two
++s^1^11^-1@lto
++s^2^11^0@lto
++s^3^11^0@lto
++s^4^11^0@lto
++s^4^12^1@le1
++s^3^12^0@le1
++s^4^12^0@le1
++s^4^10^0@le1
++s^4^11^1@le1
++s^3^11^1@le1
++s^3^12^1@le1
++s^4^12^-1@le1
++s^2^11^-1@lto
++s^3^11^-1@lto
++s^4^11^-1@lto
++s^5^11^-1@lto
++s^5^12^0@le1
++s^5^12^-1@le1
++s^5^10^-1@le1
++s^5^11^0@le1
++s^5^11^-2@le1
++s^5^12^-2@le1
++s^3^10^0@le1
++s^-1^11^0@tro
++s^-1^12^0@tro
++s^-1^13^0@tro
++s^-1^14^0@tro
++s^-1^15^0@tro
++s^0^15^0@bro
++s^0^16^0@two
++s^0^17^0@lto
++s^1^18^-1@lto
++s^1^18^-2@le1
++s^2^18^-2@le1
++s^1^17^-1@le1
++s^1^19^-1@le1
++s^1^19^-2@le1
++s^2^19^-2@le1
++s^1^17^0@le1
++s^1^19^0@le1
++s^0^18^0@le1
++s^0^17^-1@le1
++s^0^18^-1@le1
++s^0^19^-1@le1
++s^1^17^-2@le1
++s^0^18^-2@le1
++s^0^19^-2@le1
++s^1^18^-3@le1
++s^1^19^-3@le1
++s^2^17^-2@le1
++s^2^18^-3@le1
++s^2^19^-3@le1
++s^3^18^-2@le1
++s^2^17^-1@le1
++s^3^18^-1@le1
++s^3^19^-1@le1
++s^2^18^0@le1
++s^2^19^0@le1
++s^1^16^-1@le1
++s^1^16^0@le1
++s^1^20^0@le1
++s^0^19^0@le1
++s^1^20^-1@le1
++s^0^16^-1@le1
++s^0^20^-1@le1
++s^-1^18^-1@le1
++s^0^16^-2@le1
++s^0^17^-2@le1
++s^0^20^-2@le1
++s^1^16^-2@le1
++s^0^17^-3@le1
++s^0^18^-3@le1
++s^0^19^-3@le1
++s^1^20^-2@le1
++s^1^17^-3@le1
++s^2^16^-2@le1
++s^2^17^-3@le1
++s^2^20^-2@le1
++s^3^17^-2@le1
++s^3^19^-2@le1
++s^2^16^-1@le1
++s^3^17^-1@le1
++s^2^20^-1@le1
++s^3^18^0@le1
++s^2^17^0@le1
++s^1^18^0@lto
++s^2^18^-1@lto
++s^2^19^-1@lto
++s^3^20^-1@lto
++s^3^20^0@le1
++s^3^19^0@le1
++s^2^20^0@le1
++s^3^20^-2@le1
++s^4^19^-1@le1
++s^4^20^-1@le1
++s^4^19^0@le1
++s^4^20^0@le1
++s^3^20^1@le1
++s^3^21^0@le1
++s^2^21^0@le1
++s^2^21^-1@le1
++s^2^21^-2@le1
++s^3^21^-1@le1
++s^3^21^-2@le1
++s^4^20^-2@le1
++s^4^21^-2@le1
++s^4^21^-1@le1
++s^4^21^0@le1
++s^3^19^1@le1
++s^3^21^1@le1
++s^3^22^0@le1
++s^2^19^1@le1
++s^2^20^1@le1
++s^2^21^1@le1
++s^2^22^0@le1
++s^1^21^0@le1
++s^1^21^-1@le1
++s^2^22^-1@le1
++s^1^21^-2@le1
++s^2^20^-3@le1
++s^2^22^-2@le1
++s^3^19^-3@le1
++s^3^20^-3@le1
++s^3^21^-3@le1
++s^3^22^-2@le1
++s^4^19^-2@le1
++s^4^20^-3@le1
++s^4^18^-1@le1
++s^5^20^-2@le1
++s^4^22^-1@le1
++s^5^19^-1@le1
++s^5^20^-1@le1
++s^5^21^-1@le1
++s^4^18^0@le1
++s^5^20^0@le1
++s^4^22^0@le1
++s^4^19^1@le1
++s^4^20^1@le1
++s^4^21^1@le1
++s^3^18^1@le1
++s^3^20^2@le1
++s^3^22^1@le1
++s^2^18^1@le1
++s^1^19^1@le1
++s^1^20^1@le1
++s^1^21^1@le1
++s^0^20^0@le1
++s^1^22^0@le1
++s^1^22^-1@le1
++s^1^20^-3@le1
++s^2^21^-3@le1
++s^3^22^-1@le1
++s^3^18^-3@le1
++s^4^18^-2@le1
++s^4^19^-3@le1
++s^4^21^-3@le1
++s^4^22^-2@le1
++s^5^19^-2@le1
++s^5^21^-2@le1
++s^5^18^-1@le1
++s^5^18^0@le1
++s^5^19^0@le1
++s^5^21^0@le1
++s^5^19^1@le1
++s^5^20^1@le1
++s^4^18^1@le1
++s^3^17^0@le1
++s^3^18^2@le1
++s^3^19^2@le1
++s^3^21^2@le1
++s^3^23^0@le1
++s^2^18^2@le1
++s^2^21^2@le1
++s^2^22^1@le1
++s^2^23^0@le1
++s^0^19^1@le1
++s^0^21^1@le1
++s^0^21^0@le1
++s^2^23^-1@le1
++s^0^21^-1@le1
++s^0^21^-2@le1
++s^1^22^-2@le1
++s^1^21^-3@le1
++s^2^23^-2@le1
++s^2^19^-4@le1
++s^2^21^-4@le1
++s^2^22^-3@le1
++s^3^19^-4@le1
++s^3^21^-4@le1
++s^3^22^-3@le1
++s^3^23^-2@le1
++s^4^18^-3@le1
++s^4^19^-4@le1
++s^4^21^-4@le1
++s^5^19^-3@le1
++s^5^21^-3@le1
++s^4^17^-1@le1
++s^5^18^-2@le1
++s^4^23^-1@le1
++s^6^19^-1@le1
++s^6^21^-1@le1
++s^5^22^-1@le1
++s^6^19^0@le1
++s^6^21^0@le1
++s^4^17^0@le1
++s^5^21^1@le1
++s^4^23^0@le1
++s^4^22^1@le1
++s^4^18^2@le1
++s^4^19^2@le1
++s^4^21^2@le1
++s^1^18^1@lto
++s^2^19^2@lto
++s^1^19^2@le1
++s^2^18^3@le1
++s^2^19^3@le1
++s^1^18^2@le1
+
+--------------------------------------------------
+
+Completed Generate : 07/08/2024 at 22:28:13
