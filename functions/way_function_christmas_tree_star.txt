@@ -1,5 +1,7 @@
 // merge_all : false
 
+--------------------------------------------------
+
 
 
 
@@ -8,11 +10,13 @@ summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1
 summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,Rotation:[90f]}
 tag @e[tag=THT-random,limit=1,sort=random] add THT-select
 
-execute at @e[tag=THT-select] run fill ^ ^1 ^ ^ ^4 ^ gold_block
-execute at @e[tag=THT-select] run fill ^3 ^2 ^ ^-3 ^2 ^ gold_block
-execute at @e[tag=THT-select] run fill ^1 ^ ^ ^1 ^1 ^ gold_block
-execute at @e[tag=THT-select] run fill ^-1 ^ ^ ^-1 ^1 ^ gold_block
-execute at @e[tag=THT-select] run setblock ^2 ^-1 ^ gold_block
-execute at @e[tag=THT-select] run setblock ^-2 ^-1 ^ gold_block
+execute at @e[tag=THT-select] run fill ^ ^ ^ ^ ^1 ^ spruce_wood
+
+execute at @e[tag=THT-select] run fill ^ ^2 ^ ^ ^5 ^ gold_block
+execute at @e[tag=THT-select] run fill ^3 ^3 ^ ^-3 ^3 ^ gold_block
+execute at @e[tag=THT-select] run fill ^1 ^1 ^ ^1 ^2 ^ gold_block
+execute at @e[tag=THT-select] run fill ^-1 ^1 ^ ^-1 ^2 ^ gold_block
+execute at @e[tag=THT-select] run setblock ^2 ^ ^ gold_block
+execute at @e[tag=THT-select] run setblock ^-2 ^ ^ gold_block
 
 kill @e[tag=THT-random]
