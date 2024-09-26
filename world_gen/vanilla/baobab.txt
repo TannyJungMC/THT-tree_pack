@@ -1,0 +1,14 @@
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/baobab/storage
+
+biome : minecraft:savanna
+ground_block : #minecraft:dirt
+
+rarity : 0.5
+min_distance : 50
+group_chance : 0
+
+dead_tree_chance : 0.01
+dead_tree_level_min : 1
+
+rotation : 360
+mirrored : 0

@@ -1,6 +1,6 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon_biomesoplenty_maple/storage
 
-biome : minecraft:forest
+biome : biomesoplenty:maple_woods
 ground_block : #minecraft:dirt
 
 rarity : 50

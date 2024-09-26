@@ -1,0 +1,14 @@
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/redwood/storage
+
+biome : minecraft:old_growth_pine_taiga
+ground_block : #minecraft:dirt
+
+rarity : 50
+min_distance : 30
+group_chance : 0
+
+dead_tree_chance : 0.01
+dead_tree_level_min : 1
+
+rotation : 360
+mirrored : 0

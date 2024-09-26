@@ -1,0 +1,14 @@
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/spike_terra/storage
+
+biome : minecraft:badlands
+ground_block : minecraft:red_sand
+
+rarity : 50
+min_distance : 25
+group_chance : 0
+
+dead_tree_chance : 0
+dead_tree_level_min : 1
+
+rotation : 0
+mirrored : 1
