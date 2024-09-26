@@ -4,7 +4,7 @@ biome : minecraft:savanna, minecraft:forest
 ground_block : #minecraft:dirt
 
 rarity : 1
-min_distance : 0
+min_distance : 5
 group_chance : 0.25
 
 dead_tree_chance : 0.01
