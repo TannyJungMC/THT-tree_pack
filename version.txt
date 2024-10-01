@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20240924
 
-message : Hello, this is a test message. Thank you for playing this mod!\n\nHello this is second line of this message!
+message : Added new 2 snowy trees. Have fun! <3
