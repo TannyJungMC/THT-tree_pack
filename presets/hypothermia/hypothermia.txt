@@ -548,21 +548,21 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,way1_function:"fill ~ ~ ~ ~ ~ ~5 ice keep"
 ,way1_function_type:"trunk"
-,way1_function_chance:0.01
+,way1_function_chance:0.001
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100
 
 ,way2_function:"fill ~ ~ ~ ~ ~ ~5 ice keep"
-,way2_function_type:"leaves"
-,way2_function_chance:0.01
+,way2_function_type:"branch"
+,way2_function_chance:0.1
 ,way2_function_max:0
 ,way2_function_range_min:0
 ,way2_function_range_max:100
 
 ,way3_function:"fill ~ ~ ~ ~ ~ ~10 ice keep"
-,way3_function_type:"leaves"
-,way3_function_chance:0.01
+,way3_function_type:"branch"
+,way3_function_chance:0.05
 ,way3_function_max:0
 ,way3_function_range_min:0
 ,way3_function_range_max:100
