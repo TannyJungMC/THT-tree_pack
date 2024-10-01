@@ -3,7 +3,7 @@ storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/pola
 biome : minecraft:snowy_plains, minecraft:grove
 ground_block : #minecraft:dirt, minecraft:snow_block
 
-rarity : 10
+rarity : 25
 min_distance : 25
 group_chance : 0
 
