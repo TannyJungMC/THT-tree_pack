@@ -546,9 +546,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,end_function:""
 ,end_function_chance:0
 
-,way1_function:"setblock ~ ~1 ~ snow keep"
-,way1_function_type:"leaves"
-,way1_function_chance:0.5
+,way1_function:""
+,way1_function_type:""
+,way1_function_chance:0
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100
