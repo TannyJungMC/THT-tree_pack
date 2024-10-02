@@ -527,7 +527,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,leaves_size_min:1
 ,leaves_size_max:2
-,leaves_density:0
+,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
@@ -548,19 +548,19 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,way1_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~5 ice keep"
 ,way1_function_type:"trunk"
-,way1_function_chance:0.01
+,way1_function_chance:0.05
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100
 
-,way2_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~10 ice keep"
-,way2_function_type:"trunk"
-,way2_function_chance:0.005
+,way2_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~5 ice keep"
+,way2_function_type:"branch"
+,way2_function_chance:0.25
 ,way2_function_max:0
 ,way2_function_range_min:0
 ,way2_function_range_max:100
 
-,way3_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~5 ice keep"
+,way3_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~10 ice keep"
 ,way3_function_type:"branch"
 ,way3_function_chance:0.1
 ,way3_function_max:0
