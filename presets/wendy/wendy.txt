@@ -286,14 +286,14 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_thickness_min:1
 ,trunk_thickness_max:2
 
-,trunk_start_gravity_min:-90
+,trunk_start_gravity_min:-85
 ,trunk_start_gravity_max:-90
 ,trunk_start_direction_min:0
 ,trunk_start_direction_max:360
 
 ,trunk_curvature_vertical:1
 ,trunk_curvature_horizontal:1
-,trunk_gravity_min:-90
+,trunk_gravity_min:-85
 ,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:5
 
