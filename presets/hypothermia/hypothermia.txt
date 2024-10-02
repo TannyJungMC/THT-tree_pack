@@ -548,7 +548,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,way1_function:"execute if block ~ ~ ~ #minecraft:logs run fill ~ ~ ~ ~ ~ ~5 ice keep"
 ,way1_function_type:"trunk"
-,way1_function_chance:0.001
+,way1_function_chance:0.0025
 ,way1_function_max:0
 ,way1_function_range_min:0
 ,way1_function_range_max:100
