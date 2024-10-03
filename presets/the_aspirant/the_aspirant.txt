@@ -22,11 +22,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"acacia_wood"
+,taproot_outer:"minecraft:acacia_wood"
 ,taproot_outer_level:0.1
-,taproot_inner:"acacia_wood"
-,taproot_inner_level:0
-,taproot_core:"stripped_acacia_wood"
+,taproot_inner:"minecraft:stripped_acacia_wood"
+,taproot_inner_level:1
+,taproot_core:"minecraft:stripped_acacia_wood"
 ,taproot_replace:true
 
 ,taproot_count_min:1
@@ -61,11 +61,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"acacia_wood"
+,secondary_root_outer:"minecraft:acacia_wood"
 ,secondary_root_outer_level:0.5
-,secondary_root_inner:"acacia_wood"
-,secondary_root_inner_level:0
-,secondary_root_core:"stripped_acacia_wood"
+,secondary_root_inner:"minecraft:stripped_acacia_wood"
+,secondary_root_inner_level:1
+,secondary_root_core:"minecraft:stripped_acacia_wood"
 ,secondary_root_replace:true
 
 ,secondary_root_count_min:4
@@ -129,11 +129,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"acacia_wood"
+,tertiary_root_outer:"minecraft:acacia_wood"
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"acacia_wood"
+,tertiary_root_inner:"minecraft:acacia_wood"
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"stripped_acacia_wood"
+,tertiary_root_core:"minecraft:stripped_acacia_wood"
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:3
@@ -201,11 +201,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"acacia_wood"
+,fine_root_outer:"minecraft:acacia_wood"
 ,fine_root_outer_level:1
-,fine_root_inner:"acacia_wood"
+,fine_root_inner:"minecraft:acacia_wood"
 ,fine_root_inner_level:0
-,fine_root_core:"stripped_acacia_wood"
+,fine_root_core:"minecraft:stripped_acacia_wood"
 ,fine_root_replace:true
 
 ,fine_root_count_min:5
@@ -272,11 +272,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:"acacia_wood"
+,trunk_outer:"minecraft:acacia_wood"
 ,trunk_outer_level:0.1
-,trunk_inner:"acacia_wood"
-,trunk_inner_level:0
-,trunk_core:"stripped_acacia_wood"
+,trunk_inner:"minecraft:stripped_acacia_wood"
+,trunk_inner_level:1
+,trunk_core:"minecraft:stripped_acacia_wood"
 ,trunk_replace:true
 
 ,trunk_count_min:1
@@ -311,11 +311,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:"acacia_wood"
+,branch_outer:"minecraft:acacia_wood"
 ,branch_outer_level:0.5
-,branch_inner:"acacia_wood"
+,branch_inner:"minecraft:acacia_wood"
 ,branch_inner_level:0
-,branch_core:"stripped_acacia_wood"
+,branch_core:"minecraft:stripped_acacia_wood"
 ,branch_replace:true
 
 ,branch_count_min:5
@@ -378,11 +378,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,twig_generator_type:"sphere"
-,twig_outer:"acacia_wood"
+,twig_outer:"minecraft:acacia_wood"
 ,twig_outer_level:1
-,twig_inner:"acacia_wood"
+,twig_inner:"minecraft:acacia_wood"
 ,twig_inner_level:0
-,twig_core:"stripped_acacia_wood"
+,twig_core:"minecraft:stripped_acacia_wood"
 ,twig_replace:true
 
 ,twig_count_min:2
@@ -449,11 +449,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,leaves_twig_generator_type:"sphere"
-,leaves_twig_outer:"acacia_wood"
+,leaves_twig_outer:"minecraft:acacia_wood"
 ,leaves_twig_outer_level:1
-,leaves_twig_inner:"acacia_wood"
+,leaves_twig_inner:"minecraft:acacia_wood"
 ,leaves_twig_inner_level:0
-,leaves_twig_core:"stripped_acacia_wood"
+,leaves_twig_core:"minecraft:stripped_acacia_wood"
 ,leaves_twig_replace:true
 
 ,leaves_twig_count_min:2
@@ -520,7 +520,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 ,leaves_generator_type:"sphere"
-,leaves:"acacia_leaves[persistent=true]"
+,leaves:"minecraft:acacia_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0
 ,leaves_replace:false
