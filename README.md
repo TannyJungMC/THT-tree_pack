@@ -27,7 +27,7 @@ This project also an example pack for people who want to create own tree pack. B
 
 ### Using Command
 
-> If you can't find the message or don't want to restart the world
+> If you can't find the message or don't want to rejoin the world
 > Just use command **/THT tanny_pack check_update**
 >
 > ![2024-05-28_14 08 27](https://github.com/TannyJungMC/THT-tree_pack/assets/42003724/9e26ce6b-0d75-40a0-b204-656bc4fdff23)
