@@ -7,16 +7,16 @@ can_disable_roots : true
 
 @tao = minecraft:dark_oak_wood
 @tai = minecraft:dark_oak_wood
-@tac = minecraft:stripped_oak_wood
+@tac = minecraft:stripped_dark_oak_wood
 @seo = minecraft:dark_oak_wood
 @sei = minecraft:dark_oak_wood
-@sec = minecraft:stripped_oak_wood
+@sec = minecraft:stripped_dark_oak_wood
 @teo = minecraft:dark_oak_wood
 @tei = minecraft:dark_oak_wood
-@tec = minecraft:stripped_oak_wood
+@tec = minecraft:stripped_dark_oak_wood
 @fio = minecraft:dark_oak_wood
 @fii = minecraft:dark_oak_wood
-@fic = minecraft:stripped_oak_wood
+@fic = minecraft:stripped_dark_oak_wood
 @tro = minecraft:dark_oak_wood
 @tri = minecraft:stripped_dark_oak_wood
 @trc = minecraft:stripped_dark_oak_wood

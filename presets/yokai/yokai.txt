@@ -26,7 +26,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,taproot_outer_level:1
 ,taproot_inner:"minecraft:dark_oak_wood"
 ,taproot_inner_level:0
-,taproot_core:"minecraft:stripped_oak_wood"
+,taproot_core:"minecraft:stripped_dark_oak_wood"
 ,taproot_replace:true
 
 ,taproot_count_min:1
@@ -65,7 +65,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_outer_level:1
 ,secondary_root_inner:"minecraft:dark_oak_wood"
 ,secondary_root_inner_level:0
-,secondary_root_core:"minecraft:stripped_oak_wood"
+,secondary_root_core:"minecraft:stripped_dark_oak_wood"
 ,secondary_root_replace:true
 
 ,secondary_root_count_min:5
@@ -133,7 +133,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner:"minecraft:dark_oak_wood"
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"minecraft:stripped_oak_wood"
+,tertiary_root_core:"minecraft:stripped_dark_oak_wood"
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:3
@@ -205,7 +205,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_outer_level:1
 ,fine_root_inner:"minecraft:dark_oak_wood"
 ,fine_root_inner_level:0
-,fine_root_core:"minecraft:stripped_oak_wood"
+,fine_root_core:"minecraft:stripped_dark_oak_wood"
 ,fine_root_replace:true
 
 ,fine_root_count_min:10
