@@ -41,8 +41,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,taproot_start_direction_min:0
 ,taproot_start_direction_max:360
 
-,taproot_curvature_vertical:15
-,taproot_curvature_horizontal:15
+,taproot_curvature_vertical:0
+,taproot_curvature_horizontal:0
 ,taproot_gravity_min:90
 ,taproot_gravity_max:90
 ,taproot_gravity_weightiness:15
@@ -109,9 +109,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_center_direction_height_below:0
 
 
-,secondary_root_curvature_vertical:15
-,secondary_root_curvature_horizontal:15
-,secondary_root_gravity_min:90
+,secondary_root_curvature_vertical:0
+,secondary_root_curvature_horizontal:0
+,secondary_root_gravity_min:15
 ,secondary_root_gravity_max:15
 ,secondary_root_gravity_weightiness:15
 
@@ -181,10 +181,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_center_direction_height_below:0
 
 
-,tertiary_root_curvature_vertical:15
-,tertiary_root_curvature_horizontal:15
-,tertiary_root_gravity_min:90
-,tertiary_root_gravity_max:15
+,tertiary_root_curvature_vertical:0
+,tertiary_root_curvature_horizontal:0
+,tertiary_root_gravity_min:45
+,tertiary_root_gravity_max:45
 ,tertiary_root_gravity_weightiness:15
 
 ,tertiary_root_crawling:-15
@@ -252,10 +252,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_center_direction_height_above:0
 ,fine_root_center_direction_height_below:0
 
-,fine_root_curvature_vertical:15
-,fine_root_curvature_horizontal:15
+,fine_root_curvature_vertical:0
+,fine_root_curvature_horizontal:0
 ,fine_root_gravity_min:90
-,fine_root_gravity_max:15
+,fine_root_gravity_max:90
 ,fine_root_gravity_weightiness:15
 
 ,fine_root_crawling:-15
@@ -500,8 +500,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_center_direction_horizontal_above:0.1
 ,leaves_twig_center_direction_horizontal_below:0.1
 
-,leaves_twig_curvature_vertical:15
-,leaves_twig_curvature_horizontal:15
+,leaves_twig_curvature_vertical:0
+,leaves_twig_curvature_horizontal:0
 ,leaves_twig_gravity_min:45
 ,leaves_twig_gravity_max:-90
 ,leaves_twig_gravity_weightiness:15

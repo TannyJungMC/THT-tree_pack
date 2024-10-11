@@ -27,7 +27,7 @@ give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1
 
 config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
 
-",dead_tree_level:0,rotation:360,mirrored:0}}}
+",dead_tree:0b,dead_tree_level:0,rotation:360,mirrored:0}}}
 
 
 
@@ -37,4 +37,4 @@ give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1
 
 config/THT/custom/tree_packs/THT-tree_pack-main/world_gen/vanilla/falcon.txt
 
-",dead_tree_level:0,rotation:360,mirrored:0}}}
+",dead_tree:0b,dead_tree_level:0,rotation:360,mirrored:0}}}
