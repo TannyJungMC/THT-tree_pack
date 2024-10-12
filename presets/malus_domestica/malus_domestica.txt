@@ -115,12 +115,12 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_gravity_max:15
 ,secondary_root_gravity_weightiness:15
 
-,secondary_root_crawling:-15
+,secondary_root_crawling:0
 ,secondary_root_crawling_forward:10
 ,secondary_root_crawling_height:10
 ,secondary_root_crawling_air_forward:0
 ,secondary_root_crawling_air_height:10
-,secondary_root_dodging:15
+,secondary_root_dodging:0
 ,secondary_root_dodging_forward:1
 ,secondary_root_dodging_sideward:1
 
@@ -187,12 +187,12 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_gravity_max:15
 ,tertiary_root_gravity_weightiness:15
 
-,tertiary_root_crawling:-15
+,tertiary_root_crawling:0
 ,tertiary_root_crawling_forward:10
 ,tertiary_root_crawling_height:10
 ,tertiary_root_crawling_air_forward:0
 ,tertiary_root_crawling_air_height:10
-,tertiary_root_dodging:15
+,tertiary_root_dodging:0
 ,tertiary_root_dodging_forward:1
 ,tertiary_root_dodging_sideward:1
 
