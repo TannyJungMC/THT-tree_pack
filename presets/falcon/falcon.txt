@@ -12,7 +12,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-falcon"
 
-,start_height:1
+,start_height:2
 ,rt_dynamic:true
 ,can_disable_roots:true
 ,tree_type:"land"
@@ -31,10 +31,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:10
-,taproot_length_max:15
+,taproot_length_min:20
+,taproot_length_max:30
 ,taproot_thickness_min:1
-,taproot_thickness_max:3
+,taproot_thickness_max:2.5
 
 ,taproot_start_gravity_min:90
 ,taproot_start_gravity_max:90
@@ -111,16 +111,16 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,secondary_root_curvature_vertical:0
 ,secondary_root_curvature_horizontal:0
-,secondary_root_gravity_min:15
-,secondary_root_gravity_max:15
+,secondary_root_gravity_min:5
+,secondary_root_gravity_max:5
 ,secondary_root_gravity_weightiness:15
 
-,secondary_root_crawling:-15
+,secondary_root_crawling:0
 ,secondary_root_crawling_forward:10
 ,secondary_root_crawling_height:10
 ,secondary_root_crawling_air_forward:0
 ,secondary_root_crawling_air_height:10
-,secondary_root_dodging:15
+,secondary_root_dodging:0
 ,secondary_root_dodging_forward:1
 ,secondary_root_dodging_sideward:1
 
@@ -136,8 +136,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_core:"minecraft:stripped_oak_wood"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:2
-,tertiary_root_count_max:3
+,tertiary_root_count_min:3
+,tertiary_root_count_max:5
 ,tertiary_root_length_min:12
 ,tertiary_root_length_max:15
 ,tertiary_root_thickness_min:1
@@ -183,16 +183,16 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,tertiary_root_curvature_vertical:0
 ,tertiary_root_curvature_horizontal:0
-,tertiary_root_gravity_min:45
-,tertiary_root_gravity_max:45
+,tertiary_root_gravity_min:10
+,tertiary_root_gravity_max:10
 ,tertiary_root_gravity_weightiness:15
 
-,tertiary_root_crawling:-15
+,tertiary_root_crawling:0
 ,tertiary_root_crawling_forward:10
 ,tertiary_root_crawling_height:10
 ,tertiary_root_crawling_air_forward:0
 ,tertiary_root_crawling_air_height:10
-,tertiary_root_dodging:15
+,tertiary_root_dodging:0
 ,tertiary_root_dodging_forward:1
 ,tertiary_root_dodging_sideward:1
 
@@ -525,9 +525,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves2_chance:0
 ,leaves_replace:false
 
-,leaves_size_min:7
-,leaves_size_max:10
-,leaves_density:10
+,leaves_size_min:5
+,leaves_size_max:7
+,leaves_density:20
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
 ,leaves_straighten_max:10
