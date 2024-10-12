@@ -2,8 +2,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,global_generate_speed:true
 ,generate_speed:1
-,generate_speed_repeat:100
-,generate_speed_tp:10
+,generate_speed_repeat:1000
+,generate_speed_tp:20
 ,countdown:10
 
 
