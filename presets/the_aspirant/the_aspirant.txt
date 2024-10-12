@@ -12,7 +12,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-the_aspirant"
 
-,start_height:-3
+,start_height:0
 ,rt_dynamic:true
 ,can_disable_roots:true
 ,tree_type:"land"
@@ -343,7 +343,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_start_horizontal:0.1
 ,branch_start_height_min:0
 ,branch_start_height_max:0
-,branch_start_forward_min:0
+,branch_start_forward_min:0.05
 ,branch_start_forward_max:0.1
 
 ,branch_center_direction:true
@@ -519,7 +519,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,leaves_generator_type:"sphere"
+,leaves_generator_type:"sphere_zone"
 ,leaves:"minecraft:acacia_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0
@@ -536,6 +536,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_size_reduce_center:0
 ,leaves_size_reduce_above:50
 ,leaves_size_reduce_below:100
+
+,leaves_sphere_zone_size:90
+,leaves_sphere_zone_radius_percent:50
 
 
 

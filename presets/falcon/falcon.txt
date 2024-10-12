@@ -12,7 +12,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-falcon"
 
-,start_height:-3
+,start_height:0
 ,rt_dynamic:true
 ,can_disable_roots:true
 ,tree_type:"land"
@@ -360,7 +360,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,branch_curvature_vertical:0
 ,branch_curvature_horizontal:0
-,branch_gravity_min:-15
+,branch_gravity_min:-30
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
@@ -431,7 +431,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,twig_curvature_vertical:0
 ,twig_curvature_horizontal:0
-,twig_gravity_min:0
+,twig_gravity_min:-15
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:15
 
@@ -457,7 +457,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_replace:true
 
 ,leaves_twig_count_min:3
-,leaves_twig_count_max:5
+,leaves_twig_count_max:4
 ,leaves_twig_length_min:12
 ,leaves_twig_length_max:15
 ,leaves_twig_thickness_min:1
@@ -502,7 +502,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,leaves_twig_curvature_vertical:0
 ,leaves_twig_curvature_horizontal:0
-,leaves_twig_gravity_min:-15
+,leaves_twig_gravity_min:0
 ,leaves_twig_gravity_max:-90
 ,leaves_twig_gravity_weightiness:15
 
@@ -519,14 +519,14 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,leaves_generator_type:"sphere"
+,leaves_generator_type:"sphere_zone"
 ,leaves:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0
 ,leaves_replace:false
 
-,leaves_size_min:3
-,leaves_size_max:5
+,leaves_size_min:7
+,leaves_size_max:10
 ,leaves_density:10
 ,leaves_straighten_percent:0
 ,leaves_straighten_min:5
@@ -536,6 +536,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_size_reduce_center:0
 ,leaves_size_reduce_above:100
 ,leaves_size_reduce_below:100
+
+,leaves_sphere_zone_size:90
+,leaves_sphere_zone_radius_percent:50
 
 
 
