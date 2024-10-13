@@ -1,7 +1,7 @@
 Started Generate : 07/08/2024 at 23:57:52
 
 tree_type : adapt
-start_height : 1
+start_height : 0
 rt_dynamic : false
 can_disable_roots : true
 

@@ -1,7 +1,7 @@
 Started Generate : 07/09/2024 at 18:52:54
 
 tree_type : land
-start_height : 1
+start_height : 0
 rt_dynamic : true
 can_disable_roots : true
 
