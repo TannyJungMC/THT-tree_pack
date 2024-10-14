@@ -258,12 +258,12 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_gravity_max:90
 ,fine_root_gravity_weightiness:15
 
-,fine_root_crawling:-15
+,fine_root_crawling:0
 ,fine_root_crawling_forward:10
 ,fine_root_crawling_height:10
 ,fine_root_crawling_air_forward:0
 ,fine_root_crawling_air_height:10
-,fine_root_dodging:15
+,fine_root_dodging:0
 ,fine_root_dodging_forward:1
 ,fine_root_dodging_sideward:1
 
@@ -527,9 +527,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,leaves_size_min:1
 ,leaves_size_max:3
-,leaves_density:100
+,leaves_density:150
 ,leaves_straighten_percent:0
-,leaves_straighten_min:5
+,leaves_straighten_min:0
 ,leaves_straighten_max:10
 
 ,leaves_size_reduce_from:"trunk"
@@ -538,7 +538,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_size_reduce_below:100
 
 ,leaves_sphere_zone_size:90
-,leaves_sphere_zone_radius_percent:50
+,leaves_sphere_zone_radius_percent:25
+,leaves_sphere_zone_pitch_min:-45
 
 
 

@@ -527,9 +527,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,leaves_size_min:2
 ,leaves_size_max:3
-,leaves_density:10
+,leaves_density:15
 ,leaves_straighten_percent:0
-,leaves_straighten_min:5
+,leaves_straighten_min:0
 ,leaves_straighten_max:10
 
 ,leaves_size_reduce_from:"branch"
@@ -538,7 +538,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_size_reduce_below:100
 
 ,leaves_sphere_zone_size:90
-,leaves_sphere_zone_radius_percent:50
+,leaves_sphere_zone_radius_percent:25
+,leaves_sphere_zone_pitch_min:-45
 
 
 
