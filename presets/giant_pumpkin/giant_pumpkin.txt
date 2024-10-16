@@ -10,7 +10,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,name:"tannyjung-pumpkin"
+,name:"tannyjung-giant_pumpkin"
 
 ,start_height:2
 ,rt_dynamic:false
