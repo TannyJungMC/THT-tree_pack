@@ -1,4 +1,2 @@
 mod_version : 20240915
 pack_version : 20241007
-
-message : Added new 2 snowy trees. Have fun! (/>_<)/
