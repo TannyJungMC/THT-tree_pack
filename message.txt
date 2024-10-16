@@ -1,1 +1,7 @@
-Added new 2 snowy trees. Have fun! (/>_<)/
+tellraw @a [{"text":"
+
+-------------------------------------------------- \n\n
+Hello This is a test message from Tanny, thank you for playing! \n\n
+--------------------------------------------------
+
+","color":"light_purple"}]
