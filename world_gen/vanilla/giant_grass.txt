@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/giant_grass/storage
 
-biome : minecraft:plains
+biome : minecraft:flower_forest
 ground_block : #minecraft:dirt
 
 rarity : 75

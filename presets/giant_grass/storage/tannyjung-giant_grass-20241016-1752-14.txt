@@ -1,8 +1,8 @@
 Started Generate : 16/10/2024 at 17:52:14
 
-tree_type : land
+tree_type : adapt
 start_height : 0
-rt_dynamic : true
+rt_dynamic : false
 can_disable_roots : true
 
 @tao = minecraft:moss_block
