@@ -183,8 +183,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,tertiary_root_curvature_vertical:0
 ,tertiary_root_curvature_horizontal:0
-,tertiary_root_gravity_min:45
-,tertiary_root_gravity_max:45
+,tertiary_root_gravity_min:30
+,tertiary_root_gravity_max:30
 ,tertiary_root_gravity_weightiness:15
 
 ,tertiary_root_crawling:-15
