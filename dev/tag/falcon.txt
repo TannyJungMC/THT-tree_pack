@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/falcon/storage
 
-biome : &!@vanilla, &!#forge:is_snowy, &!#forge:is_cold, &!#forge:is_hot, &#forge:is_dense, &!#forge:is_sparse, &!#forge:is_lush, &#minecraft:is_forest
+biome : &#minecraft:is_overworld, &!@vanilla, &!#forge:is_snowy, &!#forge:is_cold, &!#forge:is_hot, &#forge:is_dense, &!#forge:is_sparse, &!#forge:is_lush, &#minecraft:is_forest
 ground_block : #minecraft:dirt
 
 rarity : 50
