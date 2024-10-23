@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/yokai/storage
 
-biome : minecraft:meadow
+biome : &#minecraft:is_overworld, minecraft:meadow
 ground_block : #minecraft:dirt
 
 rarity : 5
