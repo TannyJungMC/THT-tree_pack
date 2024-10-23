@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-Hello! This is a test message from Tanny, thank you for playing!
+Introduce new part connector and new leaves generator style! Some trees now updated to use those new features such as trees in forest, plains and birch forest. Also with some new design for more realistic. But mostly still not updated yet, please be patient! T v T )
 \n\n
 --------------------------------------------------
 
