@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-Introduce new part connector and new leaves generator style! Some trees now updated to use those new features, also with some new design for more realistic. Such as trees in forest and plains. But mostly still not updated yet, so please be patient! T v T ) I'm just feel a bit burnout...\n\nNew mod version with some performance fixes will be release as soon as I feel like it's ready! Stay tuned for updates in my Discord.
+Introduce new part connector and new leaves generator style! Some trees now updated to use those new features such as trees in forest and plains. Also with some new design for more realistic. But mostly still not updated yet, so please be patient! T v T ) I'm just feel a bit burnout...\n\nNew mod version with those new features and some performance fixes will be release as soon as I feel like it's ready! Stay tuned for updates in my Discord.
 \n\n
 --------------------------------------------------
 
