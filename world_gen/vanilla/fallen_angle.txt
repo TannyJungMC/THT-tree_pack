@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/fallen_angle/storage
 
-biome : &#minecraft:is_overworld, minecraft:savanna
+biome : minecraft:savanna
 ground_block : #minecraft:dirt
 
 rarity : 1

@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/old_witch/storage
 
-biome : &#minecraft:is_overworld, biomesoplenty:marsh
+biome : biomesoplenty:marsh
 ground_block : #minecraft:dirt
 
 rarity : 5

@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/the_walking_tree/storage
 
-biome : &#minecraft:is_overworld, biomesoplenty:lush_desert
+biome : biomesoplenty:lush_desert
 ground_block : #minecraft:dirt
 
 rarity : 0.1

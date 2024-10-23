@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/spike_stone/storage
 
-biome : &#minecraft:is_overworld, minecraft:deep_ocean
+biome : minecraft:deep_ocean
 ground_block : minecraft:gravel
 
 rarity : 20

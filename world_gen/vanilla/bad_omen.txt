@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bad_omen/storage
 
-biome : &#minecraft:is_overworld, minecraft:stony_shore
+biome : minecraft:stony_shore
 ground_block : minecraft:stone, minecraft:gravel
 
 rarity : 25

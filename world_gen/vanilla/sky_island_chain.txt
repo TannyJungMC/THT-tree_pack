@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/sky_island_chain/storage
 
-biome : &#minecraft:is_overworld, minecraft:jungle
+biome : minecraft:jungle
 ground_block : @all
 
 rarity : 50
