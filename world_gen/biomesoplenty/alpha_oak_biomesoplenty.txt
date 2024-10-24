@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/alpha_oak_biomesoplenty/storage
 
-biome : &#minecraft:is_overworld, biomesoplenty:origin_valley
+biome : &#minecraft:is_overworld, &biomesoplenty:origin_valley
 ground_block : biomesoplenty:origin_grass_block
 
 rarity : 50

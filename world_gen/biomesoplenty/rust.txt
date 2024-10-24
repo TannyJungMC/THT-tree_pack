@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/rust/storage
 
-biome : &#minecraft:is_overworld, biomesoplenty:woodland, biomesoplenty:old_growth_woodland
+biome : &#minecraft:is_overworld, &biomesoplenty:woodland, biomesoplenty:old_growth_woodland
 ground_block : #minecraft:dirt
 
 rarity : 20
