@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20241024
 
-message : You are now using the preview version of the new update.\n\nIntroducing new leaves style and block connector! Some trees is updated such as in forest, plains and beach. Also with new design for more realistic, combo with NoCubes mod for better experience! But most trees still not updated yet, so please be patient! T v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
+message : You are now using the preview version of the new update.\n\nIntroducing new leaves style and block connector! Some trees is updated such as in forest and plains, also with new design for more realistic, combo with NoCubes mod for better experience! But most trees still not updated yet, so please be patient! T v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
