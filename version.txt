@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20241024
 
-message : Introduce new leaves generator style and part connector! Some trees now updated to use those new features such as trees in forest and plains. Also with some new design for more realistic. But mostly still not updated yet, so please be patient! T v T ) I'm just feel a bit burnout...\n\nNew mod version with those new features and some performance fixes will be release as soon as I feel like its ready! Stay tuned for updates in my Discord.
+message : Introduce new leaves generator style and part connector! Some trees now updated to use those new features such as trees in forest and plains. Also with new design for more realistic. But mostly still not updated yet, so please be patient! T v T ) I'm just feel a bit burnout...\n\nNew mod version with new features and some performance fixes will be release as soon as I feel like its ready!
