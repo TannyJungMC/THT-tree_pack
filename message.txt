@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-Introducing new leaves style and part connector! You're now using the preview version of the new update. Some trees is updated and with new design for more realistic, such as trees in forest, plains and beach. Go to see them! But mostly still not updated yet, so please be patient! T v T ) I'm just burnout...\n\nNew mod version with new features and some performance fixes will be release as soon as I feel like its ready! (Maybe this halloween?)
+Introducing new leaves style and block connector! You're now using the preview version of the new update. Some trees is updated and with new design for more realistic. Such as trees in forest, plains and beach. Go to see them!\n\nBut mostly still not updated yet, so please be patient! T v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
 \n\n
 --------------------------------------------------
 
