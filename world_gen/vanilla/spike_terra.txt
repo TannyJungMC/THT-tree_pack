@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/spike_terra/storage
 
-biome : &#minecraft:is_overworld, minecraft:badlands
+biome : &#minecraft:is_overworld, &minecraft:badlands
 ground_block : minecraft:red_sand
 
 rarity : 50

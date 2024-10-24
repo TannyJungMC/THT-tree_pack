@@ -1,6 +1,6 @@
 storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/bush/storage
 
-biome : &#minecraft:is_overworld, minecraft:sparse_jungle
+biome : &#minecraft:is_overworld, &minecraft:sparse_jungle
 ground_block : #minecraft:dirt
 
 rarity : 50
