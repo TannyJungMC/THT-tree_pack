@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20241024
 
-message : Introducing new leaves style and part connector! You're now using the preview version of the new update. Some trees is updated and with new design for more realistic, such as trees in forest, plains and beach. Go to see them! But mostly still not updated yet, so please be patient! T v T ) I'm just burnout...\n\nNew mod version with new features and some performance fixes will be release as soon as I feel like its ready! (Maybe this halloween?)
+message : Introducing new leaves style and part connector! You're now using the preview version of the new update. Some trees is updated and with new design for more realistic. Such as trees in forest, plains and beach. Go to see them!\n\nBut mostly still not updated yet, so please be patient! T v T ) I'm just burnout...\n\nNew mod version with new features and some performance fixes will be release as soon as I feel like its ready! (Maybe this halloween?)
