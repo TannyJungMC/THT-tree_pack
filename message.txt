@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-You are now using the preview version of the new update.\n\nIntroducing new leaves style and block connector! Some trees is updated such as in forest and plains, also with new design for more realistic, combo with NoCubes mod for better experience! But most trees still not updated yet, so please be patient! T v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
+You are now using the preview version of the new update. Introducing new leaves style and block connector! Also with new design for more realistic, combo with NoCubes mod for better experience! Some trees is updated for preview, such as trees in forest and plains. But others still not updated yet, please be patient!\n\nT v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
 \n\n
 --------------------------------------------------
 
