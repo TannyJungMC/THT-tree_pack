@@ -6,16 +6,16 @@
 
 
 
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"1"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"2"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"3"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"4"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"5"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"6"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"7"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"8"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"9"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"10"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"5"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"6"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"7"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"8"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"9"}'}
+summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"10"}'}
 summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,CustomName:'{"text":"11"}'}
 
 tag @e[tag=THT-random,limit=1,sort=random] add THT-select

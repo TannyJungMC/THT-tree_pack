@@ -6,10 +6,10 @@
 
 
 
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,Rotation:[0f]}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,Rotation:[90f]}
-summon marker ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,Rotation:[180f]}
-summon armor_stand ~ ~ ~ {Tags:["THT-random"],NoGravity:1b,Marker:1b,Invisible:1b,Rotation:[270f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[0f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[90f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[180f]}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],Rotation:[270f]}
 tag @e[tag=THT-random,limit=1,sort=random] add THT-select
 
 
