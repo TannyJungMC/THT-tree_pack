@@ -70,8 +70,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,secondary_root_count_min:5
 ,secondary_root_count_max:7
-,secondary_root_length_min:5
-,secondary_root_length_max:7
+,secondary_root_length_min:7
+,secondary_root_length_max:10
 ,secondary_root_thickness_min:1
 ,secondary_root_thickness_max:1.5
 
@@ -139,8 +139,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,tertiary_root_count_min:2
 ,tertiary_root_count_max:3
-,tertiary_root_length_min:7
-,tertiary_root_length_max:10
+,tertiary_root_length_min:10
+,tertiary_root_length_max:12
 ,tertiary_root_thickness_min:1
 ,tertiary_root_thickness_max:1
 
@@ -213,7 +213,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_count_min:3
 ,fine_root_count_max:5
 ,fine_root_length_min:1
-,fine_root_length_max:15
+,fine_root_length_max:20
 ,fine_root_thickness_min:1
 ,fine_root_thickness_max:1
 
