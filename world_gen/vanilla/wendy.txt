@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/wendy/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/empyrean/storage
 
 biome : &#minecraft:is_overworld, &minecraft:taiga
 ground_block : #minecraft:dirt
