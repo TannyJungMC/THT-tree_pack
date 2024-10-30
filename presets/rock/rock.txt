@@ -12,7 +12,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-rock"
 
-,start_height:0
+,start_height:1
 ,rt_dynamic:false
 ,can_disable_roots:false
 ,tree_type:"adapt"
