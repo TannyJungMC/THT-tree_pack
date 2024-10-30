@@ -1,4 +1,4 @@
-storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/legion/storage
+storage_directory : config/THT/custom/tree_packs/THT-tree_pack-main/presets/empyrean/storage
 
 biome : &#minecraft:is_overworld, &minecraft:old_growth_spruce_taiga
 ground_block : #minecraft:dirt
