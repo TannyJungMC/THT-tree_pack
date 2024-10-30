@@ -53,8 +53,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,taproot_crawling_air_forward:0
 ,taproot_crawling_air_height:0
 ,taproot_dodging:0
-,taproot_dodging_forward:5
-,taproot_dodging_sideward:5
+,taproot_dodging_forward:0
+,taproot_dodging_sideward:0
 
 
 
@@ -76,12 +76,12 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_thickness_max:2
 
 ,secondary_root_length_reduce_from:"taproot"
-,secondary_root_length_reduce_center:99
-,secondary_root_length_reduce_above:0
+,secondary_root_length_reduce_center:0
+,secondary_root_length_reduce_above:100
 ,secondary_root_length_reduce_below:100
 ,secondary_root_thickness_reduce_from:"taproot"
-,secondary_root_thickness_reduce_center:99
-,secondary_root_thickness_reduce_above:0
+,secondary_root_thickness_reduce_center:0
+,secondary_root_thickness_reduce_above:100
 ,secondary_root_thickness_reduce_below:100
 
 ,secondary_root_random_auto:false
@@ -145,8 +145,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_thickness_max:1
 
 ,tertiary_root_count_reduce_from:"taproot"
-,tertiary_root_count_reduce_center:99
-,tertiary_root_count_reduce_above:0
+,tertiary_root_count_reduce_center:0
+,tertiary_root_count_reduce_above:100
 ,tertiary_root_count_reduce_below:100
 ,tertiary_root_length_reduce_from:"taproot"
 ,tertiary_root_length_reduce_center:0
@@ -218,8 +218,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_thickness_max:1
 
 ,fine_root_count_reduce_from:"taproot"
-,fine_root_count_reduce_center:99
-,fine_root_count_reduce_above:0
+,fine_root_count_reduce_center:0
+,fine_root_count_reduce_above:100
 ,fine_root_count_reduce_below:100
 ,fine_root_length_reduce_from:"taproot"
 ,fine_root_length_reduce_center:0
@@ -300,14 +300,14 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:5
 
-,trunk_crawling:-30
-,trunk_crawling_forward:3
-,trunk_crawling_height:-3
-,trunk_crawling_air_forward:3
-,trunk_crawling_air_height:3
-,trunk_dodging:30
-,trunk_dodging_forward:3
-,trunk_dodging_sideward:3
+,trunk_crawling:0
+,trunk_crawling_forward:0
+,trunk_crawling_height:0
+,trunk_crawling_air_forward:0
+,trunk_crawling_air_height:0
+,trunk_dodging:0
+,trunk_dodging_forward:0
+,trunk_dodging_sideward:0
 
 
 
