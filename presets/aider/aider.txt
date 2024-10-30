@@ -31,8 +31,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:5
-,taproot_length_max:7
+,taproot_length_min:3
+,taproot_length_max:5
 ,taproot_thickness_min:1
 ,taproot_thickness_max:1.5
 

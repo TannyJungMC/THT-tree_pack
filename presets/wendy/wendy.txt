@@ -31,10 +31,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:5
-,taproot_length_max:7
+,taproot_length_min:7
+,taproot_length_max:10
 ,taproot_thickness_min:1
-,taproot_thickness_max:2.5
+,taproot_thickness_max:2.25
 
 ,taproot_start_gravity_min:90
 ,taproot_start_gravity_max:90
@@ -287,7 +287,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,trunk_length_min:75
 ,trunk_length_max:150
 ,trunk_thickness_min:1
-,trunk_thickness_max:2
+,trunk_thickness_max:2.25
 
 ,trunk_start_gravity_min:-85
 ,trunk_start_gravity_max:-90
