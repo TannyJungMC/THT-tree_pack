@@ -34,7 +34,7 @@ can_disable_roots : true
 
 +fs = 
 +fe = 
-+fw1 = THT command txt_function way_function_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
++fw1 = THT command txt_function function_way_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
 +fw2 = 
 +fw3 = 
 

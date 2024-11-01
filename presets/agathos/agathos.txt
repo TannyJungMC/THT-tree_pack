@@ -551,31 +551,31 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,start_function:""
-,start_function_chance:0
-,end_function:""
-,end_function_chance:0
+,function_start:""
+,function_start_chance:0
+,function_end:""
+,function_end_chance:0
 
-,way1_function:""
-,way1_function_type:""
-,way1_function_chance:0
-,way1_function_max:0
-,way1_function_range_min:0
+,function_way1:""
+,function_way1_type:""
+,function_way1_chance:0
+,function_way1_max:0
+,function_way1_range_min:0
 ,way1_function_range_max:100
 
-,way2_function:""
-,way2_function_type:""
-,way2_function_chance:0
-,way2_function_max:0
-,way2_function_range_min:0
-,way2_function_range_max:100
+,function_way2:""
+,function_way2_type:""
+,function_way2_chance:0
+,function_way2_max:0
+,function_way2_range_min:0
+,function_way2_range_max:100
 
-,way3_function:""
-,way3_function_type:""
-,way3_function_chance:0
-,way3_function_max:0
-,way3_function_range_min:0
-,way3_function_range_max:100
+,function_way3:""
+,function_way3_type:""
+,function_way3_chance:0
+,function_way3_max:0
+,function_way3_range_min:0
+,function_way3_range_max:100
 
 
 

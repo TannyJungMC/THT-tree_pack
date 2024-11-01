@@ -551,31 +551,31 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 
 
-,start_function:""
-,start_function_chance:0
-,end_function:""
-,end_function_chance:0
+,function_start:""
+,function_start_chance:0
+,function_end:""
+,function_end_chance:0
 
-,way1_function:"THT command txt_function way_function_christmas_tree_ores config/THT/custom/tree_packs/THT-tree_pack-main/functions"
-,way1_function_type:"leaves"
-,way1_function_chance:0.05
-,way1_function_max:0
-,way1_function_range_min:0
-,way1_function_range_max:100
+,function_way1:"THT command txt_function function_way_christmas_tree_ores config/THT/custom/tree_packs/THT-tree_pack-main/functions"
+,function_way1_type:"leaves"
+,function_way1_chance:0.05
+,function_way1_max:0
+,function_way1_range_min:0
+,function_way1_range_max:100
 
-,way2_function:"THT command txt_function way_function_christmas_tree_star config/THT/custom/tree_packs/THT-tree_pack-main/functions"
-,way2_function_type:"trunk"
-,way2_function_chance:1
-,way2_function_max:1
-,way2_function_range_min:100
-,way2_function_range_max:100
+,function_way2:"THT command txt_function function_way_christmas_tree_star config/THT/custom/tree_packs/THT-tree_pack-main/functions"
+,function_way2_type:"trunk"
+,function_way2_chance:1
+,function_way2_max:1
+,function_way2_range_min:100
+,function_way2_range_max:100
 
-,way3_function:""
-,way3_function_type:""
-,way3_function_chance:0
-,way3_function_max:0
-,way3_function_range_min:0
-,way3_function_range_max:100
+,function_way3:""
+,function_way3_type:""
+,function_way3_chance:0
+,function_way3_max:0
+,function_way3_range_min:0
+,function_way3_range_max:100
 
 
 
