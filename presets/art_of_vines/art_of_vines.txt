@@ -12,10 +12,14 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-art_of_vines"
 
-,start_height:1
+X
+,tree_type:"land"
 ,rt_dynamic:false
 ,can_disable_roots:false
-,tree_type:"adapt"
+
+,start_height:1
+,rotation:0
+,mirrored:0
 
 
 

@@ -12,10 +12,13 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-polaris"
 
-,start_height:1
+,tree_type:"land"
 ,rt_dynamic:false
 ,can_disable_roots:true
-,tree_type:"land"
+
+,start_height:0
+,rotation:0
+,mirrored:0
 
 
 

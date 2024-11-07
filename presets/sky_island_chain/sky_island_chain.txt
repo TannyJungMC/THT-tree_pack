@@ -12,10 +12,13 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-sky_island_chain"
 
-,start_height:75
-,rt_dynamic:false
-,can_disable_roots:false
 ,tree_type:"adapt"
+,rt_dynamic:true
+,can_disable_roots:false
+
+,start_height:75
+,rotation:0
+,mirrored:0
 
 
 
