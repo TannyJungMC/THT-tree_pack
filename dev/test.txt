@@ -1,7 +1,0 @@
-taproot size = trunk size
-
-gravity   =   -30 > -15 > 0
-
-leaves count   =   3-4
-leaves size   =   5-7
-leaves dense   =   20

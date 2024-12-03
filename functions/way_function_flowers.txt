@@ -12,11 +12,7 @@ summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
 summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
 summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"5"}'}
 summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"6"}'}
-<<<<<<< Updated upstream
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-=======
 tag e[tag=THT-random,limit=1,sort=random] add THT-select
->>>>>>> Stashed changes
 
 execute at e[tag=THT-select,name=1] positioned ~ ~5 ~ run place feature minecraft:flower_default
 execute at e[tag=THT-select,name=2] positioned ~ ~5 ~ run place feature minecraft:flower_flower_forest

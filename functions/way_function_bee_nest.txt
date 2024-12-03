@@ -10,11 +10,7 @@ summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
 summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
 summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
 summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
-<<<<<<< Updated upstream
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-=======
 tag e[tag=THT-random,limit=1,sort=random] add THT-select
->>>>>>> Stashed changes
 
 execute at e[tag=THT-select,name=1] if block ~ ~-1 ~ #tht:passable_blocks if block ~ ~-2 ~ #tht:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=north]
 execute at e[tag=THT-select,name=2] if block ~ ~-1 ~ #tht:passable_blocks if block ~ ~-2 ~ #tht:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=west]

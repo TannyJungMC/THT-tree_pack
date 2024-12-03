@@ -3,11 +3,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,global_generate_speed:true
 ,generate_speed:1
 ,generate_speed_repeat:1000
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,generate_speed_tp:10
-=======
 ,generate_speed_tp:20
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,countdown:10
 
 
@@ -16,17 +12,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"tannyjung-falcon"
 
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,tree_type:"land"
-=======
 ,start_height:1
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,rt_dynamic:true
 ,can_disable_roots:true
-
-,start_height:0
-,rotation:0
-,mirrored:0
+,tree_type:"land"
 
 
 
@@ -42,13 +31,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,taproot_length_min:5
-,taproot_length_max:7
-=======
 ,taproot_length_min:20
 ,taproot_length_max:30
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,taproot_thickness_min:1
 ,taproot_thickness_max:2.5
 
@@ -68,11 +52,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,taproot_crawling_height:0
 ,taproot_crawling_air_forward:0
 ,taproot_crawling_air_height:0
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,taproot_dodging:0
-=======
 ,taproot_dodging:15
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,taproot_dodging_forward:0
 ,taproot_dodging_sideward:0
 
@@ -88,17 +68,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_core:"minecraft:stripped_oak_wood"
 ,secondary_root_replace:true
 
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,secondary_root_count_min:2
-,secondary_root_count_max:3
-,secondary_root_length_min:3
-,secondary_root_length_max:5
-=======
 ,secondary_root_count_min:5
 ,secondary_root_count_max:7
 ,secondary_root_length_min:10
 ,secondary_root_length_max:12
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,secondary_root_thickness_min:1
 ,secondary_root_thickness_max:2
 
@@ -139,13 +112,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,secondary_root_curvature_vertical:0
 ,secondary_root_curvature_horizontal:0
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,secondary_root_gravity_min:15
-,secondary_root_gravity_max:15
-=======
 ,secondary_root_gravity_min:5
 ,secondary_root_gravity_max:5
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,secondary_root_gravity_weightiness:15
 
 ,secondary_root_crawling:-30
@@ -217,13 +185,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,tertiary_root_curvature_vertical:0
 ,tertiary_root_curvature_horizontal:0
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,tertiary_root_gravity_min:30
-,tertiary_root_gravity_max:30
-=======
 ,tertiary_root_gravity_min:10
 ,tertiary_root_gravity_max:10
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,tertiary_root_gravity_weightiness:15
 
 ,tertiary_root_crawling:-30
@@ -498,17 +461,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_core:"minecraft:stripped_oak_wood"
 ,leaves_twig_replace:true
 
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,leaves_twig_count_min:2
-,leaves_twig_count_max:5
-,leaves_twig_length_min:4
-,leaves_twig_length_max:6
-=======
 ,leaves_twig_count_min:3
 ,leaves_twig_count_max:4
 ,leaves_twig_length_min:12
 ,leaves_twig_length_max:15
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,leaves_twig_thickness_min:1
 ,leaves_twig_thickness_max:1
 
@@ -529,7 +485,6 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_twig_random:10
 ,leaves_twig_random_percent:50
 ,leaves_twig_distance_min:0
-,leaves_twig_last_count_min:1
 
 ,leaves_twig_start_vertical:0.1
 ,leaves_twig_start_horizontal:0.1
@@ -575,13 +530,8 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves2_chance:0
 ,leaves_replace:false
 
-<<<<<<< Updated upstream:presets/bush/bush.txt
-,leaves_size_min:3
-,leaves_size_max:5
-=======
 ,leaves_size_min:5
 ,leaves_size_max:7
->>>>>>> Stashed changes:.dev/preset_template.txt
 ,leaves_density:15
 ,leaves_straighten_chance:0
 ,leaves_straighten_min:0
@@ -595,40 +545,36 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,leaves_sphere_zone_size:90
 ,leaves_sphere_zone_radius_percent:25
 ,leaves_sphere_zone_pitch_min:-45
-<<<<<<< Updated upstream:presets/bush/bush.txt
-=======
-
->>>>>>> Stashed changes:.dev/preset_template.txt
 
 
 
 
 
-,function_start:""
-,function_start_chance:0
-,function_end:""
-,function_end_chance:0
+,start_function:""
+,start_function_chance:0
+,end_function:""
+,end_function_chance:0
 
-,function_way1:""
-,function_way1_type:""
-,function_way1_chance:0
-,function_way1_max:0
-,function_way1_range_min:0
-,function_way1_range_max:100
+,way1_function:""
+,way1_function_type:""
+,way1_function_chance:0
+,way1_function_max:0
+,way1_function_range_min:0
+,way1_function_range_max:100
 
-,function_way2:""
-,function_way2_type:""
-,function_way2_chance:0
-,function_way2_max:0
-,function_way2_range_min:0
-,function_way2_range_max:100
+,way2_function:""
+,way2_function_type:""
+,way2_function_chance:0
+,way2_function_max:0
+,way2_function_range_min:0
+,way2_function_range_max:100
 
-,function_way3:""
-,function_way3_type:""
-,function_way3_chance:0
-,function_way3_max:0
-,function_way3_range_min:0
-,function_way3_range_max:100
+,way3_function:""
+,way3_function_type:""
+,way3_function_chance:0
+,way3_function_max:0
+,way3_function_range_min:0
+,way3_function_range_max:100
 
 
 

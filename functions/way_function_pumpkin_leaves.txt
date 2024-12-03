@@ -10,11 +10,7 @@ summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[0f]}
 summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[90f]}
 summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[180f]}
 summon armor_stand ~ ~ ~ {Tags:["THT-random"],Rotation:[270f]}
-<<<<<<< Updated upstream
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-=======
 tag e[tag=THT-random,limit=1,sort=random] add THT-select
->>>>>>> Stashed changes
 
 
 

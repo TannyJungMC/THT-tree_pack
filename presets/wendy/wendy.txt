@@ -12,18 +12,10 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,name:"wendy"
 
-<<<<<<< Updated upstream
-X
-,tree_type:"land"
-=======
 ,start_height:0
->>>>>>> Stashed changes
 ,rt_dynamic:true
 ,can_disable_roots:true
-
-,start_height:1
-,rotation:0
-,mirrored:0
+,tree_type:"land"
 
 
 
@@ -292,13 +284,8 @@ X
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-<<<<<<< Updated upstream
-,trunk_length_min:75
-,trunk_length_max:150
-=======
 ,trunk_length_min:100
 ,trunk_length_max:125
->>>>>>> Stashed changes
 ,trunk_thickness_min:1
 ,trunk_thickness_max:2.25
 
@@ -335,11 +322,7 @@ X
 ,branch_replace:true
 
 ,branch_count_min:40
-<<<<<<< Updated upstream
-,branch_count_max:60
-=======
 ,branch_count_max:50
->>>>>>> Stashed changes
 ,branch_length_min:7
 ,branch_length_max:12
 ,branch_thickness_min:1
@@ -557,11 +540,7 @@ X
 
 ,leaves_size_reduce_from:"trunk"
 ,leaves_size_reduce_center:50
-<<<<<<< Updated upstream
-,leaves_size_reduce_above:50
-=======
 ,leaves_size_reduce_above:25
->>>>>>> Stashed changes
 ,leaves_size_reduce_below:50
 
 ,leaves_sphere_zone_size:90
