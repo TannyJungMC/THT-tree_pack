@@ -11,14 +11,14 @@ execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["
 execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
 execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
 
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
-tag @e[tag=THT-random,limit=1,sort=random] add THT-select
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
 
-execute at @e[tag=THT-select,name=1] run setblock ~ ~ ~1 minecraft:cocoa[age=2,facing=north] keep
-execute at @e[tag=THT-select,name=2] run setblock ~ ~ ~-1 minecraft:cocoa[age=2,facing=south] keep
-execute at @e[tag=THT-select,name=3] run setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
-execute at @e[tag=THT-select,name=4] run setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
+execute at e[tag=THT-select,name=1] run setblock ~ ~ ~1 minecraft:cocoa[age=2,facing=north] keep
+execute at e[tag=THT-select,name=2] run setblock ~ ~ ~-1 minecraft:cocoa[age=2,facing=south] keep
+execute at e[tag=THT-select,name=3] run setblock ~1 ~ ~ minecraft:cocoa[age=2,facing=west] keep
+execute at e[tag=THT-select,name=4] run setblock ~-1 ~ ~ minecraft:cocoa[age=2,facing=east] keep
 
-kill @e[tag=THT-random]
+kill e[tag=THT-random]

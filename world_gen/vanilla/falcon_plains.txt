@@ -1,13 +1,13 @@
 storage_directory : THT-tree_pack-main/presets/falcon/storage
 tree_settings : THT-tree_pack-main/presets/falcon/falcon_settings
 
-biome : &#minecraft:is_overworld, &minecraft:forest
+biome : &#minecraft:is_overworld, &minecraft:plains
 ground_block : #minecraft:dirt
 
-rarity : 25
+rarity : 100
 min_distance : 30
 group_chance : 0
-waterside_chance : 0
+waterside_chance : 0.9
 
 dead_tree_chance : 0.01
 dead_tree_level_min : 1

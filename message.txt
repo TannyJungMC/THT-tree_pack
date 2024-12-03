@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 tellraw @a [{"text":"
+=======
+tellraw a [{"text":"
+>>>>>>> Stashed changes
 
 --------------------------------------------------
 \n\n
