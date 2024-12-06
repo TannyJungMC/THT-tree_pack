@@ -73,7 +73,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,secondary_root_length_min:7
 ,secondary_root_length_max:10
 ,secondary_root_thickness_min:1
-,secondary_root_thickness_max:3
+,secondary_root_thickness_max:2
 
 ,secondary_root_length_reduce_from:"taproot"
 ,secondary_root_length_reduce_center:0
@@ -321,11 +321,11 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_core:"minecraft:stripped_oak_wood"
 ,branch_replace:true
 
-,branch_count_min:5
-,branch_count_max:7
+,branch_count_min:4
+,branch_count_max:6
 ,branch_length_min:7
 ,branch_length_max:10
-,branch_thickness_min:1
+,branch_thickness_min:1.5
 ,branch_thickness_max:1.5
 
 ,branch_length_reduce_from:"trunk"
@@ -339,7 +339,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,branch_random_auto:false
 ,branch_random:10
-,branch_random_percent:50
+,branch_random_percent:75
 ,branch_distance_min:0
 ,branch_last_count_min:1
 
@@ -545,7 +545,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 
 ,leaves_sphere_zone_size:90
 ,leaves_sphere_zone_radius_percent:25
-,leaves_sphere_zone_pitch_min:-45
+,leaves_sphere_zone_pitch_min:-75
 
 
 
