@@ -1,7 +1,7 @@
 storage_directory : THT-tree_pack-main/presets/falcon/storage
 tree_settings : THT-tree_pack-main/presets/falcon/falcon_settings
 
-biome : &#minecraft:is_overworld, &minecraft:plains
+biome : minecraft:plains
 ground_block : #minecraft:dirt
 
 rarity : 100
