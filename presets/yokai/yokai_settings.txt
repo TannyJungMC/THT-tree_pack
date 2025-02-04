@@ -1,0 +1,40 @@
+tree_type = land
+rt_dynamic = true
+can_disable_roots = true
+
+start_height = 1
+rotation = 0
+mirrored = 0
+
+Block tao = minecraft:dark_oak_wood
+Block tai = minecraft:dark_oak_wood
+Block tac = minecraft:stripped_dark_oak_wood
+Block seo = minecraft:dark_oak_wood
+Block sei = minecraft:dark_oak_wood
+Block sec = minecraft:stripped_dark_oak_wood
+Block teo = minecraft:dark_oak_wood
+Block tei = minecraft:dark_oak_wood
+Block tec = minecraft:stripped_dark_oak_wood
+Block fio = minecraft:dark_oak_wood
+Block fii = minecraft:dark_oak_wood
+Block fic = minecraft:stripped_dark_oak_wood
+Block tro = minecraft:dark_oak_wood
+Block tri = minecraft:dark_oak_wood
+Block trc = minecraft:stripped_dark_oak_wood
+Block bro = minecraft:dark_oak_wood
+Block bri = minecraft:dark_oak_wood
+Block brc = minecraft:stripped_dark_oak_wood
+Block two = minecraft:dark_oak_wood
+Block twi = minecraft:dark_oak_wood
+Block twc = minecraft:stripped_dark_oak_wood
+Block lto = minecraft:dark_oak_wood
+Block lti = minecraft:dark_oak_wood
+Block ltc = minecraft:stripped_dark_oak_wood
+Block le1 = minecraft:dark_oak_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 

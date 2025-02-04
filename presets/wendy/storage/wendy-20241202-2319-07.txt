@@ -1,12 +1,12 @@
 Started Generate : 02/12/2024 at 23:19:07
 Completed Generate : 02/12/2024 at 23:19:21
 
-SizeX : 31
-SizeY : 156
-SizeZ : 28
-SizeCenterX : 17
-SizeCenterY : 35
-SizeCenterZ : 16
+sizeX = 31
+sizeY = 156
+sizeZ = 28
+center_sizeX = 17
+center_sizeY = 35
+center_sizeZ = 16
 
 --------------------------------------------------
 

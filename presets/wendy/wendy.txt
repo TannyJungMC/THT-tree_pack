@@ -1,4 +1,4 @@
-give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
+give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
 
 ,global_generate_speed:true
 ,generate_speed:1
@@ -333,9 +333,9 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,branch_length_reduce_above:0
 ,branch_length_reduce_below:50
 ,branch_thickness_reduce_from:"trunk"
-,branch_thickness_reduce_center:50
-,branch_thickness_reduce_above:0
-,branch_thickness_reduce_below:50
+,branch_thickness_reduce_center:0
+,branch_thickness_reduce_above:100
+,branch_thickness_reduce_below:100
 
 ,branch_random_auto:true
 ,branch_random:0

@@ -1,13 +1,13 @@
-storage_directory : THT-tree_pack-main/presets/falcon/storage
-tree_settings : THT-tree_pack-main/presets/falcon/falcon_settings
+storage_directory = THT-tree_pack-main/presets/falcon/storage
+tree_settings = THT-tree_pack-main/presets/falcon/falcon_settings.txt
 
-biome : minecraft:plains
-ground_block : #minecraft:dirt
+biome = minecraft:plains
+ground_block = #minecraft:dirt
 
-rarity : 100
-min_distance : 30
-group_chance : 0
-waterside_chance : 0.9
+rarity = 100
+min_distance = 30
+group_chance = 0
+waterside_chance = 0.9
 
-dead_tree_chance : 0.01
-dead_tree_level_min : 1
+dead_tree_chance = 0.01
+dead_tree_level_min = 1
