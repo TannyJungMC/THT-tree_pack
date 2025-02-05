@@ -4,8 +4,8 @@ tree_settings = THT-tree_pack-main/presets/yokai/yokai_settings.txt
 biome = #minecraft:is_jungle
 ground_block = #minecraft:dirt
 
-rarity = 25
-min_distance = 30
+rarity = 10
+min_distance = 100
 group_chance = 0
 waterside_chance = 0
 
