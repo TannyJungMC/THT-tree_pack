@@ -1,6 +1,7 @@
 storage_directory = THT-tree_pack-main/presets/bush/storage
 tree_settings = THT-tree_pack-main/presets/bush/bush_settings.txt
 
+world_gen = true
 spawn_type = land
 biome = #forge:is_plains / #minecraft:is_forest
 ground_block = #minecraft:dirt
