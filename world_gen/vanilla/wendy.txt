@@ -2,6 +2,7 @@ storage_directory = THT-tree_pack-main/presets/wendy/storage
 tree_settings = THT-tree_pack-main/presets/wendy/wendy_settings.txt
 
 world_gen = true
+
 spawn_type = land
 biome = minecraft:taiga
 ground_block = #minecraft:dirt
