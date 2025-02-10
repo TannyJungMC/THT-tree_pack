@@ -12,10 +12,10 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,name:"redwood"
 
+,tree_type:"land"
 ,start_height:0
 ,rt_dynamic:true
 ,can_disable_roots:true
-,tree_type:"land"
 
 
 
