@@ -11,9 +11,9 @@ min_distance = 100
 group_chance = 0
 waterside_chance = 0
 
+dead_tree_chance = 0.01
+dead_tree_level = 1 / 2 / 3 / 4 / 5 / 6 / 7
+
 start_height_offset = -1 <> 1
 rotation = random
 mirrored = random
-
-dead_tree_chance = 0.01
-dead_tree_level = 1 / 2 / 3 / 4 / 5 / 6 / 7

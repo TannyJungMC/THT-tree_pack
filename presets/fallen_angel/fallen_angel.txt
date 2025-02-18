@@ -158,7 +158,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,tertiary_root_thickness_reduce_below:100
 
 ,tertiary_root_random_auto:true
-,tertiary_root_random:100
+,tertiary_root_random:0
 ,tertiary_root_random_percent:25
 ,tertiary_root_distance_min:0
 ,tertiary_root_last_count_min:1
@@ -231,7 +231,7 @@ give @p tht:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\"
 ,fine_root_thickness_reduce_below:100
 
 ,fine_root_random_auto:true
-,fine_root_random:100
+,fine_root_random:0
 ,fine_root_random_percent:25
 ,fine_root_distance_min:0
 ,fine_root_last_count_min:1
