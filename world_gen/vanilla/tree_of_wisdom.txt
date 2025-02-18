@@ -6,8 +6,8 @@ world_gen = true
 spawn_type = land
 biome = #minecraft:is_overworld
 ground_block = #minecraft:dirt
-rarity = 1
-min_distance = 500
+rarity = 100
+min_distance = 1000
 group_chance = 0
 waterside_chance = 0
 
