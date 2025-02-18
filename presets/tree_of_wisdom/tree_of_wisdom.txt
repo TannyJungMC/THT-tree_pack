@@ -556,23 +556,23 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,end_function:""
 ,end_function_chance:0
 
-,function_way1:"fill ~ ~ ~ ~ ~-40 ~ minecraft:end_rod[facing=down] keep"
+,function_way1:"THT-tree_pack-main/functions/way_function_vine_end_rod.txt"
 ,function_way1_type:"leaves"
-,function_way1_chance:0.5
+,function_way1_chance:1
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
 
-,function_way2:"fill ~ ~ ~ ~ ~-75 ~ minecraft:end_rod[facing=down] keep"
-,function_way2_type:"leaves"
-,function_way2_chance:0.5
+,function_way2:""
+,function_way2_type:""
+,function_way2_chance:0
 ,function_way2_max:0
 ,function_way2_range_min:0
 ,function_way2_range_max:100
 
-,function_way3:"fill ~ ~ ~ ~ ~-100 ~ minecraft:end_rod[facing=down] keep"
-,function_way3_type:"leaves"
-,function_way3_chance:0.5
+,function_way3:""
+,function_way3_type:""
+,function_way3_chance:0
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100
