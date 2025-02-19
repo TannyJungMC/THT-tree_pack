@@ -30,11 +30,11 @@ Block twc = minecraft:stripped_dark_oak_wood
 Block lto = minecraft:dark_oak_wood
 Block lti = minecraft:dark_oak_wood
 Block ltc = minecraft:stripped_dark_oak_wood
-Block le1 = minecraft:dark_oak_leaves[persistent=true] keep
+Block le1 = minecraft:white_stained_glass keep
 Block le2 = 
 
 Function fs = 
 Function fe = 
 Function f1 = THT-tree_pack-main/functions/way_function_vine_end_rod.txt
-Function f2 = 
-Function f3 = 
+Function f2 = THT-tree_pack-main/functions/way_function_vine_end_rod.txt
+Function f3 = THT-tree_pack-main/functions/way_function_vine_end_rod.txt
