@@ -1,1 +1,1 @@
-fill ~ ~ ~ ~ ~-100 ~ minecraftLend_rod[facing=down] keep
+fill ~ ~ ~ ~ ~-100 ~ minecraft:end_rod[facing=down] keep
