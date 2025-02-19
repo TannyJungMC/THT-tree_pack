@@ -1,5 +1,5 @@
-0.25 | place_block = 0/-10/0 | 0/0/0 | minecraft:end_rod[facing=down] | true
-0.25 | place_block = 0/-25/0 | 0/0/0 | minecraft:end_rod[facing=down] | true
-0.25 | place_block = 0/-50/0 | 0/0/0 | minecraft:end_rod[facing=down] | true
-0.25 | place_block = 0/-75/0 | 0/0/0 | minecraft:end_rod[facing=down] | true
-0.25 | place_block = 0/-100/0 | 0/0/0 | minecraft:end_rod[facing=down] | true
+place_block = 0.25 | 0/-10/0 - 0/0/0 | minecraft:end_rod[facing=down] | true
+place_block = 0.25 | 0/-25/0 - 0/0/0 | minecraft:end_rod[facing=down] | true
+place_block = 0.25 | 0/-50/0 - 0/0/0 | minecraft:end_rod[facing=down] | true
+place_block = 0.25 | 0/-75/0 - 0/0/0 | minecraft:end_rod[facing=down] | true
+place_block = 0.25 | 0/-100/0 - 0/0/0 | minecraft:end_rod[facing=down] | true
