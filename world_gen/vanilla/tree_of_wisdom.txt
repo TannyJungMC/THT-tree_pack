@@ -4,9 +4,9 @@ tree_settings = THT-tree_pack-main/presets/tree_of_wisdom/tree_of_wisdom_setting
 world_gen = true
 
 spawn_type = land
-biome = #minecraft:is_overworld
+biome = #minecraft:is_plains
 ground_block = #minecraft:dirt
-rarity = 10
+rarity = 1
 min_distance = 100
 group_chance = 0
 waterside_chance = 0
