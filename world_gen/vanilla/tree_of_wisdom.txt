@@ -1,13 +1,13 @@
 storage_directory = THT-tree_pack-main/presets/tree_of_wisdom/storage
 tree_settings = THT-tree_pack-main/presets/tree_of_wisdom/tree_of_wisdom_settings.txt
 
-world_gen = false
+world_gen = true
 
 spawn_type = land
 biome = #minecraft:is_overworld
 ground_block = #minecraft:dirt
-rarity = 1
-min_distance = 1000
+rarity = 10
+min_distance = 100
 group_chance = 0
 waterside_chance = 0
 
