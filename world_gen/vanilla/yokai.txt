@@ -3,7 +3,6 @@ tree_settings = THT-tree_pack-main/presets/yokai/yokai_settings.txt
 
 world_gen = true
 
-spawn_type = land
 biome = #minecraft:is_jungle
 ground_block = #minecraft:dirt
 rarity = 10

@@ -3,7 +3,6 @@ tree_settings = THT-tree_pack-main/presets/redwood/redwood_settings.txt
 
 world_gen = true
 
-spawn_type = land
 biome = !minecraft:taiga & #minecraft:is_taiga
 ground_block = #minecraft:dirt
 rarity = 50
