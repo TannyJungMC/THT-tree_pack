@@ -1,0 +1,37 @@
+tree_type = adapt
+start_height = 100
+rt_dynamic = false
+can_disable_roots = false
+
+Block tao = minecraft:stone
+Block tai = minecraft:stone
+Block tac = minecraft:stone
+Block seo = 
+Block sei = 
+Block sec = 
+Block teo = 
+Block tei = 
+Block tec = 
+Block fio = 
+Block fii = 
+Block fic = 
+Block tro = 
+Block tri = 
+Block trc = 
+Block bro = minecraft:stone
+Block bri = minecraft:stone
+Block brc = minecraft:stone
+Block two = 
+Block twi = 
+Block twc = 
+Block lto = minecraft:stone
+Block lti = minecraft:stone
+Block ltc = minecraft:stone
+Block le1 = minecraft:oak_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = place feature minecraft:moss_patch
+Function f2 = place feature minecraft:moss_patch
+Function f3 = place feature minecraft:moss_patch
