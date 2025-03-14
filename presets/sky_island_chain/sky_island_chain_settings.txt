@@ -15,13 +15,13 @@ Block tec =
 Block fio = 
 Block fii = 
 Block fic = 
-Block tro = minecraft:oak_leaves[persistent=true] keep
+Block tro = 
 Block tri = 
 Block trc = 
 Block bro = minecraft:stone
 Block bri = minecraft:stone
 Block brc = minecraft:stone
-Block two = minecraft:oak_leaves[persistent=true] keep
+Block two = 
 Block twi = 
 Block twc = 
 Block lto = minecraft:stone
