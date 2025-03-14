@@ -556,21 +556,21 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,function_end:""
 ,function_end_chance:0
 
-,function_way1:"place feature minecraft:moss_patch"
+,function_way1:"THT-tree_pack-main/functions/way_function_vine_end_rod.txt"
 ,function_way1_type:"taproot"
 ,function_way1_chance:5
 ,function_way1_max:0
 ,function_way1_range_min:100
 ,function_way1_range_max:100
 
-,function_way2:"place feature minecraft:moss_patch"
+,function_way2:"THT-tree_pack-main/functions/way_function_vine_end_rod.txt"
 ,function_way2_type:"branch"
 ,function_way2_chance:5
 ,function_way2_max:0
 ,function_way2_range_min:100
 ,function_way2_range_max:100
 
-,function_way3:"place feature minecraft:moss_patch"
+,function_way3:"THT-tree_pack-main/functions/way_function_vine_end_rod.txt"
 ,function_way3_type:"leaves_twig"
 ,function_way3_chance:5
 ,function_way3_max:0
