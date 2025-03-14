@@ -7,8 +7,8 @@ biome = #forge:is_plains
 ground_block = #minecraft:dirt
 rarity = 5
 min_distance = 20
-group_chance = 0
-waterside_chance = 0
+group_chance = 0.0
+waterside_chance = 0.0
 
 dead_tree_chance = 0.01
 dead_tree_level = 1 / 2 / 3 / 4 / 5 / 6 / 7
