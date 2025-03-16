@@ -6,10 +6,10 @@
 
 
 
-execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
-execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
-execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
-execute unless block ~ ~ ~ #tht:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
+execute unless block ~ ~ ~ #tanshugetrees:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
+execute unless block ~ ~ ~ #tanshugetrees:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
+execute unless block ~ ~ ~ #tanshugetrees:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
+execute unless block ~ ~ ~ #tanshugetrees:passable_blocks run summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
 
 tag e[tag=THT-random,limit=1,sort=random] add THT-select
 tag e[tag=THT-random,limit=1,sort=random] add THT-select

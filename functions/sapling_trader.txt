@@ -6,5 +6,5 @@
 
 
 
-summon item ~ ~ ~ {Item:{id:"tht:waypoint_flower",Count:1b}}
+summon item ~ ~ ~ {Item:{id:"tanshugetrees:waypoint_flower",Count:1b}}
 tellraw a[distance=..200] [{"text":"Sapling trader is not available yet","color":"red"}]
