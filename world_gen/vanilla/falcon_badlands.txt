@@ -4,7 +4,7 @@ tree_settings = THT-tree_pack-main/presets/falcon/falcon_settings.txt
 world_gen = true
 
 biome = #minecraft:is_badlands
-ground_block = #minecraft:dirt
+ground_block = #minecraft:dirt / minecraft:red_sand
 rarity = 25
 min_distance = 20
 group_chance = 0.0
