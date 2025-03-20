@@ -1,0 +1,37 @@
+tree_type = adapt
+start_height = 0
+rt_dynamic = false
+can_disable_roots = false
+
+Block tao = 
+Block tai = 
+Block tac = 
+Block seo = 
+Block sei = 
+Block sec = 
+Block teo = 
+Block tei = 
+Block tec = 
+Block fio = 
+Block fii = 
+Block fic = 
+Block tro = minecraft:stone
+Block tri = minecraft:stone
+Block trc = minecraft:stone
+Block bro = minecraft:stone
+Block bri = minecraft:stone
+Block brc = minecraft:stone
+Block two = minecraft:stone
+Block twi = minecraft:stone
+Block twc = minecraft:stone
+Block lto = minecraft:stone
+Block lti = minecraft:stone
+Block ltc = minecraft:stone
+Block le1 = minecraft:stone
+Block le2 = minecraft:mossy_cobblestone
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
