@@ -22,11 +22,11 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:"minecraft:stone"
+,taproot_outer:""
 ,taproot_outer_level:1
-,taproot_inner:"minecraft:stone"
+,taproot_inner:""
 ,taproot_inner_level:0
-,taproot_core:"minecraft:stone"
+,taproot_core:""
 ,taproot_replace:true
 
 ,taproot_count_min:0
@@ -61,11 +61,11 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:"minecraft:stone"
+,secondary_root_outer:""
 ,secondary_root_outer_level:1
-,secondary_root_inner:"minecraft:stone"
+,secondary_root_inner:""
 ,secondary_root_inner_level:0
-,secondary_root_core:"minecraft:stone"
+,secondary_root_core:""
 ,secondary_root_replace:true
 
 ,secondary_root_count_min:2
@@ -130,11 +130,11 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:"minecraft:stone"
+,tertiary_root_outer:""
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"minecraft:stone"
+,tertiary_root_inner:""
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"minecraft:stone"
+,tertiary_root_core:""
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:1
@@ -203,11 +203,11 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:"minecraft:stone"
+,fine_root_outer:""
 ,fine_root_outer_level:1
-,fine_root_inner:"minecraft:stone"
+,fine_root_inner:""
 ,fine_root_inner_level:0
-,fine_root_core:"minecraft:stone"
+,fine_root_core:""
 ,fine_root_replace:true
 
 ,fine_root_count_min:1
