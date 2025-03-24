@@ -1,6 +1,6 @@
 tree_type = adapt
 start_height = 0
-tree_dynamic = false
+living_tree_mechanics = false
 can_disable_roots = false
 
 Block tao = 

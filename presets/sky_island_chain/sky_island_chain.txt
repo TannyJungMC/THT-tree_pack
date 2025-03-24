@@ -14,7 +14,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,tree_type:"adapt"
 ,start_height:100
-,tree_dynamic:false
+,living_tree_mechanics:false
 ,can_disable_roots:false
 
 

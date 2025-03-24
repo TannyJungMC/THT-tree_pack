@@ -13,7 +13,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"tannyjung-falcon"
 
 ,start_height:1
-,tree_dynamic:true
+,living_tree_mechanics:true
 ,can_disable_roots:true
 ,tree_type:"land"
 

@@ -1,6 +1,6 @@
 tree_type = land
 start_height = 0
-tree_dynamic = true
+living_tree_mechanics = true
 can_disable_roots = true
 
 Block tao = minecraft:oak_wood
