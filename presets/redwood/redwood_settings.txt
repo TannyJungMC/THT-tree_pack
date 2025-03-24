@@ -1,6 +1,6 @@
 tree_type = land
 start_height = 0
-rt_dynamic = true
+tree_dynamic = true
 can_disable_roots = true
 
 Block tao = minecraft:spruce_wood

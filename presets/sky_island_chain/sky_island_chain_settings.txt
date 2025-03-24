@@ -1,6 +1,6 @@
 tree_type = adapt
 start_height = 100
-rt_dynamic = false
+tree_dynamic = false
 can_disable_roots = false
 
 Block tao = minecraft:stone
