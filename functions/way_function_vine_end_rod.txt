@@ -1,1 +1,1 @@
-fill = 0.5 | 0/0/0 | 0/-100/0 | 0/-10/0 | minecraft:end_rod[facing=down] | true
+block = 0.5 | 0/0/0 | 0/-100/0 | 0/-10/0 | minecraft:end_rod[facing=down] | true
