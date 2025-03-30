@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-Hello, how are you today?
+Hello there, how are you today?
 \n\n
 --------------------------------------------------
 
