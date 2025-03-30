@@ -1,0 +1,3 @@
+start = minecraft:oak_leaves[persistent=true]
+minecraft:oak_leaves = minecraft:white_wool
+minecraft:white_wool = minecraft:red_wool
