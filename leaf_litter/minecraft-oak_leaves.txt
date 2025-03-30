@@ -1,3 +1,4 @@
--1/air = 0/minecraft:oak_leaves[persistent=true]
+0/air = 0/minecraft:oak_leaves[persistent=true]
+0/minecraft:oak_leaves[persistent=true] = 1/minecraft:lava
 
 -1/fruid = -1/minecraft:oak_leaves[persistent=true]
