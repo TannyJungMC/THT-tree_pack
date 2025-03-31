@@ -1,5 +1,5 @@
-storage_directory = THT-tree_pack-main/presets/halcyon/storage
-tree_settings = THT-tree_pack-main/presets/halcyon/halcyon_settings.txt
+storage_directory = THT-tree_pack-main/halcyon/storage
+tree_settings = THT-tree_pack-main/halcyon/halcyon_settings.txt
 
 world_gen = true
 

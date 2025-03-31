@@ -1,5 +1,5 @@
-storage_directory = THT-tree_pack-main/presets/falcon/storage
-tree_settings = THT-tree_pack-main/presets/falcon/falcon_settings.txt
+storage_directory = THT-tree_pack-main/falcon/storage
+tree_settings = THT-tree_pack-main/falcon/falcon_settings.txt
 
 world_gen = true
 
