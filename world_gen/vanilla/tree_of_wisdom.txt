@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/tree_of_wisdom/storage
+storage_directory = THT-tree_pack-main/presets/tree_of_wisdom/storage
 tree_settings = THT-tree_pack-main/tree_of_wisdom/tree_of_wisdom_settings.txt
 
 world_gen = true

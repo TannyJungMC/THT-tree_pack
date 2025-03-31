@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/shrub/storage
+storage_directory = THT-tree_pack-main/presets/shrub/storage
 tree_settings = THT-tree_pack-main/shrub/shrub_settings.txt
 
 world_gen = true

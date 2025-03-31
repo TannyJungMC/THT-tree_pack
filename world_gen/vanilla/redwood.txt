@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/redwood/storage
+storage_directory = THT-tree_pack-main/presets/redwood/storage
 tree_settings = THT-tree_pack-main/redwood/redwood_settings.txt
 
 world_gen = true

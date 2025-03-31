@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/sky_island_chain/storage
+storage_directory = THT-tree_pack-main/presets/sky_island_chain/storage
 tree_settings = THT-tree_pack-main/sky_island_chain/sky_island_chain_settings.txt
 
 world_gen = true

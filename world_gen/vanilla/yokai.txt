@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/yokai/storage
+storage_directory = THT-tree_pack-main/presets/yokai/storage
 tree_settings = THT-tree_pack-main/yokai/yokai_settings.txt
 
 world_gen = true

@@ -1,4 +1,4 @@
-storage_directory = THT-tree_pack-main/rock/storage
+storage_directory = THT-tree_pack-main/presets/rock/storage
 tree_settings = THT-tree_pack-main/rock/rock_settings.txt
 
 world_gen = true
