@@ -1,2 +1,0 @@
-1.0 | 0/air = 0/minecraft:oak_leaves[persistent=true]
-1.0 | -1/fruid = -1/minecraft:oak_leaves[persistent=true,waterlogged=true]
