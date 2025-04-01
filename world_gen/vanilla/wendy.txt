@@ -1,5 +1,5 @@
-storage_directory = THT-tree_pack-main/presets/wendy/storage
-tree_settings = THT-tree_pack-main/wendy/wendy_settings.txt
+storage_directory = TannyJung-Tree-Pack/presets/wendy/storage
+tree_settings = TannyJung-Tree-Pack/wendy/wendy_settings.txt
 
 world_gen = true
 

@@ -556,7 +556,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,end_function:""
 ,end_function_chance:0
 
-,function_way1:"THT-tree_pack-main/way_function_vine_end_rod.txt"
+,function_way1:"TannyJung-Tree-Pack/way_function_vine_end_rod.txt"
 ,function_way1_type:"leaves"
 ,function_way1_chance:1
 ,function_way1_max:0

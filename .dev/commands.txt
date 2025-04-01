@@ -15,6 +15,6 @@ give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1
 
 give @p armor_stand{EntityTag:{CustomName:'{"text":"THT-world_gen"}',NoGravity:1b,Invisible:0b,Marker:0b,ForgeData:{pre_select:"
 
-THT-tree_pack-main/vanilla/falcon.txt
+TannyJung-Tree-Pack/vanilla/falcon.txt
 
 ",dead_tree:0b,dead_tree_level:0,rotation:0,mirrored:0}}}
