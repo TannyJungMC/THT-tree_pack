@@ -1,2 +1,2 @@
-mod_version = 20250326
+mod_version = 1.0
 pack_version = 20241024
