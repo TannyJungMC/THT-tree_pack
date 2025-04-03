@@ -284,8 +284,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,trunk_length_min:7
-,trunk_length_max:10
+,trunk_length_min:1
+,trunk_length_max:2
 ,trunk_thickness_min:2
 ,trunk_thickness_max:2
 
@@ -364,7 +364,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:0
-,branch_gravity_min:-30
+,branch_gravity_min:-45
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
