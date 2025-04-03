@@ -1,0 +1,37 @@
+tree_type = land
+start_height = 0
+living_tree_mechanics = true
+can_disable_roots = true
+
+Block tao = minecraft:acacia_wood
+Block tai = minecraft:acacia_wood
+Block tac = minecraft:stripped_acacia_wood
+Block seo = minecraft:acacia_wood
+Block sei = minecraft:acacia_wood
+Block sec = minecraft:stripped_acacia_wood
+Block teo = minecraft:acacia_wood
+Block tei = minecraft:acacia_wood
+Block tec = minecraft:stripped_acacia_wood
+Block fio = minecraft:acacia_wood
+Block fii = minecraft:acacia_wood
+Block fic = minecraft:stripped_acacia_wood
+Block tro = minecraft:acacia_wood
+Block tri = minecraft:acacia_wood
+Block trc = minecraft:stripped_acacia_wood
+Block bro = minecraft:acacia_wood
+Block bri = minecraft:acacia_wood
+Block brc = minecraft:stripped_acacia_wood
+Block two = minecraft:acacia_wood
+Block twi = minecraft:acacia_wood
+Block twc = minecraft:stripped_acacia_wood
+Block lto = minecraft:acacia_wood
+Block lti = minecraft:acacia_wood
+Block ltc = minecraft:stripped_acacia_wood
+Block le1 = minecraft:acacia_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
