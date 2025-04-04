@@ -534,9 +534,9 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_size_min:5
 ,leaves_size_max:7
 ,leaves_density:15
-,leaves_straighten_chance:0.05
+,leaves_straighten_chance:0.01
 ,leaves_straighten_min:1
-,leaves_straighten_max:10
+,leaves_straighten_max:20
 
 ,leaves_size_reduce_from:"trunk"
 ,leaves_size_reduce_center:0
@@ -556,9 +556,9 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,end_function:""
 ,end_function_chance:0
 
-,function_way1:""
-,function_way1_type:""
-,function_way1_chance:0
+,function_way1:"setblock ~ ~-1 ~ minecraft:mangrove_propagule[hanging=true,age=0] keep"
+,function_way1_type:"leaves"
+,function_way1_chance:0.01
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
