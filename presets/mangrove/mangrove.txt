@@ -134,7 +134,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner:"minecraft:mangrove_wood"
 ,tertiary_root_inner_level:0
-,tertiary_root_core:"minecraft:stripped_mangrove_wood"
+,tertiary_root_core:"minecraft:mangrove_wood"
 ,tertiary_root_replace:true
 
 ,tertiary_root_count_min:2
