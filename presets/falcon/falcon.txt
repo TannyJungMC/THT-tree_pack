@@ -535,7 +535,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_size_max:7
 ,leaves_density:15
 ,leaves_straighten_chance:0
-,leaves_straighten_min:0
+,leaves_straighten_min:1
 ,leaves_straighten_max:10
 
 ,leaves_size_reduce_from:"trunk"
