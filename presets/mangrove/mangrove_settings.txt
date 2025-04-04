@@ -1,0 +1,37 @@
+tree_type = adapt
+start_height = 30
+living_tree_mechanics = true
+can_disable_roots = false
+
+Block tao = minecraft:mangrove_wood
+Block tai = minecraft:mangrove_wood
+Block tac = minecraft:stripped_mangrove_wood
+Block seo = minecraft:mangrove_wood
+Block sei = minecraft:mangrove_wood
+Block sec = minecraft:stripped_mangrove_wood
+Block teo = minecraft:mangrove_wood
+Block tei = minecraft:mangrove_wood
+Block tec = minecraft:stripped_mangrove_wood
+Block fio = minecraft:mangrove_roots
+Block fii = minecraft:mangrove_roots
+Block fic = minecraft:stripped_mangrove_roots
+Block tro = minecraft:mangrove_wood
+Block tri = minecraft:mangrove_wood
+Block trc = minecraft:stripped_mangrove_wood
+Block bro = minecraft:mangrove_wood
+Block bri = minecraft:mangrove_wood
+Block brc = minecraft:stripped_mangrove_wood
+Block two = minecraft:mangrove_wood
+Block twi = minecraft:mangrove_wood
+Block twc = minecraft:stripped_mangrove_wood
+Block lto = minecraft:mangrove_wood
+Block lti = minecraft:mangrove_wood
+Block ltc = minecraft:stripped_mangrove_wood
+Block le1 = minecraft:mangrove_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
