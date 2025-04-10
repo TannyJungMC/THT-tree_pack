@@ -550,10 +550,10 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 
-,start_function:""
-,start_function_chance:0.0
-,end_function:""
-,end_function_chance:0.0
+,function_start:""
+,function_start_chance:0.0
+,function_end:""
+,function_end_chance:0.0
 
 ,function_way1:""
 ,function_way1_type:""
