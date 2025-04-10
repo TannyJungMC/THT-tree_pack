@@ -1,4 +1,4 @@
-storage_directory = TannyJung-Tree-Pack/presets/shrub_with_grass/storage
+storage_directory = TannyJung-Tree-Pack/presets/shrub/storage
 tree_settings = TannyJung-Tree-Pack/shrub_with_grass/shrub_with_grass_settings.txt
 
 world_gen = true
