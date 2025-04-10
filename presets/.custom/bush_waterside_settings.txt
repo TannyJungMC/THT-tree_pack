@@ -31,7 +31,7 @@ Block le1 = minecraft:oak_leaves[persistent=true] keep
 Block le2 = 
 
 Function fs = 
-Function fe = TannyJung-Tree-Pack/grass_desert.txt
+Function fe = TannyJung-Tree-Pack/grass_sand.txt
 Function f1 = 
 Function f2 = 
 Function f3 = 
