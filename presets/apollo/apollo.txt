@@ -528,13 +528,13 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_generator_type:"sphere"
 ,leaves:"minecraft:white_stained_glass"
 ,leaves2:""
-,leaves2_chance:0
+,leaves2_chance:0.0
 ,leaves_replace:false
 
 ,leaves_size_min:1
 ,leaves_size_max:1
 ,leaves_density:15
-,leaves_straighten_chance:0
+,leaves_straighten_chance:0.0
 ,leaves_straighten_min:1
 ,leaves_straighten_max:100
 
@@ -552,9 +552,9 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,start_function:""
-,start_function_chance:0
+,start_function_chance:0.0
 ,end_function:""
-,end_function_chance:0
+,end_function_chance:0.0
 
 ,function_way1:"TannyJung-Tree-Pack/way_function_vine_end_rod.txt"
 ,function_way1_type:"leaves"
@@ -565,14 +565,14 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,function_way2:""
 ,function_way2_type:""
-,function_way2_chance:0
+,function_way2_chance:0.0
 ,function_way2_max:0
 ,function_way2_range_min:0
 ,function_way2_range_max:100
 
 ,function_way3:""
 ,function_way3_type:""
-,function_way3_chance:0
+,function_way3_chance:0.0
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100

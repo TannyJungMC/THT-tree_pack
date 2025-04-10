@@ -528,7 +528,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_generator_type:"sphere_zone"
 ,leaves:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
-,leaves2_chance:0
+,leaves2_chance:0.0
 ,leaves_replace:false
 
 ,leaves_size_min:0
@@ -552,9 +552,9 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,function_start:""
-,function_start_chance:0
+,function_start_chance:0.0
 ,function_end:""
-,function_end_chance:0
+,function_end_chance:0.0
 
 ,function_way1:"TannyJung-Tree-Pack/way_function_moss_patch.txt"
 ,function_way1_type:"taproot"
