@@ -6,4 +6,4 @@ Hello there, how are you today?
 \n\n
 --------------------------------------------------
 
-","color":"light_purple"}]
+","color":"dark_green"}]
