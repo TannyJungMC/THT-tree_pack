@@ -1,0 +1,37 @@
+tree_type = land
+start_height = 0
+living_tree_mechanics = false
+can_disable_roots = true
+
+Block tao = minecraft:jungle_wood
+Block tai = minecraft:jungle_wood
+Block tac = minecraft:stripped_jungle_wood
+Block seo = minecraft:jungle_wood
+Block sei = minecraft:jungle_wood
+Block sec = minecraft:stripped_jungle_wood
+Block teo = minecraft:jungle_wood
+Block tei = minecraft:jungle_wood
+Block tec = minecraft:stripped_jungle_wood
+Block fio = minecraft:jungle_wood
+Block fii = minecraft:jungle_wood
+Block fic = minecraft:stripped_jungle_wood
+Block tro = minecraft:jungle_wood
+Block tri = minecraft:jungle_wood
+Block trc = minecraft:stripped_jungle_wood
+Block bro = minecraft:jungle_leaves[persistent=true] keep
+Block bri = 
+Block brc = 
+Block two = 
+Block twi = 
+Block twc = 
+Block lto = 
+Block lti = 
+Block ltc = 
+Block le1 = 
+Block le2 = 
+
+Function fs = TannyJung-Tree-Pack/disk_grass.txt
+Function fe = 
+Function f1 = THT command txt_function function_way_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
+Function f2 = 
+Function f3 = 
