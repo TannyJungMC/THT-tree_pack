@@ -1,5 +1,5 @@
 storage_directory = TannyJung-Tree-Pack/presets/bush/storage
-tree_settings = TannyJung-Tree-Pack/bush/bush_waterside_settings.txt
+tree_settings = TannyJung-Tree-Pack/bush/bush_settings.txt
 
 world_gen = true
 
