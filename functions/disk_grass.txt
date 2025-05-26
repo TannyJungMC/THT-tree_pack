@@ -7,13 +7,3 @@ feature = 0.75 | 4/0/4 | tanshugetrees:disk_grass
 feature = 0.75 | 4/0/-4 | tanshugetrees:disk_grass
 feature = 0.75 | -4/0/4 | tanshugetrees:disk_grass
 feature = 0.75 | -4/0/-4 | tanshugetrees:disk_grass
-
-feature = 1.0 | 0/0/0 | minecraft:patch_grass
-feature = 1.0 | 8/0/0 | minecraft:patch_grass
-feature = 1.0 | -8/0/0 | minecraft:patch_grass
-feature = 1.0 | 0/0/8 | minecraft:patch_grass
-feature = 1.0 | 0/0/-8 | minecraft:patch_grass
-feature = 1.0 | 4/0/4 | minecraft:patch_grass
-feature = 1.0 | 4/0/-4 | minecraft:patch_grass
-feature = 1.0 | -4/0/4 | minecraft:patch_grass
-feature = 1.0 | -4/0/-4 | minecraft:patch_grass
