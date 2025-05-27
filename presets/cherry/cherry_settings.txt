@@ -1,0 +1,37 @@
+tree_type = land
+start_height = 0
+living_tree_mechanics = true
+can_disable_roots = true
+
+Block tao = minecraft:cherry_wood
+Block tai = minecraft:cherry_wood
+Block tac = minecraft:stripped_cherry_wood
+Block seo = minecraft:cherry_wood
+Block sei = minecraft:cherry_wood
+Block sec = minecraft:stripped_cherry_wood
+Block teo = minecraft:cherry_wood
+Block tei = minecraft:cherry_wood
+Block tec = minecraft:stripped_cherry_wood
+Block fio = minecraft:cherry_wood
+Block fii = minecraft:cherry_wood
+Block fic = minecraft:stripped_cherry_wood
+Block tro = minecraft:cherry_wood
+Block tri = minecraft:cherry_wood
+Block trc = minecraft:stripped_cherry_wood
+Block bro = minecraft:cherry_wood
+Block bri = minecraft:cherry_wood
+Block brc = minecraft:stripped_cherry_wood
+Block two = minecraft:cherry_wood
+Block twi = minecraft:cherry_wood
+Block twc = minecraft:stripped_cherry_wood
+Block lto = minecraft:cherry_wood
+Block lti = minecraft:cherry_wood
+Block ltc = minecraft:stripped_cherry_wood
+Block le1 = minecraft:cherry_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
