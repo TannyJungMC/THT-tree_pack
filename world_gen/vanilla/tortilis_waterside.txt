@@ -6,7 +6,7 @@ world_gen = true
 biome = #minecraft:is_savanna
 ground_block = #minecraft:dirt
 rarity = 1
-min_distance = 20
+min_distance = 25
 group_size = 10 <> 50
 waterside_chance = 1.0
 
