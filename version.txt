@@ -1,2 +1,2 @@
-mod_version = 1.2
-pack_version = 20250517
+data_structure_version = 20250527
+pack_version = 20250527
