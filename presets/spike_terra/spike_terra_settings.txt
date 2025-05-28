@@ -1,0 +1,37 @@
+tree_type = adapt
+start_height = -20
+living_tree_mechanics = false
+can_disable_roots = false
+
+Block tao = minecraft:orange_terracotta
+Block tai = 
+Block tac = 
+Block seo = 
+Block sei = 
+Block sec = 
+Block teo = 
+Block tei = 
+Block tec = 
+Block fio = 
+Block fii = 
+Block fic = 
+Block tro = minecraft:orange_terracotta
+Block tri = 
+Block trc = 
+Block bro = 
+Block bri = 
+Block brc = 
+Block two = 
+Block twi = 
+Block twc = 
+Block lto = 
+Block lti = 
+Block ltc = 
+Block le1 = 
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
