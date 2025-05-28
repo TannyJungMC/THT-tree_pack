@@ -3,7 +3,7 @@ tree_settings = TannyJung-Tree-Pack/hypothermia/hypothermia_settings.txt
 
 world_gen = true
 
-biome = #forge:is_plains
+biome = minecraft:snowy_plains
 ground_block = #minecraft:dirt
 rarity = 50
 min_distance = 30
