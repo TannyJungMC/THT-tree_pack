@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Tree-Pack/presets/spike_amathyst/storage
-tree_settings = TannyJung-Tree-Pack/spike_amathyst/spike_amathyst_settings.txt
+storage_directory = TannyJung-Tree-Pack/presets/spike_amethyst/storage
+tree_settings = TannyJung-Tree-Pack/spike_amethyst/spike_amethyst_settings.txt
 
 world_gen = true
 
