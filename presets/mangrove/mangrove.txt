@@ -556,7 +556,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,function_end:""
 ,function_end_chance:1.0
 
-,function_way1:"setblock ~ ~-1 ~ minecraft:mangrove_propagule[hanging=true,age=0] keep"
+,function_way1:"TannyJung-Tree-Pack/mangrove_propagule.txt"
 ,function_way1_type:"leaves"
 ,function_way1_chance:0.01
 ,function_way1_max:0

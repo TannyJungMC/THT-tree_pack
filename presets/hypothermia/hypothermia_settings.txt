@@ -1,0 +1,37 @@
+tree_type = land
+start_height = 0
+living_tree_mechanics = false
+can_disable_roots = true
+
+Block tao = minecraft:spruce_wood
+Block tai = minecraft:spruce_wood
+Block tac = minecraft:stripped_spruce_wood
+Block seo = minecraft:spruce_wood
+Block sei = minecraft:spruce_wood
+Block sec = minecraft:stripped_spruce_wood
+Block teo = minecraft:spruce_wood
+Block tei = minecraft:spruce_wood
+Block tec = minecraft:stripped_spruce_wood
+Block fio = minecraft:spruce_wood
+Block fii = minecraft:spruce_wood
+Block fic = minecraft:stripped_spruce_wood
+Block tro = minecraft:packed_ice
+Block tri = minecraft:spruce_wood
+Block trc = minecraft:stripped_spruce_wood
+Block bro = minecraft:spruce_wood
+Block bri = minecraft:spruce_wood
+Block brc = minecraft:stripped_spruce_wood
+Block two = minecraft:spruce_wood
+Block twi = minecraft:spruce_wood
+Block twc = minecraft:stripped_spruce_wood
+Block lto = minecraft:spruce_wood
+Block lti = minecraft:spruce_wood
+Block ltc = minecraft:stripped_spruce_wood
+Block le1 = minecraft:packed_ice keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = TannyJung-Tree-Pack/hypothermia_ice.txt
+Function f2 = 
+Function f3 = 
