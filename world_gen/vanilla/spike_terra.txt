@@ -5,7 +5,7 @@ world_gen = true
 
 biome = minecraft:badlands
 ground_block = #minecraft:sand
-rarity = 25
+rarity = 50
 min_distance = 20
 group_size = 1 <> 1
 waterside_chance = 0.0
