@@ -277,7 +277,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_generator_type:"sphere"
 ,trunk_outer:"minecraft:purple_stained_glass"
 ,trunk_outer_level:1
-,trunk_inner:""
+,trunk_inner:"minecraft:amethyst_block"
 ,trunk_inner_level:0
 ,trunk_core:"minecraft:amethyst_block"
 ,trunk_replace:true
