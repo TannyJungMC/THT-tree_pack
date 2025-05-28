@@ -3,7 +3,7 @@ tree_settings = TannyJung-Tree-Pack/spike_terra/spike_terra_settings.txt
 
 world_gen = true
 
-biome = minecraft:bad_lands
+biome = minecraft:badlands
 ground_block = #minecraft:sand
 rarity = 25
 min_distance = 20
