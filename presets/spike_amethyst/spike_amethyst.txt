@@ -13,7 +13,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"spike_amethyst"
 
 ,tree_type:"adapt"
-,start_height:-20
+,start_height:-10
 ,living_tree_mechanics:false
 ,can_disable_roots:false
 
