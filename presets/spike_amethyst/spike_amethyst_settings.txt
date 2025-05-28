@@ -1,5 +1,5 @@
 tree_type = adapt
-start_height = -20
+start_height = -10
 living_tree_mechanics = false
 can_disable_roots = false
 
