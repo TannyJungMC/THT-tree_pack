@@ -14,5 +14,5 @@ dead_tree_chance = 0.01
 dead_tree_level = 1 / 2 / 3 / 4 / 5 / 6 / 7
 
 start_height_offset = 0 <> 0
-rotation = south
+rotation = north
 mirrored = random
