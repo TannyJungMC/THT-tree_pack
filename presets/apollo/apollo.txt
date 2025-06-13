@@ -1,4 +1,4 @@
-give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
+give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
 
 ,global_generate_speed:true
 ,generate_speed:1
@@ -24,7 +24,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,taproot_generator_type:"sphere"
 ,taproot_outer:"minecraft:stripped_birch_wood"
 ,taproot_outer_level:1
-,taproot_inner:"minecraft:stripped_birch_wood"
+,taproot_inner:"minecraft:birch_wood"
 ,taproot_inner_level:0
 ,taproot_core:"minecraft:stripped_birch_wood"
 ,taproot_replace:true
@@ -63,7 +63,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,secondary_root_generator_type:"sphere"
 ,secondary_root_outer:"minecraft:stripped_birch_wood"
 ,secondary_root_outer_level:1
-,secondary_root_inner:"minecraft:stripped_birch_wood"
+,secondary_root_inner:"minecraft:birch_wood"
 ,secondary_root_inner_level:0
 ,secondary_root_core:"minecraft:stripped_birch_wood"
 ,secondary_root_replace:true
@@ -132,7 +132,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,tertiary_root_generator_type:"sphere"
 ,tertiary_root_outer:"minecraft:stripped_birch_wood"
 ,tertiary_root_outer_level:1
-,tertiary_root_inner:"minecraft:stripped_birch_wood"
+,tertiary_root_inner:"minecraft:birch_wood"
 ,tertiary_root_inner_level:0
 ,tertiary_root_core:"minecraft:stripped_birch_wood"
 ,tertiary_root_replace:true
@@ -205,7 +205,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,fine_root_generator_type:"sphere"
 ,fine_root_outer:"minecraft:stripped_birch_wood"
 ,fine_root_outer_level:1
-,fine_root_inner:"minecraft:stripped_birch_wood"
+,fine_root_inner:"minecraft:birch_wood"
 ,fine_root_inner_level:0
 ,fine_root_core:"minecraft:stripped_birch_wood"
 ,fine_root_replace:true
@@ -277,7 +277,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_generator_type:"sphere"
 ,trunk_outer:"minecraft:stripped_birch_wood"
 ,trunk_outer_level:1
-,trunk_inner:"minecraft:stripped_birch_wood"
+,trunk_inner:"minecraft:birch_wood"
 ,trunk_inner_level:0
 ,trunk_core:"minecraft:stripped_birch_wood"
 ,trunk_replace:true
@@ -316,7 +316,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,branch_generator_type:"sphere"
 ,branch_outer:"minecraft:stripped_birch_wood"
 ,branch_outer_level:1
-,branch_inner:"minecraft:stripped_birch_wood"
+,branch_inner:"minecraft:birch_wood"
 ,branch_inner_level:0
 ,branch_core:"minecraft:stripped_birch_wood"
 ,branch_replace:true
@@ -384,7 +384,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,twig_generator_type:"sphere"
 ,twig_outer:"minecraft:stripped_birch_wood"
 ,twig_outer_level:1
-,twig_inner:"minecraft:stripped_birch_wood"
+,twig_inner:"minecraft:birch_wood"
 ,twig_inner_level:0
 ,twig_core:"minecraft:stripped_birch_wood"
 ,twig_replace:true
@@ -456,7 +456,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_twig_generator_type:"sphere"
 ,leaves_twig_outer:"minecraft:stripped_birch_wood"
 ,leaves_twig_outer_level:1
-,leaves_twig_inner:"minecraft:stripped_birch_wood"
+,leaves_twig_inner:"minecraft:birch_wood"
 ,leaves_twig_inner_level:0
 ,leaves_twig_core:"minecraft:stripped_birch_wood"
 ,leaves_twig_replace:true
@@ -526,7 +526,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,leaves_generator_type:"sphere"
-,leaves:"minecraft:white_stained_glass"
+,leaves1:"minecraft:white_stained_glass"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false

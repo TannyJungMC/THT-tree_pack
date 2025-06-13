@@ -1,4 +1,4 @@
-give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false,debug_mode_output:"none"
+give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
 
 ,global_generate_speed:true
 ,generate_speed:1
@@ -278,7 +278,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_outer:"minecraft:ice"
 ,trunk_outer_level:0.01
 ,trunk_inner:"minecraft:spruce_wood"
-,trunk_inner_level:1
+,trunk_inner_level:0
 ,trunk_core:"minecraft:stripped_spruce_wood"
 ,trunk_replace:true
 
@@ -526,7 +526,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,leaves_generator_type:"sphere_zone"
-,leaves:"minecraft:ice"
+,leaves1:"minecraft:ice"
 ,leaves2:""
 ,leaves2_chance:0
 ,leaves_replace:false
