@@ -677,14 +677,14 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,leaves_generator_type:"sphere_zone"
 ,leaves1:"minecraft:acacia_leaves[persistent=true]"
-,leaves2:"minecraft:flowering_azalea_leaves[persistent=true]"
-,leaves2_chance:0.01
+,leaves2:""
+,leaves2_chance:0
 ,leaves_replace:false
 
 ,leaves_size_min:50
 ,leaves_size_max:100
 ,leaves_density:25
-,leaves_straighten_chance:0.01
+,leaves_straighten_chance:0
 ,leaves_straighten_min:1
 ,leaves_straighten_max:20
 
