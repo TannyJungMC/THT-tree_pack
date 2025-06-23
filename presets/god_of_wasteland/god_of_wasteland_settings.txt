@@ -33,7 +33,7 @@ Block twc = minecraft:stripped_acacia_wood
 Block spo = minecraft:acacia_wood
 Block spi = minecraft:acacia_wood
 Block spc = minecraft:stripped_acacia_wood
-Block le1 = minecraft:acacia_leaves[persistent=true]
+Blcok le1 = minecraft:acacia_leaves[persistent=true] keep
 Block le2 = 
 
 Function fs = 
