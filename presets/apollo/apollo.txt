@@ -85,13 +85,13 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,secondary_root_thickness_reduce_below:100
 
 ,secondary_root_random_auto:false
-,secondary_root_random:100
+,secondary_root_random_chance:100
 ,secondary_root_random_percent:0
 ,secondary_root_distance_min:0
 ,secondary_root_last_count_min:0
 
-,secondary_root_start_vertical:0.1
-,secondary_root_start_horizontal:0.1
+,secondary_root_start_vertical:1
+,secondary_root_start_horizontal:1
 ,secondary_root_start_height_min:0
 ,secondary_root_start_height_max:0
 ,secondary_root_start_forward_min:0
@@ -100,12 +100,12 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,secondary_root_center_direction:false
 ,secondary_root_center_direction_from:"taproot"
 ,secondary_root_center_direction_center:0
-,secondary_root_center_direction_forward_above:0.1
-,secondary_root_center_direction_forward_below:-0.1
-,secondary_root_center_direction_vertical_above:0.1
-,secondary_root_center_direction_vertical_below:0.1
-,secondary_root_center_direction_horizontal_above:0.1
-,secondary_root_center_direction_horizontal_below:0.1
+,secondary_root_center_direction_forward_above:1
+,secondary_root_center_direction_forward_below:-1
+,secondary_root_center_direction_vertical_above:1
+,secondary_root_center_direction_vertical_below:1
+,secondary_root_center_direction_horizontal_above:1
+,secondary_root_center_direction_horizontal_below:1
 ,secondary_root_center_direction_height_above:0
 ,secondary_root_center_direction_height_below:0
 
@@ -158,27 +158,27 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,tertiary_root_thickness_reduce_below:100
 
 ,tertiary_root_random_auto:true
-,tertiary_root_random:0
+,tertiary_root_random_chance:0
 ,tertiary_root_random_percent:25
 ,tertiary_root_distance_min:0
 ,tertiary_root_last_count_min:1
 
 ,tertiary_root_start_vertical:0
-,tertiary_root_start_horizontal:0.1
+,tertiary_root_start_horizontal:1
 ,tertiary_root_start_height_min:0
 ,tertiary_root_start_height_max:0
 ,tertiary_root_start_forward_min:0
-,tertiary_root_start_forward_max:0.1
+,tertiary_root_start_forward_max:1
 
 ,tertiary_root_center_direction:false
 ,tertiary_root_center_direction_from:"secondary_root"
 ,tertiary_root_center_direction_center:0
-,tertiary_root_center_direction_forward_above:0.1
-,tertiary_root_center_direction_forward_below:-0.1
-,tertiary_root_center_direction_vertical_above:0.1
-,tertiary_root_center_direction_vertical_below:0.1
-,tertiary_root_center_direction_horizontal_above:0.1
-,tertiary_root_center_direction_horizontal_below:0.1
+,tertiary_root_center_direction_forward_above:1
+,tertiary_root_center_direction_forward_below:-1
+,tertiary_root_center_direction_vertical_above:1
+,tertiary_root_center_direction_vertical_below:1
+,tertiary_root_center_direction_horizontal_above:1
+,tertiary_root_center_direction_horizontal_below:1
 ,tertiary_root_center_direction_height_above:0
 ,tertiary_root_center_direction_height_below:0
 
@@ -231,27 +231,27 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,fine_root_thickness_reduce_below:100
 
 ,fine_root_random_auto:true
-,fine_root_random:0
+,fine_root_random_chance:0
 ,fine_root_random_percent:25
 ,fine_root_distance_min:0
 ,fine_root_last_count_min:1
 
 ,fine_root_start_vertical:0
-,fine_root_start_horizontal:0.1
+,fine_root_start_horizontal:1
 ,fine_root_start_height_min:0
 ,fine_root_start_height_max:0
 ,fine_root_start_forward_min:0
-,fine_root_start_forward_max:0.1
+,fine_root_start_forward_max:1
 
 ,fine_root_center_direction:false
 ,fine_root_center_direction_from:"tertiary_root"
 ,fine_root_center_direction_center:0
-,fine_root_center_direction_forward_above:0.1
-,fine_root_center_direction_forward_below:-0.1
-,fine_root_center_direction_vertical_above:0.1
-,fine_root_center_direction_vertical_below:0.1
-,fine_root_center_direction_horizontal_above:0.1
-,fine_root_center_direction_horizontal_below:0.1
+,fine_root_center_direction_forward_above:1
+,fine_root_center_direction_forward_below:-1
+,fine_root_center_direction_vertical_above:1
+,fine_root_center_direction_vertical_below:1
+,fine_root_center_direction_horizontal_above:1
+,fine_root_center_direction_horizontal_below:1
 ,fine_root_center_direction_height_above:0
 ,fine_root_center_direction_height_below:0
 
@@ -338,7 +338,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,branch_thickness_reduce_below:100
 
 ,branch_random_auto:false
-,branch_random:5
+,branch_random_chance:5
 ,branch_random_percent:75
 ,branch_distance_min:0
 ,branch_last_count_min:1
@@ -347,18 +347,18 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,branch_start_horizontal:0.05
 ,branch_start_height_min:0
 ,branch_start_height_max:0
-,branch_start_forward_min:0.05
-,branch_start_forward_max:0.1
+,branch_start_forward_min:0.5
+,branch_start_forward_max:1
 
 ,branch_center_direction:false
 ,branch_center_direction_from:"trunk"
 ,branch_center_direction_center:50
-,branch_center_direction_forward_above:0.1
-,branch_center_direction_forward_below:-0.1
-,branch_center_direction_vertical_above:0.1
-,branch_center_direction_vertical_below:0.1
-,branch_center_direction_horizontal_above:0.1
-,branch_center_direction_horizontal_below:0.1
+,branch_center_direction_forward_above:1
+,branch_center_direction_forward_below:-1
+,branch_center_direction_vertical_above:1
+,branch_center_direction_vertical_below:1
+,branch_center_direction_horizontal_above:1
+,branch_center_direction_horizontal_below:1
 ,branch_center_direction_height_above:0
 ,branch_center_direction_height_below:0
 
@@ -410,7 +410,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,twig_thickness_reduce_below:100
 
 ,twig_random_auto:false
-,twig_random:5
+,twig_random_chance:5
 ,twig_random_percent:25
 ,twig_distance_min:0
 ,twig_last_count_min:1
@@ -419,18 +419,18 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,twig_start_horizontal:0.05
 ,twig_start_height_min:0
 ,twig_start_height_max:0
-,twig_start_forward_min:0.05
-,twig_start_forward_max:0.1
+,twig_start_forward_min:0.5
+,twig_start_forward_max:1
 
 ,twig_center_direction:false
 ,twig_center_direction_from:"branch"
 ,twig_center_direction_center:0
-,twig_center_direction_forward_above:0.1
-,twig_center_direction_forward_below:-0.1
-,twig_center_direction_vertical_above:0.1
-,twig_center_direction_vertical_below:0.1
-,twig_center_direction_horizontal_above:0.1
-,twig_center_direction_horizontal_below:0.1
+,twig_center_direction_forward_above:1
+,twig_center_direction_forward_below:-1
+,twig_center_direction_vertical_above:1
+,twig_center_direction_vertical_below:1
+,twig_center_direction_horizontal_above:1
+,twig_center_direction_horizontal_below:1
 ,twig_center_direction_height_above:0
 ,twig_center_direction_height_below:0
 
@@ -482,29 +482,29 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,leaves_twig_thickness_reduce_below:100
 
 ,leaves_twig_random_auto:true
-,leaves_twig_random:0
+,leaves_twig_random_chance:0
 ,leaves_twig_random_percent:0
 ,leaves_twig_distance_min:0
 ,leaves_twig_last_count_min:1
 
-,leaves_twig_start_vertical:0.1
-,leaves_twig_start_horizontal:0.1
+,leaves_twig_start_vertical:1
+,leaves_twig_start_horizontal:1
 ,leaves_twig_start_height_min:0
 ,leaves_twig_start_height_max:0
-,leaves_twig_start_forward_min:0.05
-,leaves_twig_start_forward_max:0.1
+,leaves_twig_start_forward_min:0.5
+,leaves_twig_start_forward_max:1
 
 ,leaves_twig_center_direction:true
 ,leaves_twig_center_direction_from:"twig"
 ,leaves_twig_center_direction_center:0
-,leaves_twig_center_direction_forward_above:0.1
-,leaves_twig_center_direction_forward_below:-0.1
-,leaves_twig_center_direction_vertical_above:0.1
-,leaves_twig_center_direction_vertical_below:0.1
+,leaves_twig_center_direction_forward_above:1
+,leaves_twig_center_direction_forward_below:-1
+,leaves_twig_center_direction_vertical_above:1
+,leaves_twig_center_direction_vertical_below:1
 ,leaves_twig_center_direction_height_above:0
 ,leaves_twig_center_direction_height_below:0
-,leaves_twig_center_direction_horizontal_above:0.1
-,leaves_twig_center_direction_horizontal_below:0.1
+,leaves_twig_center_direction_horizontal_above:1
+,leaves_twig_center_direction_horizontal_below:1
 
 ,leaves_twig_curvature_vertical:5
 ,leaves_twig_curvature_horizontal:0
