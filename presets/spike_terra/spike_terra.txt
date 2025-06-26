@@ -13,7 +13,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"spike_terra"
 
 ,tree_type:"adapt"
-,start_height:-20
+,start_height:-10
 ,living_tree_mechanics:false
 ,can_disable_roots:false
 
@@ -289,7 +289,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_thickness_min:1
 ,trunk_thickness_max:10
 
-,trunk_start_gravity_min:-15
+,trunk_start_gravity_min:-30
 ,trunk_start_gravity_max:-75
 ,trunk_start_direction_min:45
 ,trunk_start_direction_max:45
