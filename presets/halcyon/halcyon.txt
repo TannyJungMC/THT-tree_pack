@@ -16,7 +16,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 
-,name:"god_of_wasteland"
+,name:"halcyon"
 
 ,tree_type:"land"
 ,start_height:0
