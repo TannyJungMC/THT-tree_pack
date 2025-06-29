@@ -86,7 +86,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,secondary_root_random_auto:false
 ,secondary_root_random_chance:100
-,secondary_root_random_percent:0
+,secondary_root_random_percent:100
 ,secondary_root_distance_min:0
 ,secondary_root_last_count_min:0
 
@@ -159,7 +159,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,tertiary_root_random_auto:true
 ,tertiary_root_random_chance:100
-,tertiary_root_random_percent:25
+,tertiary_root_random_percent:75
 ,tertiary_root_distance_min:0
 ,tertiary_root_last_count_min:1
 
@@ -232,7 +232,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,fine_root_random_auto:true
 ,fine_root_random_chance:100
-,fine_root_random_percent:25
+,fine_root_random_percent:75
 ,fine_root_distance_min:0
 ,fine_root_last_count_min:1
 
