@@ -434,7 +434,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:0
 ,branch_gravity_min:0
-,branch_gravity_max:-75
+,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
 
 ,branch_crawling:0
@@ -503,7 +503,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,limb_curvature_vertical:5
 ,limb_curvature_horizontal:0
 ,limb_gravity_min:15
-,limb_gravity_max:-60
+,limb_gravity_max:-90
 ,limb_gravity_weightiness:15
 
 ,limb_dodging:0
@@ -572,7 +572,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,twig_curvature_vertical:5
 ,twig_curvature_horizontal:0
 ,twig_gravity_min:30
-,twig_gravity_max:-45
+,twig_gravity_max:-90
 ,twig_gravity_weightiness:15
 
 ,twig_dodging:0
@@ -641,7 +641,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,sprig_curvature_vertical:5
 ,sprig_curvature_horizontal:0
 ,sprig_gravity_min:45
-,sprig_gravity_max:-30
+,sprig_gravity_max:-90
 ,sprig_gravity_weightiness:15
 
 ,sprig_dodging:0
