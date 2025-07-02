@@ -289,8 +289,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_count_max:1
 ,trunk_length_min:100
 ,trunk_length_max:100
-,trunk_thickness_min:25
-,trunk_thickness_max:30
+,trunk_thickness_min:20
+,trunk_thickness_max:25
 
 ,trunk_start_gravity_min:-45
 ,trunk_start_gravity_max:-90
@@ -328,8 +328,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,bough_count_max:6
 ,bough_length_min:150
 ,bough_length_max:150
-,bough_thickness_min:15
-,bough_thickness_max:20
+,bough_thickness_min:12
+,bough_thickness_max:15
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
@@ -527,8 +527,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,twig_core:"minecraft:stripped_acacia_wood"
 ,twig_replace:true
 
-,twig_count_min:3
-,twig_count_max:4
+,twig_count_min:2
+,twig_count_max:3
 ,twig_length_min:75
 ,twig_length_max:75
 ,twig_thickness_min:2
