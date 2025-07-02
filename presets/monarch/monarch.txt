@@ -289,8 +289,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,trunk_count_max:1
 ,trunk_length_min:100
 ,trunk_length_max:100
-,trunk_thickness_min:35
-,trunk_thickness_max:40
+,trunk_thickness_min:25
+,trunk_thickness_max:30
 
 ,trunk_start_gravity_min:-45
 ,trunk_start_gravity_max:-90
@@ -328,8 +328,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,bough_count_max:6
 ,bough_length_min:150
 ,bough_length_max:150
-,bough_thickness_min:25
-,bough_thickness_max:30
+,bough_thickness_min:15
+,bough_thickness_max:20
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
@@ -393,8 +393,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,branch_count_max:3
 ,branch_length_min:125
 ,branch_length_max:125
-,branch_thickness_min:15
-,branch_thickness_max:20
+,branch_thickness_min:7
+,branch_thickness_max:10
 
 ,branch_count_reduce_from:""
 ,branch_count_reduce_center:0
@@ -462,8 +462,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,limb_count_max:3
 ,limb_length_min:100
 ,limb_length_max:100
-,limb_thickness_min:7
-,limb_thickness_max:10
+,limb_thickness_min:4
+,limb_thickness_max:5
 
 ,limb_count_reduce_from:""
 ,limb_count_reduce_center:0
