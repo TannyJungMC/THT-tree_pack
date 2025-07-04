@@ -507,9 +507,9 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 ,function_start:""
-,function_start_chance:1.0
+,function_start_chance:0.0
 ,function_end:""
-,function_end_chance:1.0
+,function_end_chance:0.0
 
 ,function_way1:"TannyJung-Tree-Pack/moss_patch.txt"
 ,function_way1_type:"taproot"
