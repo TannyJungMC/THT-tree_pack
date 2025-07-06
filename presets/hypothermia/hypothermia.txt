@@ -13,7 +13,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"hypothermia"
 
 ,tree_type:"land"
-,start_height:0
+,start_height:1
 ,living_tree_mechanics:false
 ,can_disable_roots:true
 

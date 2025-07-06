@@ -19,7 +19,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"halcyon"
 
 ,tree_type:"land"
-,start_height:0
+,start_height:1
 ,can_disable_roots:true
 ,can_leaves_decay:true
 ,can_leaves_drop:true
@@ -78,7 +78,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,secondary_root_length_min:5
 ,secondary_root_length_max:7
 ,secondary_root_thickness_min:1
-,secondary_root_thickness_max:2
+,secondary_root_thickness_max:1
 
 ,secondary_root_length_reduce_from:"taproot"
 ,secondary_root_length_reduce_center:0
@@ -129,8 +129,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,tertiary_root_core:"minecraft:stripped_oak_wood"
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:2
-,tertiary_root_count_max:3
+,tertiary_root_count_min:1
+,tertiary_root_count_max:2
 ,tertiary_root_length_min:7
 ,tertiary_root_length_max:10
 ,tertiary_root_thickness_min:1
@@ -189,8 +189,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,fine_root_core:"minecraft:stripped_oak_wood"
 ,fine_root_replace:true
 
-,fine_root_count_min:3
-,fine_root_count_max:5
+,fine_root_count_min:2
+,fine_root_count_max:3
 ,fine_root_length_min:1
 ,fine_root_length_max:10
 ,fine_root_thickness_min:1
@@ -251,8 +251,8 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,trunk_length_min:1
-,trunk_length_max:3
+,trunk_length_min:3
+,trunk_length_max:5
 ,trunk_thickness_min:2
 ,trunk_thickness_max:3
 
@@ -598,14 +598,14 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 
 
 
-,function_start:""
-,function_start_chance:0.0
-,function_end:""
-,function_end_chance:0.0
+,function_start:"TannyJung-Tree-Pack/test_start.txt"
+,function_start_chance:1.0
+,function_end:"TannyJung-Tree-Pack/test_end.txt"
+,function_end_chance:1.0
 
-,function_way1:""
-,function_way1_type:""
-,function_way1_chance:0.0
+,function_way1:"TannyJung-Tree-Pack/apple.txt"
+,function_way1_type:"leaves"
+,function_way1_chance:0.1
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100

@@ -19,7 +19,7 @@ give @p tanshugetrees:random_tree_block{display:{Name:"{\"text\":\"Custom Tree\"
 ,name:"pine"
 
 ,tree_type:"land"
-,start_height:0
+,start_height:1
 ,can_disable_roots:true
 ,can_leaves_decay:true
 ,can_leaves_drop:true
