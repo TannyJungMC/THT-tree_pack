@@ -1,0 +1,2 @@
+required_packs = none
+required_mods = none
