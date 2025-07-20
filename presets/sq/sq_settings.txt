@@ -1,0 +1,45 @@
+tree_type = land
+start_height = 1
+can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = true
+can_leaves_regrow = true
+
+Block tao = minecraft:spruce_wood
+Block tai = minecraft:spruce_wood
+Block tac = minecraft:stripped_spruce_wood
+Block seo = minecraft:spruce_wood
+Block sei = minecraft:spruce_wood
+Block sec = minecraft:stripped_spruce_wood
+Block teo = minecraft:spruce_wood
+Block tei = minecraft:spruce_wood
+Block tec = minecraft:stripped_spruce_wood
+Block fio = minecraft:spruce_wood
+Block fii = minecraft:spruce_wood
+Block fic = minecraft:stripped_spruce_wood
+Block tro = minecraft:spruce_wood
+Block tri = minecraft:spruce_wood
+Block trc = minecraft:stripped_spruce_wood
+Block boo = minecraft:spruce_wood
+Block boi = minecraft:spruce_wood
+Block boc = minecraft:stripped_spruce_wood
+Block bro = minecraft:spruce_wood
+Block bri = minecraft:spruce_wood
+Block brc = minecraft:stripped_spruce_wood
+Block lio = minecraft:spruce_wood
+Block lii = minecraft:spruce_wood
+Block lic = minecraft:stripped_spruce_wood
+Block two = minecraft:spruce_wood
+Block twi = minecraft:spruce_wood
+Block twc = minecraft:stripped_spruce_wood
+Block spo = minecraft:spruce_wood
+Block spi = minecraft:spruce_wood
+Block spc = minecraft:stripped_spruce_wood
+Block le1 = minecraft:spruce_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
