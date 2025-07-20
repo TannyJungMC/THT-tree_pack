@@ -1,5 +1,5 @@
-data_structure_version = 1.3
-pack_version = 20250529
+data_structure_version = 1.4
+pack_version = 20250721
 
 mod_version = 1.3
 // Delete this later

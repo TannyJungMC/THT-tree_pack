@@ -16,7 +16,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"unnamed"
+,name:"unnamed"
 
 ,tree_type:"land"
 ,start_height:1
