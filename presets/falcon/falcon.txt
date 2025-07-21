@@ -533,12 +533,12 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_core:"minecraft:stripped_oak_wood"
 ,twig_replace:true
 
-,   twig_count_min:1
-,   twig_count_max:1
-,   twig_length_min:0
-,   twig_length_max:0
-,   twig_thickness_start:1
-,   twig_thickness_end:1
+,twig_count_min:1
+,twig_count_max:1
+,twig_length_min:0
+,twig_length_max:0
+,twig_thickness_start:1
+,twig_thickness_end:1
 
 ,twig_count_reduce_from:""
 ,twig_count_reduce_center:0
@@ -607,12 +607,12 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_core:"minecraft:stripped_oak_wood"
 ,sprig_replace:true
 
-,   sprig_count_min:1
-,   sprig_count_max:1
-,   sprig_length_min:0
-,   sprig_length_max:0
-,   sprig_thickness_start:1
-,   sprig_thickness_end:1
+,sprig_count_min:1
+,sprig_count_max:1
+,sprig_length_min:0
+,sprig_length_max:0
+,sprig_thickness_start:1
+,sprig_thickness_end:1
 
 ,sprig_count_reduce_from:""
 ,sprig_count_reduce_center:0
