@@ -45,8 +45,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   taproot_count_min:1
 ,   taproot_count_max:1
-,   taproot_length_min:50
-,   taproot_length_max:60
+,   taproot_length_min:7
+,   taproot_length_max:10
 ,   taproot_thickness_start:2.5
 ,   taproot_thickness_end:1
 
