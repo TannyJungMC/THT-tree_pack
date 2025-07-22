@@ -1,7 +1,9 @@
 tree_type = land
-start_height = 0
-living_tree_mechanics = true
+start_height = 1
 can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = true
+can_leaves_regrow = true
 
 Block tao = minecraft:cherry_wood
 Block tai = minecraft:cherry_wood
@@ -18,15 +20,21 @@ Block fic = minecraft:stripped_cherry_wood
 Block tro = minecraft:cherry_wood
 Block tri = minecraft:cherry_wood
 Block trc = minecraft:stripped_cherry_wood
+Block boo = minecraft:cherry_wood
+Block boi = minecraft:cherry_wood
+Block boc = minecraft:stripped_cherry_wood
 Block bro = minecraft:cherry_wood
 Block bri = minecraft:cherry_wood
 Block brc = minecraft:stripped_cherry_wood
+Block lio = minecraft:cherry_wood
+Block lii = minecraft:cherry_wood
+Block lic = minecraft:stripped_cherry_wood
 Block two = minecraft:cherry_wood
 Block twi = minecraft:cherry_wood
 Block twc = minecraft:stripped_cherry_wood
-Block lto = minecraft:cherry_wood
-Block lti = minecraft:cherry_wood
-Block ltc = minecraft:stripped_cherry_wood
+Block spo = minecraft:cherry_wood
+Block spi = minecraft:cherry_wood
+Block spc = minecraft:stripped_cherry_wood
 Block le1 = minecraft:cherry_leaves[persistent=true] keep
 Block le2 = 
 
