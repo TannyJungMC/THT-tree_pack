@@ -720,7 +720,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,function_start:""
+,function_start:"TannyJung-Main-Pack/disk_grass.txt"
 ,function_end:""
 
 ,function_way1:""
