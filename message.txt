@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 --------------------------------------------------
 \n\n
 
-Warning! The mod now renamed the main tree pack to [ TannyJung-Main-Pack ]. If you are updating from older versions, you may still have old pack that no longer supported in your custom packs folder. It will send you incompatibility message every time a world starts. You can fix that by deleting old pack, or just ignore that message.
+Warning! The mod now renamed the main tree pack to \"TannyJung-Main-Pack\". If you are updating from older versions, you may still have old pack that no longer supported in your custom packs folder. It will send you incompatibility message every time a world starts. You can fix that by deleting old pack, or just ignore that message.
 
 \n\n
 --------------------------------------------------
