@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Tree-Pack/presets/tortilis/storage
-tree_settings = TannyJung-Tree-Pack/tortilis/tortilis_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/tortilis/storage
+tree_settings = TannyJung-Main-Pack/tortilis/tortilis_settings.txt
 
 world_gen = true
 

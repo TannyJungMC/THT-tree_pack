@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Tree-Pack/presets/halcyon/storage
-tree_settings = TannyJung-Tree-Pack/cherry/cherry_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/halcyon/storage
+tree_settings = TannyJung-Main-Pack/cherry/cherry_settings.txt
 
 world_gen = true
 

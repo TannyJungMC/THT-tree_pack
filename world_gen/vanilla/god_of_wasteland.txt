@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Tree-Pack/presets/god_of_wasteland/storage
-tree_settings = TannyJung-Tree-Pack/god_of_wasteland/god_of_wasteland_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/god_of_wasteland/storage
+tree_settings = TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland_settings.txt
 
 world_gen = true
 

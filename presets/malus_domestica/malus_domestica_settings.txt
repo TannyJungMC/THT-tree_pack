@@ -38,8 +38,8 @@ Block spc = minecraft:stripped_oak_wood
 Block le1 = minecraft:oak_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = TannyJung-Tree-Pack/test_start.txt
-Function fe = TannyJung-Tree-Pack/test_end.txt
-Function f1 = TannyJung-Tree-Pack/apple.txt
+Function fs = TannyJung-Main-Pack/test_start.txt
+Function fe = TannyJung-Main-Pack/test_end.txt
+Function f1 = TannyJung-Main-Pack/apple.txt
 Function f2 = 
 Function f3 = 

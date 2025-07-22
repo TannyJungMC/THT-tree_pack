@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Tree-Pack/presets/hypothermia/storage
-tree_settings = TannyJung-Tree-Pack/hypothermia/hypothermia_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/hypothermia/storage
+tree_settings = TannyJung-Main-Pack/hypothermia/hypothermia_settings.txt
 
 world_gen = true
 
