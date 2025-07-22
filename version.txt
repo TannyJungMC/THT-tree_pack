@@ -1,4 +1,4 @@
-data_structure_version = 1.5
+data_structure_version = 1.4
 pack_version = 20250722
 
 mod_version = 1.3
