@@ -2,7 +2,7 @@ tellraw @a [{"text":"
 
 --------------------------------------------------
 \n\n
-Hello there, how are you today?
+The mod now renamed the main tree pack to [ TannyJung-Tree-Pack ]. If you update from older versions, you may still have old main pack that no longer supported in your custom packs folder. Please remove it manually.
 \n\n
 --------------------------------------------------
 
