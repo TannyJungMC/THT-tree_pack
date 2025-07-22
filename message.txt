@@ -1,9 +1,9 @@
 tellraw @a [{"text":"
-
 --------------------------------------------------
 \n\n
-The mod now renamed the main tree pack from [ TannyJung-Tree-Pack ] to [ TannyJung-Main-Pack]. If you update from older versions, you may still have old main pack that no longer supported in your custom packs folder. Please remove it manually.
+
+Warning : The mod now renamed the main tree pack from [ TannyJung-Tree-Pack ] to [ TannyJung-Main-Pack ]. If you update from older versions, you may still have old main pack that no longer supported in your custom packs folder. It will send you incompatibility message every time the world starts. You can fix that by delete old pack, or just ignore that message.
+
 \n\n
 --------------------------------------------------
-
 ","color":"dark_green"}]
