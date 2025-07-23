@@ -220,7 +220,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   fine_root_count_min:3
 ,   fine_root_count_max:5
 ,   fine_root_length_min:1
-,   fine_root_length_max:12
+,   fine_root_length_max:10
 ,   fine_root_thickness_start:1
 ,   fine_root_thickness_end:1
 
