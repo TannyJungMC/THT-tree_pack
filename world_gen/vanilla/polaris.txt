@@ -1,7 +1,7 @@
 storage_directory = TannyJung-Main-Pack/presets/wendy/storage
 tree_settings = TannyJung-Main-Pack/polaris/polaris_settings.txt
 
-world_gen = true
+world_gen = false
 
 biome = minecraft:snowy_taiga
 ground_block = #minecraft:dirt
