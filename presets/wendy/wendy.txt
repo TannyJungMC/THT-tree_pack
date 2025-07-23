@@ -353,7 +353,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_forward_max:0.5
 
 ,   bough_center_direction_from:"trunk"
-,   bough_center_direction_center:20
+,   bough_center_direction_center:30
 ,bough_center_direction_vertical_above:0
 ,bough_center_direction_vertical_below:0
 ,bough_center_direction_horizontal_above:0
