@@ -320,7 +320,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   bough_core:"minecraft:stripped_spruce_wood"
 ,bough_replace:true
 
-,   bough_count_min:40
+,   bough_count_min:50
 ,   bough_count_max:60
 ,   bough_length_min:10
 ,   bough_length_max:15
