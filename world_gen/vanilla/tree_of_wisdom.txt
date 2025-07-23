@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/tree_of_wisdom/tree_of_wisdom_settings.txt
 
 world_gen = true
 
-biome = #minecraft:is_plains
+biome = #forge:is_plains
 ground_block = #minecraft:dirt
 rarity = 1
 min_distance = 1000

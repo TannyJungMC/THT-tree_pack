@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/rock/rock_settings.txt
 
 world_gen = true
 
-biome = #minecraft:is_plains
+biome = #forge:is_plains
 ground_block = #minecraft:dirt
 rarity = 10
 min_distance = 1
