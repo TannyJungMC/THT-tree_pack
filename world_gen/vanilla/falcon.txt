@@ -6,7 +6,7 @@ world_gen = true
 biome = #minecraft:is_forest
 ground_block = #minecraft:dirt
 rarity = 25
-min_distance = 25
+min_distance = 40
 group_size = 1 <> 1
 waterside_chance = 0.0
 
