@@ -332,7 +332,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_length_reduce_above_start:100
 ,   bough_length_reduce_above_end:0
 ,   bough_length_reduce_below_start:25
-,   bough_length_reduce_below_end:10
+,   bough_length_reduce_below_end:25
 ,bough_thickness_reduce_from:""
 ,bough_thickness_reduce_center:0
 ,bough_thickness_reduce_above_start:100
@@ -353,7 +353,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_forward_max:0.5
 
 ,   bough_center_direction_from:"trunk"
-,   bough_center_direction_center:30
+,   bough_center_direction_center:40
 ,bough_center_direction_vertical_above:0
 ,bough_center_direction_vertical_below:0
 ,bough_center_direction_horizontal_above:0
@@ -701,7 +701,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_straighten_max:0
 
 ,   leaves_size_reduce_from:"trunk"
-,   leaves_size_reduce_center:30
+,   leaves_size_reduce_center:40
 ,leaves_size_reduce_above_start:100
 ,   leaves_size_reduce_above_end:10
 ,leaves_size_reduce_below_start:100
