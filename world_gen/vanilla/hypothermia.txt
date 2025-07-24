@@ -5,7 +5,7 @@ world_gen = true
 
 biome = minecraft:snowy_plains
 ground_block = #minecraft:dirt
-rarity = 50
+rarity = 25
 min_distance = 30
 group_size = 1 <> 1
 waterside_chance = 0.0
