@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/antenna/antenna_settings.txt
 
 world_gen = true
 
-biome = minecraft:old_growth_pine_taiga / minecraft:old_growth_spruce_taiga
+biome = minecraft:old_growth_pine_taiga
 ground_block = #minecraft:dirt
 rarity = 35
 min_distance = 25

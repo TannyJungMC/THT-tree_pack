@@ -292,7 +292,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:150
+,   trunk_length_min:100
 ,   trunk_length_max:200
 ,   trunk_thickness_start:5
 ,trunk_thickness_end:1
