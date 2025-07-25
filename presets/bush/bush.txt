@@ -325,7 +325,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   bough_length_min:5
 ,   bough_length_max:7
 ,   bough_thickness_start:1
-,   bough_thickness_end:1
+,bough_thickness_end:1
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
