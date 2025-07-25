@@ -322,8 +322,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   bough_count_min:4
 ,   bough_count_max:5
-,   bough_length_min:10
-,   bough_length_max:12
+,   bough_length_min:5
+,   bough_length_max:7
 ,   bough_thickness_start:1.5
 ,bough_thickness_end:1
 
@@ -467,8 +467,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   limb_count_min:2
 ,   limb_count_max:3
-,   limb_length_min:5
-,   limb_length_max:7
+,   limb_length_min:10
+,   limb_length_max:12
 ,limb_thickness_start:1
 ,limb_thickness_end:1
 
