@@ -43,8 +43,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   taproot_core:"minecraft:stripped_acacia_wood"
 ,taproot_replace:true
 
-,taproot_count_min:0
-,taproot_count_max:0
+,taproot_count_min:1
+,taproot_count_max:1
 ,   taproot_length_min:50
 ,   taproot_length_max:60
 ,   taproot_thickness_start:16
