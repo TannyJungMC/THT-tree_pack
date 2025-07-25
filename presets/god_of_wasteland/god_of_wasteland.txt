@@ -43,8 +43,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   taproot_core:"minecraft:stripped_acacia_wood"
 ,taproot_replace:true
 
-,taproot_count_min:1
-,taproot_count_max:1
+,taproot_count_min:0
+,taproot_count_max:0
 ,   taproot_length_min:50
 ,   taproot_length_max:60
 ,   taproot_thickness_start:16
@@ -292,8 +292,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:50
-,   trunk_length_max:100
+,   trunk_length_min:30
+,   trunk_length_max:50
 ,   trunk_thickness_start:15
 ,   trunk_thickness_end:12
 
@@ -322,8 +322,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   bough_count_min:4
 ,   bough_count_max:6
-,   bough_length_min:30
-,   bough_length_max:35
+,   bough_length_min:15
+,   bough_length_max:20
 ,   bough_thickness_start:8
 ,   bough_thickness_end:7
 
@@ -349,8 +349,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_horizontal:1
 ,bough_start_height_min:0
 ,bough_start_height_max:0
-,bough_start_forward_min:0.5
-,bough_start_forward_max:0.5
+,bough_start_forward_min:0.25
+,bough_start_forward_max:0.25
 
 ,bough_center_direction_from:""
 ,bough_center_direction_center:0
@@ -391,8 +391,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   branch_count_min:2
 ,   branch_count_max:3
-,   branch_length_min:25
-,   branch_length_max:30
+,   branch_length_min:20
+,   branch_length_max:25
 ,   branch_thickness_start:6
 ,   branch_thickness_end:5
 
@@ -424,8 +424,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_start_horizontal:1
 ,branch_start_height_min:0
 ,branch_start_height_max:0
-,branch_start_forward_min:0.5
-,branch_start_forward_max:0.5
+,branch_start_forward_min:0.25
+,branch_start_forward_max:0.25
 
 ,branch_center_direction_from:""
 ,branch_center_direction_center:0
@@ -443,6 +443,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_gravity_min:0
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:15
+,   branch_centripetal:5
 
 ,branch_continue_chance:1.0
 ,branch_continue_reduce_from:""
@@ -466,8 +467,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   limb_count_min:2
 ,   limb_count_max:3
-,   limb_length_min:20
-,   limb_length_max:25
+,   limb_length_min:25
+,   limb_length_max:30
 ,   limb_thickness_start:4
 ,   limb_thickness_end:3
 
@@ -499,8 +500,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_start_horizontal:1
 ,limb_start_height_min:0
 ,limb_start_height_max:0
-,limb_start_forward_min:0.5
-,limb_start_forward_max:0.5
+,limb_start_forward_min:0.25
+,limb_start_forward_max:0.25
 
 ,limb_center_direction_from:""
 ,limb_center_direction_center:0
@@ -518,6 +519,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_gravity_min:15
 ,limb_gravity_max:-90
 ,limb_gravity_weightiness:15
+,   limb_centripetal:5
 
 ,limb_continue_chance:1.0
 ,limb_continue_reduce_from:""
@@ -541,8 +543,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   twig_count_min:2
 ,   twig_count_max:3
-,   twig_length_min:15
-,   twig_length_max:20
+,   twig_length_min:30
+,   twig_length_max:35
 ,   twig_thickness_start:2
 ,   twig_thickness_end:2
 
@@ -574,8 +576,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_start_horizontal:1
 ,twig_start_height_min:0
 ,twig_start_height_max:0
-,twig_start_forward_min:0.5
-,twig_start_forward_max:0.5
+,twig_start_forward_min:0.25
+,twig_start_forward_max:0.25
 
 ,twig_center_direction_from:""
 ,twig_center_direction_center:0
@@ -593,6 +595,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_gravity_min:30
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:15
+,   twig_centripetal:5
 
 ,twig_continue_chance:1.0
 ,twig_continue_reduce_from:""
@@ -616,8 +619,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   sprig_count_min:3
 ,   sprig_count_max:4
-,   sprig_length_min:20
-,   sprig_length_max:30
+,   sprig_length_min:35
+,   sprig_length_max:40
 ,sprig_thickness_start:1
 ,sprig_thickness_end:1
 
@@ -649,8 +652,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_start_horizontal:1
 ,sprig_start_height_min:0
 ,sprig_start_height_max:0
-,sprig_start_forward_min:0.5
-,sprig_start_forward_max:0.5
+,sprig_start_forward_min:0.25
+,sprig_start_forward_max:0.25
 
 ,sprig_center_direction_from:""
 ,sprig_center_direction_center:0
@@ -668,6 +671,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_gravity_min:45
 ,sprig_gravity_max:-90
 ,sprig_gravity_weightiness:15
+,   sprig_centripetal:5
 
 ,sprig_continue_chance:1.0
 ,sprig_continue_reduce_from:""
