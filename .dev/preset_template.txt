@@ -368,7 +368,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_gravity_min:-15
 ,bough_gravity_max:-90
 ,bough_gravity_weightiness:15
-,bough_centripetal:5
 
 ,bough_continue_chance:1.0
 ,bough_continue_reduce_from:""
