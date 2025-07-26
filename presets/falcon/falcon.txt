@@ -303,9 +303,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_curvature_vertical:30
 ,trunk_curvature_horizontal:15
-,trunk_gravity_min:-45
+,trunk_gravity_min:-60
 ,trunk_gravity_max:-90
-,trunk_gravity_weightiness:15
+,trunk_gravity_weightiness:10
 
 
 
@@ -323,7 +323,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   bough_count_max:7
 ,   bough_length_min:10
 ,   bough_length_max:12
-,bough_thickness_start:2
+,   bough_thickness_start:2
 ,bough_thickness_end:1
 
 ,bough_length_reduce_from:""
@@ -341,7 +341,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,bough_chance_auto:false
 ,bough_chance_percent:50
-,bough_chance:0.1
+,   bough_chance:0.05
 ,bough_min_last_count:1
 
 ,bough_start_vertical:1
