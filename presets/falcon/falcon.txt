@@ -1,9 +1,8 @@
 give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
 
-,global_generate_speed:true
-,generate_speed_tick:1
-,generate_speed_repeat:1000
-,generate_speed_tp:10
+,tree_generator_speed_global:true
+,tree_generator_speed_tick:1
+,tree_generator_speed_repeat:1000
 ,countdown:10
 
 
@@ -292,8 +291,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:30
-,   trunk_length_max:50
+,   trunk_length_min:25
+,   trunk_length_max:75
 ,   trunk_thickness_start:4
 ,   trunk_thickness_end:3
 
@@ -324,7 +323,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   bough_count_max:7
 ,   bough_length_min:10
 ,   bough_length_max:12
-,   bough_thickness_start:2
+,bough_thickness_start:2
 ,bough_thickness_end:1
 
 ,bough_length_reduce_from:""

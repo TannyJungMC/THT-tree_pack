@@ -1,9 +1,8 @@
 give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
 
-,global_generate_speed:true
-,generate_speed_tick:1
-,generate_speed_repeat:1000
-,generate_speed_tp:10
+,tree_generator_speed_global:true
+,tree_generator_speed_tick:1
+,tree_generator_speed_repeat:1000
 ,countdown:10
 
 
