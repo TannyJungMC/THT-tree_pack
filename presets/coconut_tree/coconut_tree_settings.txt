@@ -30,7 +30,7 @@ Block ltc = minecraft:stripped_jungle_wood
 Block le1 = minecraft:jungle_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = TannyJung-Main-Pack/disk_grass.txt
+Function fs = 
 Function fe = 
 Function f1 = THT command txt_function function_way_coconut config/THT/custom/tree_packs/THT-tree_pack-main/functions
 Function f2 = 

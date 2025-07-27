@@ -30,7 +30,7 @@ Block ltc = minecraft:stripped_mangrove_wood
 Block le1 = minecraft:mangrove_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = TannyJung-Main-Pack/disk_grass.txt
+Function fs = 
 Function fe = 
 Function f1 = TannyJung-Main-Pack/mangrove_propagule.txt
 Function f2 = 
