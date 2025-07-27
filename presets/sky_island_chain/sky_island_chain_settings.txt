@@ -30,7 +30,7 @@ Block ltc = minecraft:stone
 Block le1 = minecraft:oak_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = 
+Function fs = TannyJung-Main-Pack/disk_grass.txt
 Function fe = 
 Function f1 = TannyJung-Main-Pack/moss_patch.txt
 Function f2 = TannyJung-Main-Pack/moss_patch.txt

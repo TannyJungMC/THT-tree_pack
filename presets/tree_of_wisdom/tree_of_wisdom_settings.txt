@@ -30,7 +30,7 @@ Block ltc = minecraft:stripped_dark_oak_wood
 Block le1 = minecraft:white_stained_glass keep
 Block le2 = 
 
-Function fs = 
+Function fs = TannyJung-Main-Pack/disk_grass.txt
 Function fe = 
 Function f1 = TannyJung-Main-Pack/vine_end_rod.txt
 Function f2 = 

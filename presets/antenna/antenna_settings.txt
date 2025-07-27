@@ -38,7 +38,7 @@ Block spc = minecraft:stripped_spruce_wood
 Block le1 = minecraft:spruce_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = 
+Function fs = TannyJung-Main-Pack/disk_grass.txt
 Function fe = 
 Function f1 = 
 Function f2 = 
