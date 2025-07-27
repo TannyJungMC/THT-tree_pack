@@ -5,7 +5,7 @@ world_gen = true
 
 biome = #forge:is_plains
 ground_block = #minecraft:dirt
-rarity = 25
+rarity = 5
 min_distance = 1
 group_size = 1 <> 10
 waterside_chance = 0.0
