@@ -1,0 +1,67 @@
+Start Date : 27/07/2025 at 16:09:55
+Complete Date : 27/07/2025 at 16:09:55
+
+sizeX = 3
+sizeY = 4
+sizeZ = 3
+center_sizeX = 1
+center_sizeY = 3
+center_sizeZ = 1
+
+block_count_trunk = 45
+block_count_bough = 0
+block_count_branch = 0
+block_count_limb = 0
+block_count_twig = 0
+block_count_sprig = 0
+
+----------------------------------------------------------------------------------------------------
+
+
++f0/0/0fs
++b-1/0/0tro
++b0/0/-1tro
++b0/0/0trc
++b0/0/1tro
++b0/1/0tro
++b-1/-2/1tro
++b0/-2/1tro
++b0/-2/2tro
++b1/-2/1tro
++b-1/-1/0tro
++b-1/-1/1tro
++b-1/-1/2tro
++b0/-1/1trc
++b0/-1/2tro
++b1/-1/0tro
++b1/-1/1tro
++b1/-1/2tro
++b-1/0/1tro
++b0/0/2tro
++b1/0/1tro
++b0/-1/-1tro
++b0/-1/0trc
++b-1/-2/0tro
++b0/-2/-1tro
++b1/-2/0tro
++b-1/-1/-1tro
++b1/-1/-1tro
++b-1/-3/0tro
++b0/-3/-1tro
++b0/-3/0tro
++b0/-3/1tro
++b1/-3/0tro
++b-1/-2/-1tro
++b0/-2/0trc
++b1/-2/-1tro
++b2/-1/0tro
++b1/0/-1tro
++b1/0/0trc
++b2/0/-1tro
++b2/0/0tro
++b2/0/1tro
++b1/1/-1tro
++b1/1/0tro
++b1/1/1tro
++b2/1/0tro
++f0/0/0fe
