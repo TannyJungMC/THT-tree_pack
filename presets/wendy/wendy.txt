@@ -684,12 +684,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
-
 ,leaves_generator_type:"sphere_zone"
 ,   leaves1:"minecraft:spruce_leaves[persistent=true]"
 ,leaves2:""

@@ -35,9 +35,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,taproot_generator_type:"sphere"
-,taproot_outer:""
-,taproot_inner:""
-,taproot_core:""
+,   taproot_outer:"minecraft:oak_wood"
+,   taproot_inner:"minecraft:oak_wood"
+,   taproot_core:"minecraft:stripped_oak_wood"
 ,taproot_outer_level:1
 ,taproot_inner_level:0
 ,taproot_replace:true
@@ -65,9 +65,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,secondary_root_generator_type:"sphere"
-,secondary_root_outer:""
-,secondary_root_inner:""
-,secondary_root_core:""
+,   secondary_root_outer:"minecraft:oak_wood"
+,   secondary_root_inner:"minecraft:oak_wood"
+,   secondary_root_core:"minecraft:stripped_oak_wood"
 ,secondary_root_outer_level:1
 ,secondary_root_inner_level:0
 ,secondary_root_replace:true
@@ -134,9 +134,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,tertiary_root_generator_type:"sphere"
-,tertiary_root_outer:""
-,tertiary_root_inner:""
-,tertiary_root_core:""
+,   tertiary_root_outer:"minecraft:oak_wood"
+,   tertiary_root_inner:"minecraft:oak_wood"
+,   tertiary_root_core:"minecraft:stripped_oak_wood"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner_level:0
 ,tertiary_root_replace:true
@@ -209,9 +209,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,fine_root_generator_type:"sphere"
-,fine_root_outer:""
-,fine_root_inner:""
-,fine_root_core:""
+,   fine_root_outer:"minecraft:oak_wood"
+,   fine_root_inner:"minecraft:oak_wood"
+,   fine_root_core:"minecraft:stripped_oak_wood"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
@@ -282,9 +282,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,trunk_generator_type:"sphere"
-,trunk_outer:""
-,trunk_inner:""
-,trunk_core:""
+,   trunk_outer:"minecraft:oak_wood"
+,   trunk_inner:"minecraft:oak_wood"
+,   trunk_core:"minecraft:stripped_oak_wood"
 ,trunk_outer_level:1
 ,trunk_inner_level:0
 ,trunk_replace:true
@@ -312,9 +312,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,bough_generator_type:"sphere"
-,bough_outer:""
-,bough_inner:""
-,bough_core:""
+,   bough_outer:"minecraft:oak_wood"
+,   bough_inner:"minecraft:oak_wood"
+,   bough_core:"minecraft:stripped_oak_wood"
 ,bough_outer_level:1
 ,bough_inner_level:0
 ,bough_replace:true
@@ -381,9 +381,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,branch_generator_type:"sphere"
-,branch_outer:""
-,branch_inner:""
-,branch_core:""
+,   branch_outer:"minecraft:oak_wood"
+,   branch_inner:"minecraft:oak_wood"
+,   branch_core:"minecraft:stripped_oak_wood"
 ,branch_outer_level:1
 ,branch_inner_level:0
 ,branch_replace:true
@@ -457,9 +457,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,limb_generator_type:"sphere"
-,limb_outer:""
-,limb_inner:""
-,limb_core:""
+,   limb_outer:"minecraft:oak_wood"
+,   limb_inner:"minecraft:oak_wood"
+,   limb_core:"minecraft:stripped_oak_wood"
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
@@ -684,14 +684,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
-
 ,leaves_generator_type:"sphere_zone"
-,leaves1:""
+,   leaves1:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false
