@@ -5,7 +5,7 @@ can_leaves_decay = true
 can_leaves_drop = true
 can_leaves_regrow = true
 
-Block tao = minecraft:packed_ice
+Block tao = minecraft:packed_ice keep
 Block tai = 
 Block tac = 
 Block seo = 
@@ -17,7 +17,7 @@ Block tec =
 Block fio = 
 Block fii = 
 Block fic = 
-Block tro = minecraft:packed_ice
+Block tro = minecraft:packed_ice keep
 Block tri = 
 Block trc = 
 Block boo = 
