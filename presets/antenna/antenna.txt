@@ -119,7 +119,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,secondary_root_curvature_horizontal:5
 ,secondary_root_gravity_min:15
 ,secondary_root_gravity_max:15
-,secondary_root_gravity_weightiness:15
+,secondary_root_gravity_weightiness:10
 
 ,secondary_root_continue_chance:1.0
 ,secondary_root_continue_reduce_from:""
@@ -194,7 +194,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,tertiary_root_curvature_horizontal:5
 ,tertiary_root_gravity_min:30
 ,tertiary_root_gravity_max:30
-,tertiary_root_gravity_weightiness:15
+,tertiary_root_gravity_weightiness:10
 
 ,tertiary_root_continue_chance:1.0
 ,tertiary_root_continue_reduce_from:""
@@ -269,7 +269,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,fine_root_curvature_horizontal:0
 ,fine_root_gravity_min:90
 ,fine_root_gravity_max:90
-,fine_root_gravity_weightiness:15
+,fine_root_gravity_weightiness:10
 
 
 
@@ -441,7 +441,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_curvature_horizontal:0
 ,branch_gravity_min:0
 ,branch_gravity_max:-90
-,branch_gravity_weightiness:15
+,branch_gravity_weightiness:10
 ,branch_centripetal:5
 
 ,branch_continue_chance:1.0
@@ -517,7 +517,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_curvature_horizontal:0
 ,limb_gravity_min:15
 ,limb_gravity_max:-90
-,limb_gravity_weightiness:15
+,limb_gravity_weightiness:10
 ,limb_centripetal:5
 
 ,limb_continue_chance:1.0
@@ -593,7 +593,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_curvature_horizontal:0
 ,twig_gravity_min:30
 ,twig_gravity_max:-90
-,twig_gravity_weightiness:15
+,twig_gravity_weightiness:10
 ,twig_centripetal:5
 
 ,twig_continue_chance:1.0
@@ -669,7 +669,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_curvature_horizontal:0
 ,sprig_gravity_min:45
 ,sprig_gravity_max:-90
-,sprig_gravity_weightiness:15
+,sprig_gravity_weightiness:10
 ,sprig_centripetal:5
 
 ,sprig_continue_chance:1.0
