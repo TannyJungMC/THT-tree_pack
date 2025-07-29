@@ -348,7 +348,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_horizontal:1
 ,bough_start_height_min:0
 ,bough_start_height_max:0
-,   bough_start_forward_min:-0.25
+,   bough_start_forward_min:-0.5
 ,   bough_start_forward_max:1
 
 ,bough_center_direction_from:""
