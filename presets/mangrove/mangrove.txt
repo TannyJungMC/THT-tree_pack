@@ -209,9 +209,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,fine_root_generator_type:"sphere"
-,   fine_root_outer:"minecraft:mangrove_wood"
-,   fine_root_inner:"minecraft:mangrove_wood"
-,   fine_root_core:"minecraft:stripped_mangrove_wood"
+,   fine_root_outer:"minecraft:mangrove_roots"
+,   fine_root_inner:"minecraft:mangrove_roots"
+,   fine_root_core:"minecraft:mangrove_roots"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
