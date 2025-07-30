@@ -34,13 +34,12 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,taproot_generator_type:"sphere"
 ,   taproot_outer:"minecraft:packed_ice"
 ,taproot_inner:""
 ,taproot_core:""
 ,taproot_outer_level:1
 ,taproot_inner_level:0
-,taproot_replace:true
+,   taproot_replace:false
 
 ,taproot_count_min:1
 ,taproot_count_max:1
@@ -64,7 +63,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,secondary_root_generator_type:"sphere"
 ,secondary_root_outer:""
 ,secondary_root_inner:""
 ,secondary_root_core:""
@@ -133,7 +131,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,tertiary_root_generator_type:"sphere"
 ,tertiary_root_outer:""
 ,tertiary_root_inner:""
 ,tertiary_root_core:""
@@ -208,7 +205,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,fine_root_generator_type:"sphere"
 ,fine_root_outer:""
 ,fine_root_inner:""
 ,fine_root_core:""
@@ -281,13 +277,12 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,trunk_generator_type:"sphere"
 ,   trunk_outer:"minecraft:packed_ice"
 ,trunk_inner:""
 ,trunk_core:""
 ,trunk_outer_level:1
 ,trunk_inner_level:0
-,trunk_replace:true
+,   trunk_replace:false
 
 ,trunk_count_min:1
 ,trunk_count_max:1
@@ -311,7 +306,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,bough_generator_type:"sphere"
 ,bough_outer:""
 ,bough_inner:""
 ,bough_core:""
@@ -380,7 +374,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,branch_generator_type:"sphere"
 ,branch_outer:""
 ,branch_inner:""
 ,branch_core:""
@@ -456,7 +449,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,limb_generator_type:"sphere"
 ,limb_outer:""
 ,limb_inner:""
 ,limb_core:""
@@ -532,7 +524,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,twig_generator_type:"sphere"
 ,twig_outer:""
 ,twig_inner:""
 ,twig_core:""
@@ -608,7 +599,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,sprig_generator_type:"sphere"
 ,sprig_outer:""
 ,sprig_inner:""
 ,sprig_core:""

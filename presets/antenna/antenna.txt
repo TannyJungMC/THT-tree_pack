@@ -34,7 +34,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,taproot_generator_type:"sphere"
 ,   taproot_outer:"minecraft:spruce_wood"
 ,   taproot_inner:"minecraft:spruce_wood"
 ,   taproot_core:"minecraft:stripped_spruce_wood"
@@ -64,7 +63,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,secondary_root_generator_type:"sphere"
 ,   secondary_root_outer:"minecraft:spruce_wood"
 ,   secondary_root_inner:"minecraft:spruce_wood"
 ,   secondary_root_core:"minecraft:stripped_spruce_wood"
@@ -133,7 +131,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,tertiary_root_generator_type:"sphere"
 ,   tertiary_root_outer:"minecraft:spruce_wood"
 ,   tertiary_root_inner:"minecraft:spruce_wood"
 ,   tertiary_root_core:"minecraft:stripped_spruce_wood"
@@ -208,7 +205,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,fine_root_generator_type:"sphere"
 ,   fine_root_outer:"minecraft:spruce_wood"
 ,   fine_root_inner:"minecraft:spruce_wood"
 ,   fine_root_core:"minecraft:stripped_spruce_wood"
@@ -281,7 +277,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,trunk_generator_type:"sphere"
 ,   trunk_outer:"minecraft:spruce_wood"
 ,   trunk_inner:"minecraft:spruce_wood"
 ,   trunk_core:"minecraft:stripped_spruce_wood"
@@ -311,7 +306,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,bough_generator_type:"sphere"
 ,   bough_outer:"minecraft:spruce_wood"
 ,   bough_inner:"minecraft:spruce_wood"
 ,   bough_core:"minecraft:stripped_spruce_wood"
@@ -380,7 +374,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,branch_generator_type:"sphere"
 ,   branch_outer:"minecraft:spruce_wood"
 ,   branch_inner:"minecraft:spruce_wood"
 ,   branch_core:"minecraft:stripped_spruce_wood"
@@ -456,7 +449,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,limb_generator_type:"sphere"
 ,   limb_outer:"minecraft:spruce_wood"
 ,   limb_inner:"minecraft:spruce_wood"
 ,   limb_core:"minecraft:stripped_spruce_wood"
@@ -532,7 +524,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,twig_generator_type:"sphere"
 ,   twig_outer:"minecraft:spruce_wood"
 ,   twig_inner:"minecraft:spruce_wood"
 ,   twig_core:"minecraft:stripped_spruce_wood"
@@ -608,7 +599,6 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,sprig_generator_type:"sphere"
 ,   sprig_outer:"minecraft:spruce_wood"
 ,   sprig_inner:"minecraft:spruce_wood"
 ,   sprig_core:"minecraft:stripped_spruce_wood"
