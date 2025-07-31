@@ -326,10 +326,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   bough_length_reduce_above_end:0
 ,bough_length_reduce_below_start:100
 ,bough_length_reduce_below_end:100
-,bough_thickness_reduce_from:""
-,bough_thickness_reduce_center:0
+,   bough_thickness_reduce_from:"trunk"
+,   bough_thickness_reduce_center:80
 ,bough_thickness_reduce_above_start:100
-,bough_thickness_reduce_above_end:100
+,   bough_thickness_reduce_above_end:0
 ,bough_thickness_reduce_below_start:100
 ,bough_thickness_reduce_below_end:100
 
