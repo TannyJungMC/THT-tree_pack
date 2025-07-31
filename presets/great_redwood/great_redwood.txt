@@ -15,7 +15,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"god_of_wasteland"
+,   name:"great_redwood"
 
 ,tree_type:"land"
 ,start_height:1
@@ -34,18 +34,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   taproot_outer:"minecraft:acacia_wood"
-,   taproot_inner:"minecraft:acacia_wood"
-,   taproot_core:"minecraft:stripped_acacia_wood"
+,   taproot_outer:"minecraft:spruce_wood"
+,   taproot_inner:"minecraft:spruce_wood"
+,   taproot_core:"minecraft:stripped_spruce_wood"
 ,taproot_outer_level:1
 ,taproot_inner_level:0
 ,taproot_replace:true
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,   taproot_length_min:50
-,   taproot_length_max:60
-,   taproot_thickness_start:16
+,   taproot_length_min:20
+,   taproot_length_max:30
+,   taproot_thickness_start:11
 ,taproot_thickness_end:1
 
 ,taproot_start_gravity_min:90
@@ -63,19 +63,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   secondary_root_outer:"minecraft:acacia_wood"
-,   secondary_root_inner:"minecraft:acacia_wood"
-,   secondary_root_core:"minecraft:stripped_acacia_wood"
+,   secondary_root_outer:"minecraft:spruce_wood"
+,   secondary_root_inner:"minecraft:spruce_wood"
+,   secondary_root_core:"minecraft:stripped_spruce_wood"
 ,secondary_root_outer_level:1
 ,secondary_root_inner_level:0
 ,secondary_root_replace:true
 
 ,   secondary_root_count_min:5
 ,   secondary_root_count_max:7
-,   secondary_root_length_min:40
-,   secondary_root_length_max:60
-,secondary_root_thickness_start:1
-,   secondary_root_thickness_end:5
+,   secondary_root_length_min:20
+,   secondary_root_length_max:30
+,   secondary_root_thickness_start:4
+,secondary_root_thickness_end:1
 
 ,secondary_root_length_reduce_from:""
 ,secondary_root_length_reduce_center:0
@@ -131,19 +131,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   tertiary_root_outer:"minecraft:acacia_wood"
-,   tertiary_root_inner:"minecraft:acacia_wood"
-,   tertiary_root_core:"minecraft:stripped_acacia_wood"
+,   tertiary_root_outer:"minecraft:spruce_wood"
+,   tertiary_root_inner:"minecraft:spruce_wood"
+,   tertiary_root_core:"minecraft:stripped_spruce_wood"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner_level:0
 ,tertiary_root_replace:true
 
-,   tertiary_root_count_min:7
-,   tertiary_root_count_max:10
-,   tertiary_root_length_min:60
-,   tertiary_root_length_max:80
-,   tertiary_root_thickness_start:5
-,   tertiary_root_thickness_end:1
+,   tertiary_root_count_min:2
+,   tertiary_root_count_max:3
+,   tertiary_root_length_min:10
+,   tertiary_root_length_max:20
+,tertiary_root_thickness_start:1
+,tertiary_root_thickness_end:1
 
 ,tertiary_root_count_reduce_from:""
 ,tertiary_root_count_reduce_center:0
@@ -205,17 +205,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   fine_root_outer:"minecraft:acacia_wood"
-,   fine_root_inner:"minecraft:acacia_wood"
-,   fine_root_core:"minecraft:stripped_acacia_wood"
+,   fine_root_outer:"minecraft:spruce_wood"
+,   fine_root_inner:"minecraft:spruce_wood"
+,   fine_root_core:"minecraft:stripped_spruce_wood"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
 
-,   fine_root_count_min:10
-,   fine_root_count_max:20
+,   fine_root_count_min:7
+,   fine_root_count_max:10
 ,   fine_root_length_min:1
-,   fine_root_length_max:50
+,   fine_root_length_max:30
 ,fine_root_thickness_start:1
 ,fine_root_thickness_end:1
 
@@ -277,55 +277,55 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   trunk_outer:"minecraft:acacia_wood"
-,   trunk_inner:"minecraft:acacia_wood"
-,   trunk_core:"minecraft:stripped_acacia_wood"
+,   trunk_outer:"minecraft:spruce_wood"
+,   trunk_inner:"minecraft:spruce_wood"
+,   trunk_core:"minecraft:stripped_spruce_wood"
 ,trunk_outer_level:1
 ,trunk_inner_level:0
 ,trunk_replace:true
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:30
-,   trunk_length_max:50
-,   trunk_thickness_start:15
-,   trunk_thickness_end:12
+,   trunk_length_min:350
+,   trunk_length_max:350
+,   trunk_thickness_start:20
+,trunk_thickness_end:1
 
-,trunk_start_gravity_min:-75
+,   trunk_start_gravity_min:-85
 ,trunk_start_gravity_max:-90
 ,trunk_start_direction_min:0
 ,trunk_start_direction_max:360
 
-,trunk_curvature_vertical:30
-,trunk_curvature_horizontal:15
-,trunk_gravity_min:-60
+,   trunk_curvature_vertical:0
+,   trunk_curvature_horizontal:0
+,   trunk_gravity_min:-85
 ,trunk_gravity_max:-90
-,trunk_gravity_weightiness:10
+,   trunk_gravity_weightiness:0
 
 
 
 
 
-,   bough_outer:"minecraft:acacia_wood"
-,   bough_inner:"minecraft:acacia_wood"
-,   bough_core:"minecraft:stripped_acacia_wood"
+,   bough_outer:"minecraft:spruce_wood"
+,   bough_inner:"minecraft:spruce_wood"
+,   bough_core:"minecraft:stripped_spruce_wood"
 ,bough_outer_level:1
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:4
-,   bough_count_max:6
-,   bough_length_min:15
-,   bough_length_max:20
-,   bough_thickness_start:8
-,   bough_thickness_end:7
+,   bough_count_min:80
+,   bough_count_max:100
+,   bough_length_min:20
+,   bough_length_max:30
+,   bough_thickness_start:2
+,bough_thickness_end:1
 
-,bough_length_reduce_from:""
-,bough_length_reduce_center:0
+,   bough_length_reduce_from:"trunk"
+,   bough_length_reduce_center:80
 ,bough_length_reduce_above_start:100
-,bough_length_reduce_above_end:100
+,   bough_length_reduce_above_end:50
 ,bough_length_reduce_below_start:100
-,bough_length_reduce_below_end:100
+,   bough_length_reduce_below_end:50
 ,bough_thickness_reduce_from:""
 ,bough_thickness_reduce_center:0
 ,bough_thickness_reduce_above_start:100
@@ -333,9 +333,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_thickness_reduce_below_start:100
 ,bough_thickness_reduce_below_end:100
 
-,bough_chance_auto:false
-,bough_chance_percent:50
-,bough_chance:0.1
+,   bough_chance_auto:true
+,   bough_chance_percent:60
+,   bough_chance:1.0
 ,bough_min_last_count:1
 
 ,bough_start_vertical:1
@@ -345,22 +345,22 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_forward_min:0.25
 ,bough_start_forward_max:0.25
 
-,bough_center_direction_from:""
-,bough_center_direction_center:0
+,   bough_center_direction_from:"trunk"
+,   bough_center_direction_center:80
 ,bough_center_direction_vertical_above:0
 ,bough_center_direction_vertical_below:0
 ,bough_center_direction_horizontal_above:0
 ,bough_center_direction_horizontal_below:0
 ,bough_center_direction_height_above:0
 ,bough_center_direction_height_below:0
-,bough_center_direction_forward_above:0
-,bough_center_direction_forward_below:0
+,   bough_center_direction_forward_above:1
+,   bough_center_direction_forward_below:-2
 
-,bough_curvature_vertical:5
+,   bough_curvature_vertical:0
 ,bough_curvature_horizontal:0
-,bough_gravity_min:-15
+,   bough_gravity_min:-90
 ,bough_gravity_max:-90
-,bough_gravity_weightiness:10
+,   bough_gravity_weightiness:2
 
 ,bough_continue_chance:1.0
 ,bough_continue_reduce_from:""
@@ -374,42 +374,42 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   branch_outer:"minecraft:acacia_wood"
-,   branch_inner:"minecraft:acacia_wood"
-,   branch_core:"minecraft:stripped_acacia_wood"
+,   branch_outer:"minecraft:spruce_wood"
+,   branch_inner:"minecraft:spruce_wood"
+,   branch_core:"minecraft:stripped_spruce_wood"
 ,branch_outer_level:1
 ,branch_inner_level:0
 ,branch_replace:true
 
-,   branch_count_min:2
-,   branch_count_max:3
-,   branch_length_min:20
-,   branch_length_max:25
-,   branch_thickness_start:6
-,   branch_thickness_end:5
+,   branch_count_min:3
+,   branch_count_max:4
+,   branch_length_min:5
+,   branch_length_max:7
+,branch_thickness_start:1
+,branch_thickness_end:1
 
-,branch_count_reduce_from:""
-,branch_count_reduce_center:0
+,branch_count_reduce_from:"trunk"
+,branch_count_reduce_center:80
 ,branch_count_reduce_above_start:100
-,branch_count_reduce_above_end:100
+,branch_count_reduce_above_end:1
 ,branch_count_reduce_below_start:100
-,branch_count_reduce_below_end:100
-,branch_length_reduce_from:""
-,branch_length_reduce_center:0
+,branch_count_reduce_below_end:50
+,branch_length_reduce_from:"trunk"
+,branch_length_reduce_center:80
 ,branch_length_reduce_above_start:100
-,branch_length_reduce_above_end:100
+,branch_length_reduce_above_end:0
 ,branch_length_reduce_below_start:100
-,branch_length_reduce_below_end:100
-,branch_thickness_reduce_from:""
-,branch_thickness_reduce_center:0
+,branch_length_reduce_below_end:50
+,branch_thickness_reduce_from:"trunk"
+,branch_thickness_reduce_center:80
 ,branch_thickness_reduce_above_start:100
-,branch_thickness_reduce_above_end:100
+,branch_thickness_reduce_above_end:0
 ,branch_thickness_reduce_below_start:100
-,branch_thickness_reduce_below_end:100
+,branch_thickness_reduce_below_end:50
 
-,branch_chance_auto:false
-,branch_chance_percent:50
-,branch_chance:0.1
+,   branch_chance_auto:true
+,   branch_chance_percent:50
+,   branch_chance:1.0
 ,branch_min_last_count:1
 
 ,branch_start_vertical:1
@@ -435,7 +435,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_gravity_min:0
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:10
-,   branch_centripetal:4
+,branch_centripetal:5
 
 ,branch_continue_chance:1.0
 ,branch_continue_reduce_from:""
@@ -449,19 +449,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   limb_outer:"minecraft:acacia_wood"
-,   limb_inner:"minecraft:acacia_wood"
-,   limb_core:"minecraft:stripped_acacia_wood"
+,   limb_outer:"minecraft:spruce_wood"
+,   limb_inner:"minecraft:spruce_wood"
+,   limb_core:"minecraft:stripped_spruce_wood"
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
 
-,   limb_count_min:2
-,   limb_count_max:3
-,   limb_length_min:25
-,   limb_length_max:30
-,   limb_thickness_start:4
-,   limb_thickness_end:3
+,limb_count_min:1
+,limb_count_max:1
+,limb_length_min:0
+,limb_length_max:0
+,limb_thickness_start:1
+,limb_thickness_end:1
 
 ,limb_count_reduce_from:""
 ,limb_count_reduce_center:0
@@ -510,7 +510,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_gravity_min:15
 ,limb_gravity_max:-90
 ,limb_gravity_weightiness:10
-,   limb_centripetal:4
+,limb_centripetal:5
 
 ,limb_continue_chance:1.0
 ,limb_continue_reduce_from:""
@@ -524,19 +524,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   twig_outer:"minecraft:acacia_wood"
-,   twig_inner:"minecraft:acacia_wood"
-,   twig_core:"minecraft:stripped_acacia_wood"
+,   twig_outer:"minecraft:spruce_wood"
+,   twig_inner:"minecraft:spruce_wood"
+,   twig_core:"minecraft:stripped_spruce_wood"
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
 
-,   twig_count_min:2
-,   twig_count_max:3
-,   twig_length_min:30
-,   twig_length_max:35
-,   twig_thickness_start:2
-,   twig_thickness_end:2
+,twig_count_min:1
+,twig_count_max:1
+,twig_length_min:0
+,twig_length_max:0
+,twig_thickness_start:1
+,twig_thickness_end:1
 
 ,twig_count_reduce_from:""
 ,twig_count_reduce_center:0
@@ -585,7 +585,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_gravity_min:30
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:10
-,   twig_centripetal:4
+,twig_centripetal:5
 
 ,twig_continue_chance:1.0
 ,twig_continue_reduce_from:""
@@ -599,17 +599,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   sprig_outer:"minecraft:acacia_wood"
-,   sprig_inner:"minecraft:acacia_wood"
-,   sprig_core:"minecraft:stripped_acacia_wood"
+,   sprig_outer:"minecraft:spruce_wood"
+,   sprig_inner:"minecraft:spruce_wood"
+,   sprig_core:"minecraft:stripped_spruce_wood"
 ,sprig_outer_level:1
 ,sprig_inner_level:0
 ,sprig_replace:true
 
-,   sprig_count_min:3
-,   sprig_count_max:4
-,   sprig_length_min:35
-,   sprig_length_max:40
+,sprig_count_min:1
+,sprig_count_max:1
+,sprig_length_min:0
+,sprig_length_max:0
 ,sprig_thickness_start:1
 ,sprig_thickness_end:1
 
@@ -660,37 +660,37 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_gravity_min:45
 ,sprig_gravity_max:-90
 ,sprig_gravity_weightiness:10
-,   sprig_centripetal:4
+,sprig_centripetal:5
 
 ,sprig_continue_chance:1.0
-,sprig_continue_reduce_from:""
-,sprig_continue_reduce_center:0
+,   sprig_continue_reduce_from:"trunk"
+,   sprig_continue_reduce_center:50
 ,sprig_continue_reduce_above_start:100
 ,sprig_continue_reduce_above_end:100
-,sprig_continue_reduce_below_start:100
-,sprig_continue_reduce_below_end:100
+,   sprig_continue_reduce_below_start:0
+,   sprig_continue_reduce_below_end:0
 
 
 
 
 
 ,leaves_generator_type:"sphere_zone"
-,   leaves1:"minecraft:acacia_leaves[persistent=true]"
+,   leaves1:"minecraft:spruce_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,   leaves_size_min:50
-,   leaves_size_max:100
+,   leaves_size_min:20
+,   leaves_size_max:30
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
 ,leaves_straighten_min:0
 ,leaves_straighten_max:0
 
-,leaves_size_reduce_from:""
-,leaves_size_reduce_center:0
+,   leaves_size_reduce_from:"trunk"
+,   leaves_size_reduce_center:80
 ,leaves_size_reduce_above_start:100
-,leaves_size_reduce_above_end:100
+,   leaves_size_reduce_above_end:10
 ,leaves_size_reduce_below_start:100
 ,leaves_size_reduce_below_end:100
 
