@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/great_redwood/great_redwood_settings.txt
 
 world_gen = true
 
-biome = minecraft:old_growth_spruce_taiga
+biome = minecraft:old_growth_pine_taiga
 ground_block = #minecraft:dirt
 rarity = 5
 min_distance = 50
