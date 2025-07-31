@@ -315,17 +315,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   bough_count_min:60
 ,   bough_count_max:80
-,   bough_length_min:15
-,   bough_length_max:20
+,   bough_length_min:10
+,   bough_length_max:15
 ,bough_thickness_start:1
 ,bough_thickness_end:1
 
 ,   bough_length_reduce_from:"trunk"
 ,   bough_length_reduce_center:60
 ,bough_length_reduce_above_start:100
-,   bough_length_reduce_above_end:0
+,bough_length_reduce_above_end:0
 ,bough_length_reduce_below_start:100
-,   bough_length_reduce_below_end:50
+,bough_length_reduce_below_end:100
 ,bough_thickness_reduce_from:""
 ,bough_thickness_reduce_center:0
 ,bough_thickness_reduce_above_start:100
@@ -346,7 +346,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_forward_max:0.25
 
 ,   bough_center_direction_from:"trunk"
-,   bough_center_direction_center:75
+,   bough_center_direction_center:60
 ,bough_center_direction_vertical_above:0
 ,bough_center_direction_vertical_below:0
 ,bough_center_direction_horizontal_above:0
@@ -381,8 +381,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_inner_level:0
 ,branch_replace:true
 
-,   branch_count_min:3
-,   branch_count_max:4
+,   branch_count_min:2
+,   branch_count_max:3
 ,   branch_length_min:3
 ,   branch_length_max:5
 ,branch_thickness_start:1
