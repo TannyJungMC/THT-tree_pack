@@ -695,7 +695,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_size_reduce_below_end:100
 
 ,leaves_sphere_zone_size:2
-,leaves_sphere_zone_pitch_min:-60
+,leaves_sphere_zone_pitch_min:-45
 
 
 
@@ -710,7 +710,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_start:""
 ,function_end:""
 
-,   function_way1:"TannyJung-Main-Pack/hypothermia_ice.txt"
+,   function_way1:"TannyJung-Main-Pack/ice_storm.txt"
 ,   function_way1_type:"trunk"
 ,   function_way1_chance:0.05
 ,function_way1_max:0

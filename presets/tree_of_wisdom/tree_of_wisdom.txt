@@ -15,7 +15,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,name:"unnamed"
+,   name:"tree_of_wisdom"
 
 ,tree_type:"land"
 ,start_height:1
@@ -34,18 +34,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,taproot_outer:""
-,taproot_inner:""
-,taproot_core:""
+,   taproot_outer:"minecraft:dark_oak_wood"
+,   taproot_inner:"minecraft:dark_oak_wood"
+,   taproot_core:"minecraft:stripped_dark_oak_wood"
 ,taproot_outer_level:1
 ,taproot_inner_level:0
 ,taproot_replace:true
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,taproot_length_min:0
-,taproot_length_max:0
-,taproot_thickness_start:1
+,   taproot_length_min:50
+,   taproot_length_max:60
+,   taproot_thickness_start:16
 ,taproot_thickness_end:1
 
 ,taproot_start_gravity_min:90
@@ -63,19 +63,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,secondary_root_outer:""
-,secondary_root_inner:""
-,secondary_root_core:""
+,   secondary_root_outer:"minecraft:dark_oak_wood"
+,   secondary_root_inner:"minecraft:dark_oak_wood"
+,   secondary_root_core:"minecraft:stripped_dark_oak_wood"
 ,secondary_root_outer_level:1
 ,secondary_root_inner_level:0
 ,secondary_root_replace:true
 
-,secondary_root_count_min:1
-,secondary_root_count_max:1
-,secondary_root_length_min:0
-,secondary_root_length_max:0
-,secondary_root_thickness_start:1
-,secondary_root_thickness_end:1
+,   secondary_root_count_min:5
+,   secondary_root_count_max:7
+,   secondary_root_length_min:40
+,   secondary_root_length_max:60
+,   secondary_root_thickness_start:10
+,   secondary_root_thickness_end:5
 
 ,secondary_root_length_reduce_from:""
 ,secondary_root_length_reduce_center:0
@@ -131,19 +131,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,tertiary_root_outer:""
-,tertiary_root_inner:""
-,tertiary_root_core:""
+,   tertiary_root_outer:"minecraft:dark_oak_wood"
+,   tertiary_root_inner:"minecraft:dark_oak_wood"
+,   tertiary_root_core:"minecraft:stripped_dark_oak_wood"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner_level:0
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:1
-,tertiary_root_count_max:1
-,tertiary_root_length_min:0
-,tertiary_root_length_max:0
-,tertiary_root_thickness_start:1
-,tertiary_root_thickness_end:1
+,   tertiary_root_count_min:7
+,   tertiary_root_count_max:10
+,   tertiary_root_length_min:60
+,   tertiary_root_length_max:80
+,   tertiary_root_thickness_start:5
+,   tertiary_root_thickness_end:1
 
 ,tertiary_root_count_reduce_from:""
 ,tertiary_root_count_reduce_center:0
@@ -205,17 +205,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,fine_root_outer:""
-,fine_root_inner:""
-,fine_root_core:""
+,   fine_root_outer:"minecraft:dark_oak_wood"
+,   fine_root_inner:"minecraft:dark_oak_wood"
+,   fine_root_core:"minecraft:stripped_dark_oak_wood"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
 
-,fine_root_count_min:1
-,fine_root_count_max:1
-,fine_root_length_min:0
-,fine_root_length_max:0
+,   fine_root_count_min:10
+,   fine_root_count_max:20
+,   fine_root_length_min:1
+,   fine_root_length_max:50
 ,fine_root_thickness_start:1
 ,fine_root_thickness_end:1
 
@@ -277,9 +277,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,trunk_outer:""
-,trunk_inner:""
-,trunk_core:""
+,   trunk_outer:"minecraft:dark_oak_wood"
+,   trunk_inner:"minecraft:dark_oak_wood"
+,   trunk_core:"minecraft:stripped_dark_oak_wood"
 ,trunk_outer_level:1
 ,trunk_inner_level:0
 ,trunk_replace:true
@@ -288,8 +288,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,trunk_count_max:1
 ,trunk_length_min:0
 ,trunk_length_max:0
-,trunk_thickness_start:1
-,trunk_thickness_end:1
+,   trunk_thickness_start:10
+,   trunk_thickness_end:10
 
 ,trunk_start_gravity_min:-75
 ,trunk_start_gravity_max:-90
@@ -306,19 +306,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,bough_outer:""
-,bough_inner:""
-,bough_core:""
+,   bough_outer:"minecraft:dark_oak_wood"
+,   bough_inner:"minecraft:dark_oak_wood"
+,   bough_core:"minecraft:stripped_dark_oak_wood"
 ,bough_outer_level:1
 ,bough_inner_level:0
 ,bough_replace:true
 
-,bough_count_min:1
-,bough_count_max:1
-,bough_length_min:0
-,bough_length_max:0
-,bough_thickness_start:1
-,bough_thickness_end:1
+,   bough_count_min:6
+,   bough_count_max:7
+,   bough_length_min:30
+,   bough_length_max:40
+,   bough_thickness_start:10
+,   bough_thickness_end:6
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
@@ -336,7 +336,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_chance_auto:false
 ,bough_chance_percent:50
 ,bough_chance:0.1
-,bough_min_last_count:1
+,   bough_min_last_count:0
 
 ,bough_start_vertical:1
 ,bough_start_horizontal:1
@@ -358,7 +358,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,bough_curvature_vertical:5
 ,bough_curvature_horizontal:0
-,bough_gravity_min:-15
+,   bough_gravity_min:-30
 ,bough_gravity_max:-90
 ,bough_gravity_weightiness:10
 
@@ -374,19 +374,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,branch_outer:""
-,branch_inner:""
-,branch_core:""
+,   branch_outer:"minecraft:dark_oak_wood"
+,   branch_inner:"minecraft:dark_oak_wood"
+,   branch_core:"minecraft:stripped_dark_oak_wood"
 ,branch_outer_level:1
 ,branch_inner_level:0
 ,branch_replace:true
 
-,branch_count_min:1
-,branch_count_max:1
-,branch_length_min:0
-,branch_length_max:0
-,branch_thickness_start:1
-,branch_thickness_end:1
+,   branch_count_min:2
+,   branch_count_max:3
+,   branch_length_min:40
+,   branch_length_max:50
+,   branch_thickness_start:4
+,   branch_thickness_end:3
 
 ,branch_count_reduce_from:""
 ,branch_count_reduce_center:0
@@ -408,7 +408,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_thickness_reduce_below_end:100
 
 ,branch_chance_auto:false
-,branch_chance_percent:50
+,   branch_chance_percent:25
 ,branch_chance:0.1
 ,branch_min_last_count:1
 
@@ -432,10 +432,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:0
-,branch_gravity_min:0
+,   branch_gravity_min:-15
 ,branch_gravity_max:-90
 ,branch_gravity_weightiness:10
-,branch_centripetal:5
+,   branch_centripetal:3
 
 ,branch_continue_chance:1.0
 ,branch_continue_reduce_from:""
@@ -449,19 +449,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,limb_outer:""
-,limb_inner:""
-,limb_core:""
+,   limb_outer:"minecraft:dark_oak_wood"
+,   limb_inner:"minecraft:dark_oak_wood"
+,   limb_core:"minecraft:stripped_dark_oak_wood"
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
 
-,limb_count_min:1
-,limb_count_max:1
-,limb_length_min:0
-,limb_length_max:0
-,limb_thickness_start:1
-,limb_thickness_end:1
+,   limb_count_min:2
+,   limb_count_max:3
+,   limb_length_min:50
+,   limb_length_max:60
+,   limb_thickness_start:2
+,   limb_thickness_end:1.5
 
 ,limb_count_reduce_from:""
 ,limb_count_reduce_center:0
@@ -483,7 +483,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_thickness_reduce_below_end:100
 
 ,limb_chance_auto:false
-,limb_chance_percent:50
+,   limb_chance_percent:25
 ,limb_chance:0.1
 ,limb_min_last_count:1
 
@@ -507,10 +507,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,limb_curvature_vertical:5
 ,limb_curvature_horizontal:0
-,limb_gravity_min:15
+,   limb_gravity_min:0
 ,limb_gravity_max:-90
 ,limb_gravity_weightiness:10
-,limb_centripetal:5
+,   limb_centripetal:3
 
 ,limb_continue_chance:1.0
 ,limb_continue_reduce_from:""
@@ -524,17 +524,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,twig_outer:""
-,twig_inner:""
-,twig_core:""
+,   twig_outer:"minecraft:dark_oak_wood"
+,   twig_inner:"minecraft:dark_oak_wood"
+,   twig_core:"minecraft:stripped_dark_oak_wood"
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
 
-,twig_count_min:1
-,twig_count_max:1
-,twig_length_min:0
-,twig_length_max:0
+,   twig_count_min:3
+,   twig_count_max:4
+,   twig_length_min:20
+,   twig_length_max:30
 ,twig_thickness_start:1
 ,twig_thickness_end:1
 
@@ -558,7 +558,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_thickness_reduce_below_end:100
 
 ,twig_chance_auto:false
-,twig_chance_percent:50
+,   twig_chance_percent:25
 ,twig_chance:0.1
 ,twig_min_last_count:1
 
@@ -582,10 +582,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,twig_curvature_vertical:5
 ,twig_curvature_horizontal:0
-,twig_gravity_min:30
+,   twig_gravity_min:15
 ,twig_gravity_max:-90
 ,twig_gravity_weightiness:10
-,twig_centripetal:5
+,   twig_centripetal:3
 
 ,twig_continue_chance:1.0
 ,twig_continue_reduce_from:""
@@ -599,9 +599,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,sprig_outer:""
-,sprig_inner:""
-,sprig_core:""
+,   sprig_outer:"minecraft:dark_oak_wood"
+,   sprig_inner:"minecraft:dark_oak_wood"
+,   sprig_core:"minecraft:stripped_dark_oak_wood"
 ,sprig_outer_level:1
 ,sprig_inner_level:0
 ,sprig_replace:true
@@ -675,13 +675,13 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,leaves_generator_type:"sphere_zone"
-,leaves1:""
+,   leaves1:"minecraft:white_stained_glass"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,leaves_size_min:0
-,leaves_size_max:0
+,   leaves_size_min:20
+,   leaves_size_max:100
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
 ,leaves_straighten_min:0
@@ -695,7 +695,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_size_reduce_below_end:100
 
 ,leaves_sphere_zone_size:2
-,leaves_sphere_zone_pitch_min:-60
+,leaves_sphere_zone_pitch_min:-45
 
 
 
@@ -710,9 +710,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_start:""
 ,function_end:""
 
-,function_way1:""
-,function_way1_type:""
-,function_way1_chance:0.0
+,   function_way1:"TannyJung-Main-Pack/vine_end_rod.txt"
+,   function_way1_type:"leaves"
+,   function_way1_chance:0.05
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100

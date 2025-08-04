@@ -695,7 +695,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_size_reduce_below_end:100
 
 ,leaves_sphere_zone_size:2
-,leaves_sphere_zone_pitch_min:-60
+,leaves_sphere_zone_pitch_min:-45
 
 
 

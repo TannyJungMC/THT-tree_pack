@@ -40,6 +40,6 @@ Block le2 =
 
 Function fs = 
 Function fe = 
-Function f1 = TannyJung-Main-Pack/hypothermia_ice.txt
-Function f2 = TannyJung-Main-Pack/hypothermia_ice.txt
+Function f1 = TannyJung-Main-Pack/ice_storm.txt
+Function f2 = TannyJung-Main-Pack/ice_storm.txt
 Function f3 = 
