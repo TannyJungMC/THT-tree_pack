@@ -1,7 +1,9 @@
 tree_type = land
-start_height = 0
-living_tree_mechanics = true
+start_height = 1
 can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = true
+can_leaves_regrow = true
 
 Block tao = minecraft:dark_oak_wood
 Block tai = minecraft:dark_oak_wood
@@ -18,15 +20,21 @@ Block fic = minecraft:stripped_dark_oak_wood
 Block tro = minecraft:dark_oak_wood
 Block tri = minecraft:dark_oak_wood
 Block trc = minecraft:stripped_dark_oak_wood
+Block boo = minecraft:dark_oak_wood
+Block boi = minecraft:dark_oak_wood
+Block boc = minecraft:stripped_dark_oak_wood
 Block bro = minecraft:dark_oak_wood
 Block bri = minecraft:dark_oak_wood
 Block brc = minecraft:stripped_dark_oak_wood
+Block lio = minecraft:dark_oak_wood
+Block lii = minecraft:dark_oak_wood
+Block lic = minecraft:stripped_dark_oak_wood
 Block two = minecraft:dark_oak_wood
 Block twi = minecraft:dark_oak_wood
 Block twc = minecraft:stripped_dark_oak_wood
-Block lto = minecraft:dark_oak_wood
-Block lti = minecraft:dark_oak_wood
-Block ltc = minecraft:stripped_dark_oak_wood
+Block spo = minecraft:dark_oak_wood
+Block spi = minecraft:dark_oak_wood
+Block spc = minecraft:stripped_dark_oak_wood
 Block le1 = minecraft:white_stained_glass keep
 Block le2 = 
 
