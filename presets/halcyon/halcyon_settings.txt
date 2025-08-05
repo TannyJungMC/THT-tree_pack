@@ -29,12 +29,12 @@ Block brc = minecraft:stripped_oak_wood
 Block lio = minecraft:oak_wood
 Block lii = minecraft:oak_wood
 Block lic = minecraft:stripped_oak_wood
-Block two = minecraft:oak_wood
-Block twi = minecraft:oak_wood
-Block twc = minecraft:stripped_oak_wood
-Block spo = minecraft:oak_wood
-Block spi = minecraft:oak_wood
-Block spc = minecraft:stripped_oak_wood
+Block two = 
+Block twi = 
+Block twc = 
+Block spo = 
+Block spi = 
+Block spc = 
 Block le1 = minecraft:oak_leaves[persistent=true] keep
 Block le2 = 
 

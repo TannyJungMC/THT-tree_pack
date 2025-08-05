@@ -313,8 +313,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:5
-,   bough_count_max:7
+,   bough_count_min:4
+,   bough_count_max:6
 ,   bough_length_min:10
 ,   bough_length_max:12
 ,   bough_thickness_start:2
@@ -524,17 +524,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,twig_outer:""
-,twig_inner:""
-,twig_core:""
+,   twig_outer:"minecraft:oak_wood"
+,   twig_inner:"minecraft:oak_wood"
+,   twig_core:"minecraft:stripped_oak_wood"
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
 
-,twig_count_min:1
-,twig_count_max:1
-,twig_length_min:0
-,twig_length_max:0
+,twig_count_min:3
+,twig_count_max:4
+,twig_length_min:7
+,twig_length_max:10
 ,twig_thickness_start:1
 ,twig_thickness_end:1
 
@@ -681,7 +681,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_replace:false
 
 ,   leaves_size_min:20
-,   leaves_size_max:40
+,   leaves_size_max:50
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
 ,leaves_straighten_min:0
@@ -694,8 +694,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_size_reduce_below_start:100
 ,leaves_size_reduce_below_end:100
 
-,leaves_sphere_zone_size:2
-,   leaves_sphere_zone_pitch_min:-60
+,leaves_sphere_zone_size:1
+,leaves_sphere_zone_pitch_min:-45
 
 
 
