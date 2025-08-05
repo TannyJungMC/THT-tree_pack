@@ -26,15 +26,15 @@ Block boc = minecraft:stripped_spruce_wood
 Block bro = minecraft:spruce_wood
 Block bri = minecraft:spruce_wood
 Block brc = minecraft:stripped_spruce_wood
-Block lio = minecraft:spruce_wood
-Block lii = minecraft:spruce_wood
-Block lic = minecraft:stripped_spruce_wood
-Block two = minecraft:spruce_wood
-Block twi = minecraft:spruce_wood
-Block twc = minecraft:stripped_spruce_wood
-Block spo = minecraft:spruce_wood
-Block spi = minecraft:spruce_wood
-Block spc = minecraft:stripped_spruce_wood
+Block lio = 
+Block lii = 
+Block lic = 
+Block two = 
+Block twi = 
+Block twc = 
+Block spo = 
+Block spi = 
+Block spc = 
 Block le1 = minecraft:spruce_leaves[persistent=true] keep
 Block le2 = 
 
