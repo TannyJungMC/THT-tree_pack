@@ -531,10 +531,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_inner_level:0
 ,twig_replace:true
 
-,twig_count_min:3
-,twig_count_max:4
-,twig_length_min:7
-,twig_length_max:10
+,   twig_count_min:3
+,   twig_count_max:4
+,   twig_length_min:7
+,   twig_length_max:10
 ,twig_thickness_start:1
 ,twig_thickness_end:1
 
