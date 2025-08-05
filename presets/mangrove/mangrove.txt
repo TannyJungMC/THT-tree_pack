@@ -298,7 +298,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_curvature_vertical:30
 ,trunk_curvature_horizontal:15
-,   trunk_gravity_min:-75
+,trunk_gravity_min:-75
 ,trunk_gravity_max:-90
 ,trunk_gravity_weightiness:10
 
