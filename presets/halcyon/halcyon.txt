@@ -216,8 +216,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   fine_root_count_max:5
 ,   fine_root_length_min:1
 ,   fine_root_length_max:20
-,   fine_root_thickness_start:0
-,   fine_root_thickness_end:0
+,fine_root_thickness_start:1
+,fine_root_thickness_end:1
 
 ,fine_root_count_reduce_from:""
 ,fine_root_count_reduce_center:0
