@@ -1,0 +1,45 @@
+tree_type = land
+start_height = 0
+can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = true
+can_leaves_regrow = true
+
+Block tao = minecraft:birch_wood
+Block tai = minecraft:birch_wood
+Block tac = minecraft:stripped_birch_wood
+Block seo = minecraft:birch_wood
+Block sei = minecraft:birch_wood
+Block sec = minecraft:stripped_birch_wood
+Block teo = minecraft:birch_wood
+Block tei = minecraft:birch_wood
+Block tec = minecraft:stripped_birch_wood
+Block fio = minecraft:birch_wood
+Block fii = minecraft:birch_wood
+Block fic = minecraft:stripped_birch_wood
+Block tro = minecraft:birch_wood
+Block tri = minecraft:birch_wood
+Block trc = minecraft:stripped_birch_wood
+Block boo = minecraft:birch_wood
+Block boi = minecraft:birch_wood
+Block boc = minecraft:stripped_birch_wood
+Block bro = minecraft:birch_wood
+Block bri = minecraft:birch_wood
+Block brc = minecraft:stripped_birch_wood
+Block lio = minecraft:birch_wood
+Block lii = minecraft:birch_wood
+Block lic = minecraft:stripped_birch_wood
+Block two = 
+Block twi = 
+Block twc = 
+Block spo = 
+Block spi = 
+Block spc = 
+Block le1 = minecraft:birch_leaves[persistent=true] keep
+Block le2 = 
+
+Function fs = 
+Function fe = 
+Function f1 = 
+Function f2 = 
+Function f3 = 
