@@ -558,7 +558,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_thickness_reduce_below_end:100
 
 ,twig_chance_auto:false
-,twig_chance_percent:50
+,   twig_chance_percent:0
 ,twig_chance:0.1
 ,twig_min_last_count:1
 
@@ -633,8 +633,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_thickness_reduce_below_end:100
 
 ,sprig_chance_auto:false
-,sprig_chance_percent:50
-,sprig_chance:0.1
+,sprig_chance_percent:0
+,sprig_chance:1.0
 ,sprig_min_last_count:1
 
 ,sprig_start_vertical:1
