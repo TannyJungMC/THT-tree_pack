@@ -15,7 +15,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"halcyon"
+,   name:"malus_domestica"
 
 ,tree_type:"land"
 ,start_height:1

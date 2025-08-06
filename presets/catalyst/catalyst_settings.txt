@@ -40,6 +40,6 @@ Block le2 =
 
 Function fs = 
 Function fe = 
-Function f1 = TannyJung-Main-Pack/apple.txt
+Function f1 = 
 Function f2 = 
 Function f3 = 
