@@ -1,12 +1,12 @@
-storage_directory = TannyJung-Main-Pack/presets/halcyon/storage
-tree_settings = TannyJung-Main-Pack/halcyon/halcyon_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/tortilis/storage
+tree_settings = TannyJung-Main-Pack/tortilis/tortilis_settings.txt
 
 world_gen = true
 
-biome = #forge:is_plains
+biome = minecraft:savanna
 ground_block = #minecraft:dirt
-rarity = 5
-min_distance = 40
+rarity = 1
+min_distance = 25
 group_size = 1 <> 1
 waterside_chance = 0.0
 

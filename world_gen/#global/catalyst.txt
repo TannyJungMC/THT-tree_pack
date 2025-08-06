@@ -1,12 +1,12 @@
-storage_directory = TannyJung-Main-Pack/presets/sq/storage
-tree_settings = TannyJung-Main-Pack/sq/sq_settings.txt
+storage_directory = TannyJung-Main-Pack/presets/catalyst/storage
+tree_settings = TannyJung-Main-Pack/catalyst/catalyst_settings.txt
 
 world_gen = true
 
-biome = minecraft:old_growth_spruce_taiga
+biome = #forge:is_plains, !#forge:is_dry
 ground_block = #minecraft:dirt
-rarity = 25
-min_distance = 50
+rarity = 5
+min_distance = 40
 group_size = 1 <> 1
 waterside_chance = 0.0
 

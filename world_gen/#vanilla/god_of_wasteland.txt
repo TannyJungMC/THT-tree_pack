@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland_settings.t
 
 world_gen = true
 
-biome = #minecraft:is_savanna / #minecraft:is_badlands
+biome = minecraft:savanna / #minecraft:is_badlands
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 0.1
 min_distance = 200
