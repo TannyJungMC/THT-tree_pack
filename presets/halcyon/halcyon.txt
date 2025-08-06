@@ -680,8 +680,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,   leaves_size_min:20
-,   leaves_size_max:50
+,   leaves_size_min:10
+,   leaves_size_max:20
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
 ,leaves_straighten_min:0
