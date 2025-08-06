@@ -3,7 +3,7 @@ tree_settings = TannyJung-Main-Pack/aider/aider_settings.txt
 
 world_gen = true
 
-biome = minecraft:birch_forest
+biome = minecraft:birch_forest / minecraft:old_growth_birch_forest
 ground_block = #minecraft:dirt
 rarity = 25
 min_distance = 30
