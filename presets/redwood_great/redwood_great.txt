@@ -15,7 +15,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"great_redwood"
+,   name:"redwood_great"
 
 ,tree_type:"land"
 ,start_height:1
