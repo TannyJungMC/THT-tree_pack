@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Main-Pack/presets/sky_island_chain/storage
-tree_settings = TannyJung-Main-Pack/sky_island_chain/sky_island_chain_settings.txt
+storage_directory = #TannyJung-Main-Pack/presets/sky_island_chain/storage
+tree_settings = #TannyJung-Main-Pack/sky_island_chain/sky_island_chain_settings.txt
 
 world_gen = true
 

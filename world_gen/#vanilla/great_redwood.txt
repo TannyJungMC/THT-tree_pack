@@ -1,5 +1,5 @@
-storage_directory = TannyJung-Main-Pack/presets/redwood_great/storage
-tree_settings = TannyJung-Main-Pack/redwood_great/redwood_great_settings.txt
+storage_directory = #TannyJung-Main-Pack/presets/redwood_great/storage
+tree_settings = #TannyJung-Main-Pack/redwood_great/redwood_great_settings.txt
 
 world_gen = true
 

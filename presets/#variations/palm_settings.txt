@@ -38,7 +38,7 @@ Block spc =
 Block le1 = minecraft:jungle_leaves[persistent=true] keep
 Block le2 = 
 
-Function fs = TannyJung-Main-Pack/disk_grass.txt
+Function fs = #TannyJung-Main-Pack/disk_grass.txt
 Function fe = 
 Function f1 = 
 Function f2 = 

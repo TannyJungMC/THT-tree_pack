@@ -710,14 +710,14 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_start:""
 ,function_end:""
 
-,   function_way1:"TannyJung-Main-Pack/ice_storm.txt"
+,   function_way1:"#TannyJung-Main-Pack/ice_storm.txt"
 ,   function_way1_type:"trunk"
 ,   function_way1_chance:0.05
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
 
-,   function_way2:"TannyJung-Main-Pack/ice_storm.txt"
+,   function_way2:"#TannyJung-Main-Pack/ice_storm.txt"
 ,   function_way2_type:"bough"
 ,   function_way2_chance:0.25
 ,function_way2_max:0
