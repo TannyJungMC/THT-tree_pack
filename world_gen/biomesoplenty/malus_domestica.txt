@@ -5,7 +5,7 @@ world_gen = true
 
 biome = biomesoplenty:pasture
 ground_block = #minecraft:dirt
-rarity = 1
+rarity = 0.5
 min_distance = 30
 group_size = 50 <> 100
 waterside_chance = 0.0
