@@ -1,7 +1,7 @@
 storage_directory = #TannyJung-Main-Pack/presets/shrub/storage
 tree_settings = #TannyJung-Main-Pack/shrub/shrub_settings.txt
 
-world_gen = true
+world_gen = false
 
 biome = #forge:is_plains / #minecraft:is_savanna / #minecraft:is_forest / #forge:is_coniferous
 ground_block = #minecraft:dirt
