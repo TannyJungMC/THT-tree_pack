@@ -4,7 +4,7 @@ tree_settings = #TannyJung-Main-Pack/#variants/polaris_settings.txt
 world_gen = true
 
 biome = minecraft:grove
-ground_block = #minecraft:dirt
+ground_block = minecraft:snow_block
 rarity = 100
 min_distance = 15
 group_size = 1 <> 1
