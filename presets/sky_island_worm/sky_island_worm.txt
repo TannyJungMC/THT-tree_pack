@@ -15,10 +15,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"sky_islands"
+,   name:"sky_island_worm"
 
 ,   tree_type:"adapt"
-,   start_height:100
+,   start_height:150
 ,   can_disable_roots:false
 ,   can_leaves_decay:false
 ,   can_leaves_drop:false
@@ -286,10 +286,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:200
-,   trunk_length_max:200
-,trunk_thickness_start:1
-,trunk_thickness_end:1
+,   trunk_length_min:50
+,   trunk_length_max:450
+,trunk_thickness_start:20
+,trunk_thickness_end:20
 
 ,trunk_start_gravity_min:15
 ,trunk_start_gravity_max:-15
@@ -297,7 +297,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,trunk_start_direction_max:360
 
 ,trunk_curvature_vertical:30
-,trunk_curvature_horizontal:15
+,   trunk_curvature_horizontal:30
 ,trunk_gravity_min:15
 ,trunk_gravity_max:-15
 ,trunk_gravity_weightiness:10
@@ -313,11 +313,11 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:10
-,   bough_count_max:20
-,   bough_length_min:200
-,   bough_length_max:200
-,bough_thickness_start:1
+,   bough_count_min:20
+,   bough_count_max:50
+,   bough_length_min:0
+,   bough_length_max:100
+,bough_thickness_start:10
 ,bough_thickness_end:1
 
 ,bough_length_reduce_from:""
@@ -333,17 +333,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_thickness_reduce_below_start:100
 ,bough_thickness_reduce_below_end:100
 
-,bough_chance_auto:false
-,bough_chance_percent:50
-,bough_chance:0.1
+,   bough_chance_auto:true
+,   bough_chance_percent:100
+,   bough_chance:1.0
 ,bough_min_last_count:1
 
-,bough_start_vertical:1
+,   bough_start_vertical:0
 ,bough_start_horizontal:1
 ,bough_start_height_min:0
 ,bough_start_height_max:0
-,bough_start_forward_min:0.25
-,bough_start_forward_max:0.25
+,   bough_start_forward_min:0.0
+,   bough_start_forward_max:0.0
 
 ,bough_center_direction_from:""
 ,bough_center_direction_center:0
@@ -358,8 +358,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,bough_curvature_vertical:5
 ,bough_curvature_horizontal:0
-,bough_gravity_min:-15
-,bough_gravity_max:-90
+,   bough_gravity_min:90
+,   bough_gravity_max:90
 ,bough_gravity_weightiness:10
 
 ,bough_continue_chance:1.0
@@ -432,8 +432,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:0
-,branch_gravity_min:0
-,branch_gravity_max:-90
+,   branch_gravity_min:90
+,   branch_gravity_max:90
 ,branch_gravity_weightiness:10
 ,branch_centripetal:3
 
@@ -710,9 +710,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_start:""
 ,function_end:""
 
-,function_way1:""
-,function_way1_type:""
-,function_way1_chance:0.0
+,function_way1:"#TannyJung-Main-Pack/moss_patch.txt"
+,function_way1_type:"trunk"
+,function_way1_chance:0.01
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
