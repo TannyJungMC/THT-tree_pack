@@ -277,9 +277,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   trunk_outer:"minecraft:stone"
-,   trunk_inner:"minecraft:stone"
-,   trunk_core:"minecraft:stone"
+,   trunk_outer:"minecraft:granite"
+,   trunk_inner:"minecraft:granite"
+,   trunk_core:"minecraft:granite"
 ,trunk_outer_level:1
 ,trunk_inner_level:0
 ,trunk_replace:true
@@ -297,7 +297,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,trunk_start_direction_max:360
 
 ,trunk_curvature_vertical:30
-,   trunk_curvature_horizontal:30
+,trunk_curvature_horizontal:15
 ,trunk_gravity_min:15
 ,trunk_gravity_max:-15
 ,trunk_gravity_weightiness:10
@@ -306,14 +306,14 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   bough_outer:"minecraft:stone"
-,   bough_inner:"minecraft:stone"
-,   bough_core:"minecraft:stone"
+,   bough_outer:"minecraft:dripstone_block"
+,   bough_inner:"minecraft:dripstone_block"
+,   bough_core:"minecraft:dripstone_block"
 ,bough_outer_level:1
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:20
+,   bough_count_min:10
 ,   bough_count_max:50
 ,   bough_length_min:0
 ,   bough_length_max:100
