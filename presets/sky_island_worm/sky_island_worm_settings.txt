@@ -1,5 +1,5 @@
 tree_type = adapt
-start_height = 150
+start_height = 100
 can_disable_roots = false
 can_leaves_decay = false
 can_leaves_drop = false
