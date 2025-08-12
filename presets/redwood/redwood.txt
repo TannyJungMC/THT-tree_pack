@@ -388,24 +388,24 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_thickness_start:1
 ,branch_thickness_end:1
 
-,branch_count_reduce_from:"trunk"
-,branch_count_reduce_center:80
+,   branch_count_reduce_from:"trunk"
+,   branch_count_reduce_center:80
 ,branch_count_reduce_above_start:100
-,branch_count_reduce_above_end:1
+,   branch_count_reduce_above_end:1
 ,branch_count_reduce_below_start:100
-,branch_count_reduce_below_end:50
-,branch_length_reduce_from:"trunk"
-,branch_length_reduce_center:80
+,   branch_count_reduce_below_end:50
+,   branch_length_reduce_from:"trunk"
+,   branch_length_reduce_center:80
 ,branch_length_reduce_above_start:100
-,branch_length_reduce_above_end:0
+,   branch_length_reduce_above_end:0
 ,branch_length_reduce_below_start:100
-,branch_length_reduce_below_end:50
-,branch_thickness_reduce_from:"trunk"
-,branch_thickness_reduce_center:80
+,   branch_length_reduce_below_end:50
+,   branch_thickness_reduce_from:"trunk"
+,   branch_thickness_reduce_center:80
 ,branch_thickness_reduce_above_start:100
-,branch_thickness_reduce_above_end:0
+,   branch_thickness_reduce_above_end:0
 ,branch_thickness_reduce_below_start:100
-,branch_thickness_reduce_below_end:50
+,   branch_thickness_reduce_below_end:50
 
 ,   branch_chance_auto:true
 ,   branch_chance_percent:50
@@ -716,6 +716,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
+,function_way1_style:""
 
 ,function_way2:""
 ,function_way2_type:""
@@ -723,6 +724,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way2_max:0
 ,function_way2_range_min:0
 ,function_way2_range_max:100
+,function_way2_style:""
 
 ,function_way3:""
 ,function_way3_type:""
@@ -730,6 +732,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100
+,function_way3_style:""
 
 
 
