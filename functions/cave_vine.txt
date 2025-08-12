@@ -1,0 +1,5 @@
+feature = 1.0 | 0/0/0 | minecraft:cave_vine
+feature = 1.0 | 0/-1/0 | minecraft:cave_vine
+feature = 1.0 | 0/-2/0 | minecraft:cave_vine
+feature = 1.0 | 0/-3/0 | minecraft:cave_vine
+feature = 1.0 | 0/-4/0 | minecraft:cave_vine

@@ -712,21 +712,21 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,function_way1:"#TannyJung-Main-Pack/moss_patch.txt"
 ,function_way1_type:"trunk"
-,function_way1_chance:0.01
+,function_way1_chance:0.005
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
 
-,function_way2:""
-,function_way2_type:""
-,function_way2_chance:0.0
+,function_way2:"#TannyJung-Main-Pack/cave_vine.txt"
+,function_way2_type:"trunk"
+,function_way2_chance:0.01
 ,function_way2_max:0
 ,function_way2_range_min:0
 ,function_way2_range_max:100
 
-,function_way3:""
-,function_way3_type:""
-,function_way3_chance:0.0
+,function_way3:"#TannyJung-Main-Pack/bush.txt"
+,function_way3_type:"trunk"
+,function_way3_chance:0.05
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100
