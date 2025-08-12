@@ -1,0 +1,23 @@
+Start Date : 27/07/2025 at 04:19:49
+Complete Date : 27/07/2025 at 04:19:50
+
+sizeX = 0
+sizeY = 0
+sizeZ = 0
+center_sizeX = 0
+center_sizeY = 0
+center_sizeZ = 0
+
+block_count_trunk = 1
+block_count_bough = 0
+block_count_branch = 0
+block_count_limb = 0
+block_count_twig = 0
+block_count_sprig = 0
+
+----------------------------------------------------------------------------------------------------
+
+
++f0/0/0fs
++b0/0/0tro
++f0/0/0fe
