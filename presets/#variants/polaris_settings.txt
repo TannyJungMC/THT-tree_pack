@@ -35,7 +35,7 @@ Block twc = minecraft:stripped_spruce_wood
 Block spo = minecraft:spruce_wood
 Block spi = minecraft:spruce_wood
 Block spc = minecraft:stripped_spruce_wood
-Block le1 = minecraft:snow_block keep
+Block le1 = minecraft:white_stained_glass keep
 Block le2 = 
 
 Function fs = 
