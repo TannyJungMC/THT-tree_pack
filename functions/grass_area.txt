@@ -1,0 +1,9 @@
+feature = 1.0 | 0/0/0 | tanshugetrees:grass_area
+feature = 0.75 | 8/0/0 | tanshugetrees:grass_area
+feature = 0.75 | -8/0/0 | tanshugetrees:grass_area
+feature = 0.75 | 0/0/8 | tanshugetrees:grass_area
+feature = 0.75 | 0/0/-8 | tanshugetrees:grass_area
+feature = 0.75 | 4/0/4 | tanshugetrees:grass_area
+feature = 0.75 | 4/0/-4 | tanshugetrees:grass_area
+feature = 0.75 | -4/0/4 | tanshugetrees:grass_area
+feature = 0.75 | -4/0/-4 | tanshugetrees:grass_area
