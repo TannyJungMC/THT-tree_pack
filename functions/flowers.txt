@@ -1,24 +1,7 @@
-// merge_all : false
-
---------------------------------------------------
-
-
-
-
-
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"5"}'}
-summon marker ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"6"}'}
-tag e[tag=THT-random,limit=1,sort=random] add THT-select
-
-execute at e[tag=THT-select,name=1] positioned ~ ~5 ~ run place feature minecraft:flower_default
-execute at e[tag=THT-select,name=2] positioned ~ ~5 ~ run place feature minecraft:flower_flower_forest
-execute at e[tag=THT-select,name=3] positioned ~ ~5 ~ run place feature minecraft:flower_meadow
-execute at e[tag=THT-select,name=4] positioned ~ ~5 ~ run place feature minecraft:flower_plains
-execute at e[tag=THT-select,name=5] positioned ~ ~5 ~ run place feature minecraft:flower_swamp
-execute at e[tag=THT-select,name=6] positioned ~ ~5 ~ run place feature minecraft:forest_flowers
-
-kill e[tag=THT-random]
+feature = 1.0 | 0/0/0 | minecraft:flower_default
+feature = 1.0 | 0/0/0 | minecraft:flower_flower_forest
+feature = 1.0 | 0/0/0 | minecraft:flower_meadow
+feature = 1.0 | 0/0/0 | minecraft:flower_plains
+feature = 1.0 | 0/0/0 | minecraft:flower_swamp
+feature = 1.0 | 0/0/0 | minecraft:forest_flowers
+feature = 1.0 | 0/0/0 | minecraft:flower_cherry
