@@ -1,11 +1,13 @@
 tree_type = adapt
 start_height = 100
-living_tree_mechanics = false
-can_disable_roots = false
+can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = true
+can_leaves_regrow = true
 
-Block tao = minecraft:stone
-Block tai = minecraft:stone
-Block tac = minecraft:stone
+Block tao = 
+Block tai = 
+Block tac = 
 Block seo = 
 Block sei = 
 Block sec = 
@@ -15,18 +17,24 @@ Block tec =
 Block fio = 
 Block fii = 
 Block fic = 
-Block tro = minecraft:oak_leaves[persistent=true] keep
-Block tri = 
-Block trc = 
-Block bro = minecraft:stone
-Block bri = minecraft:stone
-Block brc = minecraft:stone
-Block two = minecraft:oak_leaves[persistent=true] keep
-Block twi = 
-Block twc = 
-Block lto = minecraft:stone
-Block lti = minecraft:stone
-Block ltc = minecraft:stone
+Block tro = minecraft:diorite
+Block tri = minecraft:diorite
+Block trc = minecraft:diorite
+Block boo = minecraft:jungle_leaves[persistent=true] keep
+Block boi = minecraft:jungle_leaves[persistent=true] keep
+Block boc = minecraft:jungle_leaves[persistent=true] keep
+Block bro = minecraft:diorite
+Block bri = minecraft:diorite
+Block brc = minecraft:diorite
+Block lio = minecraft:jungle_leaves[persistent=true] keep
+Block lii = minecraft:jungle_leaves[persistent=true] keep
+Block lic = minecraft:jungle_leaves[persistent=true] keep
+Block two = minecraft:diorite
+Block twi = minecraft:diorite
+Block twc = minecraft:diorite
+Block spo = 
+Block spi = 
+Block spc = 
 Block le1 = minecraft:oak_leaves[persistent=true] keep
 Block le2 = 
 

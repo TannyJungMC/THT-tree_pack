@@ -732,7 +732,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100
-,function_way3_style:""
+,function_way3_style:"all"
 
 
 

@@ -716,7 +716,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
-,function_way1_style:""
+,function_way1_style:"all"
 
 ,function_way2:""
 ,function_way2_type:""
@@ -724,7 +724,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way2_max:0
 ,function_way2_range_min:0
 ,function_way2_range_max:100
-,function_way2_style:""
+,function_way2_style:"all"
 
 ,function_way3:""
 ,function_way3_type:""
@@ -732,7 +732,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,function_way3_max:0
 ,function_way3_range_min:0
 ,function_way3_range_max:100
-,function_way3_style:""
+,function_way3_style:"all"
 
 
 
