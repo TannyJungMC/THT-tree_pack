@@ -6,7 +6,7 @@ world_gen = true
 biome = minecraft:deep_ocean
 ground_block = minecraft:gravel
 rarity = 10
-min_distance = 10
+min_distance = 0
 group_size = 1 <> 1
 waterside_chance = 0.0
 
