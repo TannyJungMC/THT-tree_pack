@@ -4,8 +4,8 @@ tree_settings = #TannyJung-Main-Pack/bush/bush_settings.txt
 world_gen = true
 
 biome = biomesoplenty:lush_desert
-ground_block = #minecraft:sand
-rarity = 50
+ground_block = biomesoplenty:orange_sand / biomesoplenty:orange_sandstone
+rarity = 100
 min_distance = 10
 group_size = 1 <> 1
 waterside_chance = 0.0
