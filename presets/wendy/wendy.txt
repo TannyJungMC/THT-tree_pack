@@ -18,7 +18,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   name:"wendy"
 
 ,tree_type:"land"
-,start_height:1
+,   start_height:0
 ,can_disable_roots:true
 ,can_leaves_decay:true
 ,can_leaves_drop:true
@@ -287,19 +287,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,trunk_count_min:1
 ,trunk_count_max:1
 ,   trunk_length_min:75
-,   trunk_length_max:125
+,   trunk_length_max:100
 ,   trunk_thickness_start:2.5
 ,trunk_thickness_end:1
 
-,   trunk_start_gravity_min:-85
-,trunk_start_gravity_max:-90
+,   trunk_start_gravity_min:-80
+,   trunk_start_gravity_max:-89
 ,trunk_start_direction_min:0
 ,trunk_start_direction_max:360
 
 ,   trunk_curvature_vertical:0
 ,   trunk_curvature_horizontal:0
-,   trunk_gravity_min:-85
-,trunk_gravity_max:-90
+,   trunk_gravity_min:-80
+,   trunk_gravity_max:-89
 ,   trunk_gravity_weightiness:0
 
 
@@ -313,8 +313,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:50
-,   bough_count_max:60
+,   bough_count_min:30
+,   bough_count_max:40
 ,   bough_length_min:10
 ,   bough_length_max:15
 ,bough_thickness_start:1
@@ -334,7 +334,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_thickness_reduce_below_end:100
 
 ,   bough_chance_auto:true
-,   bough_chance_percent:80
+,   bough_chance_percent:90
 ,   bough_chance:1.0
 ,bough_min_last_count:1
 
@@ -346,7 +346,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_start_forward_max:0.25
 
 ,   bough_center_direction_from:"trunk"
-,   bough_center_direction_center:40
+,   bough_center_direction_center:50
 ,bough_center_direction_vertical_above:0
 ,bough_center_direction_vertical_below:0
 ,bough_center_direction_horizontal_above:0
@@ -381,17 +381,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_inner_level:0
 ,branch_replace:true
 
-,branch_count_min:1
-,branch_count_max:1
+,   branch_count_min:3
+,   branch_count_max:3
 ,branch_length_min:0
 ,branch_length_max:0
 ,branch_thickness_start:1
 ,branch_thickness_end:1
 
-,branch_count_reduce_from:""
-,branch_count_reduce_center:0
+,   branch_count_reduce_from:"trunk"
+,   branch_count_reduce_center:30
 ,branch_count_reduce_above_start:100
-,branch_count_reduce_above_end:100
+,branch_count_reduce_above_end:0
 ,branch_count_reduce_below_start:100
 ,branch_count_reduce_below_end:100
 ,branch_length_reduce_from:""
@@ -407,9 +407,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_thickness_reduce_below_start:100
 ,branch_thickness_reduce_below_end:100
 
-,branch_chance_auto:false
-,branch_chance_percent:50
-,branch_chance:0.1
+,   branch_chance_auto:true
+,   branch_chance_percent:75
+,   branch_chance:1.0
 ,branch_min_last_count:1
 
 ,branch_start_vertical:1
@@ -449,9 +449,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   limb_outer:"minecraft:spruce_wood"
-,   limb_inner:"minecraft:spruce_wood"
-,   limb_core:"minecraft:stripped_spruce_wood"
+,limb_outer:""
+,limb_inner:""
+,limb_core:""
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
@@ -524,9 +524,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   twig_outer:"minecraft:spruce_wood"
-,   twig_inner:"minecraft:spruce_wood"
-,   twig_core:"minecraft:stripped_spruce_wood"
+,twig_outer:""
+,twig_inner:""
+,twig_core:""
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
@@ -599,9 +599,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   sprig_outer:"minecraft:spruce_wood"
-,   sprig_inner:"minecraft:spruce_wood"
-,   sprig_core:"minecraft:stripped_spruce_wood"
+,sprig_outer:""
+,sprig_inner:""
+,sprig_core:""
 ,sprig_outer_level:1
 ,sprig_inner_level:0
 ,sprig_replace:true
@@ -680,7 +680,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,   leaves_size_min:15
+,   leaves_size_min:10
 ,   leaves_size_max:20
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
@@ -688,7 +688,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves_straighten_max:0
 
 ,   leaves_size_reduce_from:"trunk"
-,   leaves_size_reduce_center:40
+,   leaves_size_reduce_center:30
 ,leaves_size_reduce_above_start:100
 ,   leaves_size_reduce_above_end:10
 ,leaves_size_reduce_below_start:100
