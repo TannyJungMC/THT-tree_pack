@@ -41,5 +41,5 @@ Block le2 =
 Function fs = 
 Function fe = 
 Function f1 = #TannyJung-Main-Pack/moss_patch.txt
-Function f2 = #TannyJung-Main-Pack/cave_vine.txt
+Function f2 = #TannyJung-Main-Pack/vine_cave.txt
 Function f3 = #TannyJung-Main-Pack/bush.txt

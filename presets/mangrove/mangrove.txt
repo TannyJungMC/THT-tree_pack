@@ -117,7 +117,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,secondary_root_curvature_horizontal:5
 ,   secondary_root_gravity_min:90
 ,   secondary_root_gravity_max:90
-,   secondary_root_gravity_weightiness:2
+,   secondary_root_gravity_weightiness:3
 
 ,secondary_root_continue_chance:1.0
 ,secondary_root_continue_reduce_from:""
@@ -680,8 +680,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,   leaves_size_min:15
-,   leaves_size_max:25
+,   leaves_size_min:10
+,   leaves_size_max:50
 ,leaves_density:50
 ,   leaves_straighten_chance:0.01
 ,   leaves_straighten_min:1
@@ -712,11 +712,11 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   function_way1:"#TannyJung-Main-Pack/mangrove_propagule.txt"
 ,   function_way1_type:"leaves"
-,   function_way1_chance:0.01
+,   function_way1_chance:0.1
 ,function_way1_max:0
 ,function_way1_range_min:0
 ,function_way1_range_max:100
-,   function_way1_style:"all"
+,function_way1_style:"all"
 
 ,function_way2:""
 ,function_way2_type:""
