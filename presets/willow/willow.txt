@@ -15,11 +15,11 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"whisper"
+,   name:"willow"
 
-,   tree_type:"adapt"
-,   start_height:10
-,   can_disable_roots:false
+,tree_type:"land"
+,start_height:1
+,can_disable_roots:true
 ,can_leaves_decay:true
 ,can_leaves_drop:true
 ,can_leaves_regrow:true
@@ -43,8 +43,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   taproot_count_min:1
 ,   taproot_count_max:1
-,   taproot_length_min:12
-,   taproot_length_max:15
+,   taproot_length_min:5
+,   taproot_length_max:7
 ,   taproot_thickness_start:3
 ,   taproot_thickness_end:1
 
@@ -72,10 +72,10 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   secondary_root_count_min:5
 ,   secondary_root_count_max:7
-,   secondary_root_length_min:15
-,   secondary_root_length_max:20
-,   secondary_root_thickness_start:2
-,   secondary_root_thickness_end:2
+,   secondary_root_length_min:10
+,   secondary_root_length_max:12
+,   secondary_root_thickness_start:1
+,   secondary_root_thickness_end:1
 
 ,secondary_root_length_reduce_from:""
 ,secondary_root_length_reduce_center:0
@@ -95,12 +95,12 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,secondary_root_chance:1.0
 ,secondary_root_min_last_count:0
 
-,   secondary_root_start_vertical:0.5
-,   secondary_root_start_horizontal:0.5
+,secondary_root_start_vertical:1
+,secondary_root_start_horizontal:1
 ,secondary_root_start_height_min:0
 ,secondary_root_start_height_max:0
-,   secondary_root_start_forward_min:1
-,   secondary_root_start_forward_max:1
+,secondary_root_start_forward_min:0
+,secondary_root_start_forward_max:0
 
 ,secondary_root_center_direction_from:""
 ,secondary_root_center_direction_center:0
@@ -115,8 +115,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,secondary_root_curvature_vertical:0
 ,secondary_root_curvature_horizontal:5
-,   secondary_root_gravity_min:75
-,   secondary_root_gravity_max:75
+,secondary_root_gravity_min:15
+,secondary_root_gravity_max:15
 ,secondary_root_gravity_weightiness:10
 
 ,secondary_root_continue_chance:1.0
@@ -140,8 +140,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   tertiary_root_count_min:2
 ,   tertiary_root_count_max:3
-,   tertiary_root_length_min:15
-,   tertiary_root_length_max:20
+,   tertiary_root_length_min:12
+,   tertiary_root_length_max:15
 ,   tertiary_root_thickness_start:1
 ,   tertiary_root_thickness_end:1
 
@@ -165,7 +165,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,tertiary_root_thickness_reduce_below_end:100
 
 ,tertiary_root_chance_auto:true
-,tertiary_root_chance_percent:50
+,tertiary_root_chance_percent:75
 ,tertiary_root_chance:1.0
 ,tertiary_root_min_last_count:1
 
@@ -286,19 +286,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,   trunk_count_min:1
 ,   trunk_count_max:1
-,   trunk_length_min:50
-,   trunk_length_max:75
+,   trunk_length_min:10
+,   trunk_length_max:20
 ,   trunk_thickness_start:2.5
 ,   trunk_thickness_end:2
 
-,   trunk_start_gravity_min:-80
+,trunk_start_gravity_min:-75
 ,trunk_start_gravity_max:-89
 ,trunk_start_direction_min:0
 ,trunk_start_direction_max:360
 
 ,trunk_curvature_vertical:30
 ,trunk_curvature_horizontal:15
-,   trunk_gravity_min:-80
+,trunk_gravity_min:-75
 ,trunk_gravity_max:-89
 ,trunk_gravity_weightiness:10
 
@@ -313,8 +313,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_inner_level:0
 ,bough_replace:true
 
-,   bough_count_min:5
-,   bough_count_max:6
+,   bough_count_min:4
+,   bough_count_max:5
 ,   bough_length_min:5
 ,   bough_length_max:7
 ,   bough_thickness_start:1.5
@@ -683,9 +683,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   leaves_size_min:10
 ,   leaves_size_max:50
 ,leaves_density:50
-,   leaves_straighten_chance:0.05
-,   leaves_straighten_min:1
-,   leaves_straighten_max:30
+,leaves_straighten_chance:0.1
+,leaves_straighten_min:1
+,leaves_straighten_max:20
 
 ,leaves_size_reduce_from:""
 ,leaves_size_reduce_center:0

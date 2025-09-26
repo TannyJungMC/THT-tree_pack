@@ -1,12 +1,12 @@
-storage_directory = #TannyJung-Main-Pack/presets/shrub/storage
-tree_settings = #TannyJung-Main-Pack/shrub/shrub_settings.txt
+storage_directory = #TannyJung-Main-Pack/presets/willow/storage
+tree_settings = #TannyJung-Main-Pack/willow/willow_settings.txt
 
 world_gen = true
 
-biome = #minecraft:is_forest / #minecraft:is_jungle / #forge:is_swamp
+biome = minecraft:swamp
 ground_block = #minecraft:dirt
-rarity = 25
-min_distance = 0
+rarity = 50
+min_distance = 20
 group_size = 1 <> 1
 waterside_chance = 0.0
 

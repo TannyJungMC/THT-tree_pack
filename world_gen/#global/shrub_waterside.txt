@@ -3,7 +3,7 @@ tree_settings = #TannyJung-Main-Pack/shrub/shrub_settings.txt
 
 world_gen = true
 
-biome = #forge:is_plains / #minecraft:is_savanna / #minecraft:is_forest / #forge:is_coniferous / #minecraft:is_jungle
+biome = #forge:is_plains / #minecraft:is_savanna / #minecraft:is_forest / #forge:is_coniferous / #minecraft:is_jungle / #forge:is_swamp
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 25
 min_distance = 10
