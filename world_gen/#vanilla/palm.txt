@@ -3,7 +3,7 @@ tree_settings = #TannyJung-Main-Pack/#variants/palm_settings.txt
 
 world_gen = true
 
-biome = minecraft:sparse_jungle
+biome = minecraft:jungle / minecraft:sparse_jungle
 ground_block = #minecraft:dirt
 rarity = 25
 min_distance = 0

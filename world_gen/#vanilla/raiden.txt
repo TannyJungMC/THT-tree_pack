@@ -1,12 +1,12 @@
-storage_directory = #TannyJung-Main-Pack/presets/catalyst/storage
-tree_settings = #TannyJung-Main-Pack/catalyst/catalyst_settings.txt
+storage_directory = #TannyJung-Main-Pack/presets/raiden/storage
+tree_settings = #TannyJung-Main-Pack/raiden/raiden_settings.txt
 
 world_gen = true
 
-biome = minecraft:forest / minecraft:jungle
+biome = minecraft:jungle
 ground_block = #minecraft:dirt
-rarity = 100
-min_distance = 30
+rarity = 50
+min_distance = 40
 group_size = 1 <> 1
 waterside_chance = 0.0
 

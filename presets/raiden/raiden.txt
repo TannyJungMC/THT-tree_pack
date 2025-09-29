@@ -15,7 +15,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"falcon"
+,   name:"raiden"
 
 ,tree_type:"land"
 ,start_height:1
@@ -34,18 +34,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   taproot_outer:"minecraft:oak_wood"
-,   taproot_inner:"minecraft:oak_wood"
-,   taproot_core:"minecraft:stripped_oak_wood"
+,   taproot_outer:"minecraft:jungle_wood"
+,   taproot_inner:"minecraft:jungle_wood"
+,   taproot_core:"minecraft:stripped_jungle_wood"
 ,taproot_outer_level:1
 ,taproot_inner_level:0
 ,taproot_replace:true
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,   taproot_length_min:7
-,   taproot_length_max:10
-,   taproot_thickness_start:5
+,   taproot_length_min:12
+,   taproot_length_max:15
+,   taproot_thickness_start:6
 ,taproot_thickness_end:1
 
 ,taproot_start_gravity_min:90
@@ -63,18 +63,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   secondary_root_outer:"minecraft:oak_wood"
-,   secondary_root_inner:"minecraft:oak_wood"
-,   secondary_root_core:"minecraft:stripped_oak_wood"
+,   secondary_root_outer:"minecraft:jungle_wood"
+,   secondary_root_inner:"minecraft:jungle_wood"
+,   secondary_root_core:"minecraft:stripped_jungle_wood"
 ,secondary_root_outer_level:1
 ,secondary_root_inner_level:0
 ,secondary_root_replace:true
 
 ,   secondary_root_count_min:5
 ,   secondary_root_count_max:7
-,   secondary_root_length_min:15
-,   secondary_root_length_max:20
-,   secondary_root_thickness_start:2
+,   secondary_root_length_min:25
+,   secondary_root_length_max:30
+,   secondary_root_thickness_start:3
 ,secondary_root_thickness_end:1
 
 ,secondary_root_length_reduce_from:""
@@ -131,17 +131,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   tertiary_root_outer:"minecraft:oak_wood"
-,   tertiary_root_inner:"minecraft:oak_wood"
-,   tertiary_root_core:"minecraft:stripped_oak_wood"
+,   tertiary_root_outer:"minecraft:jungle_wood"
+,   tertiary_root_inner:"minecraft:jungle_wood"
+,   tertiary_root_core:"minecraft:stripped_jungle_wood"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner_level:0
 ,tertiary_root_replace:true
 
-,   tertiary_root_count_min:2
-,   tertiary_root_count_max:3
-,   tertiary_root_length_min:20
-,   tertiary_root_length_max:25
+,   tertiary_root_count_min:3
+,   tertiary_root_count_max:5
+,   tertiary_root_length_min:30
+,   tertiary_root_length_max:35
 ,tertiary_root_thickness_start:1
 ,tertiary_root_thickness_end:1
 
@@ -205,17 +205,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   fine_root_outer:"minecraft:oak_wood"
-,   fine_root_inner:"minecraft:oak_wood"
-,   fine_root_core:"minecraft:stripped_oak_wood"
+,   fine_root_outer:"minecraft:jungle_wood"
+,   fine_root_inner:"minecraft:jungle_wood"
+,   fine_root_core:"minecraft:stripped_jungle_wood"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
 
-,   fine_root_count_min:3
-,   fine_root_count_max:5
+,   fine_root_count_min:5
+,   fine_root_count_max:7
 ,   fine_root_length_min:1
-,   fine_root_length_max:20
+,   fine_root_length_max:50
 ,fine_root_thickness_start:1
 ,fine_root_thickness_end:1
 
@@ -277,18 +277,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   trunk_outer:"minecraft:oak_wood"
-,   trunk_inner:"minecraft:oak_wood"
-,   trunk_core:"minecraft:stripped_oak_wood"
+,   trunk_outer:"minecraft:jungle_wood"
+,   trunk_inner:"minecraft:jungle_wood"
+,   trunk_core:"minecraft:stripped_jungle_wood"
 ,trunk_outer_level:1
 ,trunk_inner_level:0
 ,trunk_replace:true
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:50
-,   trunk_length_max:75
-,   trunk_thickness_start:4
+,   trunk_length_min:75
+,   trunk_length_max:100
+,   trunk_thickness_start:5
 ,   trunk_thickness_end:3
 
 ,trunk_start_gravity_min:-75
@@ -306,9 +306,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   bough_outer:"minecraft:oak_wood"
-,   bough_inner:"minecraft:oak_wood"
-,   bough_core:"minecraft:stripped_oak_wood"
+,   bough_outer:"minecraft:jungle_wood"
+,   bough_inner:"minecraft:jungle_wood"
+,   bough_core:"minecraft:stripped_jungle_wood"
 ,bough_outer_level:1
 ,bough_inner_level:0
 ,bough_replace:true
@@ -374,9 +374,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   branch_outer:"minecraft:oak_wood"
-,   branch_inner:"minecraft:oak_wood"
-,   branch_core:"minecraft:stripped_oak_wood"
+,   branch_outer:"minecraft:jungle_wood"
+,   branch_inner:"minecraft:jungle_wood"
+,   branch_core:"minecraft:stripped_jungle_wood"
 ,branch_outer_level:1
 ,branch_inner_level:0
 ,branch_replace:true
@@ -449,9 +449,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   limb_outer:"minecraft:oak_wood"
-,   limb_inner:"minecraft:oak_wood"
-,   limb_core:"minecraft:stripped_oak_wood"
+,   limb_outer:"minecraft:jungle_wood"
+,   limb_inner:"minecraft:jungle_wood"
+,   limb_core:"minecraft:stripped_jungle_wood"
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
@@ -524,9 +524,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   twig_outer:"minecraft:oak_wood"
-,   twig_inner:"minecraft:oak_wood"
-,   twig_core:"minecraft:stripped_oak_wood"
+,   twig_outer:"minecraft:jungle_wood"
+,   twig_inner:"minecraft:jungle_wood"
+,   twig_core:"minecraft:stripped_jungle_wood"
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
@@ -675,7 +675,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,leaves_generator_type:"sphere_zone"
-,   leaves1:"minecraft:oak_leaves[persistent=true]"
+,   leaves1:"minecraft:jungle_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false
@@ -683,9 +683,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,   leaves_size_min:20
 ,   leaves_size_max:50
 ,leaves_density:50
-,leaves_straighten_chance:0.0
-,leaves_straighten_min:0
-,leaves_straighten_max:0
+,leaves_straighten_chance:0.01
+,leaves_straighten_min:1
+,leaves_straighten_max:50
 
 ,leaves_size_reduce_from:""
 ,leaves_size_reduce_center:0
