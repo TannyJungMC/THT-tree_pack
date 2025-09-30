@@ -3,7 +3,7 @@ tree_settings = #TannyJung-Main-Pack/halcyon/halcyon_settings.txt
 
 world_gen = true
 
-biome = minecraft:forest
+biome = minecraft:forest / minecraft:dark_forest
 ground_block = #minecraft:dirt
 rarity = 100
 min_distance = 30

@@ -3,7 +3,7 @@ tree_settings = #TannyJung-Main-Pack/catalyst/catalyst_settings.txt
 
 world_gen = true
 
-biome = minecraft:forest / minecraft:jungle
+biome = minecraft:forest / minecraft:jungle / minecraft:dark_forest
 ground_block = #minecraft:dirt
 rarity = 100
 min_distance = 30
