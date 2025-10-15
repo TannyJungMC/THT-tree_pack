@@ -15,11 +15,11 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   name:"spike_terra"
+,   name:"helios"
 
-,   tree_type:"adapt"
-,   start_height:-20
-,   can_disable_roots:false
+,tree_type:"land"
+,start_height:1
+,can_disable_roots:true
 ,   can_leaves_decay:false
 ,   can_leaves_drop:false
 ,   can_leaves_regrow:false
@@ -34,18 +34,18 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   taproot_outer:"minecraft:orange_terracotta"
-,   taproot_inner:"minecraft:yellow_terracotta"
-,   taproot_core:"minecraft:red_terracotta"
+,   taproot_outer:"minecraft:crimson_hyphae"
+,   taproot_inner:"minecraft:crimson_hyphae"
+,   taproot_core:"minecraft:stripped_crimson_hyphae"
 ,taproot_outer_level:1
-,   taproot_inner_level:1
+,taproot_inner_level:0
 ,taproot_replace:true
 
 ,taproot_count_min:1
 ,taproot_count_max:1
-,   taproot_length_min:40
-,   taproot_length_max:60
-,   taproot_thickness_start:10
+,   taproot_length_min:100
+,   taproot_length_max:120
+,   taproot_thickness_start:50
 ,taproot_thickness_end:1
 
 ,taproot_start_gravity_min:90
@@ -63,19 +63,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,secondary_root_outer:""
-,secondary_root_inner:""
-,secondary_root_core:""
+,   secondary_root_outer:"minecraft:crimson_hyphae"
+,   secondary_root_inner:"minecraft:crimson_hyphae"
+,   secondary_root_core:"minecraft:stripped_crimson_hyphae"
 ,secondary_root_outer_level:1
 ,secondary_root_inner_level:0
 ,secondary_root_replace:true
 
-,   secondary_root_count_min:0
-,   secondary_root_count_max:0
-,secondary_root_length_min:0
-,secondary_root_length_max:0
-,secondary_root_thickness_start:1
-,secondary_root_thickness_end:1
+,   secondary_root_count_min:12
+,   secondary_root_count_max:15
+,   secondary_root_length_min:200
+,   secondary_root_length_max:250
+,   secondary_root_thickness_start:20
+,   secondary_root_thickness_end:10
 
 ,secondary_root_length_reduce_from:""
 ,secondary_root_length_reduce_center:0
@@ -131,19 +131,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,tertiary_root_outer:""
-,tertiary_root_inner:""
-,tertiary_root_core:""
+,   tertiary_root_outer:"minecraft:crimson_hyphae"
+,   tertiary_root_inner:"minecraft:crimson_hyphae"
+,   tertiary_root_core:"minecraft:stripped_crimson_hyphae"
 ,tertiary_root_outer_level:1
 ,tertiary_root_inner_level:0
 ,tertiary_root_replace:true
 
-,tertiary_root_count_min:1
-,tertiary_root_count_max:1
-,tertiary_root_length_min:0
-,tertiary_root_length_max:0
-,tertiary_root_thickness_start:1
-,tertiary_root_thickness_end:1
+,   tertiary_root_count_min:7
+,   tertiary_root_count_max:10
+,   tertiary_root_length_min:250
+,   tertiary_root_length_max:300
+,   tertiary_root_thickness_start:8
+,   tertiary_root_thickness_end:1
 
 ,tertiary_root_count_reduce_from:""
 ,tertiary_root_count_reduce_center:0
@@ -205,17 +205,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,fine_root_outer:""
-,fine_root_inner:""
-,fine_root_core:""
+,   fine_root_outer:"minecraft:crimson_hyphae"
+,   fine_root_inner:"minecraft:crimson_hyphae"
+,   fine_root_core:"minecraft:stripped_crimson_hyphae"
 ,fine_root_outer_level:1
 ,fine_root_inner_level:0
 ,fine_root_replace:true
 
-,fine_root_count_min:1
-,fine_root_count_max:1
-,fine_root_length_min:0
-,fine_root_length_max:0
+,   fine_root_count_min:30
+,   fine_root_count_max:40
+,   fine_root_length_min:1
+,   fine_root_length_max:200
 ,fine_root_thickness_start:1
 ,fine_root_thickness_end:1
 
@@ -277,48 +277,48 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   trunk_outer:"minecraft:orange_terracotta"
-,   trunk_inner:"minecraft:yellow_terracotta"
-,   trunk_core:"minecraft:red_terracotta"
-,trunk_outer_level:1
+,   trunk_outer:"minecraft:shroomlight"
+,   trunk_inner:"minecraft:crimson_hyphae"
+,   trunk_core:"minecraft:stripped_crimson_hyphae"
+,   trunk_outer_level:0.1
 ,   trunk_inner_level:1
 ,trunk_replace:true
 
 ,trunk_count_min:1
 ,trunk_count_max:1
-,   trunk_length_min:50
-,   trunk_length_max:100
-,   trunk_thickness_start:10
-,trunk_thickness_end:1
+,trunk_length_min:0
+,trunk_length_max:0
+,   trunk_thickness_start:50
+,   trunk_thickness_end:50
 
-,   trunk_start_gravity_min:-30
-,   trunk_start_gravity_max:-75
-,   trunk_start_direction_min:45
-,   trunk_start_direction_max:45
+,trunk_start_gravity_min:-75
+,trunk_start_gravity_max:-89
+,trunk_start_direction_min:0
+,trunk_start_direction_max:360
 
-,   trunk_curvature_vertical:0
-,   trunk_curvature_horizontal:0
+,trunk_curvature_vertical:30
+,trunk_curvature_horizontal:15
 ,trunk_gravity_min:-75
 ,trunk_gravity_max:-89
-,   trunk_gravity_weightiness:0
+,trunk_gravity_weightiness:10
 
 
 
 
 
-,bough_outer:""
-,bough_inner:""
-,bough_core:""
-,bough_outer_level:1
-,bough_inner_level:0
+,   bough_outer:"minecraft:shroomlight"
+,   bough_inner:"minecraft:crimson_hyphae"
+,   bough_core:"minecraft:stripped_crimson_hyphae"
+,   bough_outer_level:0.2
+,   bough_inner_level:1
 ,bough_replace:true
 
-,   bough_count_min:0
-,   bough_count_max:0
-,bough_length_min:0
-,bough_length_max:0
-,bough_thickness_start:1
-,bough_thickness_end:1
+,   bough_count_min:15
+,   bough_count_max:20
+,   bough_length_min:90
+,   bough_length_max:110
+,   bough_thickness_start:25
+,   bough_thickness_end:15
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
@@ -336,7 +336,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,bough_chance_auto:false
 ,bough_chance_percent:50
 ,bough_chance:0.1
-,bough_min_last_count:1
+,   bough_min_last_count:0
 
 ,bough_start_vertical:1
 ,bough_start_horizontal:1
@@ -358,8 +358,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,bough_curvature_vertical:5
 ,bough_curvature_horizontal:0
-,bough_gravity_min:-15
-,bough_gravity_max:-90
+,   bough_gravity_min:-30
+,bough_gravity_max:-75
 ,bough_gravity_weightiness:10
 
 ,bough_continue_chance:1.0
@@ -374,19 +374,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,branch_outer:""
-,branch_inner:""
-,branch_core:""
-,branch_outer_level:1
-,branch_inner_level:0
+,   branch_outer:"minecraft:shroomlight"
+,   branch_inner:"minecraft:crimson_hyphae"
+,   branch_core:"minecraft:stripped_crimson_hyphae"
+,   branch_outer_level:0.4
+,   branch_inner_level:1
 ,branch_replace:true
 
-,branch_count_min:1
-,branch_count_max:1
-,branch_length_min:0
-,branch_length_max:0
-,branch_thickness_start:1
-,branch_thickness_end:1
+,   branch_count_min:2
+,   branch_count_max:3
+,   branch_length_min:110
+,   branch_length_max:130
+,   branch_thickness_start:10
+,   branch_thickness_end:8
 
 ,branch_count_reduce_from:""
 ,branch_count_reduce_center:0
@@ -408,7 +408,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,branch_thickness_reduce_below_end:100
 
 ,branch_chance_auto:false
-,branch_chance_percent:50
+,   branch_chance_percent:25
 ,branch_chance:0.1
 ,branch_min_last_count:1
 
@@ -432,8 +432,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,branch_curvature_vertical:5
 ,branch_curvature_horizontal:0
-,branch_gravity_min:0
-,branch_gravity_max:-90
+,   branch_gravity_min:-15
+,   branch_gravity_max:-60
 ,branch_gravity_weightiness:10
 ,branch_centripetal:3
 
@@ -449,19 +449,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,limb_outer:""
-,limb_inner:""
-,limb_core:""
-,limb_outer_level:1
-,limb_inner_level:0
+,   limb_outer:"minecraft:shroomlight"
+,   limb_inner:"minecraft:crimson_hyphae"
+,   limb_core:"minecraft:stripped_crimson_hyphae"
+,   limb_outer_level:0.6
+,   limb_inner_level:1
 ,limb_replace:true
 
-,limb_count_min:1
-,limb_count_max:1
-,limb_length_min:0
-,limb_length_max:0
-,limb_thickness_start:1
-,limb_thickness_end:1
+,   limb_count_min:2
+,   limb_count_max:3
+,   limb_length_min:130
+,   limb_length_max:150
+,   limb_thickness_start:6
+,   limb_thickness_end:4
 
 ,limb_count_reduce_from:""
 ,limb_count_reduce_center:0
@@ -483,7 +483,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,limb_thickness_reduce_below_end:100
 
 ,limb_chance_auto:false
-,limb_chance_percent:50
+,   limb_chance_percent:25
 ,limb_chance:0.1
 ,limb_min_last_count:1
 
@@ -507,8 +507,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,limb_curvature_vertical:5
 ,limb_curvature_horizontal:0
-,limb_gravity_min:15
-,limb_gravity_max:-90
+,   limb_gravity_min:0
+,   limb_gravity_max:-45
 ,limb_gravity_weightiness:10
 ,limb_centripetal:3
 
@@ -524,19 +524,19 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,twig_outer:""
-,twig_inner:""
-,twig_core:""
-,twig_outer_level:1
-,twig_inner_level:0
+,   twig_outer:"minecraft:shroomlight"
+,   twig_inner:"minecraft:crimson_hyphae"
+,   twig_core:"minecraft:stripped_crimson_hyphae"
+,   twig_outer_level:0.8
+,   twig_inner_level:1
 ,twig_replace:true
 
-,twig_count_min:1
-,twig_count_max:1
-,twig_length_min:0
-,twig_length_max:0
-,twig_thickness_start:1
-,twig_thickness_end:1
+,   twig_count_min:3
+,   twig_count_max:4
+,   twig_length_min:150
+,   twig_length_max:170
+,   twig_thickness_start:3
+,   twig_thickness_end:2
 
 ,twig_count_reduce_from:""
 ,twig_count_reduce_center:0
@@ -558,7 +558,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,twig_thickness_reduce_below_end:100
 
 ,twig_chance_auto:false
-,twig_chance_percent:50
+,   twig_chance_percent:0
 ,twig_chance:0.1
 ,twig_min_last_count:1
 
@@ -582,8 +582,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,twig_curvature_vertical:5
 ,twig_curvature_horizontal:0
-,twig_gravity_min:30
-,twig_gravity_max:-90
+,   twig_gravity_min:15
+,   twig_gravity_max:-30
 ,twig_gravity_weightiness:10
 ,twig_centripetal:3
 
@@ -599,17 +599,17 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,sprig_outer:""
-,sprig_inner:""
-,sprig_core:""
-,sprig_outer_level:1
-,sprig_inner_level:0
+,   sprig_outer:"minecraft:shroomlight"
+,   sprig_inner:"minecraft:crimson_hyphae"
+,   sprig_core:"minecraft:stripped_crimson_hyphae"
+,   sprig_outer_level:0.9
+,   sprig_inner_level:1
 ,sprig_replace:true
 
-,sprig_count_min:1
-,sprig_count_max:1
-,sprig_length_min:0
-,sprig_length_max:0
+,   sprig_count_min:5
+,   sprig_count_max:7
+,   sprig_length_min:30
+,   sprig_length_max:40
 ,sprig_thickness_start:1
 ,sprig_thickness_end:1
 
@@ -632,9 +632,9 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_thickness_reduce_below_start:100
 ,sprig_thickness_reduce_below_end:100
 
-,sprig_chance_auto:false
+,   sprig_chance_auto:true
 ,sprig_chance_percent:50
-,sprig_chance:0.1
+,   sprig_chance:1.0
 ,sprig_min_last_count:1
 
 ,sprig_start_vertical:1
@@ -657,7 +657,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 ,sprig_curvature_vertical:5
 ,sprig_curvature_horizontal:0
-,sprig_gravity_min:45
+,   sprig_gravity_min:-45
 ,sprig_gravity_max:-90
 ,sprig_gravity_weightiness:10
 ,sprig_centripetal:3
@@ -675,13 +675,13 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 ,leaves_generator_type:"sphere_zone"
-,leaves1:""
+,   leaves1:"minecraft:glowstone"
 ,leaves2:""
 ,leaves2_chance:0.0
 ,leaves_replace:false
 
-,leaves_size_min:0
-,leaves_size_max:0
+,   leaves_size_min:10
+,   leaves_size_max:100
 ,leaves_density:50
 ,leaves_straighten_chance:0.0
 ,leaves_straighten_min:0

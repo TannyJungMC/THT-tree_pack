@@ -20,7 +20,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,tree_type:"land"
 ,start_height:1
 ,can_disable_roots:true
-,can_leaves_decay:true
+,   can_leaves_decay:false
 ,   can_leaves_drop:false
 ,   can_leaves_regrow:false
 
@@ -633,8 +633,8 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 ,sprig_thickness_reduce_below_end:100
 
 ,sprig_chance_auto:false
-,sprig_chance_percent:0
-,sprig_chance:1.0
+,sprig_chance_percent:50
+,sprig_chance:0.1
 ,sprig_min_last_count:1
 
 ,sprig_start_vertical:1
