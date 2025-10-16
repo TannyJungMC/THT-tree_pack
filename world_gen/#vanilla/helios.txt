@@ -3,9 +3,9 @@ tree_settings = #TannyJung-Main-Pack/helios/helios_settings.txt
 
 world_gen = true
 
-biome = !minecraft:void
+biome = minecraft:snowy_plains
 ground_block = #minecraft:dirt
-rarity = 1
+rarity = 0.001
 min_distance = 500
 group_chance = 0.0
 waterside_chance = 0.0
