@@ -1,5 +1,5 @@
 data_structure_version = 20251023
-pack_version = 20251001
+pack_version = 20251025
 
 mod_version = 20250816
 // Delete this later
