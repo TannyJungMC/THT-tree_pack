@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/rock/storage
-tree_settings = #TannyJung-Main-Pack/rock/rock_settings.txt
+path_storage = #TannyJung-Main-Pack/rock
+path_tree_settings = #TannyJung-Main-Pack/rock/rock
 
 world_gen = true
 

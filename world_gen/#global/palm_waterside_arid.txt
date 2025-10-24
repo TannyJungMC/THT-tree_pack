@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/coconut_tree/storage
-tree_settings = #TannyJung-Main-Pack/#variants/palm_settings.txt
+path_storage = #TannyJung-Main-Pack/coconut_tree
+path_tree_settings = #TannyJung-Main-Pack/#variants/palm
 
 world_gen = true
 

@@ -1,4 +1,4 @@
-data_structure_version = 20250814
+data_structure_version = 20251023
 pack_version = 20251001
 
 mod_version = 20250816

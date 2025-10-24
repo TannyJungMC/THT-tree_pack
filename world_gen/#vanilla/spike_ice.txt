@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/spike_ice/storage
-tree_settings = #TannyJung-Main-Pack/spike_ice/spike_ice_settings.txt
+path_storage = #TannyJung-Main-Pack/spike_ice
+path_tree_settings = #TannyJung-Main-Pack/spike_ice/spike_ice
 
 world_gen = true
 

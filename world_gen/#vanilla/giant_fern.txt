@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/giant_fern/storage
-tree_settings = #TannyJung-Main-Pack/giant_fern/giant_fern_settings.txt
+path_storage = #TannyJung-Main-Pack/giant_fern
+path_tree_settings = #TannyJung-Main-Pack/giant_fern/giant_fern
 
 world_gen = true
 

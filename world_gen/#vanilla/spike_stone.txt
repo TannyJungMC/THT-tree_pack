@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/spike_stone/storage
-tree_settings = #TannyJung-Main-Pack/spike_stone/spike_stone_settings.txt
+path_storage = #TannyJung-Main-Pack/spike_stone
+path_tree_settings = #TannyJung-Main-Pack/spike_stone/spike_stone
 
 world_gen = true
 

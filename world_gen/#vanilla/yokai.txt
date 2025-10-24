@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/yokai/storage
-tree_settings = #TannyJung-Main-Pack/yokai/yokai_settings.txt
+path_storage = #TannyJung-Main-Pack/yokai
+path_tree_settings = #TannyJung-Main-Pack/yokai/yokai
 
 world_gen = true
 

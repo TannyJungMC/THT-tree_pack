@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/raiden/storage
-tree_settings = #TannyJung-Main-Pack/raiden/raiden_settings.txt
+path_storage = #TannyJung-Main-Pack/raiden
+path_tree_settings = #TannyJung-Main-Pack/raiden/raiden
 
 world_gen = true
 

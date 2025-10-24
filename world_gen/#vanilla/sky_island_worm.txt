@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/sky_island_worm/storage
-tree_settings = #TannyJung-Main-Pack/sky_island_worm/sky_island_worm_settings.txt
+path_storage = #TannyJung-Main-Pack/sky_island_worm
+path_tree_settings = #TannyJung-Main-Pack/sky_island_worm/sky_island_worm
 
 world_gen = true
 

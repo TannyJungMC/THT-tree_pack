@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/glamor/storage
-tree_settings = #TannyJung-Main-Pack/glamor/glamor_settings.txt
+path_storage = #TannyJung-Main-Pack/glamor
+path_tree_settings = #TannyJung-Main-Pack/glamor/glamor
 
 world_gen = true
 

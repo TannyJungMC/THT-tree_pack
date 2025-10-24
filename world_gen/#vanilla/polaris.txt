@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/wendy/storage
-tree_settings = #TannyJung-Main-Pack/#variants/polaris_settings.txt
+path_storage = #TannyJung-Main-Pack/wendy
+path_tree_settings = #TannyJung-Main-Pack/#variants/polaris
 
 world_gen = true
 

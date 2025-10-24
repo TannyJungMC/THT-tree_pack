@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/mangrove/storage
-tree_settings = #TannyJung-Main-Pack/mangrove/mangrove_settings.txt
+path_storage = #TannyJung-Main-Pack/mangrove
+path_tree_settings = #TannyJung-Main-Pack/mangrove/mangrove
 
 world_gen = true
 

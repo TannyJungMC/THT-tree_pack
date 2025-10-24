@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/antenna/storage
-tree_settings = #TannyJung-Main-Pack/antenna/antenna_settings.txt
+path_storage = #TannyJung-Main-Pack/antenna
+path_tree_settings = #TannyJung-Main-Pack/antenna/antenna
 
 world_gen = true
 

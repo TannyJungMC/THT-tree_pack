@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/helios/storage
-tree_settings = #TannyJung-Main-Pack/helios/helios_settings.txt
+path_storage = #TannyJung-Main-Pack/helios
+path_tree_settings = #TannyJung-Main-Pack/helios/helios
 
 world_gen = true
 

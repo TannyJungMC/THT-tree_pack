@@ -1,5 +1,5 @@
-storage_directory = #TannyJung-Main-Pack/presets/giant_grass/storage
-tree_settings = #TannyJung-Main-Pack/giant_grass/giant_grass_settings.txt
+path_storage = #TannyJung-Main-Pack/giant_grass
+path_tree_settings = #TannyJung-Main-Pack/giant_grass/giant_grass
 
 world_gen = true
 
