@@ -40,7 +40,7 @@ Block le2 1202 =
 
 Function fs 210 = 
 Function fe 220 = 
-Function f1 201 = #TannyJung-Main-Pack/apple.txt
+Function f1 201 = #TannyJung-Main-Pack/apple
 Function f2 202 = 
 Function f3 203 = 
 Function f4 204 = 

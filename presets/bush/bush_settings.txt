@@ -38,7 +38,7 @@ Block spc 1193 =
 Block le1 1201 = minecraft:oak_leaves[persistent=true] keep
 Block le2 1202 = 
 
-Function fs 210 = #TannyJung-Main-Pack/grass_area.txt
+Function fs 210 = #TannyJung-Main-Pack/grass_area
 Function fe 220 = 
 Function f1 201 = 
 Function f2 202 = 

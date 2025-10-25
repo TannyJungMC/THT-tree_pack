@@ -6,7 +6,7 @@ world_gen = true
 biome = minecraft:mangrove_swamp
 ground_block = #minecraft:dirt
 rarity = 100
-min_distance = 30
+min_distance = 20
 group_size = 1 <> 1
 waterside_chance = 0.0
 
