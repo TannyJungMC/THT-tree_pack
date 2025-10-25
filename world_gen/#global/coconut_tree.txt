@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/coconut_tree
-path_tree_settings = #TannyJung-Main-Pack/coconut_tree/coconut
+path_tree_settings = #TannyJung-Main-Pack/coconut_tree/coconut_tree
 
 world_gen = true
 

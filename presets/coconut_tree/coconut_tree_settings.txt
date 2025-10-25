@@ -1,0 +1,47 @@
+tree_type = land
+start_height = -1
+can_disable_roots = true
+can_leaves_decay = true
+can_leaves_drop = false
+can_leaves_regrow = true
+
+Block tao 1101 = minecraft:jungle_wood
+Block tai 1102 = minecraft:jungle_wood
+Block tac 1103 = minecraft:stripped_jungle_wood
+Block seo 1111 = minecraft:jungle_wood
+Block sei 1112 = minecraft:jungle_wood
+Block sec 1113 = minecraft:stripped_jungle_wood
+Block teo 1121 = 
+Block tei 1122 = 
+Block tec 1123 = 
+Block fio 1131 = 
+Block fii 1132 = 
+Block fic 1133 = 
+Block tro 1141 = minecraft:jungle_wood
+Block tri 1142 = minecraft:jungle_wood
+Block trc 1143 = minecraft:stripped_jungle_wood
+Block boo 1151 = 
+Block boi 1152 = 
+Block boc 1153 = 
+Block bro 1161 = 
+Block bri 1162 = 
+Block brc 1163 = 
+Block lio 1171 = 
+Block lii 1172 = 
+Block lic 1173 = 
+Block two 1181 = 
+Block twi 1182 = 
+Block twc 1183 = 
+Block spo 1191 = 
+Block spi 1192 = 
+Block spc 1193 = 
+Block le1 1201 = minecraft:jungle_leaves[persistent=true] keep
+Block le2 1202 = 
+
+Function fs 210 = 
+Function fe 220 = 
+Function f1 201 = 
+Function f2 202 = 
+Function f3 203 = 
+Function f4 204 = 
+Function f5 205 = 

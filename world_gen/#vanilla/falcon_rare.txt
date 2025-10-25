@@ -3,7 +3,7 @@ path_tree_settings = #TannyJung-Main-Pack/falcon/falcon
 
 world_gen = true
 
-biome = minecraft:savanna / #minecraft:is_badlands
+biome = minecraft:savanna
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 1
 min_distance = 40
