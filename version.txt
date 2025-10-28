@@ -1,4 +1,4 @@
 mod_version : 20240915
 pack_version : 20241024
 
-message : Hello explorers. Just forgot to update message here for a year!? Here's a news from 29/10/2025. This pack and mod version now outdated. There's new versions available now (v.1.5.2) but still in alpha phase. You can try it before it by enable alpha version in CurseForge or download directly from Modrinth. That new version will be release when I feel it's ready. Hope you have fun your exploring! TannyJung.
+message : Hello explorers. Just forgot to update message here for a year!? Here's a news from 29/10/2025. This pack and mod version now outdated. There's new versions available now (v.1.5.2) but still in alpha phase. You can try it by enable alpha version in CurseForge or download directly from Modrinth. That new version will be release when I feel it's ready. Hope you have fun with your exploring! TannyJung.
