@@ -35,7 +35,7 @@ Block twc 1183 =
 Block spo 1191 = 
 Block spi 1192 = 
 Block spc 1193 = 
-Block le1 1201 = minecraft:minecraft:packed_ice keep
+Block le1 1201 = minecraft:packed_ice keep
 Block le2 1202 = 
 
 Function fs 210 = 
