@@ -707,7 +707,7 @@ give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"col
 
 
 
-,   function_start:"#TannyJung-Main-Pack/grass_area"
+,   function_start:"#TannyJung-Main-Pack/area_grass"
 ,function_end:""
 
 ,function_way1:""
