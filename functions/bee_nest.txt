@@ -1,24 +1,33 @@
-// merge_all : false
+[
 
---------------------------------------------------
+if
+block = 1/0/0 | #tanshugetrees:air_blocks
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=east] | false
+break
 
+if
+block = -1/0/0 | #tanshugetrees:air_blocks
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=west] | false
+break
 
+if
+block = 0/0/1 | #tanshugetrees:air_blocks
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=south] | false
+break
 
+if
+block = 0/0/-1 | #tanshugetrees:air_blocks
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=north] | false
+break
 
+]
 
-summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"1"}'}
-summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"2"}'}
-summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"3"}'}
-summon armor_stand ~ ~ ~ {Tags:["THT-random"],CustomName:'{"text":"4"}'}
-tag e[tag=THT-random,limit=1,sort=random] add THT-select
+command = 1.0 | summon minecraft:bee ~ ~-1 ~
+command = 1.0 | summon minecraft:bee ~ ~-1 ~
+command = 1.0 | summon minecraft:bee ~ ~-1 ~
 
-execute at e[tag=THT-select,name=1] if block ~ ~-1 ~ #tanshugetrees:passable_blocks if block ~ ~-2 ~ #tanshugetrees:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=north]
-execute at e[tag=THT-select,name=2] if block ~ ~-1 ~ #tanshugetrees:passable_blocks if block ~ ~-2 ~ #tanshugetrees:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=west]
-execute at e[tag=THT-select,name=3] if block ~ ~-1 ~ #tanshugetrees:passable_blocks if block ~ ~-2 ~ #tanshugetrees:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=east]
-execute at e[tag=THT-select,name=4] if block ~ ~-1 ~ #tanshugetrees:passable_blocks if block ~ ~-2 ~ #tanshugetrees:passable_blocks run setblock ~ ~-1 ~ bee_nest[facing=south]
-
-execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tanshugetrees:passable_blocks run summon bee ~ ~-2 ~
-execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tanshugetrees:passable_blocks run summon bee ~ ~-2 ~
-execute if block ~ ~-1 ~ bee_nest if block ~ ~-2 ~ #tanshugetrees:passable_blocks run summon bee ~ ~-2 ~
-
-kill e[tag=THT-random]
+function = 1.0 | 0/-5/0 | #TannyJung-Main-Pack/flowers
