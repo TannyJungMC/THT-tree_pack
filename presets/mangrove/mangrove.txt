@@ -1,4 +1,4 @@
-give @p tanshugetrees:random_tree{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
+give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
 
 ,tree_generator_speed_global:true
 ,tree_generator_speed_tick:1
