@@ -1,0 +1,59 @@
+[
+
+if
+chance = 0.0001
+else
+run
+return
+
+]
+
+[
+
+if
+block = 3/-10/0 | !#minecraft:dirt
+block = -3/-10/0 | !#minecraft:dirt
+block = 0/-10/3 | !#minecraft:dirt
+block = 0/-10/-3 | !#minecraft:dirt
+run
+return
+
+]
+
+[
+
+if
+block = 2/0/0 | #tanshugetrees:air_blocks
+block = -2/0/0 | #tanshugetrees:air_blocks
+block = 0/0/2 | #tanshugetrees:air_blocks
+block = 0/0/-2 | #tanshugetrees:air_blocks
+else
+run
+return
+
+]
+
+
+
+
+
+block = 1.0 | 0/0/0 | -2/0/-2/2/0/2 | minecraft:oak_slab[type=top] | true
+
+block = 1.0 | 3/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=east] | true
+block = 1.0 | -3/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=west] | true
+block = 1.0 | 0/0/3 | 0/-10/0/0/0/0 | minecraft:ladder[facing=south] | true
+block = 1.0 | 0/0/-3 | 0/-10/0/0/0/0 | minecraft:ladder[facing=north] | true
+
+block = 1.0 | 2/1/2 | 0/0/0/0/0/0 | minecraft:oak_log | true
+block = 1.0 | 2/1/-2 | 0/0/0/0/0/0 | minecraft:oak_log | true
+block = 1.0 | -2/1/2 | 0/0/0/0/0/0 | minecraft:oak_log | true
+block = 1.0 | -2/1/-2 | 0/0/0/0/0/0 | minecraft:oak_log | true
+
+block = 1.0 | 2/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | true
+block = 1.0 | 2/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | true
+block = 1.0 | -2/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | true
+block = 1.0 | -2/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | true
+block = 1.0 | 1/1/2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | true
+block = 1.0 | -1/1/2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | true
+block = 1.0 | 1/1/-2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | true
+block = 1.0 | -1/1/-2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | true
