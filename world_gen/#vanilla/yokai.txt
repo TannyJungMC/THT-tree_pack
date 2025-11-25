@@ -5,7 +5,7 @@ world_gen = true
 
 biome = minecraft:meadow
 ground_block = #minecraft:dirt
-rarity = 10
+rarity = 1
 min_distance = 100
 group_size = 1 <> 1
 waterside_chance = 0.0

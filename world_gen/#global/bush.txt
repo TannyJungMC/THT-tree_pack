@@ -3,9 +3,9 @@ path_tree_settings = #TannyJung-Main-Pack/bush/bush
 
 world_gen = true
 
-biome = #minecraft:is_forest / #minecraft:is_jungle / #forge:is_swamp
+biome = #minecraft:is_forest / #minecraft:is_taiga / #forge:is_coniferous / #minecraft:is_jungle / #forge:is_swamp
 ground_block = #minecraft:dirt
-rarity = 25
+rarity = 10
 min_distance = 0
 group_size = 1 <> 1
 waterside_chance = 0.0
