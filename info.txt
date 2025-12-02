@@ -1,0 +1,5 @@
+pack_id = #TannyJung-Main-Pack
+pack_version = 20251025
+data_structure_version = 20251023
+dependencies = none
+message = tellraw @a [{"text":"--------------------------------------------------\n\nNotice! The mod now renamed the main tree pack to \"#TannyJung-Main-Pack\" and moved some folders. If you are updating from older versions, you may still have those in your custom packs folder. It will send you incompatibility message every time a world starts. You can fix that by rename or delete it, or just ignore that message.\n\n--------------------------------------------------","color":"dark_green"}]

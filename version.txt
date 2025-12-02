@@ -3,3 +3,9 @@ pack_version = 20251025
 
 mod_version = 20250816
 // Delete this later
+
+
+
+
+
+This file will be removed in the future. As I plan to write all mod info into single file instead.
