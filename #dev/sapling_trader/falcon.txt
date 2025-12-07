@@ -1,1 +1,0 @@
-minecraft:emerald{...} bla bla
