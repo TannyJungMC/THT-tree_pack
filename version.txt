@@ -1,4 +1,11 @@
-mod_version : 20240915
-pack_version : 20241024
+data_structure_version = 20251023
+pack_version = 20251025
 
-message : You are now using the preview version of the new update. Introducing new leaves style and block connector! Also with new design for more realistic, combo with NoCubes mod for better experience! Some trees is updated for preview, such as trees in forest and plains. But others still not updated yet, please be patient!\n\nT v T ) I'm just feel burnout...\n\nNew mod version with new features and some performance improves will be release as soon as I feel like its ready! (Maybe this halloween?) Follow the updates on Discord.
+mod_version = 20250816
+// Delete this later
+
+
+
+
+
+This file will be removed in the future. As I plan to write all mod info into single file instead.

@@ -1,0 +1,6 @@
+feature = 1.0 | 0/0/0 | minecraft:flower_default
+feature = 1.0 | 0/0/0 | minecraft:flower_flower_forest
+feature = 1.0 | 0/0/0 | minecraft:flower_meadow
+feature = 1.0 | 0/0/0 | minecraft:flower_swamp
+feature = 1.0 | 0/0/0 | minecraft:forest_flowers
+feature = 1.0 | 0/0/0 | minecraft:flower_cherry

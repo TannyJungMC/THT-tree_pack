@@ -1,0 +1,13 @@
+[
+
+if
+block = 0/0/0 | #tanshugetrees:air_blocks
+run
+return
+
+]
+
+command = 0.25 | execute if block ~1 ~ ~ #tanshugetrees:air_blocks run setblock ~1 ~ ~ minecraft:player_wall_head[facing=east]{SkullOwner:{Id:[I;-826442461,1119898131,-1131884196,-1019416383],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdmMDJmMTQxODRjZGU3NWVmN2QxNGM1YThjODQ4ZGVmNjliZmYzODE2YThkZWRiZWQ1YTVlZmE1YTYyNjk5YSJ9fX0="}]}}} keep
+command = 0.25 | execute if block ~-1 ~ ~ #tanshugetrees:air_blocks run setblock ~-1 ~ ~ minecraft:player_wall_head[facing=west]{SkullOwner:{Id:[I;-826442461,1119898131,-1131884196,-1019416383],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdmMDJmMTQxODRjZGU3NWVmN2QxNGM1YThjODQ4ZGVmNjliZmYzODE2YThkZWRiZWQ1YTVlZmE1YTYyNjk5YSJ9fX0="}]}}} keep
+command = 0.25 | execute if block ~ ~ ~1 #tanshugetrees:air_blocks run setblock ~ ~ ~1 minecraft:player_wall_head[facing=south]{SkullOwner:{Id:[I;-826442461,1119898131,-1131884196,-1019416383],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdmMDJmMTQxODRjZGU3NWVmN2QxNGM1YThjODQ4ZGVmNjliZmYzODE2YThkZWRiZWQ1YTVlZmE1YTYyNjk5YSJ9fX0="}]}}} keep
+command = 0.25 | execute if block ~ ~ ~-1 #tanshugetrees:air_blocks run setblock ~ ~ ~-1 minecraft:player_wall_head[facing=north]{SkullOwner:{Id:[I;-826442461,1119898131,-1131884196,-1019416383],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdmMDJmMTQxODRjZGU3NWVmN2QxNGM1YThjODQ4ZGVmNjliZmYzODE2YThkZWRiZWQ1YTVlZmE1YTYyNjk5YSJ9fX0="}]}}} keep

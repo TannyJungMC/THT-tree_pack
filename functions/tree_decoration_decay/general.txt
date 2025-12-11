@@ -1,0 +1,24 @@
+[
+if
+biome = 0/0/0 | #forge:is_dry
+run
+return
+]
+
+block = 0.25 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | true
+block = 0.1 | 0/1/0 | 0/0/0/0/0/0 | minecraft:brown_mushroom | true
+block = 0.1 | 0/1/0 | 0/0/0/0/0/0 | minecraft:red_mushroom | true
+
+[
+if
+biome = 0/0/0 | #minecraft:is_jungle / #forge:is_swamp
+run
+block = 0.05 | 1/0/0 | 0/-5/0/0/0/0 | minecraft:vine[west=true] | true
+block = 0.05 | 1/0/0 | 0/-10/0/0/0/0 | minecraft:vine[west=true] | true
+block = 0.05 | -1/0/0 | 0/-5/0/0/0/0 | minecraft:vine[east=true] | true
+block = 0.05 | -1/0/0 | 0/-10/0/0/0/0 | minecraft:vine[east=true] | true
+block = 0.05 | 0/0/1 | 0/-5/0/0/0/0 | minecraft:vine[north=true] | true
+block = 0.05 | 0/0/1 | 0/-10/0/0/0/0 | minecraft:vine[north=true] | true
+block = 0.05 | 0/0/-1 | 0/-5/0/0/0/0 | minecraft:vine[south=true] | true
+block = 0.05 | 0/0/-1 | 0/-10/0/0/0/0 | minecraft:vine[south=true] | true
+]

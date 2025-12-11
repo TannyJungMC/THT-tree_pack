@@ -1,0 +1,15 @@
+path_storage = #TannyJung-Main-Pack/spike_stone
+path_settings = #TannyJung-Main-Pack/spike_stone/spike_stone
+
+world_gen = true
+biome = minecraft:deep_ocean
+ground_block = minecraft:gravel
+rarity = 25
+min_distance = 0
+group_size = 1 <> 1
+waterside_chance = 0.0
+dead_tree_chance = 0.0
+dead_tree_level = auto
+start_height_offset = 0 <> 0
+rotation = random
+mirrored = random

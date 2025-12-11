@@ -1,0 +1,19 @@
+0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=north,flower_amount=1]
+1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=1] = 0/minecraft:pink_petals[facing=north,flower_amount=2]
+1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=2] = 0/minecraft:pink_petals[facing=north,flower_amount=3]
+1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=3] = 0/minecraft:pink_petals[facing=north,flower_amount=4]
+
+0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=west,flower_amount=1]
+1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=1] = 0/minecraft:pink_petals[facing=west,flower_amount=2]
+1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=2] = 0/minecraft:pink_petals[facing=west,flower_amount=3]
+1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=3] = 0/minecraft:pink_petals[facing=west,flower_amount=4]
+
+0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=east,flower_amount=1]
+1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=1] = 0/minecraft:pink_petals[facing=east,flower_amount=2]
+1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=2] = 0/minecraft:pink_petals[facing=east,flower_amount=3]
+1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=3] = 0/minecraft:pink_petals[facing=east,flower_amount=4]
+
+1.0 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=south,flower_amount=1]
+1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=1] = 0/minecraft:pink_petals[facing=south,flower_amount=2]
+1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=2] = 0/minecraft:pink_petals[facing=south,flower_amount=3]
+1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=3] = 0/minecraft:pink_petals[facing=south,flower_amount=4]

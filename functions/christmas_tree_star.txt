@@ -1,0 +1,22 @@
+// merge_all : false
+
+--------------------------------------------------
+
+
+
+
+
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[0f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[90f]}
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
+
+execute at e[tag=THT-select] run fill ^ ^ ^ ^ ^1 ^ spruce_wood
+
+execute at e[tag=THT-select] run fill ^ ^2 ^ ^ ^5 ^ gold_block
+execute at e[tag=THT-select] run fill ^3 ^3 ^ ^-3 ^3 ^ gold_block
+execute at e[tag=THT-select] run fill ^1 ^1 ^ ^1 ^2 ^ gold_block
+execute at e[tag=THT-select] run fill ^-1 ^1 ^ ^-1 ^2 ^ gold_block
+execute at e[tag=THT-select] run setblock ^2 ^ ^ gold_block
+execute at e[tag=THT-select] run setblock ^-2 ^ ^ gold_block
+
+kill e[tag=THT-random]

@@ -1,0 +1,35 @@
+// merge_all : false
+
+--------------------------------------------------
+
+
+
+
+
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[0f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[90f]}
+summon marker ~ ~ ~ {Tags:["THT-random"],Rotation:[180f]}
+summon armor_stand ~ ~ ~ {Tags:["THT-random"],Rotation:[270f]}
+tag e[tag=THT-random,limit=1,sort=random] add THT-select
+
+
+
+execute at e[tag=THT-select] run fill ^ ^1 ^1 ^ ^1 ^3 moss_block keep
+
+execute at e[tag=THT-select] run fill ^-1 ^2 ^4 ^1 ^2 ^4 moss_block keep
+execute at e[tag=THT-select] run fill ^1 ^2 ^2 ^1 ^2 ^3 moss_block keep
+execute at e[tag=THT-select] run fill ^-1 ^2 ^2 ^-1 ^2 ^3 moss_block keep
+
+execute at e[tag=THT-select] run setblock ^ ^2 ^5 moss_block keep
+execute at e[tag=THT-select] run setblock ^-2 ^2 ^3 moss_block keep
+execute at e[tag=THT-select] run setblock ^2 ^2 ^3 moss_block keep
+
+execute at e[tag=THT-select] run setblock ^ ^3 ^6 moss_block keep
+execute at e[tag=THT-select] run setblock ^1 ^3 ^5 moss_block keep
+execute at e[tag=THT-select] run setblock ^-1 ^3 ^5 moss_block keep
+execute at e[tag=THT-select] run setblock ^2 ^3 ^4 moss_block keep
+execute at e[tag=THT-select] run setblock ^-2 ^3 ^4 moss_block keep
+
+
+
+kill e[tag=THT-random]

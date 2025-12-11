@@ -1,0 +1,15 @@
+path_storage = #TannyJung-Main-Pack/spike_ice
+path_settings = #TannyJung-Main-Pack/spike_ice/spike_ice
+
+world_gen = true
+biome = minecraft:ice_spikes
+ground_block = minecraft:snow_block
+rarity = 25
+min_distance = 0
+group_size = 1 <> 1
+waterside_chance = 0.0
+dead_tree_chance = 0.0
+dead_tree_level = auto
+start_height_offset = 0 <> 0
+rotation = north
+mirrored = false

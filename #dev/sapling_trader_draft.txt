@@ -1,0 +1,108 @@
+<<<<<<< HEAD
+// Price = minecraft:Biggest File Size / 5 (round down)
+// ----------------------------------------------------------------------------------------------------
+// merge_all : true
+=======
+Price = minecraft:Biggest File Size / 5 (round down)
+
+
+
+
+
+merge_all : true
+>>>>>>> wip
+
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+summon wandering_trader ~ ~ ~ {VillagerData:{level:99},CustomName:'{"text":"
+The Plant Hunter
+","color":"
+dark_green
+"}',ArmorItems:[{},{},{},{id:"
+tanshugetrees:yokai
+",Count:1b}],DeathLootTable:"minecraft:empty",ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],Offers:{Recipes:[
+
+
+
+
+
+{buy:{
+id:"emerald",Count:1},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"paper",tag:{display:{Name:"{\"text\":\"Planty Coupon : 1 Emerald\",\"color\":\"green\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+rewardExp:0b,maxUses:9999999},
+
+{buy:{
+id:"paper",tag:{display:{Name:"{\"text\":\"Planty Coupon : 1 Emerald\",\"color\":\"green\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:10b},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"map",tag:{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+rewardExp:0b,maxUses:9999999},
+
+{buy:{
+id:"map",tag:{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:10b},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"book",tag:{display:{Name:"{\"text\":\"Planty Coupon : 100 Emeralds\",\"color\":\"aqua\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+rewardExp:0b,maxUses:9999999},
+
+{buy:{
+id:"book",tag:{display:{Name:"{\"text\":\"Planty Coupon : 100 Emeralds\",\"color\":\"aqua\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"map",tag:{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:10b},
+rewardExp:0b,maxUses:9999999},
+
+{buy:{
+id:"map",tag:{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"paper",tag:{display:{Name:"{\"text\":\"Planty Coupon : 1 Emerald\",\"color\":\"green\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:10b},
+rewardExp:0b,maxUses:9999999},
+
+{buy:{
+id:"paper",tag:{display:{Name:"{\"text\":\"Planty Coupon : 1 Emerald\",\"color\":\"green\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:1b},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"emerald",Count:1},
+rewardExp:0b,maxUses:9999999},
+
+
+
+
+
+{buy:{
+id:"map",tag:{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:[
+"{\"text\":\"A special coupon for trade saplings from Tan's Huge Trees mod\",\"color\":\"dark_gray\"}"]}},Count:20},
+buyB:{
+id:"air",Count:1},
+sell:{
+id:"tanshugetrees:falcon",Count:1},
+rewardExp:0b,maxUses:9999999}
+
+
+
+
+
+]}}

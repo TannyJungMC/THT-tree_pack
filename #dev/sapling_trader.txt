@@ -1,0 +1,10 @@
+// merge_all : false
+
+--------------------------------------------------
+
+
+
+
+
+summon item ~ ~ ~ {Item:{id:"tanshugetrees:waypoint_flower",Count:1b}}
+tellraw @a[distance=..200] [{"text":"Sapling trader is not available yet","color":"red"}]

@@ -1,0 +1,15 @@
+path_storage = #TannyJung-Main-Pack/coconut_tree
+path_settings = #TannyJung-Main-Pack/coconut_tree/coconut_tree
+
+world_gen = true
+biome = #minecraft:is_beach
+ground_block = #minecraft:dirt / #minecraft:sand
+rarity = 25
+min_distance = 0
+group_size = 1 <> 1
+waterside_chance = 0.0
+dead_tree_chance = 0.1
+dead_tree_level = auto
+start_height_offset = 0 <> 0
+rotation = random
+mirrored = random

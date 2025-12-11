@@ -1,0 +1,2 @@
+block = 0.25 | 0/0/0 | 0/0/0/0/0/16 | minecraft:packed_ice | true
+block = 1.0 | 0/0/0 | 0/0/0/0/0/8 | minecraft:packed_ice | true

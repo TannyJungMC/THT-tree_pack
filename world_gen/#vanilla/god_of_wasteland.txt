@@ -1,0 +1,15 @@
+path_storage = #TannyJung-Main-Pack/god_of_wasteland
+path_settings = #TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland
+
+world_gen = true
+biome = minecraft:savanna / #minecraft:is_badlands
+ground_block = #minecraft:dirt / #minecraft:sand
+rarity = 0.1
+min_distance = 200
+group_chance = 0.0
+waterside_chance = 0.0
+dead_tree_chance = 0.1
+dead_tree_level = auto
+start_height_offset = 0 <> 0
+rotation = random
+mirrored = random
