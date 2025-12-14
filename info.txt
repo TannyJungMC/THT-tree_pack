@@ -4,4 +4,4 @@ required_packs = none
 required_mods = none
 
 pack_version = 20251025
-message = tellraw @a [{"text":"--------------------------------------------------\n\nHello Human\n\n--------------------------------------------------","color":"dark_green"}]
+message = tellraw @a [{"text":"--------------------------------------------------\n\nHello World\n\n--------------------------------------------------","color":"dark_green"}]
