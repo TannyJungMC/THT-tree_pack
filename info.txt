@@ -4,4 +4,4 @@ required_packs = none
 required_mods = none
 
 pack_version = 20251025
-message = tellraw @a [{"text":"\n--------------------------------------------------\n\nHello world. This message was written on 14/12/2025 for test. Have a nice day.\n\n--------------------------------------------------\n","color":"dark_green"}]
+message = tellraw @a [{"text":"\n--------------------------------------------------\n\nHello explorers. This message was written on 14/12/2025 from Tan's Huge Trees mod. It will be use as news message in the future. There's no any news for now. Have a nice day!\n\n--------------------------------------------------\n","color":"dark_green"}]
