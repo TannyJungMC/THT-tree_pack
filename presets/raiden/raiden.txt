@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"raiden"
-
 ,tree_type:"land"
 ,start_height:1
 ,can_disable_roots:true
@@ -683,9 +681,9 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   leaves_size_min:20
 ,   leaves_size_max:50
 ,leaves_density:50
-,leaves_straighten_chance:0.01
+,leaves_straighten_chance:0.0
 ,   leaves_straighten_min:1
-,leaves_straighten_max:50
+,leaves_straighten_max:0
 
 ,leaves_size_reduce_from:""
 ,leaves_size_reduce_center:0

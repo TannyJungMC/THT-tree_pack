@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"helios"
-
 ,tree_type:"land"
 ,start_height:1
 ,can_disable_roots:true
@@ -359,7 +357,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,bough_curvature_vertical:5
 ,bough_curvature_horizontal:0
 ,   bough_gravity_min:-30
-,bough_gravity_max:-75
+,bough_gravity_max:-90
 ,bough_gravity_weightiness:10
 
 ,bough_continue_chance:1.0

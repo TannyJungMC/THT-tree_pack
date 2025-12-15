@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"god_of_wasteland"
-
 ,tree_type:"land"
 ,start_height:1
 ,can_disable_roots:true

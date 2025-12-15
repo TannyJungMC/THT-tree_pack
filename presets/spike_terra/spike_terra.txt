@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"spike_terra"
-
 ,   tree_type:"adapt"
 ,   start_height:-20
 ,   can_disable_roots:false

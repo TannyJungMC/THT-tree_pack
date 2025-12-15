@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"glamor"
-
 ,tree_type:"land"
 ,   start_height:0
 ,can_disable_roots:true
@@ -391,7 +389,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   branch_count_reduce_from:"trunk"
 ,   branch_count_reduce_center:20
 ,branch_count_reduce_above_start:100
-,branch_count_reduce_above_end:0
+,branch_count_reduce_above_end:100
 ,branch_count_reduce_below_start:100
 ,branch_count_reduce_below_end:100
 ,branch_length_reduce_from:""

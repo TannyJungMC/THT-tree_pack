@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"sky_island_worm"
-
 ,   tree_type:"adapt"
 ,   start_height:100
 ,   can_disable_roots:false

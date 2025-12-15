@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"whisper"
-
 ,   tree_type:"adapt"
 ,   start_height:10
 ,   can_disable_roots:false
@@ -165,7 +163,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,tertiary_root_thickness_reduce_below_end:100
 
 ,tertiary_root_chance_auto:true
-,tertiary_root_chance_percent:50
+,tertiary_root_chance_percent:75
 ,tertiary_root_chance:1.0
 ,tertiary_root_min_last_count:1
 

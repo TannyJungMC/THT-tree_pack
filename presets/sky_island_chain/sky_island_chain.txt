@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"sky_island_chain"
-
 ,   tree_type:"adapt"
 ,   start_height:100
 ,can_disable_roots:true
@@ -674,7 +672,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,leaves_generator_type:"sphere"
+,leaves_generator_type:"sphere_zone"
 ,   leaves1:"minecraft:oak_leaves[persistent=true]"
 ,leaves2:""
 ,leaves2_chance:0.0

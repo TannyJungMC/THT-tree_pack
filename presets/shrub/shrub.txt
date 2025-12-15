@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"shrub"
-
 ,tree_type:"land"
 ,   start_height:0
 ,can_disable_roots:true

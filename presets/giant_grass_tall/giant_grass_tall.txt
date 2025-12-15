@@ -15,8 +15,6 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   name:"giant_grass_tall"
-
 ,tree_type:"land"
 ,   start_height:0
 ,can_disable_roots:true
@@ -317,8 +315,8 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   bough_count_max:30
 ,   bough_length_min:50
 ,   bough_length_max:200
-,bough_thickness_start:4
-,bough_thickness_end:1.5
+,bough_thickness_start:1
+,bough_thickness_end:1
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
