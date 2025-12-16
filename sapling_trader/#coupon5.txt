@@ -1,0 +1,11 @@
+minecraft:paper
+{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:["{\"text\":\"Special coupon from Tan's Huge Trees mod. Use this to trade saplings from sapling trader.\",\"color\":\"dark_gray\"}"]}}
+10
+
+minecraft:air
+{}
+0
+
+minecraft:paper
+{display:{Name:"{\"text\":\"Planty Coupon : 100 Emeralds\",\"color\":\"gold\"}",Lore:["{\"text\":\"Special coupon from Tan's Huge Trees mod. Use this to trade saplings from sapling trader.\",\"color\":\"dark_gray\"}"]}}
+1

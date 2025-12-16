@@ -1,0 +1,11 @@
+minecraft:paper
+{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:["{\"text\":\"Special coupon from Tan's Huge Trees mod. Use this to trade saplings from sapling trader.\",\"color\":\"dark_gray\"}"]}}
+1
+
+minecraft:air
+{}
+0
+
+tanshugetrees:tree_generator
+{display:{Name:"{\"text\":\"Custom Sapling : Aider\"}"},BlockEntityTag:{ForgeData:{path:"#TannyJung-Main-Pack/aider"}}}
+1
