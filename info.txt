@@ -3,5 +3,5 @@ data_structure_version = 20251216
 required_packs = none
 required_mods = none
 
-pack_version = 20251206
+pack_version = 20251216
 message = tellraw @a [{"text":"\n--------------------------------------------------\n\nHello explorers. This message was written on 14/12/2025 from Tan's Huge Trees mod. It will be use as news message in the future. There's no any news for now. Have a nice day!\n\n--------------------------------------------------\n","color":"dark_green"}]
