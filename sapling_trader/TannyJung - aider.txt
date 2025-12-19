@@ -7,5 +7,4 @@ minecraft:air
 0
 
 tanshugetrees:tree_generator
-{display:{Name:"{\"text\":\"Custom Sapling : Aider\"}"},BlockEntityTag:{ForgeData:{path:"#TannyJung-Main-Pack/aider"}}}
-1
+{display:{Name:"{\"text\":\"Custom Sapling : Aider\"}"},BlockEntityTag:{ForgeData:{path:"#TannyJung-Main-Pack/aider"}}}1
