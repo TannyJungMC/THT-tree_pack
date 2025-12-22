@@ -712,7 +712,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   function_way1_type:"trunk"
 ,   function_way1_chance:1.0
 ,function_way1_max:0
-,function_way1_range_min:0
+,	function_way1_range_min:90
 ,function_way1_range_max:100
 ,function_way1_style:"all"
 

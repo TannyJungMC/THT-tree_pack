@@ -3,25 +3,25 @@
 if
 block = 1/0/0 | #tanshugetrees:air_blocks
 run
-block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=east] | false
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=east] | all
 break
 
 if
 block = -1/0/0 | #tanshugetrees:air_blocks
 run
-block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=west] | false
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=west] | all
 break
 
 if
 block = 0/0/1 | #tanshugetrees:air_blocks
 run
-block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=south] | false
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=south] | all
 break
 
 if
 block = 0/0/-1 | #tanshugetrees:air_blocks
 run
-block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=north] | false
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:bee_nest[facing=north] | all
 break
 
 ]
