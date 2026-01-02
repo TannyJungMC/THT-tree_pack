@@ -4,4 +4,4 @@ required_packs = none
 required_mods = none
 
 pack_version = 20251216
-message = tellraw @a [{"text":"\n--------------------------------------------------\n\nHappy New Year 2026!\n\n--------------------------------------------------\n","color":"dark_green"}]
+message = tellraw @a [{"text":"This maybe a bit late... but... "}, {"text":"H","color":"red"},{"text":"A","color":"gold"},{"text":"P","color":"yellow"},{"text":"P","color":"green"},{"text":"Y","color":"aqua"},{"text":" "},{"text":"N","color":"blue"},{"text":"E","color":"light_purple"},{"text":"W","color":"red"},{"text":" "},{"text":"Y","color":"gold"},{"text":"E","color":"yellow"},{"text":"A","color":"green"},{"text":"R","color":"aqua"},{"text":" "},{"text":"2","color":"blue"},{"text":"0","color":"light_purple"},{"text":"2","color":"red"},{"text":"6","color":"gold"},{"text":"!","color":"yellow"}]
