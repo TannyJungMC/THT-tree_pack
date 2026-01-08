@@ -3,8 +3,8 @@ path_settings = #TannyJung-Main-Pack/shrub/shrub
 
 world_gen = true
 biome = biomesoplenty:lush_desert
-ground_block = #minecraft:dirt / #minecraft:sand / #forge:sandstone
-rarity = 100
+ground_block = #minecraft:dirt / #minecraft:sand
+rarity = 10
 min_distance = 0
 group_size = 1 <> 1
 waterside_chance = 0.0

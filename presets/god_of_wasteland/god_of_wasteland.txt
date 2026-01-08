@@ -141,7 +141,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   tertiary_root_length_min:60
 ,   tertiary_root_length_max:80
 ,   tertiary_root_thickness_start:5
-,   tertiary_root_thickness_end:1
+,tertiary_root_thickness_end:1
 
 ,tertiary_root_count_reduce_from:""
 ,tertiary_root_count_reduce_center:0
