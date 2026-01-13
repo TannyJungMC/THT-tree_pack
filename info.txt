@@ -3,4 +3,4 @@ data_structure_version = 20251216
 required_packs = none
 required_mods = none
 
-pack_version = 20260108
+pack_version = 20260114

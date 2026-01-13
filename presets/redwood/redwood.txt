@@ -447,9 +447,9 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   limb_outer:"minecraft:stripped_acacia_wood"
-,   limb_inner:"minecraft:stripped_acacia_wood"
-,   limb_core:"minecraft:stripped_spruce_wood"
+,limb_outer:""
+,limb_inner:""
+,limb_core:""
 ,limb_outer_level:1
 ,limb_inner_level:0
 ,limb_replace:true
@@ -522,9 +522,9 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   twig_outer:"minecraft:stripped_acacia_wood"
-,   twig_inner:"minecraft:stripped_acacia_wood"
-,   twig_core:"minecraft:stripped_spruce_wood"
+,twig_outer:""
+,twig_inner:""
+,twig_core:""
 ,twig_outer_level:1
 ,twig_inner_level:0
 ,twig_replace:true
@@ -597,9 +597,9 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 
 
 
-,   sprig_outer:"minecraft:stripped_acacia_wood"
-,   sprig_inner:"minecraft:stripped_acacia_wood"
-,   sprig_core:"minecraft:stripped_spruce_wood"
+,sprig_outer:""
+,sprig_inner:""
+,sprig_core:""
 ,sprig_outer_level:1
 ,sprig_inner_level:0
 ,sprig_replace:true

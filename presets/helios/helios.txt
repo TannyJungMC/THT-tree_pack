@@ -73,7 +73,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   secondary_root_length_min:200
 ,   secondary_root_length_max:250
 ,   secondary_root_thickness_start:20
-,   secondary_root_thickness_end:10
+,secondary_root_thickness_end:10
 
 ,secondary_root_length_reduce_from:""
 ,secondary_root_length_reduce_center:0
@@ -316,7 +316,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,   bough_length_min:90
 ,   bough_length_max:110
 ,   bough_thickness_start:25
-,   bough_thickness_end:15
+,bough_thickness_end:15
 
 ,bough_length_reduce_from:""
 ,bough_length_reduce_center:0
