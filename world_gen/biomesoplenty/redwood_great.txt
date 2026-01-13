@@ -1,11 +1,11 @@
 path_storage = #TannyJung-Main-Pack/redwood_great
-path_settings = #TannyJung-Main-Pack/redwood_great/redwood_great
+path_settings = #TannyJung-Main-Pack/#variants/redwood_great_biomesoplenty
 
 world_gen = true
-biome = minecraft:old_growth_spruce_taiga
+biome = biomesoplenty:redwood_forest
 ground_block = #minecraft:dirt
-rarity = 5
-min_distance = 50
+rarity = 15
+min_distance = 30
 group_size = 1 <> 1
 waterside_chance = 0.0
 dead_tree_chance = 0.1
