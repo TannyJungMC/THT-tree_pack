@@ -1,0 +1,789 @@
+give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
+
+,tree_generator_speed_global:true
+,tree_generator_speed_tick:1
+,tree_generator_speed_repeat:1000
+,countdown:10
+
+
+
+
+
+,"--------------------------------------------------":"--------------------------------------------------"
+
+
+
+
+
+,tree_type:"land"
+,start_height:1
+,can_disable_roots:true
+,can_leaves_decay:true
+,can_leaves_drop:true
+,can_leaves_regrow:true
+
+
+
+
+
+,"--------------------------------------------------":"--------------------------------------------------"
+
+
+
+
+
+,   taproot_outer:"minecraft:acacia_wood"
+,   taproot_inner:"minecraft:acacia_wood"
+,   taproot_core:"minecraft:stripped_acacia_wood"
+,taproot_outer_level:1
+,taproot_inner_level:0
+,taproot_replace:true
+
+,   taproot_count_min:1
+,   taproot_count_max:1
+,   taproot_length_min:40
+,   taproot_length_max:50
+,   taproot_thickness_start:16
+,   taproot_thickness_end:1
+
+,taproot_start_gravity_min:90
+,taproot_start_gravity_max:90
+,taproot_start_direction_min:0
+,taproot_start_direction_max:360
+
+,taproot_curvature_vertical:0
+,taproot_curvature_horizontal:0
+,taproot_gravity_min:90
+,taproot_gravity_max:90
+,taproot_gravity_weightiness:0
+
+
+
+
+
+,   secondary_root_outer:"minecraft:acacia_wood"
+,   secondary_root_inner:"minecraft:acacia_wood"
+,   secondary_root_core:"minecraft:stripped_acacia_wood"
+,secondary_root_outer_level:1
+,secondary_root_inner_level:0
+,secondary_root_replace:true
+
+,   secondary_root_count_min:5
+,   secondary_root_count_max:7
+,   secondary_root_length_min:25
+,   secondary_root_length_max:30
+,   secondary_root_thickness_start:8
+,   secondary_root_thickness_end:3
+
+,secondary_root_length_reduce_from:""
+,secondary_root_length_reduce_center:0
+,secondary_root_length_reduce_above_start:100
+,secondary_root_length_reduce_above_end:100
+,secondary_root_length_reduce_below_start:100
+,secondary_root_length_reduce_below_end:100
+,secondary_root_thickness_reduce_from:""
+,secondary_root_thickness_reduce_center:0
+,secondary_root_thickness_reduce_above_start:100
+,secondary_root_thickness_reduce_above_end:100
+,secondary_root_thickness_reduce_below_start:100
+,secondary_root_thickness_reduce_below_end:100
+
+,secondary_root_chance_auto:false
+,secondary_root_chance_percent:100
+,secondary_root_chance:1.0
+,secondary_root_min_last_count:0
+
+,secondary_root_start_vertical:1
+,secondary_root_start_horizontal:1
+,secondary_root_start_height_min:0
+,secondary_root_start_height_max:0
+,secondary_root_start_forward_min:0
+,secondary_root_start_forward_max:0
+
+,secondary_root_center_direction_from:""
+,secondary_root_center_direction_center:0
+,secondary_root_center_direction_vertical_above:0
+,secondary_root_center_direction_vertical_below:0
+,secondary_root_center_direction_horizontal_above:0
+,secondary_root_center_direction_horizontal_below:0
+,secondary_root_center_direction_height_above:0
+,secondary_root_center_direction_height_below:0
+,secondary_root_center_direction_forward_above:0
+,secondary_root_center_direction_forward_below:0
+
+,secondary_root_curvature_vertical:0
+,secondary_root_curvature_horizontal:5
+,secondary_root_gravity_min:15
+,secondary_root_gravity_max:15
+,secondary_root_gravity_weightiness:10
+
+,secondary_root_continue_chance:1.0
+,secondary_root_continue_reduce_from:""
+,secondary_root_continue_reduce_center:100
+,secondary_root_continue_reduce_above_start:100
+,secondary_root_continue_reduce_above_end:100
+,secondary_root_continue_reduce_below_start:100
+,secondary_root_continue_reduce_below_end:100
+
+
+
+
+
+,   tertiary_root_outer:"minecraft:acacia_wood"
+,   tertiary_root_inner:"minecraft:acacia_wood"
+,   tertiary_root_core:"minecraft:stripped_acacia_wood"
+,tertiary_root_outer_level:1
+,tertiary_root_inner_level:0
+,tertiary_root_replace:true
+
+,   tertiary_root_count_min:3
+,   tertiary_root_count_max:5
+,   tertiary_root_length_min:30
+,   tertiary_root_length_max:35
+,   tertiary_root_thickness_start:2
+,tertiary_root_thickness_end:1
+
+,tertiary_root_count_reduce_from:""
+,tertiary_root_count_reduce_center:0
+,tertiary_root_count_reduce_above_start:100
+,tertiary_root_count_reduce_above_end:100
+,tertiary_root_count_reduce_below_start:100
+,tertiary_root_count_reduce_below_end:100
+,tertiary_root_length_reduce_from:""
+,tertiary_root_length_reduce_center:0
+,tertiary_root_length_reduce_above_start:100
+,tertiary_root_length_reduce_above_end:100
+,tertiary_root_length_reduce_below_start:100
+,tertiary_root_length_reduce_below_end:100
+,tertiary_root_thickness_reduce_from:""
+,tertiary_root_thickness_reduce_center:0
+,tertiary_root_thickness_reduce_above_start:100
+,tertiary_root_thickness_reduce_above_end:100
+,tertiary_root_thickness_reduce_below_start:100
+,tertiary_root_thickness_reduce_below_end:100
+
+,tertiary_root_chance_auto:true
+,tertiary_root_chance_percent:75
+,tertiary_root_chance:1.0
+,tertiary_root_min_last_count:1
+
+,tertiary_root_start_vertical:0
+,tertiary_root_start_horizontal:1
+,tertiary_root_start_height_min:0
+,tertiary_root_start_height_max:0
+,tertiary_root_start_forward_min:0
+,tertiary_root_start_forward_max:0
+
+,tertiary_root_center_direction_from:""
+,tertiary_root_center_direction_center:0
+,tertiary_root_center_direction_vertical_above:0
+,tertiary_root_center_direction_vertical_below:0
+,tertiary_root_center_direction_horizontal_above:0
+,tertiary_root_center_direction_horizontal_below:0
+,tertiary_root_center_direction_height_above:0
+,tertiary_root_center_direction_height_below:0
+,tertiary_root_center_direction_forward_above:0
+,tertiary_root_center_direction_forward_below:0
+
+,tertiary_root_curvature_vertical:0
+,tertiary_root_curvature_horizontal:5
+,tertiary_root_gravity_min:30
+,tertiary_root_gravity_max:30
+,tertiary_root_gravity_weightiness:10
+
+,tertiary_root_continue_chance:1.0
+,tertiary_root_continue_reduce_from:""
+,tertiary_root_continue_reduce_center:100
+,tertiary_root_continue_reduce_above_start:100
+,tertiary_root_continue_reduce_above_end:100
+,tertiary_root_continue_reduce_below_start:100
+,tertiary_root_continue_reduce_below_end:100
+
+
+
+
+
+,   fine_root_outer:"minecraft:acacia_wood"
+,   fine_root_inner:"minecraft:acacia_wood"
+,   fine_root_core:"minecraft:stripped_acacia_wood"
+,fine_root_outer_level:1
+,fine_root_inner_level:0
+,fine_root_replace:true
+
+,   fine_root_count_min:5
+,   fine_root_count_max:7
+,   fine_root_length_min:1
+,   fine_root_length_max:50
+,fine_root_thickness_start:1
+,fine_root_thickness_end:1
+
+,fine_root_count_reduce_from:""
+,fine_root_count_reduce_center:0
+,fine_root_count_reduce_above_start:100
+,fine_root_count_reduce_above_end:100
+,fine_root_count_reduce_below_start:100
+,fine_root_count_reduce_below_end:100
+,fine_root_length_reduce_from:""
+,fine_root_length_reduce_center:0
+,fine_root_length_reduce_above_start:100
+,fine_root_length_reduce_above_end:100
+,fine_root_length_reduce_below_start:100
+,fine_root_length_reduce_below_end:100
+,fine_root_thickness_reduce_from:""
+,fine_root_thickness_reduce_center:0
+,fine_root_thickness_reduce_above_start:100
+,fine_root_thickness_reduce_above_end:100
+,fine_root_thickness_reduce_below_start:100
+,fine_root_thickness_reduce_below_end:100
+
+,fine_root_chance_auto:true
+,fine_root_chance_percent:75
+,fine_root_chance:1.0
+,fine_root_min_last_count:1
+
+,fine_root_start_vertical:0
+,fine_root_start_horizontal:1
+,fine_root_start_height_min:0
+,fine_root_start_height_max:0
+,fine_root_start_forward_min:0
+,fine_root_start_forward_max:0
+
+,fine_root_center_direction_from:""
+,fine_root_center_direction_center:0
+,fine_root_center_direction_vertical_above:0
+,fine_root_center_direction_vertical_below:0
+,fine_root_center_direction_horizontal_above:0
+,fine_root_center_direction_horizontal_below:0
+,fine_root_center_direction_height_above:0
+,fine_root_center_direction_height_below:0
+,fine_root_center_direction_forward_above:0
+,fine_root_center_direction_forward_below:0
+
+,fine_root_curvature_vertical:0
+,fine_root_curvature_horizontal:0
+,fine_root_gravity_min:90
+,fine_root_gravity_max:90
+,fine_root_gravity_weightiness:10
+
+
+
+
+
+,"--------------------------------------------------":"--------------------------------------------------"
+
+
+
+
+
+,   trunk_outer:"minecraft:acacia_wood"
+,   trunk_inner:"minecraft:acacia_wood"
+,   trunk_core:"minecraft:stripped_acacia_wood"
+,trunk_outer_level:1
+,trunk_inner_level:0
+,trunk_replace:true
+
+,   trunk_count_min:1
+,   trunk_count_max:1
+,   trunk_length_min:50
+,   trunk_length_max:100
+,   trunk_thickness_start:15
+,   trunk_thickness_end:10
+
+,   trunk_start_gravity_min:-90
+,   trunk_start_gravity_max:-90
+,trunk_start_direction_min:0
+,trunk_start_direction_max:360
+
+,   trunk_curvature_vertical:0
+,   trunk_curvature_horizontal:0
+,   trunk_gravity_min:-90
+,   trunk_gravity_max:-90
+,   trunk_gravity_weightiness:0
+
+
+
+
+
+,   bough_outer:"minecraft:acacia_wood"
+,   bough_inner:"minecraft:acacia_wood"
+,   bough_core:"minecraft:stripped_acacia_wood"
+,bough_outer_level:1
+,bough_inner_level:0
+,bough_replace:true
+
+,   bough_count_min:5
+,   bough_count_max:6
+,   bough_length_min:12
+,   bough_length_max:15
+,   bough_thickness_start:5
+,   bough_thickness_end:2
+
+,bough_length_reduce_from:""
+,bough_length_reduce_center:0
+,bough_length_reduce_above_start:100
+,bough_length_reduce_above_end:100
+,bough_length_reduce_below_start:100
+,bough_length_reduce_below_end:100
+,bough_thickness_reduce_from:""
+,bough_thickness_reduce_center:0
+,bough_thickness_reduce_above_start:100
+,bough_thickness_reduce_above_end:100
+,bough_thickness_reduce_below_start:100
+,bough_thickness_reduce_below_end:100
+
+,bough_chance_auto:false
+,   bough_chance_percent:20
+,bough_chance:0.1
+,   bough_min_last_count:5
+
+,bough_start_vertical:1
+,bough_start_horizontal:1
+,bough_start_height_min:0
+,bough_start_height_max:0
+,bough_start_forward_min:0.25
+,bough_start_forward_max:0.25
+
+,bough_center_direction_from:""
+,bough_center_direction_center:0
+,bough_center_direction_vertical_above:0
+,bough_center_direction_vertical_below:0
+,bough_center_direction_horizontal_above:0
+,bough_center_direction_horizontal_below:0
+,bough_center_direction_height_above:0
+,bough_center_direction_height_below:0
+,bough_center_direction_forward_above:0
+,bough_center_direction_forward_below:0
+
+,bough_curvature_vertical:5
+,bough_curvature_horizontal:0
+,bough_gravity_min:-15
+,bough_gravity_max:-90
+,bough_gravity_weightiness:10
+
+,bough_continue_chance:1.0
+,bough_continue_reduce_from:""
+,bough_continue_reduce_center:100
+,bough_continue_reduce_above_start:100
+,bough_continue_reduce_above_end:100
+,bough_continue_reduce_below_start:100
+,bough_continue_reduce_below_end:100
+
+
+
+
+
+,   branch_outer:"minecraft:acacia_wood"
+,   branch_inner:"minecraft:acacia_wood"
+,   branch_core:"minecraft:stripped_acacia_wood"
+,branch_outer_level:1
+,branch_inner_level:0
+,branch_replace:true
+
+,   branch_count_min:2
+,   branch_count_max:3
+,   branch_length_min:10
+,   branch_length_max:12
+,   branch_thickness_start:1
+,   branch_thickness_end:1
+
+,branch_count_reduce_from:""
+,branch_count_reduce_center:0
+,branch_count_reduce_above_start:100
+,branch_count_reduce_above_end:100
+,branch_count_reduce_below_start:100
+,branch_count_reduce_below_end:100
+,branch_length_reduce_from:""
+,branch_length_reduce_center:0
+,branch_length_reduce_above_start:100
+,branch_length_reduce_above_end:100
+,branch_length_reduce_below_start:100
+,branch_length_reduce_below_end:100
+,branch_thickness_reduce_from:""
+,branch_thickness_reduce_center:0
+,branch_thickness_reduce_above_start:100
+,branch_thickness_reduce_above_end:100
+,branch_thickness_reduce_below_start:100
+,branch_thickness_reduce_below_end:100
+
+,branch_chance_auto:false
+,branch_chance_percent:50
+,branch_chance:0.1
+,branch_min_last_count:1
+
+,branch_start_vertical:1
+,branch_start_horizontal:1
+,branch_start_height_min:0
+,branch_start_height_max:0
+,branch_start_forward_min:0.25
+,branch_start_forward_max:0.25
+
+,branch_center_direction_from:""
+,branch_center_direction_center:0
+,branch_center_direction_vertical_above:0
+,branch_center_direction_vertical_below:0
+,branch_center_direction_horizontal_above:0
+,branch_center_direction_horizontal_below:0
+,branch_center_direction_height_above:0
+,branch_center_direction_height_below:0
+,branch_center_direction_forward_above:0
+,branch_center_direction_forward_below:0
+
+,branch_curvature_vertical:5
+,branch_curvature_horizontal:0
+,   branch_gravity_min:-15
+,branch_gravity_max:-90
+,branch_gravity_weightiness:10
+,branch_centripetal:3
+
+,branch_continue_chance:1.0
+,branch_continue_reduce_from:""
+,branch_continue_reduce_center:100
+,branch_continue_reduce_above_start:100
+,branch_continue_reduce_above_end:100
+,branch_continue_reduce_below_start:100
+,branch_continue_reduce_below_end:100
+
+
+
+
+
+,   limb_outer:"minecraft:acacia_wood"
+,   limb_inner:"minecraft:acacia_wood"
+,   limb_core:"minecraft:stripped_acacia_wood"
+,limb_outer_level:1
+,limb_inner_level:0
+,limb_replace:true
+
+,   limb_count_min:2
+,   limb_count_max:3
+,   limb_length_min:10
+,   limb_length_max:12
+,   limb_thickness_start:1
+,   limb_thickness_end:1
+
+,limb_count_reduce_from:""
+,limb_count_reduce_center:0
+,limb_count_reduce_above_start:100
+,limb_count_reduce_above_end:100
+,limb_count_reduce_below_start:100
+,limb_count_reduce_below_end:100
+,limb_length_reduce_from:""
+,limb_length_reduce_center:0
+,limb_length_reduce_above_start:100
+,limb_length_reduce_above_end:100
+,limb_length_reduce_below_start:100
+,limb_length_reduce_below_end:100
+,limb_thickness_reduce_from:""
+,limb_thickness_reduce_center:0
+,limb_thickness_reduce_above_start:100
+,limb_thickness_reduce_above_end:100
+,limb_thickness_reduce_below_start:100
+,limb_thickness_reduce_below_end:100
+
+,limb_chance_auto:false
+,   limb_chance_percent:0
+,limb_chance:0.1
+,limb_min_last_count:1
+
+,limb_start_vertical:1
+,limb_start_horizontal:1
+,limb_start_height_min:0
+,limb_start_height_max:0
+,limb_start_forward_min:0.25
+,limb_start_forward_max:0.25
+
+,limb_center_direction_from:""
+,limb_center_direction_center:0
+,limb_center_direction_vertical_above:0
+,limb_center_direction_vertical_below:0
+,limb_center_direction_horizontal_above:0
+,limb_center_direction_horizontal_below:0
+,limb_center_direction_height_above:0
+,limb_center_direction_height_below:0
+,limb_center_direction_forward_above:0
+,limb_center_direction_forward_below:0
+
+,limb_curvature_vertical:5
+,limb_curvature_horizontal:0
+,limb_gravity_min:15
+,limb_gravity_max:-90
+,limb_gravity_weightiness:10
+,limb_centripetal:3
+
+,limb_continue_chance:1.0
+,limb_continue_reduce_from:""
+,limb_continue_reduce_center:100
+,limb_continue_reduce_above_start:100
+,limb_continue_reduce_above_end:100
+,limb_continue_reduce_below_start:100
+,limb_continue_reduce_below_end:100
+
+
+
+
+
+,   twig_outer:"minecraft:acacia_wood"
+,   twig_inner:"minecraft:acacia_wood"
+,   twig_core:"minecraft:stripped_acacia_wood"
+,twig_outer_level:1
+,twig_inner_level:0
+,twig_replace:true
+
+,   twig_count_min:3
+,   twig_count_max:4
+,   twig_length_min:10
+,   twig_length_max:12
+,twig_thickness_start:1
+,twig_thickness_end:1
+
+,twig_count_reduce_from:""
+,twig_count_reduce_center:0
+,twig_count_reduce_above_start:100
+,twig_count_reduce_above_end:100
+,twig_count_reduce_below_start:100
+,twig_count_reduce_below_end:100
+,twig_length_reduce_from:""
+,twig_length_reduce_center:0
+,twig_length_reduce_above_start:100
+,twig_length_reduce_above_end:100
+,twig_length_reduce_below_start:100
+,twig_length_reduce_below_end:100
+,twig_thickness_reduce_from:""
+,twig_thickness_reduce_center:0
+,twig_thickness_reduce_above_start:100
+,twig_thickness_reduce_above_end:100
+,twig_thickness_reduce_below_start:100
+,twig_thickness_reduce_below_end:100
+
+,twig_chance_auto:false
+,twig_chance_percent:50
+,twig_chance:0.1
+,twig_min_last_count:1
+
+,twig_start_vertical:1
+,twig_start_horizontal:1
+,twig_start_height_min:0
+,twig_start_height_max:0
+,twig_start_forward_min:0.25
+,twig_start_forward_max:0.25
+
+,twig_center_direction_from:""
+,twig_center_direction_center:0
+,twig_center_direction_vertical_above:0
+,twig_center_direction_vertical_below:0
+,twig_center_direction_horizontal_above:0
+,twig_center_direction_horizontal_below:0
+,twig_center_direction_height_above:0
+,twig_center_direction_height_below:0
+,twig_center_direction_forward_above:0
+,twig_center_direction_forward_below:0
+
+,twig_curvature_vertical:5
+,twig_curvature_horizontal:0
+,twig_gravity_min:30
+,twig_gravity_max:-90
+,twig_gravity_weightiness:10
+,twig_centripetal:3
+
+,twig_continue_chance:1.0
+,twig_continue_reduce_from:""
+,twig_continue_reduce_center:100
+,twig_continue_reduce_above_start:100
+,twig_continue_reduce_above_end:100
+,twig_continue_reduce_below_start:100
+,twig_continue_reduce_below_end:100
+
+
+
+
+
+,sprig_outer:""
+,sprig_inner:""
+,sprig_core:""
+,sprig_outer_level:1
+,sprig_inner_level:0
+,sprig_replace:true
+
+,sprig_count_min:1
+,sprig_count_max:1
+,sprig_length_min:0
+,sprig_length_max:0
+,sprig_thickness_start:1
+,sprig_thickness_end:1
+
+,sprig_count_reduce_from:""
+,sprig_count_reduce_center:0
+,sprig_count_reduce_above_start:100
+,sprig_count_reduce_above_end:100
+,sprig_count_reduce_below_start:100
+,sprig_count_reduce_below_end:100
+,sprig_length_reduce_from:""
+,sprig_length_reduce_center:0
+,sprig_length_reduce_above_start:100
+,sprig_length_reduce_above_end:100
+,sprig_length_reduce_below_start:100
+,sprig_length_reduce_below_end:100
+,sprig_thickness_reduce_from:""
+,sprig_thickness_reduce_center:0
+,sprig_thickness_reduce_above_start:100
+,sprig_thickness_reduce_above_end:100
+,sprig_thickness_reduce_below_start:100
+,sprig_thickness_reduce_below_end:100
+
+,sprig_chance_auto:false
+,sprig_chance_percent:50
+,sprig_chance:0.1
+,sprig_min_last_count:1
+
+,sprig_start_vertical:1
+,sprig_start_horizontal:1
+,sprig_start_height_min:0
+,sprig_start_height_max:0
+,sprig_start_forward_min:0.25
+,sprig_start_forward_max:0.25
+
+,sprig_center_direction_from:""
+,sprig_center_direction_center:0
+,sprig_center_direction_vertical_above:0
+,sprig_center_direction_vertical_below:0
+,sprig_center_direction_horizontal_above:0
+,sprig_center_direction_horizontal_below:0
+,sprig_center_direction_height_above:0
+,sprig_center_direction_height_below:0
+,sprig_center_direction_forward_above:0
+,sprig_center_direction_forward_below:0
+
+,sprig_curvature_vertical:5
+,sprig_curvature_horizontal:0
+,sprig_gravity_min:45
+,sprig_gravity_max:-90
+,sprig_gravity_weightiness:10
+,sprig_centripetal:3
+
+,sprig_continue_chance:1.0
+,sprig_continue_reduce_from:""
+,sprig_continue_reduce_center:0
+,sprig_continue_reduce_above_start:100
+,sprig_continue_reduce_above_end:100
+,sprig_continue_reduce_below_start:100
+,sprig_continue_reduce_below_end:100
+
+
+
+
+
+,leaves_generator_type:"sphere_zone"
+,   leaves1:"minecraft:acacia_leaves[persistent=true]"
+,leaves2:""
+,leaves2_chance:0.0
+,leaves_replace:false
+
+,   leaves_size_min:10
+,   leaves_size_max:50
+,leaves_density:50
+,leaves_straighten_chance:0.0
+,leaves_straighten_min:0
+,leaves_straighten_max:0
+
+,leaves_size_reduce_from:""
+,leaves_size_reduce_center:0
+,leaves_size_reduce_above_start:100
+,leaves_size_reduce_above_end:100
+,leaves_size_reduce_below_start:100
+,leaves_size_reduce_below_end:100
+
+,leaves_sphere_zone_size:1
+,   leaves_sphere_zone_pitch_min:-60
+
+
+
+
+
+,"--------------------------------------------------":"--------------------------------------------------"
+
+
+
+
+
+,function_start:""
+,function_end:""
+
+,function_way1:""
+,function_way1_type:""
+,function_way1_chance:0.0
+,function_way1_max:0
+,function_way1_range_min:0
+,function_way1_range_max:100
+,function_way1_style:"all"
+
+,function_way2:""
+,function_way2_type:""
+,function_way2_chance:0.0
+,function_way2_max:0
+,function_way2_range_min:0
+,function_way2_range_max:100
+,function_way2_style:"all"
+
+,function_way3:""
+,function_way3_type:""
+,function_way3_chance:0.0
+,function_way3_max:0
+,function_way3_range_min:0
+,function_way3_range_max:100
+,function_way3_style:"all"
+
+,function_way4:""
+,function_way4_type:""
+,function_way4_chance:0.0
+,function_way4_max:0
+,function_way4_range_min:0
+,function_way4_range_max:100
+,function_way4_style:"all"
+
+,function_way5:""
+,function_way5_type:""
+,function_way5_chance:0.0
+,function_way5_max:0
+,function_way5_range_min:0
+,function_way5_range_max:100
+,function_way5_style:"all"
+
+,function_way6:""
+,function_way6_type:""
+,function_way6_chance:0.0
+,function_way6_max:0
+,function_way6_range_min:0
+,function_way6_range_max:100
+,function_way6_style:"all"
+
+,function_way7:""
+,function_way7_type:""
+,function_way7_chance:0.0
+,function_way7_max:0
+,function_way7_range_min:0
+,function_way7_range_max:100
+,function_way7_style:"all"
+
+,function_way8:""
+,function_way8_type:""
+,function_way8_chance:0.0
+,function_way8_max:0
+,function_way8_range_min:0
+,function_way8_range_max:100
+,function_way8_style:"all"
+
+,function_way9:""
+,function_way9_type:""
+,function_way9_chance:0.0
+,function_way9_max:0
+,function_way9_range_min:0
+,function_way9_range_max:100
+,function_way9_style:"all"
+
+
+
+
+
+,"--------------------------------------------------":"--------------------------------------------------"
+
+}}}
