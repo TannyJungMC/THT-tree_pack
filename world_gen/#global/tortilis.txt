@@ -2,9 +2,9 @@ path_storage = #TannyJung-Main-Pack/tortilis
 path_settings = #TannyJung-Main-Pack/tortilis/tortilis
 
 world_gen = true
-biome = minecraft:wooded_badlands
+biome = #minecraft:is_savanna
 ground_block = #minecraft:dirt
-rarity = 10
+rarity = 1
 min_distance = 25
 group_size = 1 <> 1
 waterside_chance = 0.0
