@@ -1,19 +1,7 @@
-give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"color\":\"dark_green\"}"},BlockEntityTag:{ForgeData:{debug_mode:false
-
+debug_mode:false
 ,tree_generator_speed_global:true
 ,tree_generator_speed_tick:1
 ,tree_generator_speed_repeat:1000
-,countdown:10
-
-
-
-
-
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
 
 ,tree_type:"land"
 ,start_height:1
@@ -22,15 +10,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,can_leaves_drop:true
 ,can_leaves_regrow:true
 
-
-
-
-
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
+----------------------------------------------------------------------------------------------------
 
 ,taproot_outer:""
 ,taproot_inner:""
@@ -265,15 +245,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,fine_root_gravity_max:90
 ,fine_root_gravity_weightiness:10
 
-
-
-
-
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
+----------------------------------------------------------------------------------------------------
 
 ,trunk_outer:""
 ,trunk_inner:""
@@ -695,15 +667,7 @@ give @p tanshugetrees:tree_generator{display:{Name:"{\"text\":\"Custom Tree\",\"
 ,leaves_sphere_zone_size:1
 ,leaves_sphere_zone_pitch_min:-45
 
-
-
-
-
-,"--------------------------------------------------":"--------------------------------------------------"
-
-
-
-
+----------------------------------------------------------------------------------------------------
 
 ,function_start:""
 ,function_end:""
