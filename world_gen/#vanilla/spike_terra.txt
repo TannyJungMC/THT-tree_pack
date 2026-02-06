@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/spike_terra
 path_settings = #TannyJung-Main-Pack/spike_terra/spike_terra
 
-world_gen = true
+enable = true
 biome = minecraft:badlands
 ground_block = #minecraft:sand / minecraft:terracotta
 rarity = 25

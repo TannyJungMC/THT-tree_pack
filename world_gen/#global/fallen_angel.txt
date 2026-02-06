@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/fallen_angel
 path_settings = #TannyJung-Main-Pack/fallen_angel/fallen_angel
 
-world_gen = true
+enable = true
 biome = #minecraft:is_savanna
 ground_block = #minecraft:dirt
 rarity = 0.5

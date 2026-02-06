@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/redwood_great
 path_settings = #TannyJung-Main-Pack/#variants/redwood_great_regions_unexplored
 
-world_gen = true
+enable = true
 biome = regions_unexplored:redwoods / regions_unexplored:sparse_redwoods
 ground_block = #minecraft:dirt
 rarity = 15

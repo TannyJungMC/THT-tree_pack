@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/catalyst
 path_settings = #TannyJung-Main-Pack/catalyst/catalyst
 
-world_gen = true
+enable = true
 biome = minecraft:forest / minecraft:jungle / minecraft:dark_forest
 ground_block = #minecraft:dirt
 rarity = 100

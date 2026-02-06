@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/yokai
 path_settings = #TannyJung-Main-Pack/yokai/yokai
 
-world_gen = true
+enable = true
 biome = minecraft:meadow
 ground_block = #minecraft:dirt
 rarity = 1

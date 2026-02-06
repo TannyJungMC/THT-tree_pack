@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/mangrove
 path_settings = #TannyJung-Main-Pack/mangrove/mangrove
 
-world_gen = true
+enable = true
 biome = minecraft:mangrove_swamp
 ground_block = #minecraft:dirt
 rarity = 100

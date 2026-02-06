@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/cloud_harvester
 path_settings = #TannyJung-Main-Pack/cloud_harvester/cloud_harvester
 
-world_gen = true
+enable = true
 biome = regions_unexplored:joshua_desert
 ground_block = #minecraft:sand
 rarity = 1

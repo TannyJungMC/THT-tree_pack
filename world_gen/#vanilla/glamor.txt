@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/glamor
 path_settings = #TannyJung-Main-Pack/glamor/glamor
 
-world_gen = true
+enable = true
 biome = minecraft:snowy_taiga
 ground_block = #minecraft:dirt
 rarity = 100

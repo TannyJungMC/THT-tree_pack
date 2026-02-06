@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/raiden
 path_settings = #TannyJung-Main-Pack/raiden/raiden
 
-world_gen = true
+enable = true
 biome = minecraft:jungle
 ground_block = #minecraft:dirt
 rarity = 50

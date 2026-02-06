@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/giant_grass
 path_settings = #TannyJung-Main-Pack/giant_grass/giant_grass
 
-world_gen = true
+enable = true
 biome = minecraft:sunflower_plains
 ground_block = #minecraft:dirt
 rarity = 10

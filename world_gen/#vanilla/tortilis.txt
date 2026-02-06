@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/tortilis
 path_settings = #TannyJung-Main-Pack/tortilis/tortilis
 
-world_gen = true
+enable = true
 biome = minecraft:wooded_badlands
 ground_block = #minecraft:dirt
 rarity = 10

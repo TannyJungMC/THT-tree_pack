@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/falcon
 path_settings = #TannyJung-Main-Pack/falcon/falcon
 
-world_gen = true
+enable = true
 biome = minecraft:dark_forest
 ground_block = #minecraft:dirt
 rarity = 25

@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/hypothermia
 path_settings = #TannyJung-Main-Pack/hypothermia/hypothermia
 
-world_gen = true
+enable = true
 biome = minecraft:ice_spikes
 ground_block = minecraft:snow_block
 rarity = 35

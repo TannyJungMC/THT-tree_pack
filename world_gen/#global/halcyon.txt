@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/halcyon
 path_settings = #TannyJung-Main-Pack/halcyon/halcyon
 
-world_gen = true
+enable = true
 biome = #forge:is_plains, !#forge:is_dry, !#forge:is_mountain
 ground_block = #minecraft:dirt
 rarity = 1

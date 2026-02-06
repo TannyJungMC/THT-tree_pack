@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/spike_stone
 path_settings = #TannyJung-Main-Pack/spike_stone/spike_stone
 
-world_gen = true
+enable = true
 biome = minecraft:deep_ocean
 ground_block = minecraft:gravel
 rarity = 25

@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/helios
 path_settings = #TannyJung-Main-Pack/helios/helios
 
-world_gen = true
+enable = true
 biome = minecraft:snowy_plains
 ground_block = #minecraft:dirt
 rarity = 0.001

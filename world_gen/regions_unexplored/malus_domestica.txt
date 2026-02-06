@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/malus_domestica
 path_settings = #TannyJung-Main-Pack/malus_domestica/malus_domestica
 
-world_gen = true
+enable = true
 biome = regions_unexplored:barley_fields
 ground_block = #minecraft:dirt
 rarity = 0.5

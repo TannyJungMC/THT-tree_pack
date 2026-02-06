@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/shrub
 path_settings = #TannyJung-Main-Pack/shrub/shrub
 
-world_gen = true
+enable = true
 biome = #forge:is_plains / #minecraft:is_savanna / #minecraft:is_forest / #forge:is_coniferous / #minecraft:is_jungle / #forge:is_swamp
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 25

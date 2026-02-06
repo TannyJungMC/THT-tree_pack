@@ -1,7 +1,7 @@
 path_storage = #TannyJung-Main-Pack/shrub
 path_settings = #TannyJung-Main-Pack/shrub/shrub
 
-world_gen = true
+enable = true
 biome = biomesoplenty:lush_desert
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 10
