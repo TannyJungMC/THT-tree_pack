@@ -2,7 +2,7 @@ path_storage = #TannyJung-Main-Pack/shrub
 path_settings = #TannyJung-Main-Pack/shrub/shrub
 
 enable = true
-biome = #minecraft:is_forest / #minecraft:is_taiga / #forge:is_coniferous / #minecraft:is_jungle / #forge:is_swamp
+biome = #c:is_taiga / #c:is_swamp / #minecraft:is_forest / #minecraft:is_taiga / #minecraft:is_jungle / #forge:is_coniferous / #forge:is_swamp
 ground_block = #minecraft:dirt
 rarity = 10
 min_distance = 0

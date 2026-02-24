@@ -2,7 +2,7 @@ path_storage = #TannyJung-Main-Pack/rock_big
 path_settings = #TannyJung-Main-Pack/rock_big/rock_big
 
 enable = true
-biome = #forge:is_plains
+biome = #c:is_plains / #forge:is_plains
 ground_block = #minecraft:dirt
 rarity = 2
 min_distance = 3

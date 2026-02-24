@@ -2,7 +2,7 @@ path_storage = #TannyJung-Main-Pack/shrub
 path_settings = #TannyJung-Main-Pack/shrub/shrub
 
 enable = true
-biome = #forge:is_desert / #minecraft:is_badlands
+biome = #c:is_desert / #minecraft:is_badlands / #forge:is_desert
 ground_block = #minecraft:sand
 rarity = 50
 min_distance = 10
