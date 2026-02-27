@@ -1,11 +1,20 @@
 minecraft:paper
-{display:{Name:"{\"text\":\"Planty Coupon : 10 Emeralds\",\"color\":\"gold\"}",Lore:["{\"text\":\"Special coupon from Tan's Huge Trees mod. Use this coupon to buy saplings from sapling trader.\",\"color\":\"dark_gray\"}"]}}
+Planty Coupon : 10 Emeralds / gold
+Special coupon from Tan's Huge Trees mod. Use this coupon to buy saplings from sapling trader. / dark_gray
+-
+-
 1
 
 minecraft:air
-{}
+-
+-
+-
+-
 0
 
 tanshugetrees:sapling_halcyon
-{}
+-
+-
+-
+-
 1

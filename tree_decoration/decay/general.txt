@@ -1,24 +1,28 @@
 [
 if
+chance = 0.5
+else
+run
+return
+]
+
+[
+if
 biome = 0/0/0 | #c:is_dry / #forge:is_dry
 run
 return
 ]
 
-block = 0.25 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | true
-block = 0.1 | 0/1/0 | 0/0/0/0/0/0 | minecraft:brown_mushroom | true
-block = 0.1 | 0/1/0 | 0/0/0/0/0/0 | minecraft:red_mushroom | true
+block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:brown_mushroom | #tanshugetrees:air_blocks
+block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:red_mushroom | #tanshugetrees:air_blocks
 
 [
 if
-biome = 0/0/0 | #c:is_swamp / #minecraft:is_jungle / #forge:is_swamp
+biome = 0/0/0 | #c:is_swamp / #forge:is_swamp / #minecraft:is_jungle
 run
-block = 0.05 | 1/0/0 | 0/-5/0/0/0/0 | minecraft:vine[west=true] | true
-block = 0.05 | 1/0/0 | 0/-10/0/0/0/0 | minecraft:vine[west=true] | true
-block = 0.05 | -1/0/0 | 0/-5/0/0/0/0 | minecraft:vine[east=true] | true
-block = 0.05 | -1/0/0 | 0/-10/0/0/0/0 | minecraft:vine[east=true] | true
-block = 0.05 | 0/0/1 | 0/-5/0/0/0/0 | minecraft:vine[north=true] | true
-block = 0.05 | 0/0/1 | 0/-10/0/0/0/0 | minecraft:vine[north=true] | true
-block = 0.05 | 0/0/-1 | 0/-5/0/0/0/0 | minecraft:vine[south=true] | true
-block = 0.05 | 0/0/-1 | 0/-10/0/0/0/0 | minecraft:vine[south=true] | true
+function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/vine
+block = 0.75 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
+else
+run
+block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
 ]

@@ -1,18 +1,20 @@
 [
-
 if
 chance = 0.001
-biome = 0/0/0 | #minecraft:is_forest
-if
-chance = 0.0005
 else
 run
 return
-
 ]
 
 [
+if
+chance = 0.75
+biome = 0/0/0 | #c:is_plains / #forge:is_plains / #c:is_dry / #forge:is_dry
+run
+return
+]
 
+[
 if
 block = 0/0/0 | #minecraft:logs
 block = 0/-1/0 | #tanshugetrees:air_blocks
@@ -20,12 +22,11 @@ block = 0/-2/0 | #tanshugetrees:air_blocks
 else
 run
 return
-
 ]
 
 if
 block = 0/-5/0 | #minecraft:dirt
 if
-block = 0/-10/0
+block = 0/-10/0 | #minecraft:dirt
 run
-function = 1.0 | 0/-1/0 | #TannyJung-Main-Pack/bee_nest
+function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/bee_nest

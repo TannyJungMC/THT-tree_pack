@@ -1,0 +1,10 @@
+[
+if
+chance = 0.01
+biome = 0/0/0 | #c:is_dense_vegetation, #minecraft:is_forest / #minecraft:is_jungle / #c:is_swamp / #forge:is_swamp
+else
+run
+return
+]
+
+function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/vine

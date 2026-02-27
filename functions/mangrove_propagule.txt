@@ -1,5 +1,5 @@
-block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=0] | true
-block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=1] | true
-block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=2] | true
-block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=3] | true
-block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=4] | true
+block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=0] | #tanshugetrees:passable_blocks
+block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=1] | #tanshugetrees:passable_blocks
+block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=2] | #tanshugetrees:passable_blocks
+block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=3] | #tanshugetrees:passable_blocks
+block = 0.2 | 0/-1/0 | 0/0/0/0/0/0 | minecraft:mangrove_propagule[hanging=true,age=4] | #tanshugetrees:passable_blocks
