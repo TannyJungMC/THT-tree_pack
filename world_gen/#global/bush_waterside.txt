@@ -2,7 +2,7 @@ path_storage = #TannyJung-Main-Pack/bush
 path_settings = #TannyJung-Main-Pack/bush/bush
 
 enable = true
-biome = #c:is_plains / #c:is_taiga / #c:is_swamp / #minecraft:is_savanna / #minecraft:is_forest / #minecraft:is_jungle / #forge:is_coniferous / #forge:is_swamp
+biome = #c:is_plains / #forge:is_plains / #c:is_taiga / #forge:is_coniferous / #c:is_swamp / #forge:is_swamp / #minecraft:is_savanna / #minecraft:is_forest / #minecraft:is_jungle
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 25
 min_distance = 10
