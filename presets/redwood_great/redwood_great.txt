@@ -5,7 +5,7 @@ tree_generator_speed_repeat = 1000
 countdown = 10
 
 tree_type = "land"
-start_height = 1
+    start_height = 1
 can_disable_roots = true
 can_leaves_decay = true
 can_leaves_drop = true
@@ -678,3 +678,51 @@ function_way3_max = 0
 function_way3_range_min = 0
 function_way3_range_max = 100
 function_way3_style = "all"
+
+function_way4 = ""
+function_way4_type = ""
+function_way4_chance = 0.0
+function_way4_max = 0
+function_way4_range_min = 0
+function_way4_range_max = 100
+function_way4_style = "all"
+
+function_way5 = ""
+function_way5_type = ""
+function_way5_chance = 0.0
+function_way5_max = 0
+function_way5_range_min = 0
+function_way5_range_max = 100
+function_way5_style = "all"
+
+function_way6 = ""
+function_way6_type = ""
+function_way6_chance = 0.0
+function_way6_max = 0
+function_way6_range_min = 0
+function_way6_range_max = 100
+function_way6_style = "all"
+
+function_way7 = ""
+function_way7_type = ""
+function_way7_chance = 0.0
+function_way7_max = 0
+function_way7_range_min = 0
+function_way7_range_max = 100
+function_way7_style = "all"
+
+function_way8 = ""
+function_way8_type = ""
+function_way8_chance = 0.0
+function_way8_max = 0
+function_way8_range_min = 0
+function_way8_range_max = 100
+function_way8_style = "all"
+
+function_way9 = ""
+function_way9_type = ""
+function_way9_chance = 0.0
+function_way9_max = 0
+function_way9_range_min = 0
+function_way9_range_max = 100
+function_way9_style = "all"
