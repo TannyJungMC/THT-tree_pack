@@ -1,4 +1,4 @@
-tree_type = adapt
+type = special
 start_height = -20
 can_disable_roots = false
 can_leaves_decay = false

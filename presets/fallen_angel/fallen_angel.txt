@@ -4,7 +4,7 @@ tree_generator_speed_tick = 1
 tree_generator_speed_repeat = 1000
 countdown = 10
 
-tree_type = "land"
+type = "terrestrial"
     start_height = 1
 can_disable_roots = true
 can_leaves_decay = true
@@ -257,14 +257,14 @@ trunk_replace = true
     trunk_thickness_end = 3
 
 trunk_start_gravity_min = -75
-trunk_start_gravity_max = -89
+trunk_start_gravity_max = -90
 trunk_start_direction_min = 0
 trunk_start_direction_max = 360
 
 trunk_curvature_vertical = 30
 trunk_curvature_horizontal = 15
 trunk_gravity_min = -75
-trunk_gravity_max = -89
+trunk_gravity_max = -90
 trunk_gravity_weightiness = 10
 
 ----------------------------------------------------------------------------------------------------

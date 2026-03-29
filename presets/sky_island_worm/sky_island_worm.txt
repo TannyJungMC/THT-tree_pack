@@ -4,7 +4,7 @@ tree_generator_speed_tick = 1
 tree_generator_speed_repeat = 1000
 countdown = 10
 
-    tree_type = "adapt"
+    type = "special"
     start_height = 100
     can_disable_roots = false
     can_leaves_decay = false

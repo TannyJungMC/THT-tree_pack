@@ -1,4 +1,4 @@
-tree_type = land
+type = terrestrial
 start_height = 0
 can_disable_roots = true
 can_leaves_decay = true
@@ -45,7 +45,7 @@ Function f2 202 =
 Function f3 203 = 
 Function f4 204 = 
 Function f5 205 = 
-Function f6 206 = 
-Function f7 207 = 
-Function f8 208 = 
-Function f9 209 = 
+Function f5 206 = 
+Function f5 207 = 
+Function f5 208 = 
+Function f5 209 = 

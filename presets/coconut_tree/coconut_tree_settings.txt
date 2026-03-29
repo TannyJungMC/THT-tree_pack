@@ -1,4 +1,4 @@
-tree_type = land
+type = terrestrial
 start_height = -1
 can_disable_roots = true
 can_leaves_decay = true
