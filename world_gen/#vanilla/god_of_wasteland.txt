@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/god_of_wasteland
-path_settings = #TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland
+path_settings = #TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland_settings
 
 enable = true
 biome = minecraft:savanna / #minecraft:is_badlands

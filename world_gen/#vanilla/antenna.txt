@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/antenna
-path_settings = #TannyJung-Main-Pack/antenna/antenna
+path_settings = #TannyJung-Main-Pack/antenna/antenna_settings
 
 enable = true
 biome = minecraft:old_growth_pine_taiga

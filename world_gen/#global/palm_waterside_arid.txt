@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/coconut_tree
-path_settings = #TannyJung-Main-Pack/#variants/palm
+path_settings = #TannyJung-Main-Pack/#variants/palm_settings
 
 enable = true
 biome = #c:is_desert / #forge:is_desert / #minecraft:is_badlands

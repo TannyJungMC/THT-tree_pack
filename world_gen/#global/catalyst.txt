@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/catalyst
-path_settings = #TannyJung-Main-Pack/catalyst/catalyst
+path_settings = #TannyJung-Main-Pack/catalyst/catalyst_settings
 
 enable = true
 biome = #c:is_plains, !#c:is_dry, !#c:is_mountain / #forge:is_plains, !#forge:is_dry, !#forge:is_mountain

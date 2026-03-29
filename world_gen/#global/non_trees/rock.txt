@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/rock
-path_settings = #TannyJung-Main-Pack/rock/rock
+path_settings = #TannyJung-Main-Pack/rock/rock_settings
 
 enable = true
 biome = #c:is_plains / #forge:is_plains

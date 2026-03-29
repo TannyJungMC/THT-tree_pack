@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/hypothermia
-path_settings = #TannyJung-Main-Pack/hypothermia/hypothermia
+path_settings = #TannyJung-Main-Pack/hypothermia/hypothermia_settings
 
 enable = true
 biome = minecraft:ice_spikes

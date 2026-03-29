@@ -1,19 +1,51 @@
-0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=north,flower_amount=1]
-1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=1] = 0/minecraft:pink_petals[facing=north,flower_amount=2]
-1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=2] = 0/minecraft:pink_petals[facing=north,flower_amount=3]
-1.0 | 0/minecraft:pink_petals[facing=north,flower_amount=3] = 0/minecraft:pink_petals[facing=north,flower_amount=4]
+[
+if
+block = 0/0/0 | !#tanshugetrees:air_blocks, !minecraft:pink_petals
+run
+return
+]
 
-0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=west,flower_amount=1]
-1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=1] = 0/minecraft:pink_petals[facing=west,flower_amount=2]
-1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=2] = 0/minecraft:pink_petals[facing=west,flower_amount=3]
-1.0 | 0/minecraft:pink_petals[facing=west,flower_amount=3] = 0/minecraft:pink_petals[facing=west,flower_amount=4]
+[
+if
+block = 0/0/0 | #tanshugetrees:air_blocks
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=north,flower_amount=1] | all
+block = 0.25 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=west,flower_amount=1] | all
+block = 0.25 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=east,flower_amount=1] | all
+block = 0.25 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=south,flower_amount=1] | all
+return
+]
 
-0.25 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=east,flower_amount=1]
-1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=1] = 0/minecraft:pink_petals[facing=east,flower_amount=2]
-1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=2] = 0/minecraft:pink_petals[facing=east,flower_amount=3]
-1.0 | 0/minecraft:pink_petals[facing=east,flower_amount=3] = 0/minecraft:pink_petals[facing=east,flower_amount=4]
+[
+if
+block = 0/0/0 | minecraft:pink_petals[facing=north]
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=north,flower_amount=4] | minecraft:pink_petals[flower_amount=3]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=north,flower_amount=3] | minecraft:pink_petals[flower_amount=2]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=north,flower_amount=2] | minecraft:pink_petals[flower_amount=1]
+return
 
-1.0 | -1/#minecraft:dirt = 0/minecraft:pink_petals[facing=south,flower_amount=1]
-1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=1] = 0/minecraft:pink_petals[facing=south,flower_amount=2]
-1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=2] = 0/minecraft:pink_petals[facing=south,flower_amount=3]
-1.0 | 0/minecraft:pink_petals[facing=south,flower_amount=3] = 0/minecraft:pink_petals[facing=south,flower_amount=4]
+if
+block = 0/0/0 | minecraft:pink_petals[facing=west]
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=west,flower_amount=4] | minecraft:pink_petals[flower_amount=3]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=west,flower_amount=3] | minecraft:pink_petals[flower_amount=2]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=west,flower_amount=2] | minecraft:pink_petals[flower_amount=1]
+return
+
+if
+block = 0/0/0 | minecraft:pink_petals[facing=east]
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=east,flower_amount=4] | minecraft:pink_petals[flower_amount=3]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=east,flower_amount=3] | minecraft:pink_petals[flower_amount=2]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=east,flower_amount=2] | minecraft:pink_petals[flower_amount=1]
+return
+
+if
+block = 0/0/0 | minecraft:pink_petals[facing=south]
+run
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=south,flower_amount=4] | minecraft:pink_petals[flower_amount=3]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=south,flower_amount=3] | minecraft:pink_petals[flower_amount=2]
+block = 1.0 | 0/0/0 | 0/0/0/0/0/0 | minecraft:pink_petals[facing=south,flower_amount=2] | minecraft:pink_petals[flower_amount=1]
+return
+]

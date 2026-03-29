@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/catalyst
-path_settings = #TannyJung-Main-Pack/catalyst/catalyst
+path_settings = #TannyJung-Main-Pack/catalyst/catalyst_settings
 
 enable = true
 biome = minecraft:forest / minecraft:jungle / minecraft:dark_forest

@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/glamor
-path_settings = #TannyJung-Main-Pack/#variants/damaged_forest/degradation_pine
+path_settings = #TannyJung-Main-Pack/#variants/damaged_forest/degradation_pine_settings
 
 enable = true
 biome = #c:is_taiga / #minecraft:is_taiga / #forge:is_coniferous

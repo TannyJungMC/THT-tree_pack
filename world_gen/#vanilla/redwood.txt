@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/redwood
-path_settings = #TannyJung-Main-Pack/redwood/redwood
+path_settings = #TannyJung-Main-Pack/redwood/redwood_settings
 
 enable = true
 biome = minecraft:old_growth_spruce_taiga

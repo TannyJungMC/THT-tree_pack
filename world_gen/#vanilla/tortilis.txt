@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/tortilis
-path_settings = #TannyJung-Main-Pack/tortilis/tortilis
+path_settings = #TannyJung-Main-Pack/tortilis/tortilis_settings
 
 enable = true
 biome = minecraft:wooded_badlands

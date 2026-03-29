@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/mangrove
-path_settings = #TannyJung-Main-Pack/mangrove/mangrove
+path_settings = #TannyJung-Main-Pack/mangrove/mangrove_settings
 
 enable = true
 biome = minecraft:mangrove_swamp

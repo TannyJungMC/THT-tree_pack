@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/departer
-path_settings = #TannyJung-Main-Pack/departer/departer
+path_settings = #TannyJung-Main-Pack/departer/departer_settings
 
 enable = true
 biome = minecraft:bamboo_jungle

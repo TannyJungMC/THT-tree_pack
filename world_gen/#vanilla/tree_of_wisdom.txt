@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/tree_of_wisdom
-path_settings = #TannyJung-Main-Pack/tree_of_wisdom/tree_of_wisdom
+path_settings = #TannyJung-Main-Pack/tree_of_wisdom/tree_of_wisdom_settings
 
 enable = true
 biome = minecraft:plains

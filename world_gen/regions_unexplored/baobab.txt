@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/baobab
-path_settings = #TannyJung-Main-Pack/baobab/baobab
+path_settings = #TannyJung-Main-Pack/baobab/baobab_settings
 
 enable = true
 biome = regions_unexplored:baobab_savanna

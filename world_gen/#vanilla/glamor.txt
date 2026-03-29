@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/glamor
-path_settings = #TannyJung-Main-Pack/glamor/glamor
+path_settings = #TannyJung-Main-Pack/glamor/glamor_settings
 
 enable = true
 biome = minecraft:snowy_taiga

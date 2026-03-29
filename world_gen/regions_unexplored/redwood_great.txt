@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/redwood_great
-path_settings = #TannyJung-Main-Pack/#variants/redwood_great_regions_unexplored
+path_settings = #TannyJung-Main-Pack/#variants/redwood_great_regions_unexplored_settings
 
 enable = true
 biome = regions_unexplored:redwoods / regions_unexplored:sparse_redwoods

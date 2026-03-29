@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/sky_island_chain
-path_settings = #TannyJung-Main-Pack/sky_island_chain/sky_island_chain
+path_settings = #TannyJung-Main-Pack/sky_island_chain/sky_island_chain_settings
 
 enable = true
 biome = minecraft:sparse_jungle

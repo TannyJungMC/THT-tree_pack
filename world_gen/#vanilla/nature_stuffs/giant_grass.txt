@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/giant_grass
-path_settings = #TannyJung-Main-Pack/giant_grass/giant_grass
+path_settings = #TannyJung-Main-Pack/giant_grass/giant_grass_settings
 
 enable = true
 biome = minecraft:sunflower_plains

@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/redwood_great
-path_settings = #TannyJung-Main-Pack/#variants/redwood_great_biomesoplenty
+path_settings = #TannyJung-Main-Pack/#variants/redwood_great_biomesoplenty_settings
 
 enable = true
 biome = biomesoplenty:redwood_forest

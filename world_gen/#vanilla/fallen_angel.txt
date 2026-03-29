@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/fallen_angel
-path_settings = #TannyJung-Main-Pack/fallen_angel/fallen_angel
+path_settings = #TannyJung-Main-Pack/fallen_angel/fallen_angel_settings
 
 enable = true
 biome = minecraft:wooded_badlands

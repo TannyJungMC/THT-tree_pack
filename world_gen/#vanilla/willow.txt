@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/willow
-path_settings = #TannyJung-Main-Pack/willow/willow
+path_settings = #TannyJung-Main-Pack/willow/willow_settings
 
 enable = true
 biome = minecraft:swamp

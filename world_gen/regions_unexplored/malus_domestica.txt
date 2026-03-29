@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/malus_domestica
-path_settings = #TannyJung-Main-Pack/malus_domestica/malus_domestica
+path_settings = #TannyJung-Main-Pack/malus_domestica/malus_domestica_settings
 
 enable = true
 biome = regions_unexplored:barley_fields

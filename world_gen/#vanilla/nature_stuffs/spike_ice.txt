@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/spike_ice
-path_settings = #TannyJung-Main-Pack/spike_ice/spike_ice
+path_settings = #TannyJung-Main-Pack/spike_ice/spike_ice_settings
 
 enable = true
 biome = minecraft:ice_spikes

@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/yokai
-path_settings = #TannyJung-Main-Pack/yokai/yokai
+path_settings = #TannyJung-Main-Pack/yokai/yokai_settings
 
 enable = true
 biome = minecraft:meadow

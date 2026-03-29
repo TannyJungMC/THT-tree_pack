@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/spike_stone
-path_settings = #TannyJung-Main-Pack/spike_stone/spike_stone
+path_settings = #TannyJung-Main-Pack/spike_stone/spike_stone_settings
 
 enable = true
 biome = minecraft:deep_ocean

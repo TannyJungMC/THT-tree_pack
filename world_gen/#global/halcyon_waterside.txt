@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/halcyon
-path_settings = #TannyJung-Main-Pack/halcyon/halcyon
+path_settings = #TannyJung-Main-Pack/halcyon/halcyon_settings
 
 enable = true
 biome = #c:is_plains / #forge:is_plains

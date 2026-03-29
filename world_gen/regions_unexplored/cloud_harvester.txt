@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/cloud_harvester
-path_settings = #TannyJung-Main-Pack/cloud_harvester/cloud_harvester
+path_settings = #TannyJung-Main-Pack/cloud_harvester/cloud_harvester_settings
 
 enable = true
 biome = regions_unexplored:joshua_desert

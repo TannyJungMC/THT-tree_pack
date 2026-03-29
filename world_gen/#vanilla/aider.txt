@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/aider
-path_settings = #TannyJung-Main-Pack/aider/aider
+path_settings = #TannyJung-Main-Pack/aider/aider_settings
 
 enable = true
 biome = minecraft:birch_forest / minecraft:old_growth_birch_forest

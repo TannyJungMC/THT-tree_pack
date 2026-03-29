@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/catalyst
-path_settings = #TannyJung-Main-Pack/#variants/damaged_forest/degradation_oak
+path_settings = #TannyJung-Main-Pack/#variants/damaged_forest/degradation_oak_settings
 
 enable = true
 biome = #c:is_swamp / #minecraft:is_forest / #minecraft:is_jungle / #forge:is_swamp

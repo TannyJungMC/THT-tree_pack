@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/raiden
-path_settings = #TannyJung-Main-Pack/raiden/raiden
+path_settings = #TannyJung-Main-Pack/raiden/raiden_settings
 
 enable = true
 biome = minecraft:jungle

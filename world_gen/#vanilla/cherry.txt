@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/halcyon
-path_settings = #TannyJung-Main-Pack/#variants/cherry
+path_settings = #TannyJung-Main-Pack/#variants/cherry_settings
 
 enable = true
 biome = minecraft:cherry_grove

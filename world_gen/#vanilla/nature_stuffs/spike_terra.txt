@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/spike_terra
-path_settings = #TannyJung-Main-Pack/spike_terra/spike_terra
+path_settings = #TannyJung-Main-Pack/spike_terra/spike_terra_settings
 
 enable = true
 biome = minecraft:badlands

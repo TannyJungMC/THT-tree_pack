@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/wendy
-path_settings = #TannyJung-Main-Pack/#variants/polaris
+path_settings = #TannyJung-Main-Pack/#variants/polaris_settings
 
 enable = true
 biome = minecraft:grove

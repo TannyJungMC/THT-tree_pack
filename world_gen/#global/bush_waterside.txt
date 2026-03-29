@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/bush
-path_settings = #TannyJung-Main-Pack/bush/bush
+path_settings = #TannyJung-Main-Pack/bush/bush_settings
 
 enable = true
 biome = #c:is_plains / #forge:is_plains / #c:is_taiga / #forge:is_coniferous / #c:is_swamp / #forge:is_swamp / #minecraft:is_savanna / #minecraft:is_forest / #minecraft:is_jungle

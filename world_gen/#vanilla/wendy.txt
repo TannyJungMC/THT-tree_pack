@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/wendy
-path_settings = #TannyJung-Main-Pack/wendy/wendy
+path_settings = #TannyJung-Main-Pack/wendy/wendy_settings
 
 enable = true
 biome = minecraft:taiga

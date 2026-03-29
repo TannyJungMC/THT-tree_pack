@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/falcon
-path_settings = #TannyJung-Main-Pack/falcon/falcon
+path_settings = #TannyJung-Main-Pack/falcon/falcon_settings
 
 enable = true
 biome = minecraft:savanna

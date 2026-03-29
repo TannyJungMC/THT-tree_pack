@@ -1,5 +1,5 @@
 path_storage = #TannyJung-Main-Pack/shrub
-path_settings = #TannyJung-Main-Pack/shrub/shrub
+path_settings = #TannyJung-Main-Pack/shrub/shrub_settings
 
 enable = true
 biome = #c:is_desert / #minecraft:is_badlands / #forge:is_desert
