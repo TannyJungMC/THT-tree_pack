@@ -1,14 +1,12 @@
 [
 if
-chance = 0.001
-else
+chance = 0.1
 run
 return
 ]
 
 [
 if
-chance = 0.75
 biome = 0/0/0 | #c:is_plains / #forge:is_plains / #c:is_dry / #forge:is_dry
 run
 return

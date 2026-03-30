@@ -1,6 +1,6 @@
 [
 if
-chance = 0.0001
+chance = 0.001
 else
 run
 return
@@ -8,42 +8,42 @@ return
 
 [
 if
-block = 3/-10/0 | !#minecraft:dirt
-block = -3/-10/0 | !#minecraft:dirt
-block = 0/-10/3 | !#minecraft:dirt
-block = 0/-10/-3 | !#minecraft:dirt
+block = 5/-10/0 | !#minecraft:dirt
+block = -5/-10/0 | !#minecraft:dirt
+block = 0/-10/5 | !#minecraft:dirt
+block = 0/-10/-5 | !#minecraft:dirt
 run
 return
 ]
 
 [
 if
-block = 2/0/0 | #tanshugetrees:air_blocks
-block = -2/0/0 | #tanshugetrees:air_blocks
-block = 0/0/2 | #tanshugetrees:air_blocks
-block = 0/0/-2 | #tanshugetrees:air_blocks
+block = 4/0/0 | #tanshugetrees:passable_blocks
+block = -4/0/0 | #tanshugetrees:passable_blocks
+block = 0/0/4 | #tanshugetrees:passable_blocks
+block = 0/0/-4 | #tanshugetrees:passable_blocks
 else
 run
 return
 ]
 
-block = 1.0 | 0/0/0 | -2/0/-2/2/0/2 | minecraft:oak_slab[type=top] | #tanshugetrees:air_blocks
+block = 1.0 | 0/0/0 | -3/0/-3/3/0/3 | minecraft:oak_slab[type=top] | #tanshugetrees:passable_blocks
 
-block = 1.0 | 3/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=east] | #tanshugetrees:air_blocks
-block = 1.0 | -3/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=west] | #tanshugetrees:air_blocks
-block = 1.0 | 0/0/3 | 0/-10/0/0/0/0 | minecraft:ladder[facing=south] | #tanshugetrees:air_blocks
-block = 1.0 | 0/0/-3 | 0/-10/0/0/0/0 | minecraft:ladder[facing=north] | #tanshugetrees:air_blocks
+block = 1.0 | 4/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=east] | #tanshugetrees:passable_blocks
+block = 1.0 | -4/0/0 | 0/-10/0/0/0/0 | minecraft:ladder[facing=west] | #tanshugetrees:passable_blocks
+block = 1.0 | 0/0/4 | 0/-10/0/0/0/0 | minecraft:ladder[facing=south] | #tanshugetrees:passable_blocks
+block = 1.0 | 0/0/-4 | 0/-10/0/0/0/0 | minecraft:ladder[facing=north] | #tanshugetrees:passable_blocks
 
-block = 1.0 | 2/1/2 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:air_blocks
-block = 1.0 | 2/1/-2 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:air_blocks
-block = 1.0 | -2/1/2 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:air_blocks
-block = 1.0 | -2/1/-2 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:air_blocks
+block = 1.0 | 3/1/3 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:passable_blocks
+block = 1.0 | 3/1/-3 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:passable_blocks
+block = 1.0 | -3/1/3 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:passable_blocks
+block = 1.0 | -3/1/-3 | 0/0/0/0/0/0 | minecraft:oak_log | #tanshugetrees:passable_blocks
 
-block = 1.0 | 2/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | #tanshugetrees:air_blocks
-block = 1.0 | 2/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | #tanshugetrees:air_blocks
-block = 1.0 | -2/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | #tanshugetrees:air_blocks
-block = 1.0 | -2/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | #tanshugetrees:air_blocks
-block = 1.0 | 1/1/2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | #tanshugetrees:air_blocks
-block = 1.0 | -1/1/2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | #tanshugetrees:air_blocks
-block = 1.0 | 1/1/-2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | #tanshugetrees:air_blocks
-block = 1.0 | -1/1/-2 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | #tanshugetrees:air_blocks
+block = 1.0 | 3/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | #tanshugetrees:passable_blocks
+block = 1.0 | 3/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=west] | #tanshugetrees:passable_blocks
+block = 1.0 | -3/1/1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | #tanshugetrees:passable_blocks
+block = 1.0 | -3/1/-1 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=east] | #tanshugetrees:passable_blocks
+block = 1.0 | 1/1/3 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | #tanshugetrees:passable_blocks
+block = 1.0 | -1/1/3 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=north] | #tanshugetrees:passable_blocks
+block = 1.0 | 1/1/-3 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | #tanshugetrees:passable_blocks
+block = 1.0 | -1/1/-3 | 0/0/0/0/0/0 | minecraft:oak_trapdoor[open=true,facing=south] | #tanshugetrees:passable_blocks

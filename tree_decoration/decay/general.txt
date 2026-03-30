@@ -1,13 +1,5 @@
 [
 if
-chance = 0.5
-else
-run
-return
-]
-
-[
-if
 biome = 0/0/0 | #c:is_dry / #forge:is_dry
 run
 return
@@ -21,8 +13,8 @@ if
 biome = 0/0/0 | #c:is_swamp / #forge:is_swamp / #minecraft:is_jungle
 run
 function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/vine
-block = 0.75 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
+block = 1.0 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
 else
 run
-block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
+block = 1.0 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
 ]
