@@ -4,7 +4,7 @@ spawn_type = normal
 biome = minecraft:meadow
 ground_block = #minecraft:dirt
 rarity = 1
-min_distance = 100
+min_distance = 500
 group_size = 1 <> 1
 dead_tree_chance = 0.1
 dead_tree_level = auto
@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/yokai
-path_settings = #TannyJung-Main-Pack/yokai/yokai_settings
+path_storage = presets/#TannyJung-Main-Pack/yokai/storage
+path_settings = presets/#TannyJung-Main-Pack/yokai/yokai_settings
