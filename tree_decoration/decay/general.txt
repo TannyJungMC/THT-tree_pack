@@ -5,8 +5,15 @@ run
 return
 ]
 
+[
+if
+chance = 0.5
+run
 block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:brown_mushroom | #tanshugetrees:air_blocks
+else
+run
 block = 0.5 | 0/1/0 | 0/0/0/0/0/0 | minecraft:red_mushroom | #tanshugetrees:air_blocks
+]
 
 [
 if

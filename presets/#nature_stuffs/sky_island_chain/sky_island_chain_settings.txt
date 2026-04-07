@@ -1,0 +1,51 @@
+type = special
+start_height = 100
+can_disable_roots = false
+can_leaves_decay = false
+can_leaves_drop = false
+can_leaves_regrow = false
+
+Block tao 1101 = none
+Block tai 1102 = none
+Block tac 1103 = none
+Block seo 1111 = none
+Block sei 1112 = none
+Block sec 1113 = none
+Block teo 1121 = none
+Block tei 1122 = none
+Block tec 1123 = none
+Block fio 1131 = none
+Block fii 1132 = none
+Block fic 1133 = none
+Block tro 1141 = minecraft:diorite
+Block tri 1142 = minecraft:diorite
+Block trc 1143 = minecraft:diorite
+Block boo 1151 = minecraft:jungle_leaves[persistent=true] keep
+Block boi 1152 = minecraft:jungle_leaves[persistent=true] keep
+Block boc 1153 = minecraft:jungle_leaves[persistent=true] keep
+Block bro 1161 = minecraft:diorite
+Block bri 1162 = minecraft:diorite
+Block brc 1163 = minecraft:diorite
+Block lio 1171 = minecraft:jungle_leaves[persistent=true] keep
+Block lii 1172 = minecraft:jungle_leaves[persistent=true] keep
+Block lic 1173 = minecraft:jungle_leaves[persistent=true] keep
+Block two 1181 = minecraft:diorite
+Block twi 1182 = minecraft:diorite
+Block twc 1183 = minecraft:diorite
+Block spo 1191 = none
+Block spi 1192 = none
+Block spc 1193 = none
+Block le1 1201 = minecraft:oak_leaves[persistent=true] keep
+Block le2 1202 = none
+
+Function fs 210 = none
+Function fe 220 = none
+Function f1 201 = functions/#TannyJung-Main-Pack/moss_patch
+Function f2 202 = functions/#TannyJung-Main-Pack/moss_patch
+Function f3 203 = functions/#TannyJung-Main-Pack/moss_patch
+Function f4 204 = none
+Function f5 205 = none
+Function f5 206 = none
+Function f5 207 = none
+Function f5 208 = none
+Function f5 209 = none

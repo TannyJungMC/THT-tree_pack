@@ -4,7 +4,7 @@ tree_generator_speed_tick = 1
 tree_generator_speed_repeat = 1000
 countdown = 10
 
-type = "terrestrial"
+type = terrestrial
     start_height = 1
 can_disable_roots = true
 can_leaves_decay = true
@@ -13,9 +13,9 @@ can_leaves_regrow = true
 
 ----------------------------------------------------------------------------------------------------
 
-    taproot_outer = "minecraft:oak_wood"
-    taproot_inner = "minecraft:oak_wood"
-    taproot_core = "minecraft:stripped_oak_wood"
+    taproot_outer = minecraft:oak_wood
+    taproot_inner = minecraft:oak_wood
+    taproot_core = minecraft:stripped_oak_wood
 taproot_outer_level = 1
 taproot_inner_level = 0
 taproot_replace = true
@@ -40,9 +40,9 @@ taproot_gravity_weightiness = 0
 
 ----------------------------------------------------------------------------------------------------
 
-    secondary_root_outer = "minecraft:oak_wood"
-    secondary_root_inner = "minecraft:oak_wood"
-    secondary_root_core = "minecraft:stripped_oak_wood"
+    secondary_root_outer = minecraft:oak_wood
+    secondary_root_inner = minecraft:oak_wood
+    secondary_root_core = minecraft:stripped_oak_wood
 secondary_root_outer_level = 1
 secondary_root_inner_level = 0
 secondary_root_replace = true
@@ -54,13 +54,13 @@ secondary_root_replace = true
 secondary_root_thickness_start = 1
 secondary_root_thickness_end = 1
 
-secondary_root_length_reduce_from = ""
+secondary_root_length_reduce_from = none
 secondary_root_length_reduce_center = 0
 secondary_root_length_reduce_above_start = 100
 secondary_root_length_reduce_above_end = 100
 secondary_root_length_reduce_below_start = 100
 secondary_root_length_reduce_below_end = 100
-secondary_root_thickness_reduce_from = ""
+secondary_root_thickness_reduce_from = none
 secondary_root_thickness_reduce_center = 0
 secondary_root_thickness_reduce_above_start = 100
 secondary_root_thickness_reduce_above_end = 100
@@ -79,7 +79,7 @@ secondary_root_start_height_max = 0
 secondary_root_start_forward_min = 0
 secondary_root_start_forward_max = 0
 
-secondary_root_center_direction_from = ""
+secondary_root_center_direction_from = none
 secondary_root_center_direction_center = 0
 secondary_root_center_direction_vertical_above = 0
 secondary_root_center_direction_vertical_below = 0
@@ -97,7 +97,7 @@ secondary_root_gravity_max = 15
 secondary_root_gravity_weightiness = 10
 
 secondary_root_continue_chance = 1.0
-secondary_root_continue_reduce_from = ""
+secondary_root_continue_reduce_from = none
 secondary_root_continue_reduce_center = 100
 secondary_root_continue_reduce_above_start = 100
 secondary_root_continue_reduce_above_end = 100
@@ -106,9 +106,9 @@ secondary_root_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-    tertiary_root_outer = "minecraft:oak_wood"
-    tertiary_root_inner = "minecraft:oak_wood"
-    tertiary_root_core = "minecraft:stripped_oak_wood"
+    tertiary_root_outer = minecraft:oak_wood
+    tertiary_root_inner = minecraft:oak_wood
+    tertiary_root_core = minecraft:stripped_oak_wood
 tertiary_root_outer_level = 1
 tertiary_root_inner_level = 0
 tertiary_root_replace = true
@@ -120,19 +120,19 @@ tertiary_root_replace = true
     tertiary_root_thickness_start = 1
 tertiary_root_thickness_end = 1
 
-tertiary_root_count_reduce_from = ""
+tertiary_root_count_reduce_from = none
 tertiary_root_count_reduce_center = 0
 tertiary_root_count_reduce_above_start = 100
 tertiary_root_count_reduce_above_end = 100
 tertiary_root_count_reduce_below_start = 100
 tertiary_root_count_reduce_below_end = 100
-tertiary_root_length_reduce_from = ""
+tertiary_root_length_reduce_from = none
 tertiary_root_length_reduce_center = 0
 tertiary_root_length_reduce_above_start = 100
 tertiary_root_length_reduce_above_end = 100
 tertiary_root_length_reduce_below_start = 100
 tertiary_root_length_reduce_below_end = 100
-tertiary_root_thickness_reduce_from = ""
+tertiary_root_thickness_reduce_from = none
 tertiary_root_thickness_reduce_center = 0
 tertiary_root_thickness_reduce_above_start = 100
 tertiary_root_thickness_reduce_above_end = 100
@@ -151,7 +151,7 @@ tertiary_root_start_height_max = 0
 tertiary_root_start_forward_min = 0
 tertiary_root_start_forward_max = 0
 
-tertiary_root_center_direction_from = ""
+tertiary_root_center_direction_from = none
 tertiary_root_center_direction_center = 0
 tertiary_root_center_direction_vertical_above = 0
 tertiary_root_center_direction_vertical_below = 0
@@ -169,7 +169,7 @@ tertiary_root_gravity_max = 30
 tertiary_root_gravity_weightiness = 10
 
 tertiary_root_continue_chance = 1.0
-tertiary_root_continue_reduce_from = ""
+tertiary_root_continue_reduce_from = none
 tertiary_root_continue_reduce_center = 100
 tertiary_root_continue_reduce_above_start = 100
 tertiary_root_continue_reduce_above_end = 100
@@ -178,9 +178,9 @@ tertiary_root_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-    fine_root_outer = "minecraft:oak_wood"
-    fine_root_inner = "minecraft:oak_wood"
-    fine_root_core = "minecraft:stripped_oak_wood"
+    fine_root_outer = minecraft:oak_wood
+    fine_root_inner = minecraft:oak_wood
+    fine_root_core = minecraft:stripped_oak_wood
 fine_root_outer_level = 1
 fine_root_inner_level = 0
 fine_root_replace = true
@@ -192,19 +192,19 @@ fine_root_replace = true
 fine_root_thickness_start = 1
 fine_root_thickness_end = 1
 
-fine_root_count_reduce_from = ""
+fine_root_count_reduce_from = none
 fine_root_count_reduce_center = 0
 fine_root_count_reduce_above_start = 100
 fine_root_count_reduce_above_end = 100
 fine_root_count_reduce_below_start = 100
 fine_root_count_reduce_below_end = 100
-fine_root_length_reduce_from = ""
+fine_root_length_reduce_from = none
 fine_root_length_reduce_center = 0
 fine_root_length_reduce_above_start = 100
 fine_root_length_reduce_above_end = 100
 fine_root_length_reduce_below_start = 100
 fine_root_length_reduce_below_end = 100
-fine_root_thickness_reduce_from = ""
+fine_root_thickness_reduce_from = none
 fine_root_thickness_reduce_center = 0
 fine_root_thickness_reduce_above_start = 100
 fine_root_thickness_reduce_above_end = 100
@@ -223,7 +223,7 @@ fine_root_start_height_max = 0
 fine_root_start_forward_min = 0
 fine_root_start_forward_max = 0
 
-fine_root_center_direction_from = ""
+fine_root_center_direction_from = none
 fine_root_center_direction_center = 0
 fine_root_center_direction_vertical_above = 0
 fine_root_center_direction_vertical_below = 0
@@ -242,9 +242,9 @@ fine_root_gravity_weightiness = 10
 
 ----------------------------------------------------------------------------------------------------
 
-    trunk_outer = "minecraft:oak_wood"
-    trunk_inner = "minecraft:oak_wood"
-    trunk_core = "minecraft:stripped_oak_wood"
+    trunk_outer = minecraft:oak_wood
+    trunk_inner = minecraft:oak_wood
+    trunk_core = minecraft:stripped_oak_wood
 trunk_outer_level = 1
 trunk_inner_level = 0
 trunk_replace = true
@@ -269,9 +269,9 @@ trunk_gravity_weightiness = 10
 
 ----------------------------------------------------------------------------------------------------
 
-    bough_outer = "minecraft:oak_wood"
-    bough_inner = "minecraft:oak_wood"
-    bough_core = "minecraft:stripped_oak_wood"
+    bough_outer = minecraft:oak_wood
+    bough_inner = minecraft:oak_wood
+    bough_core = minecraft:stripped_oak_wood
 bough_outer_level = 1
 bough_inner_level = 0
 bough_replace = true
@@ -283,13 +283,13 @@ bough_replace = true
     bough_thickness_start = 1.5
 bough_thickness_end = 1
 
-bough_length_reduce_from = ""
+bough_length_reduce_from = none
 bough_length_reduce_center = 0
 bough_length_reduce_above_start = 100
 bough_length_reduce_above_end = 100
 bough_length_reduce_below_start = 100
 bough_length_reduce_below_end = 100
-bough_thickness_reduce_from = ""
+bough_thickness_reduce_from = none
 bough_thickness_reduce_center = 0
 bough_thickness_reduce_above_start = 100
 bough_thickness_reduce_above_end = 100
@@ -308,7 +308,7 @@ bough_start_height_max = 0
 bough_start_forward_min = 0.25
 bough_start_forward_max = 0.25
 
-bough_center_direction_from = ""
+bough_center_direction_from = none
 bough_center_direction_center = 0
 bough_center_direction_vertical_above = 0
 bough_center_direction_vertical_below = 0
@@ -326,7 +326,7 @@ bough_gravity_max = -90
 bough_gravity_weightiness = 10
 
 bough_continue_chance = 1.0
-bough_continue_reduce_from = ""
+bough_continue_reduce_from = none
 bough_continue_reduce_center = 100
 bough_continue_reduce_above_start = 100
 bough_continue_reduce_above_end = 100
@@ -335,9 +335,9 @@ bough_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-    branch_outer = "minecraft:oak_wood"
-    branch_inner = "minecraft:oak_wood"
-    branch_core = "minecraft:stripped_oak_wood"
+    branch_outer = minecraft:oak_wood
+    branch_inner = minecraft:oak_wood
+    branch_core = minecraft:stripped_oak_wood
 branch_outer_level = 1
 branch_inner_level = 0
 branch_replace = true
@@ -349,19 +349,19 @@ branch_replace = true
     branch_thickness_start = 1
     branch_thickness_end = 1
 
-branch_count_reduce_from = ""
+branch_count_reduce_from = none
 branch_count_reduce_center = 0
 branch_count_reduce_above_start = 100
 branch_count_reduce_above_end = 100
 branch_count_reduce_below_start = 100
 branch_count_reduce_below_end = 100
-branch_length_reduce_from = ""
+branch_length_reduce_from = none
 branch_length_reduce_center = 0
 branch_length_reduce_above_start = 100
 branch_length_reduce_above_end = 100
 branch_length_reduce_below_start = 100
 branch_length_reduce_below_end = 100
-branch_thickness_reduce_from = ""
+branch_thickness_reduce_from = none
 branch_thickness_reduce_center = 0
 branch_thickness_reduce_above_start = 100
 branch_thickness_reduce_above_end = 100
@@ -380,7 +380,7 @@ branch_start_height_max = 0
 branch_start_forward_min = 0.25
 branch_start_forward_max = 0.25
 
-branch_center_direction_from = ""
+branch_center_direction_from = none
 branch_center_direction_center = 0
 branch_center_direction_vertical_above = 0
 branch_center_direction_vertical_below = 0
@@ -399,7 +399,7 @@ branch_gravity_weightiness = 10
 branch_centripetal = 3
 
 branch_continue_chance = 1.0
-branch_continue_reduce_from = ""
+branch_continue_reduce_from = none
 branch_continue_reduce_center = 100
 branch_continue_reduce_above_start = 100
 branch_continue_reduce_above_end = 100
@@ -408,9 +408,9 @@ branch_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-    limb_outer = "minecraft:oak_wood"
-    limb_inner = "minecraft:oak_wood"
-    limb_core = "minecraft:stripped_oak_wood"
+    limb_outer = minecraft:oak_wood
+    limb_inner = minecraft:oak_wood
+    limb_core = minecraft:stripped_oak_wood
 limb_outer_level = 1
 limb_inner_level = 0
 limb_replace = true
@@ -422,19 +422,19 @@ limb_replace = true
     limb_thickness_start = 1
     limb_thickness_end = 1
 
-limb_count_reduce_from = ""
+limb_count_reduce_from = none
 limb_count_reduce_center = 0
 limb_count_reduce_above_start = 100
 limb_count_reduce_above_end = 100
 limb_count_reduce_below_start = 100
 limb_count_reduce_below_end = 100
-limb_length_reduce_from = ""
+limb_length_reduce_from = none
 limb_length_reduce_center = 0
 limb_length_reduce_above_start = 100
 limb_length_reduce_above_end = 100
 limb_length_reduce_below_start = 100
 limb_length_reduce_below_end = 100
-limb_thickness_reduce_from = ""
+limb_thickness_reduce_from = none
 limb_thickness_reduce_center = 0
 limb_thickness_reduce_above_start = 100
 limb_thickness_reduce_above_end = 100
@@ -453,7 +453,7 @@ limb_start_height_max = 0
 limb_start_forward_min = 0.25
 limb_start_forward_max = 0.25
 
-limb_center_direction_from = ""
+limb_center_direction_from = none
 limb_center_direction_center = 0
 limb_center_direction_vertical_above = 0
 limb_center_direction_vertical_below = 0
@@ -472,7 +472,7 @@ limb_gravity_weightiness = 10
 limb_centripetal = 3
 
 limb_continue_chance = 1.0
-limb_continue_reduce_from = ""
+limb_continue_reduce_from = none
 limb_continue_reduce_center = 100
 limb_continue_reduce_above_start = 100
 limb_continue_reduce_above_end = 100
@@ -481,9 +481,9 @@ limb_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-twig_outer = ""
-twig_inner = ""
-twig_core = ""
+twig_outer = none
+twig_inner = none
+twig_core = none
 twig_outer_level = 1
 twig_inner_level = 0
 twig_replace = true
@@ -495,19 +495,19 @@ twig_length_max = 0
 twig_thickness_start = 1
 twig_thickness_end = 1
 
-twig_count_reduce_from = ""
+twig_count_reduce_from = none
 twig_count_reduce_center = 0
 twig_count_reduce_above_start = 100
 twig_count_reduce_above_end = 100
 twig_count_reduce_below_start = 100
 twig_count_reduce_below_end = 100
-twig_length_reduce_from = ""
+twig_length_reduce_from = none
 twig_length_reduce_center = 0
 twig_length_reduce_above_start = 100
 twig_length_reduce_above_end = 100
 twig_length_reduce_below_start = 100
 twig_length_reduce_below_end = 100
-twig_thickness_reduce_from = ""
+twig_thickness_reduce_from = none
 twig_thickness_reduce_center = 0
 twig_thickness_reduce_above_start = 100
 twig_thickness_reduce_above_end = 100
@@ -526,7 +526,7 @@ twig_start_height_max = 0
 twig_start_forward_min = 0.25
 twig_start_forward_max = 0.25
 
-twig_center_direction_from = ""
+twig_center_direction_from = none
 twig_center_direction_center = 0
 twig_center_direction_vertical_above = 0
 twig_center_direction_vertical_below = 0
@@ -545,7 +545,7 @@ twig_gravity_weightiness = 10
 twig_centripetal = 3
 
 twig_continue_chance = 1.0
-twig_continue_reduce_from = ""
+twig_continue_reduce_from = none
 twig_continue_reduce_center = 100
 twig_continue_reduce_above_start = 100
 twig_continue_reduce_above_end = 100
@@ -554,9 +554,9 @@ twig_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-sprig_outer = ""
-sprig_inner = ""
-sprig_core = ""
+sprig_outer = none
+sprig_inner = none
+sprig_core = none
 sprig_outer_level = 1
 sprig_inner_level = 0
 sprig_replace = true
@@ -568,19 +568,19 @@ sprig_length_max = 0
 sprig_thickness_start = 1
 sprig_thickness_end = 1
 
-sprig_count_reduce_from = ""
+sprig_count_reduce_from = none
 sprig_count_reduce_center = 0
 sprig_count_reduce_above_start = 100
 sprig_count_reduce_above_end = 100
 sprig_count_reduce_below_start = 100
 sprig_count_reduce_below_end = 100
-sprig_length_reduce_from = ""
+sprig_length_reduce_from = none
 sprig_length_reduce_center = 0
 sprig_length_reduce_above_start = 100
 sprig_length_reduce_above_end = 100
 sprig_length_reduce_below_start = 100
 sprig_length_reduce_below_end = 100
-sprig_thickness_reduce_from = ""
+sprig_thickness_reduce_from = none
 sprig_thickness_reduce_center = 0
 sprig_thickness_reduce_above_start = 100
 sprig_thickness_reduce_above_end = 100
@@ -599,7 +599,7 @@ sprig_start_height_max = 0
 sprig_start_forward_min = 0.25
 sprig_start_forward_max = 0.25
 
-sprig_center_direction_from = ""
+sprig_center_direction_from = none
 sprig_center_direction_center = 0
 sprig_center_direction_vertical_above = 0
 sprig_center_direction_vertical_below = 0
@@ -618,7 +618,7 @@ sprig_gravity_weightiness = 10
 sprig_centripetal = 3
 
 sprig_continue_chance = 1.0
-sprig_continue_reduce_from = ""
+sprig_continue_reduce_from = none
 sprig_continue_reduce_center = 0
 sprig_continue_reduce_above_start = 100
 sprig_continue_reduce_above_end = 100
@@ -627,9 +627,9 @@ sprig_continue_reduce_below_end = 100
 
 ----------------------------------------------------------------------------------------------------
 
-leaves_generator_type = "sphere_zone"
-    leaves1 = "minecraft:oak_leaves[persistent=true]"
-leaves2 = ""
+leaves_generator_type = sphere_zone
+    leaves1 = minecraft:oak_leaves[persistent=true]
+leaves2 = none
 leaves2_chance = 0.0
 leaves_replace = false
 
@@ -640,7 +640,7 @@ leaves_straighten_chance = 0.0
 leaves_straighten_min = 0
 leaves_straighten_max = 0
 
-leaves_size_reduce_from = ""
+leaves_size_reduce_from = none
 leaves_size_reduce_center = 0
 leaves_size_reduce_above_start = 100
 leaves_size_reduce_above_end = 100
@@ -652,77 +652,77 @@ leaves_sphere_zone_pitch_min = -45
 
 ----------------------------------------------------------------------------------------------------
 
-function_start = ""
-function_end = ""
+function_start = none
+function_end = none
 
-function_way1 = ""
-function_way1_type = ""
+function_way1 = none
+function_way1_type = none
 function_way1_chance = 0.0
 function_way1_max = 0
 function_way1_range_min = 0
 function_way1_range_max = 100
-function_way1_style = "all"
+function_way1_style = all
 
-function_way2 = ""
-function_way2_type = ""
+function_way2 = none
+function_way2_type = none
 function_way2_chance = 0.0
 function_way2_max = 0
 function_way2_range_min = 0
 function_way2_range_max = 100
-function_way2_style = "all"
+function_way2_style = all
 
-function_way3 = ""
-function_way3_type = ""
+function_way3 = none
+function_way3_type = none
 function_way3_chance = 0.0
 function_way3_max = 0
 function_way3_range_min = 0
 function_way3_range_max = 100
-function_way3_style = "all"
+function_way3_style = all
 
-function_way4 = ""
-function_way4_type = ""
+function_way4 = none
+function_way4_type = none
 function_way4_chance = 0.0
 function_way4_max = 0
 function_way4_range_min = 0
 function_way4_range_max = 100
-function_way4_style = "all"
+function_way4_style = all
 
-function_way5 = ""
-function_way5_type = ""
+function_way5 = none
+function_way5_type = none
 function_way5_chance = 0.0
 function_way5_max = 0
 function_way5_range_min = 0
 function_way5_range_max = 100
-function_way5_style = "all"
+function_way5_style = all
 
-function_way6 = ""
-function_way6_type = ""
+function_way6 = none
+function_way6_type = none
 function_way6_chance = 0.0
 function_way6_max = 0
 function_way6_range_min = 0
 function_way6_range_max = 100
-function_way6_style = "all"
+function_way6_style = all
 
-function_way7 = ""
-function_way7_type = ""
+function_way7 = none
+function_way7_type = none
 function_way7_chance = 0.0
 function_way7_max = 0
 function_way7_range_min = 0
 function_way7_range_max = 100
-function_way7_style = "all"
+function_way7_style = all
 
-function_way8 = ""
-function_way8_type = ""
+function_way8 = none
+function_way8_type = none
 function_way8_chance = 0.0
 function_way8_max = 0
 function_way8_range_min = 0
 function_way8_range_max = 100
-function_way8_style = "all"
+function_way8_style = all
 
-function_way9 = ""
-function_way9_type = ""
+function_way9 = none
+function_way9_type = none
 function_way9_chance = 0.0
 function_way9_max = 0
 function_way9_range_min = 0
 function_way9_range_max = 100
-function_way9_style = "all"
+function_way9_style = all

@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/catalyst
-path_settings = #TannyJung-Main-Pack/catalyst/catalyst_settings
+path_storage = presets/#TannyJung-Main-Pack/catalyst/storage
+path_settings = presets/#TannyJung-Main-Pack/catalyst/catalyst_settings

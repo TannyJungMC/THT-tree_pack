@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = north
 mirrored = random_x
 
-path_storage = #TannyJung-Main-Pack/spike_ice
-path_settings = #TannyJung-Main-Pack/spike_ice/spike_ice_settings
+path_storage = presets/#TannyJung-Main-Pack/#nature_stuffs/spike_ice/storage
+path_settings = presets/#TannyJung-Main-Pack/#nature_stuffs/spike_ice/spike_ice_settings

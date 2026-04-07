@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/coconut_tree
-path_settings = #TannyJung-Main-Pack/#variants/palm_settings
+path_storage = presets/#TannyJung-Main-Pack/coconut_tree/storage
+path_settings = presets/#TannyJung-Main-Pack/#variants/palm_settings

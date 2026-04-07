@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = north
 mirrored = random_x
 
-path_storage = #TannyJung-Main-Pack/hypothermia
-path_settings = #TannyJung-Main-Pack/hypothermia/hypothermia_settings
+path_storage = presets/#TannyJung-Main-Pack/hypothermia/storage
+path_settings = presets/#TannyJung-Main-Pack/hypothermia/hypothermia_settings

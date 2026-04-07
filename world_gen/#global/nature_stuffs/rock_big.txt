@@ -12,5 +12,5 @@ start_height_offset = -3 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/rock_big
-path_settings = #TannyJung-Main-Pack/rock_big/rock_big_settings
+path_storage = presets/#TannyJung-Main-Pack/#nature_stuffs/rock_big/storage
+path_settings = presets/#TannyJung-Main-Pack/#nature_stuffs/rock_big/rock_big_settings

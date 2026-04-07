@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/raiden
-path_settings = #TannyJung-Main-Pack/raiden/raiden_settings
+path_storage = presets/#TannyJung-Main-Pack/raiden/storage
+path_settings = presets/#TannyJung-Main-Pack/raiden/raiden_settings

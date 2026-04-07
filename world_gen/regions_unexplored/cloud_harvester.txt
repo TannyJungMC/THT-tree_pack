@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/cloud_harvester
-path_settings = #TannyJung-Main-Pack/cloud_harvester/cloud_harvester_settings
+path_storage = presets/#TannyJung-Main-Pack/cloud_harvester/storage
+path_settings = presets/#TannyJung-Main-Pack/cloud_harvester/cloud_harvester_settings

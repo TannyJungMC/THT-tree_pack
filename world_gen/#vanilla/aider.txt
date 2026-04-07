@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/aider
-path_settings = #TannyJung-Main-Pack/aider/aider_settings
+path_storage = presets/#TannyJung-Main-Pack/aider/storage
+path_settings = presets/#TannyJung-Main-Pack/aider/aider_settings

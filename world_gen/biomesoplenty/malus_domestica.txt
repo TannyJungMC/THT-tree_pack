@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = #TannyJung-Main-Pack/malus_domestica
-path_settings = #TannyJung-Main-Pack/malus_domestica/malus_domestica_settings
+path_storage = presets/#TannyJung-Main-Pack/malus_domestica/storage
+path_settings = presets/#TannyJung-Main-Pack/malus_domestica/malus_domestica_settings
