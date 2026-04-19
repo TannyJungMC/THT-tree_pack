@@ -5,7 +5,7 @@ tree_generator_speed_repeat = 1000
 countdown = 10
 
 type = terrestrial
-start_height = 0
+start_height = -1
 can_disable_roots = true
 can_leaves_decay = true
 can_leaves_drop = true
@@ -32,11 +32,11 @@ taproot_start_gravity_max = 90
 taproot_start_direction_min = 0
 taproot_start_direction_max = 360
 
-taproot_curvature_vertical = 0
-taproot_curvature_horizontal = 0
+taproot_curvature_vertical = 5
+taproot_curvature_horizontal = 5
 taproot_gravity_min = 90
 taproot_gravity_max = 90
-taproot_gravity_weightiness = 0
+taproot_gravity_weightiness = 10
 
 ----------------------------------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ secondary_root_gravity_min = 15
     secondary_root_gravity_max = 0
 secondary_root_gravity_weightiness = 10
 
-secondary_root_continue_chance = 1.0
+secondary_root_continue_chance = 0.99
 secondary_root_continue_reduce_from = none
 secondary_root_continue_reduce_center = 100
 secondary_root_continue_reduce_above_start = 100
@@ -115,7 +115,7 @@ tertiary_root_replace = true
 
     tertiary_root_count_min = 4
     tertiary_root_count_max = 6
-    tertiary_root_length_min = 100
+    tertiary_root_length_min = 75
     tertiary_root_length_max = 150
     tertiary_root_thickness_start = 10
     tertiary_root_thickness_end = 5
@@ -168,7 +168,7 @@ tertiary_root_curvature_horizontal = 5
     tertiary_root_gravity_max = 15
 tertiary_root_gravity_weightiness = 10
 
-tertiary_root_continue_chance = 1.0
+tertiary_root_continue_chance = 0.99
 tertiary_root_continue_reduce_from = none
 tertiary_root_continue_reduce_center = 100
 tertiary_root_continue_reduce_above_start = 100
@@ -187,7 +187,7 @@ fine_root_replace = true
 
     fine_root_count_min = 10
     fine_root_count_max = 20
-    fine_root_length_min = 1
+    fine_root_length_min = 5
     fine_root_length_max = 50
     fine_root_thickness_start = 5
 fine_root_thickness_end = 1
@@ -234,8 +234,8 @@ fine_root_center_direction_height_below = 0
 fine_root_center_direction_forward_above = 0
 fine_root_center_direction_forward_below = 0
 
-fine_root_curvature_vertical = 0
-fine_root_curvature_horizontal = 0
+fine_root_curvature_vertical = 5
+fine_root_curvature_horizontal = 5
 fine_root_gravity_min = 90
 fine_root_gravity_max = 90
 fine_root_gravity_weightiness = 10
@@ -278,8 +278,8 @@ bough_replace = true
 
     bough_count_min = 5
     bough_count_max = 6
-    bough_length_min = 50
-    bough_length_max = 60
+    bough_length_min = 25
+    bough_length_max = 50
     bough_thickness_start = 20
     bough_thickness_end = 10
 
@@ -296,9 +296,9 @@ bough_thickness_reduce_above_end = 100
 bough_thickness_reduce_below_start = 100
 bough_thickness_reduce_below_end = 100
 
-    bough_chance_auto = true
+bough_chance_auto = true
 bough_chance_percent = 50
-    bough_chance = 1.0
+bough_chance = 1.0
 bough_min_last_count = 1
 
 bough_start_vertical = 1
@@ -320,12 +320,12 @@ bough_center_direction_forward_above = 0
 bough_center_direction_forward_below = 0
 
     bough_curvature_vertical = 15
-bough_curvature_horizontal = 0
+bough_curvature_horizontal = 5
 bough_gravity_min = -15
     bough_gravity_max = -60
 bough_gravity_weightiness = 10
 
-bough_continue_chance = 1.0
+bough_continue_chance = 0.99
 bough_continue_reduce_from = none
 bough_continue_reduce_center = 100
 bough_continue_reduce_above_start = 100
@@ -344,8 +344,8 @@ branch_replace = true
 
     branch_count_min = 2
     branch_count_max = 3
-    branch_length_min = 60
-    branch_length_max = 70
+    branch_length_min = 30
+    branch_length_max = 60
     branch_thickness_start = 9
     branch_thickness_end = 7
 
@@ -392,13 +392,13 @@ branch_center_direction_forward_above = 0
 branch_center_direction_forward_below = 0
 
     branch_curvature_vertical = 15
-branch_curvature_horizontal = 0
+branch_curvature_horizontal = 5
 branch_gravity_min = 0
     branch_gravity_max = -45
 branch_gravity_weightiness = 10
     branch_centripetal = 2
 
-branch_continue_chance = 1.0
+branch_continue_chance = 0.99
 branch_continue_reduce_from = none
 branch_continue_reduce_center = 100
 branch_continue_reduce_above_start = 100
@@ -417,8 +417,8 @@ limb_replace = true
 
     limb_count_min = 2
     limb_count_max = 3
-    limb_length_min = 70
-    limb_length_max = 80
+    limb_length_min = 35
+    limb_length_max = 70
     limb_thickness_start = 6
     limb_thickness_end = 5
 
@@ -465,13 +465,13 @@ limb_center_direction_forward_above = 0
 limb_center_direction_forward_below = 0
 
     limb_curvature_vertical = 15
-limb_curvature_horizontal = 0
+limb_curvature_horizontal = 5
 limb_gravity_min = 15
     limb_gravity_max = -30
 limb_gravity_weightiness = 10
     limb_centripetal = 2
 
-limb_continue_chance = 1.0
+limb_continue_chance = 0.99
 limb_continue_reduce_from = none
 limb_continue_reduce_center = 100
 limb_continue_reduce_above_start = 100
@@ -490,8 +490,8 @@ twig_replace = true
 
     twig_count_min = 2
     twig_count_max = 3
-    twig_length_min = 80
-    twig_length_max = 90
+    twig_length_min = 40
+    twig_length_max = 80
     twig_thickness_start = 4
     twig_thickness_end = 2
 
@@ -538,13 +538,13 @@ twig_center_direction_forward_above = 0
 twig_center_direction_forward_below = 0
 
     twig_curvature_vertical = 15
-twig_curvature_horizontal = 0
+twig_curvature_horizontal = 5
 twig_gravity_min = 30
     twig_gravity_max = -15
 twig_gravity_weightiness = 10
     twig_centripetal = 2
 
-twig_continue_chance = 1.0
+twig_continue_chance = 0.99
 twig_continue_reduce_from = none
 twig_continue_reduce_center = 100
 twig_continue_reduce_above_start = 100
@@ -611,13 +611,13 @@ sprig_center_direction_forward_above = 0
 sprig_center_direction_forward_below = 0
 
     sprig_curvature_vertical = 15
-sprig_curvature_horizontal = 0
+sprig_curvature_horizontal = 5
 sprig_gravity_min = 45
     sprig_gravity_max = 0
 sprig_gravity_weightiness = 10
     sprig_centripetal = 2
 
-sprig_continue_chance = 1.0
+sprig_continue_chance = 0.99
 sprig_continue_reduce_from = none
 sprig_continue_reduce_center = 0
 sprig_continue_reduce_above_start = 100
@@ -633,7 +633,7 @@ leaves2 = none
 leaves2_chance = 0.0
 leaves_replace = false
 
-    leaves_size_min = 20
+    leaves_size_min = 10
     leaves_size_max = 50
 leaves_density = 50
 leaves_straighten_chance = 0.0
@@ -648,7 +648,7 @@ leaves_size_reduce_below_start = 100
 leaves_size_reduce_below_end = 100
 
 leaves_sphere_zone_size = 1
-leaves_sphere_zone_pitch_min = -45
+leaves_sphere_zone_pitch_min = -30
 
 ----------------------------------------------------------------------------------------------------
 

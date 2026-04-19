@@ -2,8 +2,8 @@ type = special
 start_height = 100
 can_disable_roots = false
 can_leaves_decay = false
-can_leaves_drop = false
-can_leaves_regrow = false
+can_leaves_drop = true
+can_leaves_regrow = true
 
 Block tao 1101 = none
 Block tai 1102 = none

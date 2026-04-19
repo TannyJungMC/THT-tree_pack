@@ -8,8 +8,8 @@ countdown = 10
     start_height = 100
     can_disable_roots = false
     can_leaves_decay = false
-    can_leaves_drop = false
-    can_leaves_regrow = false
+can_leaves_drop = true
+can_leaves_regrow = true
 
 ----------------------------------------------------------------------------------------------------
 
@@ -344,7 +344,7 @@ branch_replace = true
 
 branch_count_min = 1
     branch_count_max = 3
-    branch_length_min = 1
+branch_length_min = 1
     branch_length_max = 20
     branch_thickness_start = 5
     branch_thickness_end = 10
@@ -490,7 +490,7 @@ twig_replace = true
 
 twig_count_min = 1
     twig_count_max = 3
-    twig_length_min = 1
+twig_length_min = 1
     twig_length_max = 20
     twig_thickness_start = 3
     twig_thickness_end = 6
@@ -633,7 +633,7 @@ leaves2 = none
 leaves2_chance = 0.0
 leaves_replace = false
 
-    leaves_size_min = 10
+leaves_size_min = 10
     leaves_size_max = 11
     leaves_density = 25
     leaves_straighten_chance = 0.1

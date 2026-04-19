@@ -1,5 +1,5 @@
 type = terrestrial
-start_height = -1
+start_height = -3
 can_disable_roots = true
 can_leaves_decay = true
 can_leaves_drop = false

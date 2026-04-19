@@ -278,7 +278,7 @@ bough_replace = true
 
     bough_count_min = 10
     bough_count_max = 50
-    bough_length_min = 0
+bough_length_min = 0
     bough_length_max = 100
     bough_thickness_start = 10
 bough_thickness_end = 1
@@ -296,9 +296,9 @@ bough_thickness_reduce_above_end = 100
 bough_thickness_reduce_below_start = 100
 bough_thickness_reduce_below_end = 100
 
-    bough_chance_auto = true
+bough_chance_auto = true
     bough_chance_percent = 100
-    bough_chance = 1.0
+bough_chance = 1.0
 bough_min_last_count = 1
 
     bough_start_vertical = 0
