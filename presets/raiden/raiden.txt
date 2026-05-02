@@ -24,7 +24,7 @@ taproot_count_min = 1
 taproot_count_max = 1
     taproot_length_min = 12
     taproot_length_max = 15
-    taproot_thickness_start = 7
+    taproot_thickness_start = 11
 taproot_thickness_end = 1
 
 taproot_start_gravity_min = 90
@@ -252,9 +252,9 @@ trunk_replace = true
 trunk_count_min = 1
 trunk_count_max = 1
     trunk_length_min = 75
-    trunk_length_max = 100
-    trunk_thickness_start = 6
-    trunk_thickness_end = 3
+    trunk_length_max = 150
+    trunk_thickness_start = 10
+    trunk_thickness_end = 4
 
 trunk_start_gravity_min = -75
 trunk_start_gravity_max = -90
@@ -263,7 +263,7 @@ trunk_start_direction_max = 360
 
 trunk_curvature_vertical = 30
 trunk_curvature_horizontal = 15
-trunk_gravity_min = -75
+trunk_gravity_min = -90
 trunk_gravity_max = -90
 trunk_gravity_weightiness = 10
 
@@ -280,7 +280,7 @@ bough_replace = true
     bough_count_max = 7
     bough_length_min = 10
     bough_length_max = 20
-    bough_thickness_start = 3
+    bough_thickness_start = 4
     bough_thickness_end = 2
 
 bough_length_reduce_from = none
@@ -346,7 +346,7 @@ branch_replace = true
     branch_count_max = 3
     branch_length_min = 7
     branch_length_max = 15
-branch_thickness_start = 1
+    branch_thickness_start = 2
 branch_thickness_end = 1
 
 branch_count_reduce_from = none
@@ -369,7 +369,7 @@ branch_thickness_reduce_below_start = 100
 branch_thickness_reduce_below_end = 100
 
 branch_chance_auto = true
-branch_chance_percent = 50
+branch_chance_percent = 25
 branch_chance = 1.0
 branch_min_last_count = 1
 
@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-limb_chance_percent = 50
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -488,10 +488,10 @@ twig_outer_level = 1
 twig_inner_level = 0
 twig_replace = true
 
-    twig_count_min = 3
-    twig_count_max = 4
-    twig_length_min = 5
-    twig_length_max = 10
+    twig_count_min = 2
+    twig_count_max = 3
+    twig_length_min = 10
+    twig_length_max = 15
 twig_thickness_start = 1
 twig_thickness_end = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -634,7 +634,7 @@ leaves2_chance = 0.0
 leaves_replace = false
 
     leaves_size_min = 10
-    leaves_size_max = 50
+    leaves_size_max = 100
 leaves_density = 50
     leaves_straighten_chance = 0.01
     leaves_straighten_min = 1

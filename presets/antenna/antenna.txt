@@ -369,7 +369,7 @@ branch_thickness_reduce_below_start = 100
 branch_thickness_reduce_below_end = 100
 
     branch_chance_auto = true
-branch_chance_percent = 50
+branch_chance_percent = 25
     branch_chance = 1.0
 branch_min_last_count = 1
 
@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-limb_chance_percent = 50
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -515,7 +515,7 @@ twig_thickness_reduce_below_start = 100
 twig_thickness_reduce_below_end = 100
 
 twig_chance_auto = true
-twig_chance_percent = 50
+twig_chance_percent = 25
 twig_chance = 1.0
 twig_min_last_count = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -634,7 +634,7 @@ leaves2_chance = 0.0
 leaves_replace = false
 
     leaves_size_min = 10
-    leaves_size_max = 50
+    leaves_size_max = 75
 leaves_density = 50
 leaves_straighten_chance = 0.0
 leaves_straighten_min = 0

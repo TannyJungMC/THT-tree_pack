@@ -4,7 +4,7 @@ spawn_type = normal
 biome = minecraft:snowy_taiga
 ground_block = #minecraft:dirt
 rarity = 100
-min_distance = 15
+min_distance = 20
 group_size = 1 <> 1
 dead_tree_chance = 0.1
 dead_tree_level = auto_pine
@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/glamor/storage
-path_settings = presets/#TannyJung-Main-Pack/glamor/glamor_settings
+path_storage = presets/#main/glamor/storage
+path_settings = presets/#main/glamor/glamor_settings

@@ -12,5 +12,5 @@ start_height_offset = -10 <> 10
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/mangrove/storage
-path_settings = presets/#TannyJung-Main-Pack/mangrove/mangrove_settings
+path_storage = presets/#main/mangrove/storage
+path_settings = presets/#main/mangrove/mangrove_settings

@@ -655,7 +655,7 @@ leaves_sphere_zone_pitch_min = -45
 function_start = none
 function_end = none
 
-    function_way1 = functions/#TannyJung-Main-Pack/moss_patch
+    function_way1 = functions/#main/moss_patch
     function_way1_type = trunk
     function_way1_chance = 0.05
 function_way1_max = 0
@@ -663,7 +663,7 @@ function_way1_range_min = 0
 function_way1_range_max = 100
     function_way1_style = up
 
-    function_way2 = functions/#TannyJung-Main-Pack/vine_cave
+    function_way2 = functions/#main/vine_cave
     function_way2_type = trunk
     function_way2_chance = 0.1
 function_way2_max = 0
@@ -671,7 +671,7 @@ function_way2_range_min = 0
 function_way2_range_max = 100
     function_way2_style = down
 
-    function_way3 = functions/#TannyJung-Main-Pack/bush
+    function_way3 = functions/#main/bush
     function_way3_type = trunk
     function_way3_chance = 0.05
 function_way3_max = 0

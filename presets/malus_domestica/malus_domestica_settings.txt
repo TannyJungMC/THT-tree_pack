@@ -40,12 +40,12 @@ Block le2 1202 = none
 
 Function fs 210 = none
 Function fe 220 = none
-Function f1 201 = functions/#TannyJung-Main-Pack/apple
+Function f1 201 = functions/#main/apple
 Function f2 202 = none
 Function f3 203 = none
 Function f4 204 = none
 Function f5 205 = none
-Function f5 206 = none
-Function f5 207 = none
-Function f5 208 = none
-Function f5 209 = none
+Function f6 206 = none
+Function f7 207 = none
+Function f8 208 = none
+Function f9 209 = none

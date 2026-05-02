@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/redwood/storage
-path_settings = presets/#TannyJung-Main-Pack/redwood/redwood_settings
+path_storage = presets/#main/redwood/storage
+path_settings = presets/#main/redwood/redwood_settings

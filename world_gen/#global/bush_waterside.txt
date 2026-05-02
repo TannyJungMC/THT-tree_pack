@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/bush/storage
-path_settings = presets/#TannyJung-Main-Pack/bush/bush_settings
+path_storage = presets/#main/bush/storage
+path_settings = presets/#main/bush/bush_settings

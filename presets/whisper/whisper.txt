@@ -22,8 +22,8 @@ taproot_replace = true
 
     taproot_count_min = 1
     taproot_count_max = 1
-    taproot_length_min = 12
-    taproot_length_max = 15
+    taproot_length_min = 15
+    taproot_length_max = 20
     taproot_thickness_start = 3
     taproot_thickness_end = 1
 
@@ -49,8 +49,8 @@ secondary_root_replace = true
 
     secondary_root_count_min = 5
     secondary_root_count_max = 7
-    secondary_root_length_min = 10
-    secondary_root_length_max = 20
+    secondary_root_length_min = 25
+    secondary_root_length_max = 30
     secondary_root_thickness_start = 2
     secondary_root_thickness_end = 2
 
@@ -115,8 +115,8 @@ tertiary_root_replace = true
 
     tertiary_root_count_min = 2
     tertiary_root_count_max = 3
-    tertiary_root_length_min = 10
-    tertiary_root_length_max = 20
+    tertiary_root_length_min = 20
+    tertiary_root_length_max = 25
     tertiary_root_thickness_start = 1
 tertiary_root_thickness_end = 1
 
@@ -278,8 +278,8 @@ bough_replace = true
 
     bough_count_min = 5
     bough_count_max = 6
-    bough_length_min = 3
-    bough_length_max = 7
+    bough_length_min = 7
+    bough_length_max = 10
     bough_thickness_start = 1.5
 bough_thickness_end = 1
 
@@ -345,7 +345,7 @@ branch_replace = true
     branch_count_min = 2
     branch_count_max = 3
     branch_length_min = 5
-    branch_length_max = 10
+    branch_length_max = 7
     branch_thickness_start = 1
     branch_thickness_end = 1
 
@@ -369,7 +369,7 @@ branch_thickness_reduce_below_start = 100
 branch_thickness_reduce_below_end = 100
 
 branch_chance_auto = true
-branch_chance_percent = 50
+branch_chance_percent = 25
 branch_chance = 1.0
 branch_min_last_count = 1
 
@@ -415,8 +415,8 @@ limb_outer_level = 1
 limb_inner_level = 0
 limb_replace = true
 
-    limb_count_min = 3
-    limb_count_max = 4
+    limb_count_min = 2
+    limb_count_max = 3
     limb_length_min = 5
     limb_length_max = 10
     limb_thickness_start = 1
@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-limb_chance_percent = 50
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -515,7 +515,7 @@ twig_thickness_reduce_below_start = 100
 twig_thickness_reduce_below_end = 100
 
 twig_chance_auto = true
-twig_chance_percent = 50
+twig_chance_percent = 25
 twig_chance = 1.0
 twig_min_last_count = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -634,7 +634,7 @@ leaves2_chance = 0.0
 leaves_replace = false
 
     leaves_size_min = 10
-    leaves_size_max = 50
+    leaves_size_max = 75
 leaves_density = 50
     leaves_straighten_chance = 0.05
     leaves_straighten_min = 1

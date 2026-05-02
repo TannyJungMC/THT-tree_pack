@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/wendy/storage
-path_settings = presets/#TannyJung-Main-Pack/#variants/polaris_settings
+path_storage = presets/#main/wendy/storage
+path_settings = presets/#main/#variants/polaris_settings

@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/fallen_angel/storage
-path_settings = presets/#TannyJung-Main-Pack/fallen_angel/fallen_angel_settings
+path_storage = presets/#main/fallen_angel/storage
+path_settings = presets/#main/fallen_angel/fallen_angel_settings

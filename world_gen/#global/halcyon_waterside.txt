@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/halcyon/storage
-path_settings = presets/#TannyJung-Main-Pack/halcyon/halcyon_settings
+path_storage = presets/#main/halcyon/storage
+path_settings = presets/#main/halcyon/halcyon_settings

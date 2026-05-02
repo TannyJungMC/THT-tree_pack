@@ -40,9 +40,9 @@ Block le2 1202 = minecraft:packed_ice keep
 
 Function fs 210 = none
 Function fe 220 = none
-Function f1 201 = functions/#TannyJung-Main-Pack/ice_storm
-Function f2 202 = functions/#TannyJung-Main-Pack/ice_storm
-Function f3 203 = functions/#TannyJung-Main-Pack/ice_storm
+Function f1 201 = functions/#main/ice_storm
+Function f2 202 = functions/#main/ice_storm
+Function f3 203 = functions/#main/ice_storm
 Function f4 204 = none
 Function f5 205 = none
 Function f5 206 = none

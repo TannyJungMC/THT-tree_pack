@@ -1,7 +1,7 @@
 enable = true
 
 spawn_type = normal
-biome = #c:is_taiga / #c:is_swamp / #minecraft:is_forest / #minecraft:is_taiga / #minecraft:is_jungle / #forge:is_coniferous / #forge:is_swamp
+biome = #minecraft:is_forest / #minecraft:is_taiga / #minecraft:is_jungle / #c:is_taiga / #forge:is_coniferous / #c:is_swamp / #forge:is_swamp
 ground_block = #minecraft:dirt
 rarity = 10
 min_distance = 5
@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/shrub/storage
-path_settings = presets/#TannyJung-Main-Pack/shrub/shrub_settings
+path_storage = presets/#main/shrub/storage
+path_settings = presets/#main/shrub/shrub_settings

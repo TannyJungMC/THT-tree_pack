@@ -1,5 +1,5 @@
 type = special
-start_height = -1
+start_height = 0
 can_disable_roots = false
 can_leaves_decay = false
 can_leaves_drop = false

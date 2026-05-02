@@ -5,7 +5,7 @@ tree_generator_speed_repeat = 1000
 countdown = 10
 
 type = terrestrial
-start_height = -1
+    start_height = -3
 can_disable_roots = true
 can_leaves_decay = true
 can_leaves_drop = true
@@ -251,8 +251,8 @@ trunk_replace = true
 
 trunk_count_min = 1
 trunk_count_max = 1
-    trunk_length_min = 5
-    trunk_length_max = 10
+    trunk_length_min = 10
+    trunk_length_max = 20
 trunk_thickness_start = 1
 trunk_thickness_end = 1
 
@@ -263,7 +263,7 @@ trunk_start_direction_max = 360
 
 trunk_curvature_vertical = 30
 trunk_curvature_horizontal = 15
-trunk_gravity_min = -75
+trunk_gravity_min = -90
 trunk_gravity_max = -90
 trunk_gravity_weightiness = 10
 
@@ -276,8 +276,8 @@ bough_outer_level = 1
 bough_inner_level = 0
 bough_replace = true
 
-    bough_count_min = 3
-    bough_count_max = 4
+    bough_count_min = 4
+    bough_count_max = 5
     bough_length_min = 2
     bough_length_max = 5
     bough_thickness_start = 1
@@ -342,8 +342,8 @@ branch_outer_level = 1
 branch_inner_level = 0
 branch_replace = true
 
-    branch_count_min = 2
-    branch_count_max = 3
+branch_count_min = 1
+    branch_count_max = 2
     branch_length_min = 2
     branch_length_max = 5
 branch_thickness_start = 1
@@ -369,7 +369,7 @@ branch_thickness_reduce_below_start = 100
 branch_thickness_reduce_below_end = 100
 
     branch_chance_auto = true
-branch_chance_percent = 50
+branch_chance_percent = 25
     branch_chance = 1.0
 branch_min_last_count = 1
 
@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-limb_chance_percent = 50
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -515,7 +515,7 @@ twig_thickness_reduce_below_start = 100
 twig_thickness_reduce_below_end = 100
 
 twig_chance_auto = true
-twig_chance_percent = 50
+twig_chance_percent = 25
 twig_chance = 1.0
 twig_min_last_count = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -634,7 +634,7 @@ leaves2_chance = 0.0
 leaves_replace = false
 
     leaves_size_min = 5
-    leaves_size_max = 10
+    leaves_size_max = 20
 leaves_density = 50
 leaves_straighten_chance = 0.0
 leaves_straighten_min = 0
@@ -652,7 +652,7 @@ leaves_sphere_zone_pitch_min = -30
 
 ----------------------------------------------------------------------------------------------------
 
-    function_start = functions/#TannyJung-Main-Pack/area_grass
+    function_start = functions/#main/area_grass
 function_end = none
 
 function_way1 = none

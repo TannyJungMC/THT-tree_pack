@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/karma/storage
-path_settings = presets/#TannyJung-Main-Pack/karma/karma_settings
+path_storage = presets/#main/karma/storage
+path_settings = presets/#main/karma/karma_settings

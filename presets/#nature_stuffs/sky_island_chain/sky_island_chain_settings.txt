@@ -40,9 +40,9 @@ Block le2 1202 = none
 
 Function fs 210 = none
 Function fe 220 = none
-Function f1 201 = functions/#TannyJung-Main-Pack/moss_patch
-Function f2 202 = functions/#TannyJung-Main-Pack/moss_patch
-Function f3 203 = functions/#TannyJung-Main-Pack/moss_patch
+Function f1 201 = functions/#main/moss_patch
+Function f2 202 = functions/#main/moss_patch
+Function f3 203 = functions/#main/moss_patch
 Function f4 204 = none
 Function f5 205 = none
 Function f5 206 = none

@@ -1,7 +1,7 @@
 enable = true
 
 spawn_type = waterside
-biome = #c:is_desert / #minecraft:is_badlands / #forge:is_desert
+biome = #c:is_desert / #forge:is_desert / #minecraft:is_badlands
 ground_block = #minecraft:dirt / #minecraft:sand
 rarity = 100
 min_distance = 5
@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/shrub/storage
-path_settings = presets/#TannyJung-Main-Pack/shrub/shrub_settings
+path_storage = presets/#main/shrub/storage
+path_settings = presets/#main/shrub/shrub_settings

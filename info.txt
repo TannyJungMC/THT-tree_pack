@@ -1,6 +1,6 @@
-pack_id = #TannyJung-Main-Pack
+pack_id = #main
 data_structure_version = 1.8.0
 required_packs = none
 required_mods = none
 
-pack_version = 20260216
+pack_version = 20260424

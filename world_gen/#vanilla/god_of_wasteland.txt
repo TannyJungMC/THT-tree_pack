@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/god_of_wasteland/storage
-path_settings = presets/#TannyJung-Main-Pack/god_of_wasteland/god_of_wasteland_settings
+path_storage = presets/#main/god_of_wasteland/storage
+path_settings = presets/#main/god_of_wasteland/god_of_wasteland_settings

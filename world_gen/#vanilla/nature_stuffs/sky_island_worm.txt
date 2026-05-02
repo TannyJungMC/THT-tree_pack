@@ -12,5 +12,5 @@ start_height_offset = 0 <> 200
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/#nature_stuffs/sky_island_worm/storage
-path_settings = presets/#TannyJung-Main-Pack/#nature_stuffs/sky_island_worm/sky_island_worm_settings
+path_storage = presets/#main/#nature_stuffs/sky_island_worm/storage
+path_settings = presets/#main/#nature_stuffs/sky_island_worm/sky_island_worm_settings

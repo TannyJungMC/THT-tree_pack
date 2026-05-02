@@ -27,4 +27,4 @@ block = 0/-5/0 | #minecraft:dirt
 if
 block = 0/-10/0 | #minecraft:dirt
 run
-function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/bee_nest
+function = 1.0 | 0/-1/0 | functions/#main/bee_nest

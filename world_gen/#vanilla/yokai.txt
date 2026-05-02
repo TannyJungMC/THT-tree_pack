@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/yokai/storage
-path_settings = presets/#TannyJung-Main-Pack/yokai/yokai_settings
+path_storage = presets/#main/yokai/storage
+path_settings = presets/#main/yokai/yokai_settings

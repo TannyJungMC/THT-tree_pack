@@ -655,7 +655,7 @@ leaves_sphere_zone_pitch_min = -45
 function_start = none
 function_end = none
 
-    function_way1 = functions/#TannyJung-Main-Pack/christmas_tree_ores
+    function_way1 = functions/#main/christmas_tree_ores
     function_way1_type = leaves
     function_way1_chance = 1.0
 function_way1_max = 0
@@ -663,7 +663,7 @@ function_way1_range_min = 0
 function_way1_range_max = 100
 function_way1_style = all
 
-    function_way2 = functions/#TannyJung-Main-Pack/christmas_tree_star
+    function_way2 = functions/#main/christmas_tree_star
     function_way2_type = trunk
     function_way2_chance = 1.0
     function_way2_max = 1

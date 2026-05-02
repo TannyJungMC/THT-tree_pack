@@ -12,5 +12,5 @@ start_height_offset = -50 <> 100
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/#nature_stuffs/sky_island_chain/storage
-path_settings = presets/#TannyJung-Main-Pack/#nature_stuffs/sky_island_chain/sky_island_chain_settings
+path_storage = presets/#main/#nature_stuffs/sky_island_chain/storage
+path_settings = presets/#main/#nature_stuffs/sky_island_chain/sky_island_chain_settings

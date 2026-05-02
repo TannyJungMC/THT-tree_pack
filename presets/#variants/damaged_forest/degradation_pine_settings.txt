@@ -39,7 +39,7 @@ Block le1 1201 = none
 Block le2 1202 = none
 
 
-Function fs 210 = functions/#TannyJung-Main-Pack/area_dirt
+Function fs 210 = functions/#main/area_dirt
 Function fe 220 = none
 Function f1 201 = none
 Function f2 202 = none

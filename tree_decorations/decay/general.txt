@@ -19,7 +19,7 @@ block = 0.25 | 0/1/0 | 0/0/0/0/0/0 | minecraft:red_mushroom | #tanshugetrees:air
 if
 biome = 0/0/0 | #c:is_swamp / #forge:is_swamp / #minecraft:is_jungle
 run
-function = 1.0 | 0/-1/0 | functions/#TannyJung-Main-Pack/vine
+function = 1.0 | 0/-1/0 | functions/#main/vine
 block = 1.0 | 0/1/0 | 0/0/0/0/0/0 | minecraft:moss_carpet | #tanshugetrees:air_blocks
 else
 run

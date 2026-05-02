@@ -1,0 +1,16 @@
+enable = true
+
+spawn_type = normal
+biome = #c:is_taiga / #forge:is_coniferous
+ground_block = #minecraft:dirt
+rarity = 1
+min_distance = 20
+group_size = 3 <> 5
+dead_tree_chance = 0.1
+dead_tree_level = auto
+start_height_offset = 0 <> 0
+rotation = random
+mirrored = random
+
+path_storage = presets/#main/chimera/storage
+path_settings = presets/#main/chimera/chimera_settings

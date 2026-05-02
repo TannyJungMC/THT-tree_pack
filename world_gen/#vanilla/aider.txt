@@ -1,7 +1,7 @@
 enable = true
 
 spawn_type = normal
-biome = minecraft:birch_forest / minecraft:old_growth_birch_forest
+biome = minecraft:birch_forest
 ground_block = #minecraft:dirt
 rarity = 100
 min_distance = 20
@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#TannyJung-Main-Pack/aider/storage
-path_settings = presets/#TannyJung-Main-Pack/aider/aider_settings
+path_storage = presets/#main/aider/storage
+path_settings = presets/#main/aider/aider_settings

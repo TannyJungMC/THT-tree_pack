@@ -263,7 +263,7 @@ trunk_start_direction_max = 360
 
 trunk_curvature_vertical = 30
 trunk_curvature_horizontal = 15
-trunk_gravity_min = -75
+trunk_gravity_min = -90
 trunk_gravity_max = -90
 trunk_gravity_weightiness = 10
 
@@ -369,7 +369,7 @@ branch_thickness_reduce_below_start = 100
 branch_thickness_reduce_below_end = 100
 
 branch_chance_auto = true
-    branch_chance_percent = 25
+branch_chance_percent = 25
 branch_chance = 1.0
 branch_min_last_count = 1
 
@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-    limb_chance_percent = 25
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -655,7 +655,7 @@ leaves_sphere_zone_pitch_min = -30
 function_start = none
 function_end = none
 
-    function_way1 = functions/#TannyJung-Main-Pack/vine_end_rod
+    function_way1 = functions/#main/vine_end_rod
     function_way1_type = leaves
     function_way1_chance = 0.05
 function_way1_max = 0

@@ -442,7 +442,7 @@ limb_thickness_reduce_below_start = 100
 limb_thickness_reduce_below_end = 100
 
 limb_chance_auto = true
-limb_chance_percent = 50
+limb_chance_percent = 25
 limb_chance = 1.0
 limb_min_last_count = 1
 
@@ -515,7 +515,7 @@ twig_thickness_reduce_below_start = 100
 twig_thickness_reduce_below_end = 100
 
 twig_chance_auto = true
-twig_chance_percent = 50
+twig_chance_percent = 25
 twig_chance = 1.0
 twig_min_last_count = 1
 
@@ -588,7 +588,7 @@ sprig_thickness_reduce_below_start = 100
 sprig_thickness_reduce_below_end = 100
 
 sprig_chance_auto = true
-sprig_chance_percent = 50
+sprig_chance_percent = 25
 sprig_chance = 1.0
 sprig_min_last_count = 1
 
@@ -655,7 +655,7 @@ leaves_sphere_zone_pitch_min = -30
 function_start = none
 function_end = none
 
-    function_way1 = functions/#TannyJung-Main-Pack/ice_storm
+    function_way1 = functions/#main/ice_storm
     function_way1_type = trunk
     function_way1_chance = 0.05
 function_way1_max = 0
@@ -663,7 +663,7 @@ function_way1_range_min = 0
 function_way1_range_max = 100
 function_way1_style = all
 
-    function_way2 = functions/#TannyJung-Main-Pack/ice_storm
+    function_way2 = functions/#main/ice_storm
     function_way2_type = bough
     function_way2_chance = 0.25
 function_way2_max = 0
@@ -671,7 +671,7 @@ function_way2_range_min = 0
 function_way2_range_max = 100
     function_way2_style = all
 
-    function_way3 = functions/#TannyJung-Main-Pack/ice_storm
+    function_way3 = functions/#main/ice_storm
     function_way3_type = leaves
     function_way3_chance = 0.1
 function_way3_max = 0

@@ -12,9 +12,9 @@ minecraft:air
 -
 0
 
-tanshugetrees:tree_generator
+tanshugetrees:custom_sapling
 Custom Sapling : Aider / red
 -
 -
-#TannyJung-Main-Pack/aider
+#main/aider
 1
