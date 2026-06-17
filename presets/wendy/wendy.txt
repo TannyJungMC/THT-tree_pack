@@ -32,7 +32,7 @@ taproot_start_gravity_max = 90
 taproot_start_direction_min = 0
 taproot_start_direction_max = 360
 
-taproot_curvature_vertical = 5
+taproot_curvature_vertical = 10
 taproot_curvature_horizontal = 5
 taproot_gravity_min = 90
 taproot_gravity_max = 90
@@ -90,7 +90,7 @@ secondary_root_center_direction_height_below = 0
 secondary_root_center_direction_forward_above = 0
 secondary_root_center_direction_forward_below = 0
 
-secondary_root_curvature_vertical = 5
+secondary_root_curvature_vertical = 10
 secondary_root_curvature_horizontal = 5
 secondary_root_gravity_min = 15
 secondary_root_gravity_max = 15
@@ -162,7 +162,7 @@ tertiary_root_center_direction_height_below = 0
 tertiary_root_center_direction_forward_above = 0
 tertiary_root_center_direction_forward_below = 0
 
-tertiary_root_curvature_vertical = 5
+tertiary_root_curvature_vertical = 10
 tertiary_root_curvature_horizontal = 5
 tertiary_root_gravity_min = 30
 tertiary_root_gravity_max = 30
@@ -234,7 +234,7 @@ fine_root_center_direction_height_below = 0
 fine_root_center_direction_forward_above = 0
 fine_root_center_direction_forward_below = 0
 
-fine_root_curvature_vertical = 5
+fine_root_curvature_vertical = 10
 fine_root_curvature_horizontal = 5
 fine_root_gravity_min = 90
 fine_root_gravity_max = 90
@@ -263,7 +263,7 @@ trunk_start_direction_max = 360
 
     trunk_curvature_vertical = 0
     trunk_curvature_horizontal = 0
-    trunk_gravity_min = -85
+trunk_gravity_min = -85
     trunk_gravity_max = -90
     trunk_gravity_weightiness = 0
 
@@ -391,7 +391,7 @@ branch_center_direction_height_below = 0
 branch_center_direction_forward_above = 0
 branch_center_direction_forward_below = 0
 
-branch_curvature_vertical = 5
+branch_curvature_vertical = 10
 branch_curvature_horizontal = 5
 branch_gravity_min = 0
 branch_gravity_max = -90
@@ -464,7 +464,7 @@ limb_center_direction_height_below = 0
 limb_center_direction_forward_above = 0
 limb_center_direction_forward_below = 0
 
-limb_curvature_vertical = 5
+limb_curvature_vertical = 10
 limb_curvature_horizontal = 5
 limb_gravity_min = 15
 limb_gravity_max = -90
@@ -537,7 +537,7 @@ twig_center_direction_height_below = 0
 twig_center_direction_forward_above = 0
 twig_center_direction_forward_below = 0
 
-twig_curvature_vertical = 5
+twig_curvature_vertical = 10
 twig_curvature_horizontal = 5
 twig_gravity_min = 30
 twig_gravity_max = -90
@@ -610,7 +610,7 @@ sprig_center_direction_height_below = 0
 sprig_center_direction_forward_above = 0
 sprig_center_direction_forward_below = 0
 
-sprig_curvature_vertical = 5
+sprig_curvature_vertical = 10
 sprig_curvature_horizontal = 5
 sprig_gravity_min = 45
 sprig_gravity_max = -90
