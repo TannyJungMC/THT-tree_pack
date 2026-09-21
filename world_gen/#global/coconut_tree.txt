@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/coconut_tree/storage
-path_settings = presets/#main/coconut_tree/coconut_tree_settings
+path_shapes = #main/coconut_tree
+path_palettes = #main/coconut_tree

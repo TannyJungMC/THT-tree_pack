@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/raiden/storage
-path_settings = presets/#main/raiden/raiden_settings
+path_shapes = #main/raiden
+path_palettes = #main/raiden

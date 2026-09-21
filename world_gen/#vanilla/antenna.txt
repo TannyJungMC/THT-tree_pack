@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/antenna/storage
-path_settings = presets/#main/antenna/antenna_settings
+path_shapes = #main/antenna
+path_palettes = #main/antenna

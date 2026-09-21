@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = north
 mirrored = random_z
 
-path_storage = presets/#main/wayfarer/storage
-path_settings = presets/#main/wayfarer/wayfarer_settings
+path_shapes = #main/wayfarer
+path_palettes = #main/wayfarer

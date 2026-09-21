@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/catalyst/storage
-path_settings = presets/#main/catalyst/catalyst_settings
+path_shapes = #main/catalyst
+path_palettes = #main/catalyst

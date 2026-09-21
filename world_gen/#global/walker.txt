@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/walker/storage
-path_settings = presets/#main/walker/walker_settings
+path_shapes = #main/walker
+path_palettes = #main/walker

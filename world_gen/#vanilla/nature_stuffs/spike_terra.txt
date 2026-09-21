@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = north
 mirrored = off
 
-path_storage = presets/#main/#nature_stuffs/spike_terra/storage
-path_settings = presets/#main/#nature_stuffs/spike_terra/spike_terra_settings
+path_shapes = #main/#nature_stuffs/spike_terra
+path_palettes = #main/#nature_stuffs/spike_terra

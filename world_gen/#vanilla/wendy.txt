@@ -4,13 +4,13 @@ spawn_type = normal
 biome = minecraft:taiga
 ground_block = #minecraft:dirt
 rarity = 100
-min_distance = 15
-group_size = 1 <> 1
+min_distance = 12
+group_size = 1 <> 5
 dead_tree_chance = 0.1
 dead_tree_level = auto_pine
 start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/wendy/storage
-path_settings = presets/#main/wendy/wendy_settings
+path_shapes = #main/wendy
+path_palettes = #main/wendy

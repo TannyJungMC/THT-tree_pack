@@ -12,5 +12,5 @@ start_height_offset = 0 <> 0
 rotation = random
 mirrored = random
 
-path_storage = presets/#main/adaptive_voyager/storage
-path_settings = presets/#main/adaptive_voyager/adaptive_voyager_settings
+path_shapes = #main/adaptive_voyager
+path_palettes = #main/adaptive_voyager
