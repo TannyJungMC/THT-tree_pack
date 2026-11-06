@@ -1,6 +1,6 @@
 pack_id = #main
-data_structure_version = 1.9.0
 required_packs = none
 required_mods = none
+data_structure_version = 1.9.0
 
-pack_version = 20260921
+pack_version = 20261107
